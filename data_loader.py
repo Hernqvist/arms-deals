@@ -1,4 +1,5 @@
 import json
+import sys
 
 class Colors:
     """ ANSI color codes """
@@ -48,26 +49,33 @@ class Label:
     'Seller':Colors.BLUE,
     'Price':Colors.CYAN,
     'Weapon':Colors.RED,
-    'Answer':Colors.LIGHT_WHITE}
+    'Answer':Colors.END}
 
-  def __init__(self, text, label_):
-    self.start = label_['start']
-    self.end = label_['end']
-    self.content = text[self.start:self.end]
-    self.type = label_['marker']
+  def __init__(self, content, start, end, type):
+    self.start = start
+    self.end = end
+    self.content = content
+    self.type = type
+
+  @classmethod
+  def from_json(cls, text, label_):
+    start, end = label_['start'], label_['end']
+    return cls(text[start:end], start, end, label_['marker'])
+
+  @classmethod
+  def from_transpose(cls, label, offset):
+    return cls(label.content, label.start - offset, label.end - offset, label.type)
 
 class Deal:
-  def __init__(self, text, answer_, labels_):
-    self.answer = Label(text, answer_)
+  def __init__(self, answer, labels):
+    self.answer = answer
     self.start, self.end = self.answer.start, self.answer.end
     self.buyers, self.sellers, self.prices, self.weapons = [], [], [], []
-    start, end = self.answer.start, self.answer.end
 
-    for label_ in labels_:
-      if label_['start'] < start or label_['end'] > end or label_['marker'] == 'Answer':
+    for label in labels:
+      if label.start < self.start or label.end > self.end or label.type == 'Answer':
         continue
 
-      label = Label(text, label_)
       if label.type == "Buyer":
         self.buyers.append(label)
       elif label.type == "Seller":
@@ -79,19 +87,56 @@ class Deal:
 
     self.all_labels = self.buyers + self.sellers + self.prices + self.weapons
 
+  @classmethod
+  def from_json(cls, text, answer_, labels_):
+    answer = Label.from_json(text, answer_)
+    labels = [Label.from_json(text, label_) for label_ in labels_]
+    return cls(answer, labels)
+
+  @classmethod
+  def from_transpose(cls, deal, offset):
+    labels = [Label.from_transpose(label, offset) for label in deal.all_labels]
+    return cls(Label.from_transpose(deal.answer, offset), labels)
+
 class Text:
-  def __init__(self, data_):
-    self.deals = []
-    self.text = data_['context']
+  def __init__(self, text, deals):
+    self.text = text
+    self.deals = sorted(deals, key=lambda deal: deal.start)
+    self.positive_sample = len(self.deals) > 0
+
+  @classmethod
+  def from_json(cls, data_):
+    text = data_['context']
     labels_ = next(iter(data_['labels'].values()))
 
+    deals = []
     for label_ in labels_:
       if label_['marker'] == 'Answer':
         if label_['end'] - label_['start'] < 3:
           continue # It's just a placeholder
-        self.deals.append(Deal(self.text, label_, labels_))
- 
-    self.positive_sample = len(self.deals) > 0
+        deals.append(Deal.from_json(text, label_, labels_))
+
+    return cls(text, deals)
+
+  # Splits the text between deals so that each text contains at most one deal
+  def split_deals(self):
+    if not self.positive_sample:
+      return [self]
+
+    cutoffs = [0]
+    for i in range(1, len(self.deals)):
+      cutoffs.append((self.deals[i-1].end + self.deals[i].start)//2)
+    cutoffs.append(len(self.text))
+
+    texts = []
+    for i in range(len(cutoffs) - 1):
+      start, end = cutoffs[i], cutoffs[i+1]
+      substring = self.text[start:end]
+      deal = Deal.from_transpose(self.deals[i], start)
+      texts.append(Text(substring, [deal]))
+
+    return texts
+      
 
   def colored_text(self):
     ANSWER_COLOR = Label.colors['Answer'] + Colors.UNDERLINE
@@ -108,19 +153,39 @@ class Text:
     return "".join(chars)
 
 class DataSet:
-  def __init__(self, path):
-    self.texts = []
+  def __init__(self, texts, name):
+    self.texts = texts
+    self.name = name
 
+  @classmethod
+  def load_json(cls, path):
+    texts = []
     with open(path) as file:
       data = json.load(file)
       for data_ in data['data']:
-        text = Text(data_)
-        self.texts.append(text)
+        text = Text.from_json(data_)
+        texts.append(text)
+    return cls(texts, path)
 
+  def split_deals(self):
+    texts = []
+    for text in self.texts:
+      print(texts, "{", text.split_deals(), "}")
+      texts.extend(text.split_deals())
+    return DataSet(texts, "Split of {}".format(self.name))
+
+  def print_data(self):
+    print("Dataset:", self.name)
+    
+    for text in self.texts:
+      print(Colors.BOLD, Colors.UNDERLINE, "POSITIVE" if text.positive_sample else "NEGATIVE", " SAMPLE", Colors.END, sep="")
+      print(text.colored_text()) 
+      print()
+
+    print(len([x for x in self.texts if x.positive_sample]), "positive samples")
+    print(len([x for x in self.texts if not x.positive_sample]), "negative samples")
 
 if __name__ == "__main__":
-  dataset = DataSet("export.json")
-  for text in dataset.texts:
-    print("POSITIVE" if text.positive_sample else "NEGATIVE", "SAMPLE")
-    print(text.colored_text()) 
-    print()
+  dataset = DataSet.load_json(sys.argv[1])
+  split = dataset.split_deals()
+  split.print_data()
