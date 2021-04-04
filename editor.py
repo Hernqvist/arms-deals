@@ -60,31 +60,36 @@ add_label_type(LabelType("Date", "D", 'd', 'purple'))
 class BeginMark(tk.Canvas):
   def __init__(self, master, label):
     label_type = label_by_tag[label.tag]
-    width, height = int(10*root.scale), int(16*root.scale)
+    width, height = int(8*root.scale), int(16*root.scale)
     super().__init__(master=master,
         width=width, 
         height=height, 
-        background='white')
-    self.create_polygon([0,height/2, 
-        width,0, 
-        width*0.8,height/2, 
-        width,height],
-        fill=blend_colors(['black', label_type.color]))
+        background='white',
+        highlightthickness=0)
+    self.create_oval(width-height/2, 0, width+height/2, height, 
+        fill=blend_colors(['black', label_type.color]),
+        outline='')
     self.create_text(width/2, height/2,
        fill='white',
-       font="Arial {}".format(int(height*0.2)), text=label_type.short_tag)
+       font="Arial {}".format(int(height*0.3)),
+       text=label_type.short_tag,
+       angle=90)
 
 class EndMark(tk.Canvas):
   def __init__(self, master, label, callback):
     label_type = label_by_tag[label.tag]
-    width, height = int(10*root.scale), int(16*root.scale)
+    width, height = int(8*root.scale), int(16*root.scale)
     super().__init__(master=master,
         width=width, 
         height=height, 
-        background=label_type.color)
+        background='white',
+        highlightthickness=0)
+    self.create_oval(-height/2, 0, height/2, height, 
+        fill=blend_colors(['black', label_type.color]),
+        outline='')
     self.create_text(width/2, height/2,
-       fill=blend_colors(['black', label_type.color]),
-       font="Arial {}".format(height//2), text="X")
+       fill='black',
+       font="Arial {}".format(int(height*0.3)), text="X")
     self.bind("<Button-1>", callback)
 
 class Editor(tk.Text):
