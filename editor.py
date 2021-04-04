@@ -150,7 +150,7 @@ class Editor(tk.Text):
     for i, label in enumerate(self.labels):
       tag_name = 'label_{}'.format(i)
       begin = BeginMark(self, label)
-      end = EndMark(self, label, lambda _: self.delete_label(i))
+      end = EndMark(self, label, lambda _, i=i: self.delete_label(i))
       self.windows.extend([begin, end])
       self.window_create(tag_name + '_start', window=begin)
       self.window_create(tag_name + '_end', window=end)
@@ -201,6 +201,10 @@ class Editor(tk.Text):
   def n_chars(self, n):
     return '1.0 + {} chars'.format(n)
 
+class Legend(tk.Frame):
+  def __init__(self, master):
+    super().__init__(master=master, height=int(root.scale*30), background='red')
+
 class Application(tk.Frame):
 
   def key_pressed(self, event):
@@ -208,14 +212,19 @@ class Application(tk.Frame):
 
   def __init__(self, master=None):
     super().__init__(master)
+    self.winfo_toplevel().title("Textinatiratiror")
     self.master = master
     self.pack(expand=True, fill='both')
+
+    self.legend = Legend(self)
+    self.legend.pack(side='bottom', fill='x')
+
     self.editor = Editor(self)
     self.editor.pack(expand=True, fill='both')
     self.master.bind("<Key>", self.key_pressed)
 
 root = tk.Tk()
-root.scale = 2.0
+root.scale = 1.5
 root.tk.call('tk', 'scaling', root.scale)
 app = Application(master=root)
 app.mainloop()
