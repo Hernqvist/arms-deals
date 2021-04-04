@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter.font import Font
 from collections import defaultdict
 
 class MultiSet:
@@ -46,20 +47,45 @@ def add_label_type(label_type):
   label_by_tag[label_type.tag] = label_type
   label_by_key[label_type.key] = label_type
 
-add_label_type(LabelType("Answer", "A", 'a', 'grey'))
+add_label_type(LabelType("Answer", "A", 'a', 'grey80'))
 add_label_type(LabelType("Weapon", "W", 'w', 'red'))
+add_label_type(LabelType("Buyer", "B", 'b', 'yellow'))
+add_label_type(LabelType("Buyer Country", "BC", 'y', 'brown'))
+add_label_type(LabelType("Seller", "S", 's', 'blue'))
+add_label_type(LabelType("Seller Country", "SC", 'x', 'cyan'))
+add_label_type(LabelType("Quantity", "Q", 'q', 'magenta'))
+add_label_type(LabelType("Price", "P", 'c', 'green'))
+add_label_type(LabelType("Date", "D", 'd', 'purple'))
 
 class BeginMark(tk.Canvas):
   def __init__(self, master, label):
     label_type = label_by_tag[label.tag]
-    super().__init__(master=master, width=5, height=10, 
-        background=label_type.color)
+    width, height = int(10*root.scale), int(16*root.scale)
+    super().__init__(master=master,
+        width=width, 
+        height=height, 
+        background='white')
+    self.create_polygon([0,height/2, 
+        width,0, 
+        width*0.8,height/2, 
+        width,height],
+        fill=blend_colors(['black', label_type.color]))
+    self.create_text(width/2, height/2,
+       fill='white',
+       font="Arial {}".format(int(height*0.2)), text=label_type.short_tag)
 
 class EndMark(tk.Canvas):
-  def __init__(self, master, label):
+  def __init__(self, master, label, callback):
     label_type = label_by_tag[label.tag]
-    super().__init__(master=master, width=10, height=10, 
+    width, height = int(10*root.scale), int(16*root.scale)
+    super().__init__(master=master,
+        width=width, 
+        height=height, 
         background=label_type.color)
+    self.create_text(width/2, height/2,
+       fill=blend_colors(['black', label_type.color]),
+       font="Arial {}".format(height//2), text="X")
+    self.bind("<Button-1>", callback)
 
 class Editor(tk.Text):
   def __init__(self, master=None):
@@ -76,6 +102,8 @@ class Editor(tk.Text):
 
     self.windows = []
     self.config(state='normal')
+    self.configure(font=Font(family="Times New Roman",
+        size=int(10*root.scale)))
     for tag in self.tag_names():
       self.tag_delete(tag)
 
@@ -116,7 +144,8 @@ class Editor(tk.Text):
 
     for i, label in enumerate(self.labels):
       tag_name = 'label_{}'.format(i)
-      begin, end = BeginMark(self, label), EndMark(self, label)
+      begin = BeginMark(self, label)
+      end = EndMark(self, label, lambda _: self.delete_label(i))
       self.windows.extend([begin, end])
       self.window_create(tag_name + '_start', window=begin)
       self.window_create(tag_name + '_end', window=end)
@@ -128,9 +157,12 @@ class Editor(tk.Text):
     self.labels.append(label)
     self.refresh()
 
+  def delete_label(self, i):
+    self.labels.pop(i)
+    self.refresh()
+
   def initialize(self, text):
     self.text = text
-    self.old_text = ""
     self.labels = []
     self.refresh()
 
@@ -178,6 +210,7 @@ class Application(tk.Frame):
     self.master.bind("<Key>", self.key_pressed)
 
 root = tk.Tk()
-#root.tk.call('tk', 'scaling', 1.0)
+root.scale = 2.0
+root.tk.call('tk', 'scaling', root.scale)
 app = Application(master=root)
 app.mainloop()
