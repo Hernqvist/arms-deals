@@ -1,6 +1,14 @@
 import tkinter as tk
 from tkinter.font import Font
 from collections import defaultdict
+import os
+import glob
+import random
+import json
+from pathlib import Path
+
+INPUT_DIR = "raw_data"
+OUTPUT_DIR = "annotated_data"
 
 class MultiSet:
   def __init__(self):
@@ -96,6 +104,7 @@ class Editor(tk.Text):
   def __init__(self, master=None):
     super().__init__(master=master)
     self.master = master
+    self.on_edit = lambda: None
 
     text = ""
     for i in range(50):
@@ -161,10 +170,12 @@ class Editor(tk.Text):
   def add_label(self, label):
     self.labels.append(label)
     self.refresh()
+    self.on_edit()
 
   def delete_label(self, i):
     self.labels.pop(i)
     self.refresh()
+    self.on_edit()
 
   def initialize(self, text):
     self.text = text
@@ -201,27 +212,116 @@ class Editor(tk.Text):
   def n_chars(self, n):
     return '1.0 + {} chars'.format(n)
 
+  def get_json(self):
+    labels = []
+    for label in self.labels:
+      json_label = {}
+      json_label['start'] = label.start
+      json_label['end'] = label.end
+      json_label['tag'] = label.tag
+      json_label['text'] = self.text[label.start:label.end]
+      labels.append(json_label)
+    return {'text':self.text, 'labels':labels}
+
+  def load_json(self, data):
+    for json_label in data['labels']:
+      self.labels.append(Label(
+          json_label['start'],
+          json_label['end'],
+          json_label['tag']))
+    self.refresh()
+
+class LegendTag(tk.Label):
+  def __init__(self, master, tag):
+    label_type = label_by_tag[tag]
+    super().__init__(master=master,
+        text="{} ({})".format(tag, label_type.key.upper()),
+        fg='black',
+        bg=blend_colors([label_type.color, 'gray90']))
+
 class Legend(tk.Frame):
   def __init__(self, master):
-    super().__init__(master=master, height=int(root.scale*30), background='red')
+    super().__init__(master=master)
+    self.save_button = tk.Button(self, text="Save")
+    self.save_button.pack(side='left', padx=5, pady=5)
+    self.next_button = tk.Button(self, text="New text")
+    self.next_button.pack(side='left', padx=5, pady=5)
+
+    for tag in label_by_tag:
+      LegendTag(self, tag).pack(side='left', padx=5)
 
 class Application(tk.Frame):
-
   def key_pressed(self, event):
     self.editor.key_pressed(event)
 
   def __init__(self, master=None):
     super().__init__(master)
-    self.winfo_toplevel().title("Textinatiratiror")
     self.master = master
+    self.winfo_toplevel().title("Textinatiratiror") 
     self.pack(expand=True, fill='both')
 
     self.legend = Legend(self)
     self.legend.pack(side='bottom', fill='x')
+    self.legend.save_button.configure(command=self.save)
+    self.legend.next_button.configure(command=self.load_random)
 
     self.editor = Editor(self)
     self.editor.pack(expand=True, fill='both')
-    self.master.bind("<Key>", self.key_pressed)
+    self.editor.on_edit = self.invalidate
+    self.master.bind("<Key>", self.editor.key_pressed)
+
+    self.invalidate()
+    if not os.path.exists(INPUT_DIR):
+      os.makedirs(INPUT_DIR)
+    if not os.path.exists(OUTPUT_DIR):
+      os.makedirs(OUTPUT_DIR)
+
+    self.load_random()
+
+  def save(self):
+    self.legend.next_button["state"] = "normal"
+    as_json = self.editor.get_json()
+    as_json['filename'] = self.filename
+    path = self.output_path()
+    with open(path, 'w') as file:
+      json.dump(as_json, file, indent=2, sort_keys=True)
+
+  def invalidate(self):
+    self.legend.next_button["state"] = "disabled"
+
+  def new_text(self):
+    invalidate()
+
+  def output_path(self):
+    return OUTPUT_DIR + "/" + self.filename + ".json"
+
+  def find_existing_json(self):
+    path = self.output_path()
+    if not os.path.isfile(path):
+      return None
+    with open(path) as json_file:
+      data = json.load(json_file)
+    return data
+
+  def load(self, path):
+    self.path, self.filename = path, Path(path).stem
+
+    with open(path) as file:
+      text = file.read()
+
+    self.editor.initialize(text)
+    
+    existing = self.find_existing_json()
+    if existing != None:
+      self.editor.load_json(existing)
+
+    self.winfo_toplevel().title("Textinatiratiror: {}".format(self.filename))
+    self.invalidate()
+
+  def load_random(self):
+    paths = glob.glob(INPUT_DIR + "/*")
+    self.load(random.choice(paths))
+
 
 root = tk.Tk()
 root.scale = 1.5
