@@ -180,6 +180,7 @@ class Editor(tk.Text):
     self.text = text
     self.labels = []
     self.refresh()
+    self.yview_moveto(0)
 
   def key_pressed(self, event):
     char = event.char
