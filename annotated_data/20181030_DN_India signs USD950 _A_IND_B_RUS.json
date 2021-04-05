@@ -1,0 +1,726 @@
+{
+  "filename": "20181030_DN_India signs USD950 _A_IND_B_RUS",
+  "labels": [
+    {
+      "end": 43,
+      "start": 31,
+      "tag": "Price",
+      "text": "$950 million"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 64,
+      "start": 58,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 72,
+      "start": 69,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 115,
+      "start": 82,
+      "tag": "Weapon",
+      "text": "Krivak III-class stealth frigates"
+    },
+    {
+      "end": 115,
+      "start": 12,
+      "tag": "Answer",
+      "text": "India has signed a $950 million contract with Russia for two upgraded Krivak III-class stealth frigates"
+    },
+    {
+      "end": 273,
+      "start": 118,
+      "tag": "Answer",
+      "text": "A government-to-government contract was signed between India and United Shipbuilding Corporation of Russia last week for the supply of two stealth frigates"
+    },
+    {
+      "end": 178,
+      "start": 173,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 123,
+      "start": 118,
+      "tag": "Buyer Country",
+      "text": "A gov"
+    },
+    {
+      "end": 214,
+      "start": 183,
+      "tag": "Seller",
+      "text": "United Shipbuilding Corporation"
+    },
+    {
+      "end": 224,
+      "start": 218,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 256,
+      "start": 253,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 273,
+      "start": 257,
+      "tag": "Weapon",
+      "text": "stealth frigates"
+    },
+    {
+      "end": 559,
+      "start": 374,
+      "tag": "Answer",
+      "text": "Russian President Vladimir Putin visited India on Oct. 5 and the ruling National Democratic Alliance government cut a $5.43 billion deal to buy five Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 485,
+      "start": 446,
+      "tag": "Buyer",
+      "text": "National Democratic Alliance government"
+    },
+    {
+      "end": 420,
+      "start": 415,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 505,
+      "start": 492,
+      "tag": "Price",
+      "text": "$5.43 billion"
+    },
+    {
+      "end": 522,
+      "start": 518,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 559,
+      "start": 523,
+      "tag": "Weapon",
+      "text": "Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 430,
+      "start": 424,
+      "tag": "Date",
+      "text": "Oct. 5"
+    },
+    {
+      "end": 1350,
+      "start": 1202,
+      "tag": "Answer",
+      "text": "India and Russia signed an agreement in October 2016 for the purchase and construction of four additional upgraded Kravak III-class stealth frigates"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1218,
+      "start": 1212,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 1254,
+      "start": 1242,
+      "tag": "Date",
+      "text": "October 2016"
+    },
+    {
+      "end": 1296,
+      "start": 1292,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1350,
+      "start": 1317,
+      "tag": "Weapon",
+      "text": "Kravak III-class stealth frigates"
+    },
+    {
+      "end": 43,
+      "start": 31,
+      "tag": "Price",
+      "text": "$950 million"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 64,
+      "start": 58,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 72,
+      "start": 69,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 115,
+      "start": 82,
+      "tag": "Weapon",
+      "text": "Krivak III-class stealth frigates"
+    },
+    {
+      "end": 115,
+      "start": 12,
+      "tag": "Answer",
+      "text": "India has signed a $950 million contract with Russia for two upgraded Krivak III-class stealth frigates"
+    },
+    {
+      "end": 273,
+      "start": 118,
+      "tag": "Answer",
+      "text": "A government-to-government contract was signed between India and United Shipbuilding Corporation of Russia last week for the supply of two stealth frigates"
+    },
+    {
+      "end": 178,
+      "start": 173,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 123,
+      "start": 118,
+      "tag": "Buyer Country",
+      "text": "A gov"
+    },
+    {
+      "end": 214,
+      "start": 183,
+      "tag": "Seller",
+      "text": "United Shipbuilding Corporation"
+    },
+    {
+      "end": 224,
+      "start": 218,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 256,
+      "start": 253,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 273,
+      "start": 257,
+      "tag": "Weapon",
+      "text": "stealth frigates"
+    },
+    {
+      "end": 559,
+      "start": 374,
+      "tag": "Answer",
+      "text": "Russian President Vladimir Putin visited India on Oct. 5 and the ruling National Democratic Alliance government cut a $5.43 billion deal to buy five Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 485,
+      "start": 446,
+      "tag": "Buyer",
+      "text": "National Democratic Alliance government"
+    },
+    {
+      "end": 420,
+      "start": 415,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 505,
+      "start": 492,
+      "tag": "Price",
+      "text": "$5.43 billion"
+    },
+    {
+      "end": 522,
+      "start": 518,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 559,
+      "start": 523,
+      "tag": "Weapon",
+      "text": "Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 430,
+      "start": 424,
+      "tag": "Date",
+      "text": "Oct. 5"
+    },
+    {
+      "end": 1350,
+      "start": 1202,
+      "tag": "Answer",
+      "text": "India and Russia signed an agreement in October 2016 for the purchase and construction of four additional upgraded Kravak III-class stealth frigates"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1218,
+      "start": 1212,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 1254,
+      "start": 1242,
+      "tag": "Date",
+      "text": "October 2016"
+    },
+    {
+      "end": 1296,
+      "start": 1292,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1350,
+      "start": 1317,
+      "tag": "Weapon",
+      "text": "Kravak III-class stealth frigates"
+    },
+    {
+      "end": 43,
+      "start": 31,
+      "tag": "Price",
+      "text": "$950 million"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 64,
+      "start": 58,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 72,
+      "start": 69,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 115,
+      "start": 82,
+      "tag": "Weapon",
+      "text": "Krivak III-class stealth frigates"
+    },
+    {
+      "end": 115,
+      "start": 12,
+      "tag": "Answer",
+      "text": "India has signed a $950 million contract with Russia for two upgraded Krivak III-class stealth frigates"
+    },
+    {
+      "end": 273,
+      "start": 118,
+      "tag": "Answer",
+      "text": "A government-to-government contract was signed between India and United Shipbuilding Corporation of Russia last week for the supply of two stealth frigates"
+    },
+    {
+      "end": 178,
+      "start": 173,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 123,
+      "start": 118,
+      "tag": "Buyer Country",
+      "text": "A gov"
+    },
+    {
+      "end": 214,
+      "start": 183,
+      "tag": "Seller",
+      "text": "United Shipbuilding Corporation"
+    },
+    {
+      "end": 224,
+      "start": 218,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 256,
+      "start": 253,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 273,
+      "start": 257,
+      "tag": "Weapon",
+      "text": "stealth frigates"
+    },
+    {
+      "end": 559,
+      "start": 374,
+      "tag": "Answer",
+      "text": "Russian President Vladimir Putin visited India on Oct. 5 and the ruling National Democratic Alliance government cut a $5.43 billion deal to buy five Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 485,
+      "start": 446,
+      "tag": "Buyer",
+      "text": "National Democratic Alliance government"
+    },
+    {
+      "end": 420,
+      "start": 415,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 505,
+      "start": 492,
+      "tag": "Price",
+      "text": "$5.43 billion"
+    },
+    {
+      "end": 522,
+      "start": 518,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 559,
+      "start": 523,
+      "tag": "Weapon",
+      "text": "Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 430,
+      "start": 424,
+      "tag": "Date",
+      "text": "Oct. 5"
+    },
+    {
+      "end": 1350,
+      "start": 1202,
+      "tag": "Answer",
+      "text": "India and Russia signed an agreement in October 2016 for the purchase and construction of four additional upgraded Kravak III-class stealth frigates"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1218,
+      "start": 1212,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 1254,
+      "start": 1242,
+      "tag": "Date",
+      "text": "October 2016"
+    },
+    {
+      "end": 1296,
+      "start": 1292,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1350,
+      "start": 1317,
+      "tag": "Weapon",
+      "text": "Kravak III-class stealth frigates"
+    },
+    {
+      "end": 43,
+      "start": 31,
+      "tag": "Price",
+      "text": "$950 million"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 64,
+      "start": 58,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 17,
+      "start": 12,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 72,
+      "start": 69,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 115,
+      "start": 82,
+      "tag": "Weapon",
+      "text": "Krivak III-class stealth frigates"
+    },
+    {
+      "end": 115,
+      "start": 12,
+      "tag": "Answer",
+      "text": "India has signed a $950 million contract with Russia for two upgraded Krivak III-class stealth frigates"
+    },
+    {
+      "end": 273,
+      "start": 118,
+      "tag": "Answer",
+      "text": "A government-to-government contract was signed between India and United Shipbuilding Corporation of Russia last week for the supply of two stealth frigates"
+    },
+    {
+      "end": 178,
+      "start": 173,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 123,
+      "start": 118,
+      "tag": "Buyer Country",
+      "text": "A gov"
+    },
+    {
+      "end": 214,
+      "start": 183,
+      "tag": "Seller",
+      "text": "United Shipbuilding Corporation"
+    },
+    {
+      "end": 224,
+      "start": 218,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 256,
+      "start": 253,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 273,
+      "start": 257,
+      "tag": "Weapon",
+      "text": "stealth frigates"
+    },
+    {
+      "end": 559,
+      "start": 374,
+      "tag": "Answer",
+      "text": "Russian President Vladimir Putin visited India on Oct. 5 and the ruling National Democratic Alliance government cut a $5.43 billion deal to buy five Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 485,
+      "start": 446,
+      "tag": "Buyer",
+      "text": "National Democratic Alliance government"
+    },
+    {
+      "end": 420,
+      "start": 415,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 505,
+      "start": 492,
+      "tag": "Price",
+      "text": "$5.43 billion"
+    },
+    {
+      "end": 522,
+      "start": 518,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 559,
+      "start": 523,
+      "tag": "Weapon",
+      "text": "Russian S-400 Triumf missile systems"
+    },
+    {
+      "end": 430,
+      "start": 424,
+      "tag": "Date",
+      "text": "Oct. 5"
+    },
+    {
+      "end": 1350,
+      "start": 1202,
+      "tag": "Answer",
+      "text": "India and Russia signed an agreement in October 2016 for the purchase and construction of four additional upgraded Kravak III-class stealth frigates"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1218,
+      "start": 1212,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 1254,
+      "start": 1242,
+      "tag": "Date",
+      "text": "October 2016"
+    },
+    {
+      "end": 1296,
+      "start": 1292,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1350,
+      "start": 1317,
+      "tag": "Weapon",
+      "text": "Kravak III-class stealth frigates"
+    }
+  ],
+  "text": "NEW DELHI \u2014 India has signed a $950 million contract with Russia for two upgraded Krivak III-class stealth frigates.\n\nA government-to-government contract was signed between India and United Shipbuilding Corporation of Russia last week for the supply of two stealth frigates after two years of negotiations, an Indian Ministry of Defence official said.\n\nThe deal comes after Russian President Vladimir Putin visited India on Oct. 5 and the ruling National Democratic Alliance government cut a $5.43 billion deal to buy five Russian S-400 Triumf missile systems despite objections from its ally the United States.\n\nThe MoD official said the procurement of the frigates will involve a rupee-rouble transaction instead of using U.S. dollars to avoid American sanctions on Russian defense companies under CAATSA, or the Countering America\u2019s Adversaries Through Sanctions Act.\n\nThe frigates are built by Yantar Shipyard of Russia and will be powered by Ukrainian gas turbine engines. They will be equipped with Indian-built radar, sonar, communication suites and anti-ship BrahMos missile systems, an Indian Navy official said. The ships are expected to be delivered by the end of 2022, the official added.\n\nIndia and Russia signed an agreement in October 2016 for the purchase and construction of four additional upgraded Kravak III-class stealth frigates, under which two frigates will be directly supplied by Russia and two others built at state-owned Goa Shipyard Limited in India though a technology transfer.\n\nA separate contract will be signed next year for the construction of two similar stealth frigates in India.\n\nThe 4,000-ton Krivak III vessels will also accommodate two multirole helicopters and will be used for anti-submarine and airborne early warning missions.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nIndia has already built seven basic versions of Krivak-class stealth frigates under the Navy\u2019s Project 17A scheme at state-owned shipyards Mazagon Dock Limited, and Garden Reach Shipbuilders and Engineers."
+}

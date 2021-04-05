@@ -1,0 +1,678 @@
+{
+  "filename": "20180920_DN_Serbia looks to acq_A_SER_B_CHI",
+  "labels": [
+    {
+      "end": 187,
+      "start": 74,
+      "tag": "Answer",
+      "text": "the ministry is negotiating with a number of Chinese drone manufacturers to acquire UAVs for the Serbian military"
+    },
+    {
+      "end": 146,
+      "start": 119,
+      "tag": "Seller",
+      "text": "Chinese drone manufacturers"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Seller Country",
+      "text": "the mini"
+    },
+    {
+      "end": 162,
+      "start": 158,
+      "tag": "Weapon",
+      "text": "UAVs"
+    },
+    {
+      "end": 187,
+      "start": 171,
+      "tag": "Buyer",
+      "text": "Serbian military"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Buyer Country",
+      "text": "the mini"
+    },
+    {
+      "end": 246,
+      "start": 213,
+      "tag": "Answer",
+      "text": "Serbia aims to buy Chinese drones"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 239,
+      "start": 232,
+      "tag": "Seller Country",
+      "text": "Chinese"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Seller",
+      "text": "Serbia"
+    },
+    {
+      "end": 246,
+      "start": 240,
+      "tag": "Weapon",
+      "text": "drones"
+    },
+    {
+      "end": 1132,
+      "start": 1126,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Seller Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Buyer Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1153,
+      "start": 1134,
+      "tag": "Buyer",
+      "text": "Serbia\u2019s government"
+    },
+    {
+      "end": 1200,
+      "start": 1197,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 1222,
+      "start": 1201,
+      "tag": "Weapon",
+      "text": "Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1222,
+      "start": 1074,
+      "tag": "Answer",
+      "text": "In a sign of strengthened military cooperation with Russia, Serbia\u2019s government earlier this year approved the purchase of six Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1398,
+      "start": 1307,
+      "tag": "Answer",
+      "text": "Serbia signed a deal in 2016 to buy nine H145M helicopters from Dutch-French company Airbus"
+    },
+    {
+      "end": 1398,
+      "start": 1392,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 1376,
+      "start": 1371,
+      "tag": "Seller Country",
+      "text": "Dutch"
+    },
+    {
+      "end": 1383,
+      "start": 1377,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 1335,
+      "start": 1331,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1347,
+      "start": 1343,
+      "tag": "Quantity",
+      "text": "nine"
+    },
+    {
+      "end": 1365,
+      "start": 1348,
+      "tag": "Weapon",
+      "text": "H145M helicopters"
+    },
+    {
+      "end": 187,
+      "start": 74,
+      "tag": "Answer",
+      "text": "the ministry is negotiating with a number of Chinese drone manufacturers to acquire UAVs for the Serbian military"
+    },
+    {
+      "end": 146,
+      "start": 119,
+      "tag": "Seller",
+      "text": "Chinese drone manufacturers"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Seller Country",
+      "text": "the mini"
+    },
+    {
+      "end": 162,
+      "start": 158,
+      "tag": "Weapon",
+      "text": "UAVs"
+    },
+    {
+      "end": 187,
+      "start": 171,
+      "tag": "Buyer",
+      "text": "Serbian military"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Buyer Country",
+      "text": "the mini"
+    },
+    {
+      "end": 246,
+      "start": 213,
+      "tag": "Answer",
+      "text": "Serbia aims to buy Chinese drones"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 239,
+      "start": 232,
+      "tag": "Seller Country",
+      "text": "Chinese"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Seller",
+      "text": "Serbia"
+    },
+    {
+      "end": 246,
+      "start": 240,
+      "tag": "Weapon",
+      "text": "drones"
+    },
+    {
+      "end": 1132,
+      "start": 1126,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Seller Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Buyer Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1153,
+      "start": 1134,
+      "tag": "Buyer",
+      "text": "Serbia\u2019s government"
+    },
+    {
+      "end": 1200,
+      "start": 1197,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 1222,
+      "start": 1201,
+      "tag": "Weapon",
+      "text": "Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1222,
+      "start": 1074,
+      "tag": "Answer",
+      "text": "In a sign of strengthened military cooperation with Russia, Serbia\u2019s government earlier this year approved the purchase of six Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1398,
+      "start": 1307,
+      "tag": "Answer",
+      "text": "Serbia signed a deal in 2016 to buy nine H145M helicopters from Dutch-French company Airbus"
+    },
+    {
+      "end": 1398,
+      "start": 1392,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 1376,
+      "start": 1371,
+      "tag": "Seller Country",
+      "text": "Dutch"
+    },
+    {
+      "end": 1383,
+      "start": 1377,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 1335,
+      "start": 1331,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1347,
+      "start": 1343,
+      "tag": "Quantity",
+      "text": "nine"
+    },
+    {
+      "end": 1365,
+      "start": 1348,
+      "tag": "Weapon",
+      "text": "H145M helicopters"
+    },
+    {
+      "end": 187,
+      "start": 74,
+      "tag": "Answer",
+      "text": "the ministry is negotiating with a number of Chinese drone manufacturers to acquire UAVs for the Serbian military"
+    },
+    {
+      "end": 146,
+      "start": 119,
+      "tag": "Seller",
+      "text": "Chinese drone manufacturers"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Seller Country",
+      "text": "the mini"
+    },
+    {
+      "end": 162,
+      "start": 158,
+      "tag": "Weapon",
+      "text": "UAVs"
+    },
+    {
+      "end": 187,
+      "start": 171,
+      "tag": "Buyer",
+      "text": "Serbian military"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Buyer Country",
+      "text": "the mini"
+    },
+    {
+      "end": 246,
+      "start": 213,
+      "tag": "Answer",
+      "text": "Serbia aims to buy Chinese drones"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 239,
+      "start": 232,
+      "tag": "Seller Country",
+      "text": "Chinese"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Seller",
+      "text": "Serbia"
+    },
+    {
+      "end": 246,
+      "start": 240,
+      "tag": "Weapon",
+      "text": "drones"
+    },
+    {
+      "end": 1132,
+      "start": 1126,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Seller Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Buyer Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1153,
+      "start": 1134,
+      "tag": "Buyer",
+      "text": "Serbia\u2019s government"
+    },
+    {
+      "end": 1200,
+      "start": 1197,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 1222,
+      "start": 1201,
+      "tag": "Weapon",
+      "text": "Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1222,
+      "start": 1074,
+      "tag": "Answer",
+      "text": "In a sign of strengthened military cooperation with Russia, Serbia\u2019s government earlier this year approved the purchase of six Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1398,
+      "start": 1307,
+      "tag": "Answer",
+      "text": "Serbia signed a deal in 2016 to buy nine H145M helicopters from Dutch-French company Airbus"
+    },
+    {
+      "end": 1398,
+      "start": 1392,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 1376,
+      "start": 1371,
+      "tag": "Seller Country",
+      "text": "Dutch"
+    },
+    {
+      "end": 1383,
+      "start": 1377,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 1335,
+      "start": 1331,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1347,
+      "start": 1343,
+      "tag": "Quantity",
+      "text": "nine"
+    },
+    {
+      "end": 1365,
+      "start": 1348,
+      "tag": "Weapon",
+      "text": "H145M helicopters"
+    },
+    {
+      "end": 187,
+      "start": 74,
+      "tag": "Answer",
+      "text": "the ministry is negotiating with a number of Chinese drone manufacturers to acquire UAVs for the Serbian military"
+    },
+    {
+      "end": 146,
+      "start": 119,
+      "tag": "Seller",
+      "text": "Chinese drone manufacturers"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Seller Country",
+      "text": "the mini"
+    },
+    {
+      "end": 162,
+      "start": 158,
+      "tag": "Weapon",
+      "text": "UAVs"
+    },
+    {
+      "end": 187,
+      "start": 171,
+      "tag": "Buyer",
+      "text": "Serbian military"
+    },
+    {
+      "end": 82,
+      "start": 74,
+      "tag": "Buyer Country",
+      "text": "the mini"
+    },
+    {
+      "end": 246,
+      "start": 213,
+      "tag": "Answer",
+      "text": "Serbia aims to buy Chinese drones"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 239,
+      "start": 232,
+      "tag": "Seller Country",
+      "text": "Chinese"
+    },
+    {
+      "end": 219,
+      "start": 213,
+      "tag": "Seller",
+      "text": "Serbia"
+    },
+    {
+      "end": 246,
+      "start": 240,
+      "tag": "Weapon",
+      "text": "drones"
+    },
+    {
+      "end": 1132,
+      "start": 1126,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Seller Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1080,
+      "start": 1074,
+      "tag": "Buyer Country",
+      "text": "In a s"
+    },
+    {
+      "end": 1153,
+      "start": 1134,
+      "tag": "Buyer",
+      "text": "Serbia\u2019s government"
+    },
+    {
+      "end": 1200,
+      "start": 1197,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 1222,
+      "start": 1201,
+      "tag": "Weapon",
+      "text": "Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1222,
+      "start": 1074,
+      "tag": "Answer",
+      "text": "In a sign of strengthened military cooperation with Russia, Serbia\u2019s government earlier this year approved the purchase of six Mil Mi-17 helicopters"
+    },
+    {
+      "end": 1398,
+      "start": 1307,
+      "tag": "Answer",
+      "text": "Serbia signed a deal in 2016 to buy nine H145M helicopters from Dutch-French company Airbus"
+    },
+    {
+      "end": 1398,
+      "start": 1392,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 1376,
+      "start": 1371,
+      "tag": "Seller Country",
+      "text": "Dutch"
+    },
+    {
+      "end": 1383,
+      "start": 1377,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer",
+      "text": "Serbia"
+    },
+    {
+      "end": 1313,
+      "start": 1307,
+      "tag": "Buyer Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 1335,
+      "start": 1331,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1347,
+      "start": 1343,
+      "tag": "Quantity",
+      "text": "nine"
+    },
+    {
+      "end": 1365,
+      "start": 1348,
+      "tag": "Weapon",
+      "text": "H145M helicopters"
+    }
+  ],
+  "text": "WARSAW, Poland \u2014 Serbia\u2019s acting assistant defense minister has announced the ministry is negotiating with a number of Chinese drone manufacturers to acquire UAVs for the Serbian military.\n\nNenad Miloradovic said Serbia aims to buy Chinese drones for its armed forces as well as the technology that will allow the country\u2019s defense industry to produce UAVs in the long term.\n\n\"This package deal, under which we plan to purchase, but also produce reconnaissance drones for the Serbian military, should be implemented shortly,\" Miloradovic said, as reported by local daily Blic.\n\nThe official said that Serbia is positioning itself as a military-neutral country, and its government aims to procure weapons and military gear for the country\u2019s armed forces from various suppliers.\n\nChinese firm shows off two drones in a first for Singapore Airshow Both the Wing Loong and the larger Wing Loong II were on display, along with a suite of mock-up weapons for potential customers to view.\n\n\"We don\u2019t have ideological prejudices in what concerns buying weapons,\" Miloradovic said.\n\nIn a sign of strengthened military cooperation with Russia, Serbia\u2019s government earlier this year approved the purchase of six Mil Mi-17 helicopters, complementing acquisitions of other aircraft and weapons from Moscow. In contrast, Serbia signed a deal in 2016 to buy nine H145M helicopters from Dutch-French company Airbus.\n\nThe value of the planned UAV deal was not disclosed by the Serbian official."
+}

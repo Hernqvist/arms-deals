@@ -1,0 +1,564 @@
+{
+  "filename": "20170721_DEFWEB_China donate pa_A_IVO_B_CHI",
+  "labels": [
+    {
+      "end": 50,
+      "start": 0,
+      "tag": "Answer",
+      "text": "China has donated a patrol boat to the Ivory Coast"
+    },
+    {
+      "end": 5,
+      "start": 0,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 5,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 31,
+      "start": 20,
+      "tag": "Weapon",
+      "text": "patrol boat"
+    },
+    {
+      "end": 50,
+      "start": 39,
+      "tag": "Buyer",
+      "text": "Ivory Coast"
+    },
+    {
+      "end": 11,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "China has d"
+    },
+    {
+      "end": 121,
+      "start": 115,
+      "tag": "Weapon",
+      "text": "vessel"
+    },
+    {
+      "end": 199,
+      "start": 192,
+      "tag": "Date",
+      "text": "14 July"
+    },
+    {
+      "end": 263,
+      "start": 217,
+      "tag": "Buyer",
+      "text": "Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi"
+    },
+    {
+      "end": 125,
+      "start": 111,
+      "tag": "Buyer Country",
+      "text": "The vessel was"
+    },
+    {
+      "end": 188,
+      "start": 141,
+      "tag": "Seller",
+      "text": "Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin"
+    },
+    {
+      "end": 119,
+      "start": 111,
+      "tag": "Seller Country",
+      "text": "The vess"
+    },
+    {
+      "end": 263,
+      "start": 111,
+      "tag": "Answer",
+      "text": "The vessel was handed over by Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin on 14 July, and accepted by Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi"
+    },
+    {
+      "end": 960,
+      "start": 947,
+      "tag": "Buyer",
+      "text": "Cote d\u2019Ivoire"
+    },
+    {
+      "end": 960,
+      "start": 947,
+      "tag": "Buyer Country",
+      "text": "Cote d\u2019Ivoire"
+    },
+    {
+      "end": 980,
+      "start": 978,
+      "tag": "Quantity",
+      "text": "40"
+    },
+    {
+      "end": 992,
+      "start": 985,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 1108,
+      "start": 1103,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1130,
+      "start": 1109,
+      "tag": "Weapon",
+      "text": "RPB 33 patrol vessels"
+    },
+    {
+      "end": 1158,
+      "start": 1145,
+      "tag": "Seller",
+      "text": "Raidco Marine"
+    },
+    {
+      "end": 1182,
+      "start": 1178,
+      "tag": "Date",
+      "text": "2014"
+    },
+    {
+      "end": 1191,
+      "start": 1187,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1199,
+      "start": 1194,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1251,
+      "start": 1213,
+      "tag": "Weapon",
+      "text": "Defender rigid hulled inflatable boats"
+    },
+    {
+      "end": 1262,
+      "start": 1260,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 1288,
+      "start": 1263,
+      "tag": "Weapon",
+      "text": "inflatable speed launches"
+    },
+    {
+      "end": 1341,
+      "start": 1335,
+      "tag": "Seller",
+      "text": "Raidco"
+    },
+    {
+      "end": 1321,
+      "start": 1301,
+      "tag": "Weapon",
+      "text": "9- to 12-metre craft"
+    },
+    {
+      "end": 1300,
+      "start": 1293,
+      "tag": "Quantity",
+      "text": "several"
+    },
+    {
+      "end": 1142,
+      "start": 1136,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1341,
+      "start": 947,
+      "tag": "Answer",
+      "text": "Cote d\u2019Ivoire is adding around 40 new vessels to its fleet as it confronts a growing threat from pirates in the Gulf of Guinea. Recent acquisitions include three RPB 33 patrol vessels from France\u2019s Raidco Marine (delivered between 2014 and 2016), three 8 metre long Defender rigid hulled inflatable boats, around 30 inflatable speed launches and several 9- to 12-metre craft, mostly from Raidco"
+    },
+    {
+      "end": 50,
+      "start": 0,
+      "tag": "Answer",
+      "text": "China has donated a patrol boat to the Ivory Coast"
+    },
+    {
+      "end": 5,
+      "start": 0,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 5,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 31,
+      "start": 20,
+      "tag": "Weapon",
+      "text": "patrol boat"
+    },
+    {
+      "end": 50,
+      "start": 39,
+      "tag": "Buyer",
+      "text": "Ivory Coast"
+    },
+    {
+      "end": 11,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "China has d"
+    },
+    {
+      "end": 121,
+      "start": 115,
+      "tag": "Weapon",
+      "text": "vessel"
+    },
+    {
+      "end": 199,
+      "start": 192,
+      "tag": "Date",
+      "text": "14 July"
+    },
+    {
+      "end": 263,
+      "start": 217,
+      "tag": "Buyer",
+      "text": "Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi"
+    },
+    {
+      "end": 125,
+      "start": 111,
+      "tag": "Buyer Country",
+      "text": "The vessel was"
+    },
+    {
+      "end": 188,
+      "start": 141,
+      "tag": "Seller",
+      "text": "Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin"
+    },
+    {
+      "end": 119,
+      "start": 111,
+      "tag": "Seller Country",
+      "text": "The vess"
+    },
+    {
+      "end": 263,
+      "start": 111,
+      "tag": "Answer",
+      "text": "The vessel was handed over by Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin on 14 July, and accepted by Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi"
+    },
+    {
+      "end": 960,
+      "start": 947,
+      "tag": "Buyer",
+      "text": "Cote d\u2019Ivoire"
+    },
+    {
+      "end": 960,
+      "start": 947,
+      "tag": "Buyer Country",
+      "text": "Cote d\u2019Ivoire"
+    },
+    {
+      "end": 980,
+      "start": 978,
+      "tag": "Quantity",
+      "text": "40"
+    },
+    {
+      "end": 992,
+      "start": 985,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 1108,
+      "start": 1103,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1130,
+      "start": 1109,
+      "tag": "Weapon",
+      "text": "RPB 33 patrol vessels"
+    },
+    {
+      "end": 1158,
+      "start": 1145,
+      "tag": "Seller",
+      "text": "Raidco Marine"
+    },
+    {
+      "end": 1182,
+      "start": 1178,
+      "tag": "Date",
+      "text": "2014"
+    },
+    {
+      "end": 1191,
+      "start": 1187,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1199,
+      "start": 1194,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1251,
+      "start": 1213,
+      "tag": "Weapon",
+      "text": "Defender rigid hulled inflatable boats"
+    },
+    {
+      "end": 1262,
+      "start": 1260,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 1288,
+      "start": 1263,
+      "tag": "Weapon",
+      "text": "inflatable speed launches"
+    },
+    {
+      "end": 1341,
+      "start": 1335,
+      "tag": "Seller",
+      "text": "Raidco"
+    },
+    {
+      "end": 1321,
+      "start": 1301,
+      "tag": "Weapon",
+      "text": "9- to 12-metre craft"
+    },
+    {
+      "end": 1300,
+      "start": 1293,
+      "tag": "Quantity",
+      "text": "several"
+    },
+    {
+      "end": 1142,
+      "start": 1136,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1341,
+      "start": 947,
+      "tag": "Answer",
+      "text": "Cote d\u2019Ivoire is adding around 40 new vessels to its fleet as it confronts a growing threat from pirates in the Gulf of Guinea. Recent acquisitions include three RPB 33 patrol vessels from France\u2019s Raidco Marine (delivered between 2014 and 2016), three 8 metre long Defender rigid hulled inflatable boats, around 30 inflatable speed launches and several 9- to 12-metre craft, mostly from Raidco"
+    },
+    {
+      "end": 50,
+      "start": 0,
+      "tag": "Answer",
+      "text": "China has donated a patrol boat to the Ivory Coast"
+    },
+    {
+      "end": 5,
+      "start": 0,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 5,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 31,
+      "start": 20,
+      "tag": "Weapon",
+      "text": "patrol boat"
+    },
+    {
+      "end": 50,
+      "start": 39,
+      "tag": "Buyer",
+      "text": "Ivory Coast"
+    },
+    {
+      "end": 11,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "China has d"
+    },
+    {
+      "end": 121,
+      "start": 115,
+      "tag": "Weapon",
+      "text": "vessel"
+    },
+    {
+      "end": 199,
+      "start": 192,
+      "tag": "Date",
+      "text": "14 July"
+    },
+    {
+      "end": 263,
+      "start": 217,
+      "tag": "Buyer",
+      "text": "Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi"
+    },
+    {
+      "end": 125,
+      "start": 111,
+      "tag": "Buyer Country",
+      "text": "The vessel was"
+    },
+    {
+      "end": 188,
+      "start": 141,
+      "tag": "Seller",
+      "text": "Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin"
+    },
+    {
+      "end": 119,
+      "start": 111,
+      "tag": "Seller Country",
+      "text": "The vess"
+    },
+    {
+      "end": 263,
+      "start": 111,
+      "tag": "Answer",
+      "text": "The vessel was handed over by Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin on 14 July, and accepted by Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi"
+    },
+    {
+      "end": 960,
+      "start": 947,
+      "tag": "Buyer",
+      "text": "Cote d\u2019Ivoire"
+    },
+    {
+      "end": 960,
+      "start": 947,
+      "tag": "Buyer Country",
+      "text": "Cote d\u2019Ivoire"
+    },
+    {
+      "end": 980,
+      "start": 978,
+      "tag": "Quantity",
+      "text": "40"
+    },
+    {
+      "end": 992,
+      "start": 985,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 1108,
+      "start": 1103,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1130,
+      "start": 1109,
+      "tag": "Weapon",
+      "text": "RPB 33 patrol vessels"
+    },
+    {
+      "end": 1158,
+      "start": 1145,
+      "tag": "Seller",
+      "text": "Raidco Marine"
+    },
+    {
+      "end": 1182,
+      "start": 1178,
+      "tag": "Date",
+      "text": "2014"
+    },
+    {
+      "end": 1191,
+      "start": 1187,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1199,
+      "start": 1194,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1251,
+      "start": 1213,
+      "tag": "Weapon",
+      "text": "Defender rigid hulled inflatable boats"
+    },
+    {
+      "end": 1262,
+      "start": 1260,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 1288,
+      "start": 1263,
+      "tag": "Weapon",
+      "text": "inflatable speed launches"
+    },
+    {
+      "end": 1341,
+      "start": 1335,
+      "tag": "Seller",
+      "text": "Raidco"
+    },
+    {
+      "end": 1321,
+      "start": 1301,
+      "tag": "Weapon",
+      "text": "9- to 12-metre craft"
+    },
+    {
+      "end": 1300,
+      "start": 1293,
+      "tag": "Quantity",
+      "text": "several"
+    },
+    {
+      "end": 1142,
+      "start": 1136,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1341,
+      "start": 947,
+      "tag": "Answer",
+      "text": "Cote d\u2019Ivoire is adding around 40 new vessels to its fleet as it confronts a growing threat from pirates in the Gulf of Guinea. Recent acquisitions include three RPB 33 patrol vessels from France\u2019s Raidco Marine (delivered between 2014 and 2016), three 8 metre long Defender rigid hulled inflatable boats, around 30 inflatable speed launches and several 9- to 12-metre craft, mostly from Raidco"
+    }
+  ],
+  "text": "China has donated a patrol boat to the Ivory Coast to combat maritime crime and piracy in the Gulf of Guinea.\n\nThe vessel was handed over by Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin on 14 July, and accepted by Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi. \u201cThis donation will allow the Navy of Cote d\u2019Ivoire to take off. This is a major step in Sino-Ivorian cooperation,\u201d Donwahi is reported by Xinhua as saying.\n\n\u201cThis is a true example of South-South cooperation,\u201d Weibin said, adding that China is willing to strengthen Cote d\u2019Ivoire\u2019s army as well.\n\nThe vessel, which appears to be a 27 metre long Predator class vessel, was launched on 19 May and donated to Cote d\u2019Ivoire along with naval repair equipment worth a total of CNY30 million ($4.4 million), according to the Chinese embassy in Cote d\u2019Ivoire. The embassy said that to assist with naval repair, 13 Chinese experts were in May dispatched to the West African country.\n\n\n\n\n\n\n\nCote d\u2019Ivoire is adding around 40 new vessels to its fleet as it confronts a growing threat from pirates in the Gulf of Guinea. Recent acquisitions include three RPB 33 patrol vessels from France\u2019s Raidco Marine (delivered between 2014 and 2016), three 8 metre long Defender rigid hulled inflatable boats, around 30 inflatable speed launches and several 9- to 12-metre craft, mostly from Raidco."
+}

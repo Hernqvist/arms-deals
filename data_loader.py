@@ -91,6 +91,7 @@ class Deal:
     self.answer = answer
     self.start, self.end = self.answer.start, self.answer.end
     self.labels = {tag:[] for tag in label_types}
+    self.labels_list = labels
 
     for label in labels:
       if label.start < self.start or label.end > self.end \
@@ -117,6 +118,7 @@ class Text:
     self.text = text
     self.deals = sorted(deals, key=lambda deal: deal.start)
     self.positive_sample = len(self.deals) > 0
+    self.all_labels = [label for deal in self.deals for label in deal.labels_list]
 
   @classmethod
   def from_json(cls, data_):

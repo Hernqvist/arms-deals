@@ -1,0 +1,786 @@
+{
+  "filename": "20171222_DAILY_Japan boosts def",
+  "labels": [
+    {
+      "end": 1444,
+      "start": 1361,
+      "tag": "Answer",
+      "text": "Japan said it would buy land-based Aegis Ashore missile defence systems from the US"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1432,
+      "start": 1385,
+      "tag": "Weapon",
+      "text": "land-based Aegis Ashore missile defence systems"
+    },
+    {
+      "end": 1444,
+      "start": 1442,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1363,
+      "start": 1361,
+      "tag": "Seller",
+      "text": "Ja"
+    },
+    {
+      "end": 1810,
+      "start": 1771,
+      "tag": "Answer",
+      "text": "Japan will also acquire cruise missiles"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1810,
+      "start": 1795,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 2107,
+      "start": 2038,
+      "tag": "Answer",
+      "text": "Japan also plans to buy US-made cruise missiles with a range of 900km"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2064,
+      "start": 2062,
+      "tag": "Seller",
+      "text": "US"
+    },
+    {
+      "end": 2040,
+      "start": 2038,
+      "tag": "Seller Country",
+      "text": "Ja"
+    },
+    {
+      "end": 2085,
+      "start": 2070,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 1965,
+      "start": 1891,
+      "tag": "Answer",
+      "text": "The budget includes more than 2bn yen for a Norwegian-built cruise missile"
+    },
+    {
+      "end": 1928,
+      "start": 1921,
+      "tag": "Price",
+      "text": "2bn yen"
+    },
+    {
+      "end": 1944,
+      "start": 1935,
+      "tag": "Seller",
+      "text": "Norwegian"
+    },
+    {
+      "end": 1900,
+      "start": 1891,
+      "tag": "Seller Country",
+      "text": "The budge"
+    },
+    {
+      "end": 1965,
+      "start": 1951,
+      "tag": "Weapon",
+      "text": "cruise missile"
+    },
+    {
+      "end": 2325,
+      "start": 2162,
+      "tag": "Answer",
+      "text": "Japan will invest in a new, longer-range interceptor, the SM-3 Block IIA, designed to strike ballistic missiles in space, and upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2234,
+      "start": 2220,
+      "tag": "Weapon",
+      "text": "SM-3 Block IIA"
+    },
+    {
+      "end": 2325,
+      "start": 2288,
+      "tag": "Weapon",
+      "text": "upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 1444,
+      "start": 1361,
+      "tag": "Answer",
+      "text": "Japan said it would buy land-based Aegis Ashore missile defence systems from the US"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1432,
+      "start": 1385,
+      "tag": "Weapon",
+      "text": "land-based Aegis Ashore missile defence systems"
+    },
+    {
+      "end": 1444,
+      "start": 1442,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1363,
+      "start": 1361,
+      "tag": "Seller",
+      "text": "Ja"
+    },
+    {
+      "end": 1810,
+      "start": 1771,
+      "tag": "Answer",
+      "text": "Japan will also acquire cruise missiles"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1810,
+      "start": 1795,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 2107,
+      "start": 2038,
+      "tag": "Answer",
+      "text": "Japan also plans to buy US-made cruise missiles with a range of 900km"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2064,
+      "start": 2062,
+      "tag": "Seller",
+      "text": "US"
+    },
+    {
+      "end": 2040,
+      "start": 2038,
+      "tag": "Seller Country",
+      "text": "Ja"
+    },
+    {
+      "end": 2085,
+      "start": 2070,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 1965,
+      "start": 1891,
+      "tag": "Answer",
+      "text": "The budget includes more than 2bn yen for a Norwegian-built cruise missile"
+    },
+    {
+      "end": 1928,
+      "start": 1921,
+      "tag": "Price",
+      "text": "2bn yen"
+    },
+    {
+      "end": 1944,
+      "start": 1935,
+      "tag": "Seller",
+      "text": "Norwegian"
+    },
+    {
+      "end": 1900,
+      "start": 1891,
+      "tag": "Seller Country",
+      "text": "The budge"
+    },
+    {
+      "end": 1965,
+      "start": 1951,
+      "tag": "Weapon",
+      "text": "cruise missile"
+    },
+    {
+      "end": 2325,
+      "start": 2162,
+      "tag": "Answer",
+      "text": "Japan will invest in a new, longer-range interceptor, the SM-3 Block IIA, designed to strike ballistic missiles in space, and upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2234,
+      "start": 2220,
+      "tag": "Weapon",
+      "text": "SM-3 Block IIA"
+    },
+    {
+      "end": 2325,
+      "start": 2288,
+      "tag": "Weapon",
+      "text": "upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 1444,
+      "start": 1361,
+      "tag": "Answer",
+      "text": "Japan said it would buy land-based Aegis Ashore missile defence systems from the US"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1432,
+      "start": 1385,
+      "tag": "Weapon",
+      "text": "land-based Aegis Ashore missile defence systems"
+    },
+    {
+      "end": 1444,
+      "start": 1442,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1363,
+      "start": 1361,
+      "tag": "Seller",
+      "text": "Ja"
+    },
+    {
+      "end": 1810,
+      "start": 1771,
+      "tag": "Answer",
+      "text": "Japan will also acquire cruise missiles"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1810,
+      "start": 1795,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 2107,
+      "start": 2038,
+      "tag": "Answer",
+      "text": "Japan also plans to buy US-made cruise missiles with a range of 900km"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2064,
+      "start": 2062,
+      "tag": "Seller",
+      "text": "US"
+    },
+    {
+      "end": 2040,
+      "start": 2038,
+      "tag": "Seller Country",
+      "text": "Ja"
+    },
+    {
+      "end": 2085,
+      "start": 2070,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 1965,
+      "start": 1891,
+      "tag": "Answer",
+      "text": "The budget includes more than 2bn yen for a Norwegian-built cruise missile"
+    },
+    {
+      "end": 1928,
+      "start": 1921,
+      "tag": "Price",
+      "text": "2bn yen"
+    },
+    {
+      "end": 1944,
+      "start": 1935,
+      "tag": "Seller",
+      "text": "Norwegian"
+    },
+    {
+      "end": 1900,
+      "start": 1891,
+      "tag": "Seller Country",
+      "text": "The budge"
+    },
+    {
+      "end": 1965,
+      "start": 1951,
+      "tag": "Weapon",
+      "text": "cruise missile"
+    },
+    {
+      "end": 2325,
+      "start": 2162,
+      "tag": "Answer",
+      "text": "Japan will invest in a new, longer-range interceptor, the SM-3 Block IIA, designed to strike ballistic missiles in space, and upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2234,
+      "start": 2220,
+      "tag": "Weapon",
+      "text": "SM-3 Block IIA"
+    },
+    {
+      "end": 2325,
+      "start": 2288,
+      "tag": "Weapon",
+      "text": "upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 1444,
+      "start": 1361,
+      "tag": "Answer",
+      "text": "Japan said it would buy land-based Aegis Ashore missile defence systems from the US"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1432,
+      "start": 1385,
+      "tag": "Weapon",
+      "text": "land-based Aegis Ashore missile defence systems"
+    },
+    {
+      "end": 1444,
+      "start": 1442,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1363,
+      "start": 1361,
+      "tag": "Seller",
+      "text": "Ja"
+    },
+    {
+      "end": 1810,
+      "start": 1771,
+      "tag": "Answer",
+      "text": "Japan will also acquire cruise missiles"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1810,
+      "start": 1795,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 2107,
+      "start": 2038,
+      "tag": "Answer",
+      "text": "Japan also plans to buy US-made cruise missiles with a range of 900km"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2064,
+      "start": 2062,
+      "tag": "Seller",
+      "text": "US"
+    },
+    {
+      "end": 2040,
+      "start": 2038,
+      "tag": "Seller Country",
+      "text": "Ja"
+    },
+    {
+      "end": 2085,
+      "start": 2070,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 1965,
+      "start": 1891,
+      "tag": "Answer",
+      "text": "The budget includes more than 2bn yen for a Norwegian-built cruise missile"
+    },
+    {
+      "end": 1928,
+      "start": 1921,
+      "tag": "Price",
+      "text": "2bn yen"
+    },
+    {
+      "end": 1944,
+      "start": 1935,
+      "tag": "Seller",
+      "text": "Norwegian"
+    },
+    {
+      "end": 1900,
+      "start": 1891,
+      "tag": "Seller Country",
+      "text": "The budge"
+    },
+    {
+      "end": 1965,
+      "start": 1951,
+      "tag": "Weapon",
+      "text": "cruise missile"
+    },
+    {
+      "end": 2325,
+      "start": 2162,
+      "tag": "Answer",
+      "text": "Japan will invest in a new, longer-range interceptor, the SM-3 Block IIA, designed to strike ballistic missiles in space, and upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2234,
+      "start": 2220,
+      "tag": "Weapon",
+      "text": "SM-3 Block IIA"
+    },
+    {
+      "end": 2325,
+      "start": 2288,
+      "tag": "Weapon",
+      "text": "upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 1444,
+      "start": 1361,
+      "tag": "Answer",
+      "text": "Japan said it would buy land-based Aegis Ashore missile defence systems from the US"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1432,
+      "start": 1385,
+      "tag": "Weapon",
+      "text": "land-based Aegis Ashore missile defence systems"
+    },
+    {
+      "end": 1444,
+      "start": 1442,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1363,
+      "start": 1361,
+      "tag": "Seller",
+      "text": "Ja"
+    },
+    {
+      "end": 1810,
+      "start": 1771,
+      "tag": "Answer",
+      "text": "Japan will also acquire cruise missiles"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 1776,
+      "start": 1771,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 1810,
+      "start": 1795,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 2107,
+      "start": 2038,
+      "tag": "Answer",
+      "text": "Japan also plans to buy US-made cruise missiles with a range of 900km"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2043,
+      "start": 2038,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2064,
+      "start": 2062,
+      "tag": "Seller",
+      "text": "US"
+    },
+    {
+      "end": 2040,
+      "start": 2038,
+      "tag": "Seller Country",
+      "text": "Ja"
+    },
+    {
+      "end": 2085,
+      "start": 2070,
+      "tag": "Weapon",
+      "text": "cruise missiles"
+    },
+    {
+      "end": 1965,
+      "start": 1891,
+      "tag": "Answer",
+      "text": "The budget includes more than 2bn yen for a Norwegian-built cruise missile"
+    },
+    {
+      "end": 1928,
+      "start": 1921,
+      "tag": "Price",
+      "text": "2bn yen"
+    },
+    {
+      "end": 1944,
+      "start": 1935,
+      "tag": "Seller",
+      "text": "Norwegian"
+    },
+    {
+      "end": 1900,
+      "start": 1891,
+      "tag": "Seller Country",
+      "text": "The budge"
+    },
+    {
+      "end": 1965,
+      "start": 1951,
+      "tag": "Weapon",
+      "text": "cruise missile"
+    },
+    {
+      "end": 2325,
+      "start": 2162,
+      "tag": "Answer",
+      "text": "Japan will invest in a new, longer-range interceptor, the SM-3 Block IIA, designed to strike ballistic missiles in space, and upgrades to Patriot missile batteries"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer",
+      "text": "Japan"
+    },
+    {
+      "end": 2167,
+      "start": 2162,
+      "tag": "Buyer Country",
+      "text": "Japan"
+    },
+    {
+      "end": 2234,
+      "start": 2220,
+      "tag": "Weapon",
+      "text": "SM-3 Block IIA"
+    },
+    {
+      "end": 2325,
+      "start": 2288,
+      "tag": "Weapon",
+      "text": "upgrades to Patriot missile batteries"
+    }
+  ],
+  "text": "Japan\u2019s government has approved a record defence budget, with money earmarked for costly missile defence systems and, controversially, weapons that could be used in pre-emptive strikes against North Korea.\n\n\n\nThe 5.19tn yen ($46bn) budget, up 1.3% from last year, is the largest ever and marks the six straight annual rise in defence spending under Japan\u2019s conservative prime minister, Shinzo Abe.\n\nAbe, who ended a decade of defence cuts soon after becoming prime minister in late 2012, has described the threat posed by North Korean ballistic missiles as a \u201cnational crisis\u201d.\n\nThe regime has launched two missiles over northern Japan this year, and several others have landed inside its 200 nautical-mile exclusive economic zone. In September, North Korea threatened to \u201csink Japan into the sea\u201d with a nuclear bomb after Tokyo and Washington spearheaded a new round of UN security council sanctions against the regime.\n\nDefence officials say Japan needs to drastically and quickly upgrade its missile defence in response to Pyongyang\u2019s rapid development of long-range missiles and nuclear weapons.\n\nThe defence minister, Itsunori Onodera, said this month: \u201cAt a time when North Korea is beefing up its ballistic missile capability, we need to strengthen our capability fundamentally.\u201d\n\nThe new budget, which has to be approved by parliament, came days after Japan said it would buy land-based Aegis Ashore missile defence systems from the US to improve its ability to locate and destroy incoming North Korean missiles.\n\nAbout 730m yen ($6.4m) was set aside to prepare for the introduction of the systems, which will be operational by 2023 and are expected to cost at least 200bn yen.\n\nAmid pressure from hawkish members of Abe\u2019s ruling Liberal Democratic party (LDP), Japan will also acquire cruise missiles that could be used in pre-emptive strikes against North Korean military sites.\n\nThe budget includes more than 2bn yen for a Norwegian-built cruise missile with a range of 500km that can be fired from F-35 stealth fighter jets. Japan also plans to buy US-made cruise missiles with a range of 900km.\n\nIn addition to the land-based Aegis radar stations, Japan will invest in a new, longer-range interceptor, the SM-3 Block IIA, designed to strike ballistic missiles in space, and upgrades to Patriot missile batteries \u2013 the last line of defence against incoming warheads.\n\nThe heavy spending on US military hardware comes after Donald Trump vowed to boost arms sales by pressuring Japan and South Korea to play a bigger role in their own defence. \u201cIt\u2019s a lot of jobs for us and a lot of safety for Japan,\u201d Trump said during a visit to Asia last month.\n\nCritics say possession of a first-strike capability violates Japan\u2019s constitution, which bans the use of force to settle international disputes and has restricted the country\u2019s military to a purely defensive role since the end of the second world war.\n\nOnodera and other senior LDP officials say Japan would target North Korean missile sites only if it believed an attack was imminent \u2013 a move they insist would not violate the country\u2019s \u201cpacifist\u201d principles.\n\nBut Yukio Edano, whose Constitutional Democratic party of Japan fought October\u2019s general election vowing to defend Japan\u2019s postwar constitution, said the acquisition of cruise missiles would be a \u201cfairly big point of dispute\u201d when MPs debate the budget next month.\n\nAkira Kato, a professor of international politics and regional security at JF Oberlin University in Tokyo, said the Abe administration was exploiting the North Korean crisis to bolster Japan\u2019s defences. \u201cJapan is expected to continue strengthening its defence power for the time being,\u201d Kato told Agence France-Presse.\n\nWhile the budget\u2019s focus was on North Korea, it included more than 55bn yen for the construction of military facilities on two outlying islands to boost the ability to respond to Chinese activity in the East China Sea.\n\nThe islands are not far from the Senkaku/Diaoyu islands \u2013 uninhabited outcrops that are administered by Japan but claimed by China, whose vessels regularly enter Japanese waters near the territories."
+}

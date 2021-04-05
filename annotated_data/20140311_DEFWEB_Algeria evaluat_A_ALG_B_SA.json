@@ -1,0 +1,1410 @@
+{
+  "filename": "20140311_DEFWEB_Algeria evaluat_A_ALG_B_SA",
+  "labels": [
+    {
+      "end": 35,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Algeria evaluating Chinese CH-4 UAV"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 26,
+      "start": 19,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 35,
+      "start": 27,
+      "tag": "Weapon",
+      "text": "CH-4 UAV"
+    },
+    {
+      "end": 188,
+      "start": 119,
+      "tag": "Answer",
+      "text": "Algerian is evaluating the Chinese CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer",
+      "text": "Algerian"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer Country",
+      "text": "Algerian"
+    },
+    {
+      "end": 188,
+      "start": 154,
+      "tag": "Weapon",
+      "text": "CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 153,
+      "start": 146,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 126,
+      "start": 119,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1598,
+      "start": 1484,
+      "tag": "Answer",
+      "text": "Algeria has reportedly also been in discussions with China over the purchase of Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1542,
+      "start": 1537,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1489,
+      "start": 1484,
+      "tag": "Seller Country",
+      "text": "Alger"
+    },
+    {
+      "end": 1598,
+      "start": 1564,
+      "tag": "Weapon",
+      "text": "Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 2461,
+      "start": 2349,
+      "tag": "Answer",
+      "text": "Algeria expressed interest in the Adcom Systems Yabhon United 40 Block 5 UAV from the United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2425,
+      "start": 2383,
+      "tag": "Weapon",
+      "text": "Adcom Systems Yabhon United 40 Block 5 UAV"
+    },
+    {
+      "end": 2461,
+      "start": 2435,
+      "tag": "Seller",
+      "text": "United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2369,
+      "start": 2349,
+      "tag": "Seller Country",
+      "text": "Algeria expressed in"
+    },
+    {
+      "end": 2667,
+      "start": 2563,
+      "tag": "Answer",
+      "text": "Algeria is negotiating with Russia to purchase 30 E95 unmanned aerial vehicles/target drones from Russia"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2597,
+      "start": 2591,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 2612,
+      "start": 2610,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 2655,
+      "start": 2613,
+      "tag": "Weapon",
+      "text": "E95 unmanned aerial vehicles/target drones"
+    },
+    {
+      "end": 2667,
+      "start": 2661,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 3834,
+      "start": 3727,
+      "tag": "Answer",
+      "text": "Last year Algeria evaluated the Boeing C-17 Globemaster III strategic transport and Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 3736,
+      "start": 3727,
+      "tag": "Date",
+      "text": "Last year"
+    },
+    {
+      "end": 3744,
+      "start": 3737,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 3734,
+      "start": 3727,
+      "tag": "Buyer Country",
+      "text": "Last ye"
+    },
+    {
+      "end": 3806,
+      "start": 3759,
+      "tag": "Weapon",
+      "text": "Boeing C-17 Globemaster III strategic transport"
+    },
+    {
+      "end": 3834,
+      "start": 3811,
+      "tag": "Weapon",
+      "text": "Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 35,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Algeria evaluating Chinese CH-4 UAV"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 26,
+      "start": 19,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 35,
+      "start": 27,
+      "tag": "Weapon",
+      "text": "CH-4 UAV"
+    },
+    {
+      "end": 188,
+      "start": 119,
+      "tag": "Answer",
+      "text": "Algerian is evaluating the Chinese CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer",
+      "text": "Algerian"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer Country",
+      "text": "Algerian"
+    },
+    {
+      "end": 188,
+      "start": 154,
+      "tag": "Weapon",
+      "text": "CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 153,
+      "start": 146,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 126,
+      "start": 119,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1598,
+      "start": 1484,
+      "tag": "Answer",
+      "text": "Algeria has reportedly also been in discussions with China over the purchase of Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1542,
+      "start": 1537,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1489,
+      "start": 1484,
+      "tag": "Seller Country",
+      "text": "Alger"
+    },
+    {
+      "end": 1598,
+      "start": 1564,
+      "tag": "Weapon",
+      "text": "Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 2461,
+      "start": 2349,
+      "tag": "Answer",
+      "text": "Algeria expressed interest in the Adcom Systems Yabhon United 40 Block 5 UAV from the United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2425,
+      "start": 2383,
+      "tag": "Weapon",
+      "text": "Adcom Systems Yabhon United 40 Block 5 UAV"
+    },
+    {
+      "end": 2461,
+      "start": 2435,
+      "tag": "Seller",
+      "text": "United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2369,
+      "start": 2349,
+      "tag": "Seller Country",
+      "text": "Algeria expressed in"
+    },
+    {
+      "end": 2667,
+      "start": 2563,
+      "tag": "Answer",
+      "text": "Algeria is negotiating with Russia to purchase 30 E95 unmanned aerial vehicles/target drones from Russia"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2597,
+      "start": 2591,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 2612,
+      "start": 2610,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 2655,
+      "start": 2613,
+      "tag": "Weapon",
+      "text": "E95 unmanned aerial vehicles/target drones"
+    },
+    {
+      "end": 2667,
+      "start": 2661,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 3834,
+      "start": 3727,
+      "tag": "Answer",
+      "text": "Last year Algeria evaluated the Boeing C-17 Globemaster III strategic transport and Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 3736,
+      "start": 3727,
+      "tag": "Date",
+      "text": "Last year"
+    },
+    {
+      "end": 3744,
+      "start": 3737,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 3734,
+      "start": 3727,
+      "tag": "Buyer Country",
+      "text": "Last ye"
+    },
+    {
+      "end": 3806,
+      "start": 3759,
+      "tag": "Weapon",
+      "text": "Boeing C-17 Globemaster III strategic transport"
+    },
+    {
+      "end": 3834,
+      "start": 3811,
+      "tag": "Weapon",
+      "text": "Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 35,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Algeria evaluating Chinese CH-4 UAV"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 26,
+      "start": 19,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 35,
+      "start": 27,
+      "tag": "Weapon",
+      "text": "CH-4 UAV"
+    },
+    {
+      "end": 188,
+      "start": 119,
+      "tag": "Answer",
+      "text": "Algerian is evaluating the Chinese CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer",
+      "text": "Algerian"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer Country",
+      "text": "Algerian"
+    },
+    {
+      "end": 188,
+      "start": 154,
+      "tag": "Weapon",
+      "text": "CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 153,
+      "start": 146,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 126,
+      "start": 119,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1598,
+      "start": 1484,
+      "tag": "Answer",
+      "text": "Algeria has reportedly also been in discussions with China over the purchase of Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1542,
+      "start": 1537,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1489,
+      "start": 1484,
+      "tag": "Seller Country",
+      "text": "Alger"
+    },
+    {
+      "end": 1598,
+      "start": 1564,
+      "tag": "Weapon",
+      "text": "Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 2461,
+      "start": 2349,
+      "tag": "Answer",
+      "text": "Algeria expressed interest in the Adcom Systems Yabhon United 40 Block 5 UAV from the United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2425,
+      "start": 2383,
+      "tag": "Weapon",
+      "text": "Adcom Systems Yabhon United 40 Block 5 UAV"
+    },
+    {
+      "end": 2461,
+      "start": 2435,
+      "tag": "Seller",
+      "text": "United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2369,
+      "start": 2349,
+      "tag": "Seller Country",
+      "text": "Algeria expressed in"
+    },
+    {
+      "end": 2667,
+      "start": 2563,
+      "tag": "Answer",
+      "text": "Algeria is negotiating with Russia to purchase 30 E95 unmanned aerial vehicles/target drones from Russia"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2597,
+      "start": 2591,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 2612,
+      "start": 2610,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 2655,
+      "start": 2613,
+      "tag": "Weapon",
+      "text": "E95 unmanned aerial vehicles/target drones"
+    },
+    {
+      "end": 2667,
+      "start": 2661,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 3834,
+      "start": 3727,
+      "tag": "Answer",
+      "text": "Last year Algeria evaluated the Boeing C-17 Globemaster III strategic transport and Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 3736,
+      "start": 3727,
+      "tag": "Date",
+      "text": "Last year"
+    },
+    {
+      "end": 3744,
+      "start": 3737,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 3734,
+      "start": 3727,
+      "tag": "Buyer Country",
+      "text": "Last ye"
+    },
+    {
+      "end": 3806,
+      "start": 3759,
+      "tag": "Weapon",
+      "text": "Boeing C-17 Globemaster III strategic transport"
+    },
+    {
+      "end": 3834,
+      "start": 3811,
+      "tag": "Weapon",
+      "text": "Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 35,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Algeria evaluating Chinese CH-4 UAV"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 26,
+      "start": 19,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 35,
+      "start": 27,
+      "tag": "Weapon",
+      "text": "CH-4 UAV"
+    },
+    {
+      "end": 188,
+      "start": 119,
+      "tag": "Answer",
+      "text": "Algerian is evaluating the Chinese CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer",
+      "text": "Algerian"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer Country",
+      "text": "Algerian"
+    },
+    {
+      "end": 188,
+      "start": 154,
+      "tag": "Weapon",
+      "text": "CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 153,
+      "start": 146,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 126,
+      "start": 119,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1598,
+      "start": 1484,
+      "tag": "Answer",
+      "text": "Algeria has reportedly also been in discussions with China over the purchase of Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1542,
+      "start": 1537,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1489,
+      "start": 1484,
+      "tag": "Seller Country",
+      "text": "Alger"
+    },
+    {
+      "end": 1598,
+      "start": 1564,
+      "tag": "Weapon",
+      "text": "Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 2461,
+      "start": 2349,
+      "tag": "Answer",
+      "text": "Algeria expressed interest in the Adcom Systems Yabhon United 40 Block 5 UAV from the United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2425,
+      "start": 2383,
+      "tag": "Weapon",
+      "text": "Adcom Systems Yabhon United 40 Block 5 UAV"
+    },
+    {
+      "end": 2461,
+      "start": 2435,
+      "tag": "Seller",
+      "text": "United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2369,
+      "start": 2349,
+      "tag": "Seller Country",
+      "text": "Algeria expressed in"
+    },
+    {
+      "end": 2667,
+      "start": 2563,
+      "tag": "Answer",
+      "text": "Algeria is negotiating with Russia to purchase 30 E95 unmanned aerial vehicles/target drones from Russia"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2597,
+      "start": 2591,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 2612,
+      "start": 2610,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 2655,
+      "start": 2613,
+      "tag": "Weapon",
+      "text": "E95 unmanned aerial vehicles/target drones"
+    },
+    {
+      "end": 2667,
+      "start": 2661,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 3834,
+      "start": 3727,
+      "tag": "Answer",
+      "text": "Last year Algeria evaluated the Boeing C-17 Globemaster III strategic transport and Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 3736,
+      "start": 3727,
+      "tag": "Date",
+      "text": "Last year"
+    },
+    {
+      "end": 3744,
+      "start": 3737,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 3734,
+      "start": 3727,
+      "tag": "Buyer Country",
+      "text": "Last ye"
+    },
+    {
+      "end": 3806,
+      "start": 3759,
+      "tag": "Weapon",
+      "text": "Boeing C-17 Globemaster III strategic transport"
+    },
+    {
+      "end": 3834,
+      "start": 3811,
+      "tag": "Weapon",
+      "text": "Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 35,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Algeria evaluating Chinese CH-4 UAV"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 26,
+      "start": 19,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 35,
+      "start": 27,
+      "tag": "Weapon",
+      "text": "CH-4 UAV"
+    },
+    {
+      "end": 188,
+      "start": 119,
+      "tag": "Answer",
+      "text": "Algerian is evaluating the Chinese CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer",
+      "text": "Algerian"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer Country",
+      "text": "Algerian"
+    },
+    {
+      "end": 188,
+      "start": 154,
+      "tag": "Weapon",
+      "text": "CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 153,
+      "start": 146,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 126,
+      "start": 119,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1598,
+      "start": 1484,
+      "tag": "Answer",
+      "text": "Algeria has reportedly also been in discussions with China over the purchase of Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1542,
+      "start": 1537,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1489,
+      "start": 1484,
+      "tag": "Seller Country",
+      "text": "Alger"
+    },
+    {
+      "end": 1598,
+      "start": 1564,
+      "tag": "Weapon",
+      "text": "Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 2461,
+      "start": 2349,
+      "tag": "Answer",
+      "text": "Algeria expressed interest in the Adcom Systems Yabhon United 40 Block 5 UAV from the United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2425,
+      "start": 2383,
+      "tag": "Weapon",
+      "text": "Adcom Systems Yabhon United 40 Block 5 UAV"
+    },
+    {
+      "end": 2461,
+      "start": 2435,
+      "tag": "Seller",
+      "text": "United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2369,
+      "start": 2349,
+      "tag": "Seller Country",
+      "text": "Algeria expressed in"
+    },
+    {
+      "end": 2667,
+      "start": 2563,
+      "tag": "Answer",
+      "text": "Algeria is negotiating with Russia to purchase 30 E95 unmanned aerial vehicles/target drones from Russia"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2597,
+      "start": 2591,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 2612,
+      "start": 2610,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 2655,
+      "start": 2613,
+      "tag": "Weapon",
+      "text": "E95 unmanned aerial vehicles/target drones"
+    },
+    {
+      "end": 2667,
+      "start": 2661,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 3834,
+      "start": 3727,
+      "tag": "Answer",
+      "text": "Last year Algeria evaluated the Boeing C-17 Globemaster III strategic transport and Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 3736,
+      "start": 3727,
+      "tag": "Date",
+      "text": "Last year"
+    },
+    {
+      "end": 3744,
+      "start": 3737,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 3734,
+      "start": 3727,
+      "tag": "Buyer Country",
+      "text": "Last ye"
+    },
+    {
+      "end": 3806,
+      "start": 3759,
+      "tag": "Weapon",
+      "text": "Boeing C-17 Globemaster III strategic transport"
+    },
+    {
+      "end": 3834,
+      "start": 3811,
+      "tag": "Weapon",
+      "text": "Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 35,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Algeria evaluating Chinese CH-4 UAV"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 26,
+      "start": 19,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 7,
+      "start": 0,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 35,
+      "start": 27,
+      "tag": "Weapon",
+      "text": "CH-4 UAV"
+    },
+    {
+      "end": 188,
+      "start": 119,
+      "tag": "Answer",
+      "text": "Algerian is evaluating the Chinese CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer",
+      "text": "Algerian"
+    },
+    {
+      "end": 127,
+      "start": 119,
+      "tag": "Buyer Country",
+      "text": "Algerian"
+    },
+    {
+      "end": 188,
+      "start": 154,
+      "tag": "Weapon",
+      "text": "CH-4 unmanned aerial vehicle (UAV)"
+    },
+    {
+      "end": 153,
+      "start": 146,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 126,
+      "start": 119,
+      "tag": "Seller Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1598,
+      "start": 1484,
+      "tag": "Answer",
+      "text": "Algeria has reportedly also been in discussions with China over the purchase of Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1542,
+      "start": 1537,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1491,
+      "start": 1484,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1489,
+      "start": 1484,
+      "tag": "Seller Country",
+      "text": "Alger"
+    },
+    {
+      "end": 1598,
+      "start": 1564,
+      "tag": "Weapon",
+      "text": "Xianglong unmanned aerial vehicles"
+    },
+    {
+      "end": 2461,
+      "start": 2349,
+      "tag": "Answer",
+      "text": "Algeria expressed interest in the Adcom Systems Yabhon United 40 Block 5 UAV from the United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2356,
+      "start": 2349,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2425,
+      "start": 2383,
+      "tag": "Weapon",
+      "text": "Adcom Systems Yabhon United 40 Block 5 UAV"
+    },
+    {
+      "end": 2461,
+      "start": 2435,
+      "tag": "Seller",
+      "text": "United Arab Emirates (UAE)"
+    },
+    {
+      "end": 2369,
+      "start": 2349,
+      "tag": "Seller Country",
+      "text": "Algeria expressed in"
+    },
+    {
+      "end": 2667,
+      "start": 2563,
+      "tag": "Answer",
+      "text": "Algeria is negotiating with Russia to purchase 30 E95 unmanned aerial vehicles/target drones from Russia"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 2570,
+      "start": 2563,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 2597,
+      "start": 2591,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 2612,
+      "start": 2610,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 2655,
+      "start": 2613,
+      "tag": "Weapon",
+      "text": "E95 unmanned aerial vehicles/target drones"
+    },
+    {
+      "end": 2667,
+      "start": 2661,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2569,
+      "start": 2563,
+      "tag": "Seller Country",
+      "text": "Algeri"
+    },
+    {
+      "end": 3834,
+      "start": 3727,
+      "tag": "Answer",
+      "text": "Last year Algeria evaluated the Boeing C-17 Globemaster III strategic transport and Airbus A330 MRTT tanker"
+    },
+    {
+      "end": 3736,
+      "start": 3727,
+      "tag": "Date",
+      "text": "Last year"
+    },
+    {
+      "end": 3744,
+      "start": 3737,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 3734,
+      "start": 3727,
+      "tag": "Buyer Country",
+      "text": "Last ye"
+    },
+    {
+      "end": 3806,
+      "start": 3759,
+      "tag": "Weapon",
+      "text": "Boeing C-17 Globemaster III strategic transport"
+    },
+    {
+      "end": 3834,
+      "start": 3811,
+      "tag": "Weapon",
+      "text": "Airbus A330 MRTT tanker"
+    }
+  ],
+  "text": "Algeria evaluating Chinese CH-4 UAV\n\nDenel Seeker 400 takes to the skies\n\nWritten by defenceWeb, Tuesday, 11 March 2014Algerian is evaluating the Chinese CH-4 unmanned aerial vehicle (UAV) and is reportedly very interested in acquiring the type, which can be armed with guided weapons.The CH-4, developed by the China Academy of Aerospace Aerodynamics (CAAA), has been undergoing testing with the Algerian military for some months, according to Air Forces Daily. One is reported to have crashed during testing at the Algerian Air Force\u2019s base at Tindouf several months ago while a second one crashed on Sunday at the Ain Oussera Air Base. The UAV came down 100 metres short of the runway whilst preparing to land.In spite of the crashes, Algeria is apparently still very interested in acquiring the CH-4 (Cai Hong 4 or Rainbow 4), which appears to have been inspired by the General Atomics MQ-9 Reaper. The UAV, with a takeoff weight of 1.3 tons and a payload of 350 kg, has a wingspan of 18 metres and a length of 8.5 metres. Top speed is 235 km/h and operational altitude is 3000-3500 metres, according to officially released data, while combat radius is 2000 km and endurance is 36 hours.CAAA technical staff claim the CH-4 has four hard points capable of carrying two AR-1 laser-guided missiles and two FT-5 small guided bombs.The CH-4 was first seen at the Zuhai airshow in 2012 and in the absence of Chinese military interest it seems the aircraft is aimed at the export market.Algeria has reportedly also been in discussions with China over the purchase of Xianglong unmanned aerial vehicles. Echorouk quoted an unnamed Algerian defence ministry colonel as saying that the UAV was successfully tested in Tamanrasset, southern Algeria, last year.The Xianglong (Soar Dragon) is a jet-powered High Altitude Long Endurance (HALE) aircraft designed by the Guizhou Aircraft Corporation of China, initially for use by the People\u2019s Liberation Army Air Force. The Xianglong has a length of 14 metres, a height of 5 metres and a wingspan of 25 metres. It has a top speed of 750 km/h, endurance of up to 10 hours, and a maximum range of 7 000 km.Tactical Weekly earlier this year reported that the Algerian Defence Ministry is said to have decided to go ahead with a programme to buy 90 unmanned aerial vehicles (UAVs), including attack UAVs.Last year, Algeria expressed interest in the Adcom Systems Yabhon United 40 Block 5 UAV from the United Arab Emirates (UAE) to meet its Medium-Altitude Long Endurance (MALE) requirement. According to Algerian daily El Watan, Algeria is negotiating with Russia to purchase 30 E95 unmanned aerial vehicles/target drones from Russia.Algeria is looking for aerial reconnaissance platforms to track down various Maghreb-based terrorist groups, drug and arms traffickers and militants who have taken advantage of post-war chaos in Mali and Libya to destabilise the Sahel-Maghreb region.Algeria currently flies Denel Seeker II UAVs and is believed to have ordered one new Seeker 400 system with three aircraft. The Seeker 400 is currently undergoing flight testing.The North African country has previously expressed interest in General Atomics Predator/Reaper UAVs. It also has six King Air 350ER surveillance aircraft fitted with Gabbiano T-200 radars, Wescam Mx15i infrared cameras and other features for maritime and ground surveillance.Since war clouds started gathering over northern Mali in November 2012, the Algerian army has deployed more than 12 000 personnel to secure the borders with Mali, Libya and Niger.Algeria has increased its defence budget for 2014 and is actively seeking new tankers, transports, helicopters and intelligence, surveillance and reconnaissance (ISR) aircraft. Last year Algeria evaluated the Boeing C-17 Globemaster III strategic transport and Airbus A330 MRTT tanker with an eye to replacing ageing Il-78 Midas tankers and acquiring a new transport aircraft. Algeria asked the two respective companies to conduct demonstrations, indicating the seriousness of these potential contracts.Algeria is growing its defence spending by 6% through 2017, according to some estimates, as it modernises and re-equips to meet the challenge of insecurity and terrorism in the region.....Written by Guy Martin, Wednesday, 26 February 2014Denel\u2019s new Seeker 400 unmanned aerial vehicle (UAV) completed its first round of flight tests earlier this month at the Alkantpan test range in the Northern Cape, after a three year development process.The test flights were successful and will be followed by another round of testing in March ahead of production starting around the second half of this year.\u201cThis is a remarkable achievement for Denel and again confirms our global leadership position in the design and manufacturing of UAVs,\u201d said Tsepo Monaheng, the CEO of Denel Dynamics.The Seeker 400 was originally due to fly a couple of years ago but was delayed due to contracting and certification issues, according to manufacturer Denel Dynamics. Denel\u2019s annual report for the 2012/13 financial year also identified \u201ccomplexities with the key subsystems\u201d as another reason for \u201csignificant variation in the programme schedule, including a delay of the maiden flight test.\u201dThe Seeker 400 was displayed in mock-up form at the 2010 Africa Aerospace and Defence exhibition. It has an endurance of 16 hours, a ceiling of 18 000 feet and a cruising speed is 150 km/h. Denel Dynamics says it is inaudible at altitudes higher than 1 000 metres above the ground and invisible to someone on the ground when flying at typical operating altitudes of between 4 500 and 9 000 feet.The Seeker 400 can carry 100 kg and this can include two payloads at the same time, including electro-optical/infrared and radar as well as a laser rangefinder and illuminator for target designation. Denel says an electronic surveillance payload is available for the detection and location of radar emitters. Future upgrades will include satellite communications, and sense-and-avoid capability in order to obtain civil aviation certification.Currently, the Seeker 400 has a range of 250 km, because it uses only line-of-sight communications, but it could be upgraded to use satellite communications, which would allow it to operate at much greater ranges. With the use of the existing tactical ground station (TGS), the range may be extended to 750 km.Denel Dynamics is executing a production contract for the UAV\u2019s launch customer (which previously operated the Seeker I) and has also attracted strong interest from other potential clients, with most demand expected to come from the Middle East, Southeast Asia and South America. Denel is promoting the Seeker 400 to Seeker II customers, as the new UAV can be flown with Seeker II control stations.Monaheng said the Seeker 400 is a highlight in South Africa\u2019s development of local UAVs, which started in the mid-1980s. Its forerunner, the Seeker II, has been deployed in operational service by international clients, including in Afghanistan. The Seeker was also the first UAV in the world cleared for operations in controlled airspace when it was deployed to monitor potential hotspots during South Africa\u2019s first democratic elections in 1994.The Seeker II has undergone further developments by Denel Dynamics, and has since rebranded as the Seeker 200, and offered to clients who require a medium endurance and dual payload capability offered by the latest version."
+}
