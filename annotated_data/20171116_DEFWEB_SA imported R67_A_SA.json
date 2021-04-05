@@ -20,12 +20,6 @@
       "text": "South Africa"
     },
     {
-      "end": 11,
-      "start": 0,
-      "tag": "Buyer Country",
-      "text": "In the 2016"
-    },
-    {
       "end": 52,
       "start": 48,
       "tag": "Weapon",
@@ -80,12 +74,6 @@
       "text": "Finland"
     },
     {
-      "end": 375,
-      "start": 368,
-      "tag": "Seller Country",
-      "text": "South A"
-    },
-    {
       "end": 882,
       "start": 659,
       "tag": "Answer",
@@ -122,34 +110,16 @@
       "text": "Switzerland"
     },
     {
-      "end": 670,
-      "start": 659,
-      "tag": "Seller Country",
-      "text": "import of 1"
-    },
-    {
       "end": 787,
       "start": 762,
       "tag": "Seller",
       "text": "Peoples Republic of China"
     },
     {
-      "end": 684,
-      "start": 659,
-      "tag": "Seller Country",
-      "text": "import of 16 cannon, wort"
-    },
-    {
       "end": 843,
       "start": 830,
       "tag": "Seller",
       "text": "United States"
-    },
-    {
-      "end": 671,
-      "start": 659,
-      "tag": "Seller Country",
-      "text": "import of 16"
     },
     {
       "end": 857,
@@ -242,22 +212,10 @@
       "text": "United States"
     },
     {
-      "end": 898,
-      "start": 885,
-      "tag": "Seller Country",
-      "text": "From China, t"
-    },
-    {
       "end": 895,
       "start": 890,
       "tag": "Seller",
       "text": "China"
-    },
-    {
-      "end": 889,
-      "start": 885,
-      "tag": "Seller Country",
-      "text": "From"
     },
     {
       "end": 1039,
@@ -276,12 +234,6 @@
       "start": 1082,
       "tag": "Seller",
       "text": "Spain"
-    },
-    {
-      "end": 1046,
-      "start": 1041,
-      "tag": "Seller Country",
-      "text": "A sin"
     },
     {
       "end": 1101,
@@ -348,12 +300,6 @@
       "start": 1399,
       "tag": "Seller",
       "text": "Bulgaria"
-    },
-    {
-      "end": 1339,
-      "start": 1331,
-      "tag": "Seller Country",
-      "text": "The majo"
     },
     {
       "end": 1366,
@@ -494,12 +440,6 @@
       "text": "Germany"
     },
     {
-      "end": 1765,
-      "start": 1759,
-      "tag": "Seller Country",
-      "text": "United"
-    },
-    {
       "end": 1785,
       "start": 1774,
       "tag": "Price",
@@ -558,6 +498,120 @@
       "start": 1581,
       "tag": "Answer",
       "text": "Other imports noted in the report include five simulators from Switzerland (R2.4 million); communications equipment from Germany (R69 million); communications equipment from the United States (R65 million); and cameras, thermal imagers and other optics from France, Belgium, Canada and Germany worth a total of R48 million"
+    },
+    {
+      "end": 38,
+      "start": 26,
+      "tag": "Buyer Country",
+      "text": "South Africa"
+    },
+    {
+      "end": 435,
+      "start": 428,
+      "tag": "Seller Country",
+      "text": "Finland"
+    },
+    {
+      "end": 678,
+      "start": 672,
+      "tag": "Weapon",
+      "text": "cannon"
+    },
+    {
+      "end": 715,
+      "start": 704,
+      "tag": "Seller Country",
+      "text": "Switzerland"
+    },
+    {
+      "end": 787,
+      "start": 762,
+      "tag": "Seller Country",
+      "text": "Peoples Republic of China"
+    },
+    {
+      "end": 843,
+      "start": 830,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 895,
+      "start": 890,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 1020,
+      "start": 1007,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 1087,
+      "start": 1082,
+      "tag": "Seller Country",
+      "text": "Spain"
+    },
+    {
+      "end": 1407,
+      "start": 1399,
+      "tag": "Seller Country",
+      "text": "Bulgaria"
+    },
+    {
+      "end": 1427,
+      "start": 1415,
+      "tag": "Price",
+      "text": "R175 million"
+    },
+    {
+      "end": 1484,
+      "start": 1478,
+      "tag": "Seller",
+      "text": "Norway"
+    },
+    {
+      "end": 1484,
+      "start": 1478,
+      "tag": "Seller Country",
+      "text": "Norway"
+    },
+    {
+      "end": 1538,
+      "start": 1527,
+      "tag": "Seller",
+      "text": "Switzerland"
+    },
+    {
+      "end": 1538,
+      "start": 1527,
+      "tag": "Seller Country",
+      "text": "Switzerland"
+    },
+    {
+      "end": 1521,
+      "start": 1511,
+      "tag": "Price",
+      "text": "R8 million"
+    },
+    {
+      "end": 1558,
+      "start": 1546,
+      "tag": "Weapon",
+      "text": "20 mm rounds"
+    },
+    {
+      "end": 1577,
+      "start": 1565,
+      "tag": "Price",
+      "text": "R1.3 million"
+    },
+    {
+      "end": 1772,
+      "start": 1759,
+      "tag": "Seller Country",
+      "text": "United States"
     }
   ],
   "text": "In the 2016 calendar year South Africa imported arms, armaments and associated equipment valued at R673 million according to the National Conventional Arms Control Committee (NCACC) annual report.\n\nWhile there were no \u201cbig ticket\u201d items such as combat aircraft, attack helicopters, warships and large calibre artillery \u2013 all dutifully listed as \u201cnone\u201d in the report \u2013 South Africa did import eight armoured combat vehicles from Finland. The eight, collectively valued at R268 969 122, are the forerunners of the Badger, the SA Army\u2019s new infantry fighting vehicle being built by Denel Land Systems.\n\nAs far as heavy weapons are concerned the report notes the import of 16 cannon, worth R19 989 941, from Switzerland; 12 84 mm weapons, worth R4 867 196, from the Peoples Republic of China; 46 grenade launchers (R183 847) from the United States and two Swiss sniper rifles (R167 015).\n\nFrom China, the import of 13 missile launchers worth R1.2 million was approved, as well as two missile launchers from the United States worth R1.3 million. A single mortar system was acquired from Spain, for R362 000.\n\nOn the ammunition front South Africa imported thousands of rounds ranging in calibre from 40mm to 338, 30mm and 7.62 mm as well as 400 specialist rounds for sniper rifles. All told the value of ammunition is over R186 million. The majority of this was for 21 000 rounds of 40 mm ammunition from Bulgaria, worth R175 million. Other large ammunition contracts were awarded to Norway (2 000 30 mm rounds worth R8 million) and Switzerland (1 000 20 mm rounds worth R1.3 million).\n\nOther imports noted in the report include five simulators from Switzerland (R2.4 million); communications equipment from Germany (R69 million); communications equipment from the United States (R65 million); and cameras, thermal imagers and other optics from France, Belgium, Canada and Germany worth a total of R48 million. The 51 thermal imagers from France (worth R46 million) were probably for the Badger infantry fighting vehicle.\n\n\n\n\n\n\n\nIn total, the NCACC granted 2 245 import permits from 74 countries in the 2016 calendar year. For the 2015 calendar year, the NCACC authorised 2 249 import permits covering 74 countries worth R502 million. This compares to R200 million in 2014.\n\n"

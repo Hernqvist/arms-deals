@@ -26,12 +26,6 @@
       "text": "Saudi Arabia"
     },
     {
-      "end": 21,
-      "start": 9,
-      "tag": "Buyer Country",
-      "text": "Spain says i"
-    },
-    {
       "end": 105,
       "start": 100,
       "tag": "Weapon",
@@ -50,22 +44,10 @@
       "text": "Spain"
     },
     {
-      "end": 455,
-      "start": 450,
-      "tag": "Seller Country",
-      "text": "Shipb"
-    },
-    {
       "end": 528,
       "start": 516,
       "tag": "Buyer",
       "text": "Saudi Arabia"
-    },
-    {
-      "end": 462,
-      "start": 450,
-      "tag": "Buyer Country",
-      "text": "Shipbuilders"
     },
     {
       "end": 555,
@@ -92,22 +74,10 @@
       "text": "Spain"
     },
     {
-      "end": 806,
-      "start": 801,
-      "tag": "Seller Country",
-      "text": "Shipb"
-    },
-    {
       "end": 890,
       "start": 878,
       "tag": "Buyer",
       "text": "Saudi Arabia"
-    },
-    {
-      "end": 813,
-      "start": 801,
-      "tag": "Buyer Country",
-      "text": "Shipbuilders"
     },
     {
       "end": 926,
@@ -120,6 +90,36 @@
       "start": 939,
       "tag": "Weapon",
       "text": "warships"
+    },
+    {
+      "end": 57,
+      "start": 45,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 499,
+      "start": 494,
+      "tag": "Seller Country",
+      "text": "Spain"
+    },
+    {
+      "end": 528,
+      "start": 516,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 831,
+      "start": 826,
+      "tag": "Seller Country",
+      "text": "Spain"
+    },
+    {
+      "end": 890,
+      "start": 878,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
     }
   ],
   "text": "MADRID \u2014 Spain says it is holding talks with Saudi Arabia to resolve differences over a shipment of bombs that, according to Spanish defense authorities, could end up targeting civilians in Yemen.\n\nDefense Minister Margarita Robles told senators at a hearing on Monday that the decision wasn\u2019t final and that she expected that talks between the two trade partners would settle the dispute.\n\nSpanish government under pressure over Saudi defense deals Shipbuilders are blocking roads in southern Spain amid fears that Saudi Arabia could scrap a $2.1 billion-purchase of warships in retaliation to a move by Madrid to halt a shipment of bombs to Riyadh.\n\nHer department had announced last week that it was halting the delivery of 400 laser-guided precision bombs ordered by Riyadh in 2015 and paid for.\n\nShipbuilders in southern Spain have protested in recent days over fears that Saudi Arabia could scrap a separate $2.1 billion purchase of warships in retaliation.\n\nRobles has ruled out such a scenario."
