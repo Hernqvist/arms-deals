@@ -1,0 +1,41 @@
+This story originally appeared on Aug. 6, 2013. In the early 1960s the U.S. Navy could have gotten a disposable, atomic-powered outboard motor that...
+
+This story originally appeared on .
+
+In the early 1960s the U.S. Navy could have gotten a disposable, atomic-powered outboard motor that would have made America’s warships a Hell of a lot more efficient. But there was the little problem of all that noise and radiation.
+
+File this one under terrible, terrible weapons ideas of the Cold War alongside undersea bases, atomic artillery and ship-launched rocket planes.
+
+The nuclear boat motor actually began life as airplane propulsion, if you can believe that. America’s two great aircraft engine-makers, General Electric and Pratt & Whitney, both hand their fingers in this particular radioactive pie.
+
+Pratt & Whitney tinkered with a closed-loop system in which the radioactive components were kept isolated from the jet exhaust. GE, however, opted for the easier-to-develop open-loop system, which led to nearly flight-ready hardware … at the regrettable cost of highly-radioactive jet exhaust.
+
+The safety issues alone doomed the nuke jet — to say nothing of the extraordinary cost.
+
+In 1961, after spending nearly 15 years and $1 billion — $7.7 billion in today’s dollars — the feds killed off the nuclear-powered aircraft program. But GE wasted no time looking for other uses for its designs.
+
+Above and at top — General Electric art
+
+The engine-maker ended up publishing a 21-volume report on the atomic motor work, and in the fullness of time these documents made their way onto the Internet. In the section entitled “APEX 910: Application Studies,” you can read for yourself GE’s wacky proposal to put its nuclear engine in a pod and bolt it onto a ship.
+
+It was aerospace historian Scott Lowther who labelled GE’s 601B Power Package the “nuclear outboard motor” — and that precisely captures its nature.
+
+In one sleek fat, torpedo-shaped pod, GE proposed to encapsulate a nuclear reactor and a gas turbine in inert neon gas. The reactor would heat the gas which would drive the turbine as it expanded, while reduction gearing would translate the turbine’s spin into propeller revolutions. The seawater surrounding the pod would act as coolant and shielding.
+
+Unlike an internal-combustion engine, the atomic outboard could run for tens of thousands of miles before needing refueling. If a malfunction demanded shutdown or scuttling of the nuclear engine, the pod could simply be jettisoned into the deep.
+
+We are talking the late 1950s, after all. Apparently nobody worried about depositing a bunch of radioactive waste all over the ocean floor.
+
+General Electric art
+
+A typical 601B power pod would be a cylindrical capsule 18 feet long, four feet in diameter and weighing 12 tons. Fueled with 250 pounds of U-235, it could produce 3,700 horsepower for over six months.
+
+Lowther and atomic historian “Mark” pointed out that, like an outboard motor, such a power pod could be attached to pretty much any seaworthy vessel — and you could easily de-nuclearize it later.
+
+“[T]hese units would make dandy propulsion systems for cargo vessels,” Lowther wrote. “Since all of the propulsion system was in outboard pods, the ship could be nothing but a big empty cargo hold.”
+
+For military vessels, replacing the conventional engines with 601Bs could potentially double their available payload. GE’s in-house artists sketched a destroyer and a submarine on patrol, each driven by whirring 601Bs. The pods would be mounted on fins or pylons attached to the same places where conventional propeller shafts go.
+
+Besides subs and destroyers, the Navy’s now-retired hydrofoils were another potential application for the atomic outboard, as they already carried their motors in pods. But the thought of enduring a hydrofoil’s bronco-busting ride for days on end is enough to give pause to the firmest constitution.
+
+There was another problem. “I can’t help but think the drag from those pods would be pretty noisy,” Mark noted. The 601Bs would have made American warships easy targets for prowling Soviet subs.

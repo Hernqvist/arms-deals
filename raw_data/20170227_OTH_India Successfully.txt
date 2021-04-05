@@ -1,0 +1,23 @@
+India’s Defence Research and Development Organisation (DRDO) on Sunday was able to successfully test fly its Rustom 2 at its Aeronautical Test Range at Chalakere which is situated in Chitradurga district of Karnataka.
+
+Rustom 2 is a RA medium-altitude long-endurance unmanned aerial vehicle, and has been manufactured by India, and has similarities with the the American Predator drones. Rustom 2 has very specific and athletic abilities, as it can fly for 24 hours and is also capable for long surveillance and can also keep weapons and surveillance materials. All the parameters regarding the test were normal, hence the test was branded as being successful.
+
+As the DRDO release statement said, “‘This flight assumes significance due to the fact that this is the first flight in user configuration with higher power engine. All parameters were normal.”
+
+Secretary Department of Defence (R&D) & Chairman DRDO Dr S Christopher, Director General of Aeronautical System Dr CP Ramanarayanan, DG Electronics & Communication Systems Ms J Manjula and other scientists which had been related to the project, oversaw the flight and celebrated it’s success.
+
+Rustom 2 is part of the Rustom line of Unmanned Aerial Vehicles (UAVs) that includes Rustom-I, Rustom-H and Rustom-C.
+
+The drone was developed for use by all three services of the Indian armed forces, primarily for intelligence, surveillance and reconnaissance (ISR) operations. The medium-altitude prototype can fly at over 22,000 ft and is a long-endurance (MALE) UAV that has an approximate flight time of 20 hours.
+
+The drone has been modelled on the Rustom-H UCAV with a light airframe. The Rustom 2 is propelled by two 3-bladed NPO saturn engines. It stands 2.4 metres tall with a wingspan of 20.6 metres and a length of 9.5 metres. The UAV’s tail section comes with a T-type vertical stabiliser and a high-mounted horizontal tailplane.
+
+It can fly at around 280 km/h and carry a variety of payloads like Medium Range Electro Optic (MREO), Long Range Electro Optic (LREO), Synthetic Aperture Radar (SAR), Electronic Intelligence (ELINT), Communication Intelligence (COMINT) and Situational Awareness Payloads (SAP) that help in performing missions even during the night. MREO and LREO sensors are placed inside a modular payload under the nose for capturing imagery and video.
+
+The drone’s data link developed by Defence Electronics Application Laboratory transmits the ISR data to the armed forces’ ground control station in realtime allowing prompt action.
+
+Rustom 2 can fly missions on manual as well as autonomous modes. The onboard way-point navigation system allows the drone to conduct missions autonomously. The two NPO Saturn MT turboprop engines are fitted under the wings and produce over 450 kilogram-force thrust each.
+
+Several critical systems and components of the drone, like its airframe, avionics sub-systems, flight control, landing gear etc have been made indigenously and some in collaboration with private manufacturers.
+
+Sources: Various

@@ -1,5 +1,7 @@
 import tkinter as tk
+from tkinter.filedialog import askopenfilename
 from tkinter.font import Font
+from tkinter.messagebox import askquestion
 from collections import defaultdict
 import os
 import glob
@@ -270,11 +272,17 @@ class Application(tk.Frame):
     self.editor.on_edit = self.invalidate
     self.master.bind("<Key>", self.editor.key_pressed)
 
-    self.invalidate()
     if not os.path.exists(INPUT_DIR):
       os.makedirs(INPUT_DIR)
     if not os.path.exists(OUTPUT_DIR):
       os.makedirs(OUTPUT_DIR)
+
+    menubar = tk.Menu(master)
+    filemenu = tk.Menu(menubar, tearoff=0)
+    filemenu.add_command(label="Open", command=self.load_specific)
+    filemenu.add_command(label="Delete", command=self.delete_current)
+    menubar.add_cascade(label="File", menu=filemenu)
+    root.config(menu=menubar)
 
     self.load_random()
 
@@ -282,21 +290,18 @@ class Application(tk.Frame):
     self.legend.next_button["state"] = "normal"
     as_json = self.editor.get_json()
     as_json['filename'] = self.filename
-    path = self.output_path()
+    path = self.output_path(self.filename)
     with open(path, 'w') as file:
       json.dump(as_json, file, indent=2, sort_keys=True)
 
   def invalidate(self):
     self.legend.next_button["state"] = "disabled"
 
-  def new_text(self):
-    invalidate()
-
-  def output_path(self):
-    return OUTPUT_DIR + "/" + self.filename + ".json"
+  def output_path(self, filename):
+    return OUTPUT_DIR + "/" + filename + ".json"
 
   def find_existing_json(self):
-    path = self.output_path()
+    path = self.output_path(self.filename)
     if not os.path.isfile(path):
       return None
     with open(path) as json_file:
@@ -316,12 +321,35 @@ class Application(tk.Frame):
       self.editor.load_json(existing)
 
     self.winfo_toplevel().title("Textinatiratiror: {}".format(self.filename))
-    self.invalidate()
 
   def load_random(self):
     paths = glob.glob(INPUT_DIR + "/*")
-    self.load(random.choice(paths))
+    existing_paths = glob.glob(OUTPUT_DIR + "/*")
+    for existing in existing_paths:
+      existing = INPUT_DIR + "/" + Path(existing).stem + ".txt"
+      if existing in paths:
+        paths.remove(existing)
+        print("Excluding", existing, "from random choice.")
+    if len(paths) == 0:
+      self.editor.initialize("All files are annotated.")
+    else:
+      self.load(random.choice(paths))
 
+  def load_specific(self):
+    path = askopenfilename(initialdir=INPUT_DIR,
+        title="Select text file",
+        filetypes=(("text files", "*.txt"),))
+    if path == tuple():
+      return
+    self.load(path)
+
+  def delete_current(self):
+    path = self.output_path(self.filename)
+    if askquestion('Delete annotations',
+          'Are you sure you want delete annotations for {}'.format(path),
+          icon = 'warning') == 'yes' and \
+        os.path.exists(OUTPUT_DIR): 
+      os.remove(path)
 
 root = tk.Tk()
 root.scale = 1.5

@@ -1,0 +1,21 @@
+BERLIN — Germany is looking to sell a secondhand surveillance drone that has cost the country more than 700 million euros ($823 million) to Canada — without many core components it needs to fly.
+
+A defense ministry reply to lawmakers from the opposition Left Party states that Germany has decided to "begin concrete negotiations with Canada for the sale of the Euro Hawk aircraft, two ground stations and possibly certain spare parts."
+
+The government response, dated Sept. 19 and obtained by The Associated Press, adds that Germany isn't currently in talks with any other country or organization about the sale of the drone.
+
+In a statement Monday, Germany's defense ministry confirmed talks with Canada were planned, but declined to comment on a possible sales price or date. Officials at the Canadian Embassy in Berlin weren't immediately able to comment.
+
+Germany ordered the Northrop Grumman Global Hawk variant in 2000 to use for long-distance reconnaissance, but later canceled the order because of skyrocketing costs and revelations that the prototype wouldn't be certified to fly in Europe. Then-Defense Minister Thomas de Maiziere acknowledged in 2013 that the drone was a write-off, telling lawmakers it was better to have a "horrible end than a horror without end."
+
+Last year, the government acknowledged that the development and procurement of the prototype, a signals-intelligence sensor called "ISIS" and spare parts, and the completion of seven test flights had cost about 681 million euros since 2007. A further 24 million euros were spent on preparing for a resumption of temporary test flights.
+
+According to the government's latest response to Left Party lawmakers, which hasn't been published yet, the drone has already been "demilitarized." This entailed the removal of American-made radio equipment, the GPS receiver and aerials, as well as all encryption and the flight control system. Rather than laboriously delete individual software components, technicians chose to perform a "hardware uninstallation" — removing all hard drives containing sensitive U.S.-made software.
+
+"The question is what a buyer would do with such a gutted aircraft," said Thomas Wiegold, a German journalist who runs the defense website Augen Geradeaus . "Without GPS navigation and in particular without flight control systems, the drone would hardly be able to fly."
+
+× Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.
+
+Andrej Hunko, one of the Left Party lawmakers who submitted questions to the government, said the drone now only has "scrap value."
+
+"The sale will therefore recoup at best a small portion of the tax money spent," he said. "I expect the loss will amount to several hundred million euros (dollars)."

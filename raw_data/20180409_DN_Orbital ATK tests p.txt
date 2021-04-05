@@ -1,0 +1,75 @@
+BURNET, Texas — The 50-lb warhead arrived to the test site in the Texas desert in the back of a dust-covered Jeep nestled in an unassuming open, beat-up cardboard box.
+
+Less than 30 minutes later, the warhead exploded from its perch hanging from a couple of 2x4s, driving into the ground below and sending thin metal panels around it — set up to measure fragmentation from the blast — flying backward. A shockwave ripped through the ground and could be felt many hundreds of yards away in a bunker.
+
+When the dust settled, the fragmentation-pocked metal panels lay contorted on the earth and evidence of a warhead test was everywhere including fragmentation embedded deep in random test rigging and the tip of the warhead resting on the ground in the center of the test arena.
+
+“It’s too early to say it’s going to match our model, but it’s what we were expecting,” Richard Truitt, Orbital ATK’s program manager for warhead development programs, told Defense News while surveying the aftermath.
+
+The warhead — designed for hypersonic applications — marks a major first for the company. Three out of five of its major components were made using additive manufacturing. And the March 29 test was the first time Orbital ATK has tested a warhead built partially from 3D-printed materials.
+
+Hypersonic weapons are anything that can exceed Mach 5, which is five times faster than the speed of sound.
+
+The company has developed its Lethality Enhanced Ordnance (LEO) warhead capability and some modeling techniques to help look at fragmentation design on certain target sets, Pat Nolan, vice president and general manager of Orbital ATK’s missile products division, told Defense News in a recent interview before the test.
+
+“Now we’re coupling our rocket motor hypersonic experience with our warhead design experience to design a warhead that can survive at high speeds, high temperatures, when you’re going that fast,” Nolan said before the test. The test will examine what effects the fragmentation will have on various targets.
+
+× Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.
+
+The warhead went from conception to test in 60 days, according to Truitt. The team began designing the warhead at the start of February, he said, and using additive manufacturing to build a large portion of the components cut out at least a month and a half to manufacture the warhead.
+
+“If you walk around it, you will see it’s not a cylinder, it’s got some really complicated dimensions. Getting that part in that dimension in a very short time is nearly impossible,” Truitt said. Orbital received the hardware to build the warhead in less than two weeks, he added.
+
+“We are really happy to do this test with additive manufactured parts because it is going to tell us, does that actually function the way a normal component would,” Truitt said prior to the test.
+
+A view from the front of the arena on the test range as the warhead detonates. (Photo courtesy of Orbital ATK)
+
+Orbital decided to try additive manufacturing on a warhead design for hypersonic applications because the Defense Department is moving full speed ahead with hypersonic technology development in the coming years as it decides how it will employ such weapons.
+
+The company wants to be ready with the right modeling and data when hypersonic weapons prototypes and testing begin to ramp up.
+
+“Additive manufacturing allows us to make complicated geometries, which would benefit a hypersonics application, without the nasty, long schedule,” Truitt said.
+
+And beyond building warheads rapidly for testing, manufacturing them using 3D printing capabilities would likely drive down the cost because instead of a machinist starting with a solid chunk of steel or aluminum, which is expensive, and throwing away 99 percent of it, there is no waste.
+
+“It’s an enabling technology for us to design and deliver weapons or warheads and get them to the warfighter,” Truitt said.
+
+The test itself was conducted in a traditional arena where the warhead is hung from above and metal panels surround it in a half circle that are designed to measure how the fragmentation from the warhead disperses upon detonation. High-speed cameras are rigged to measure the velocity of the fragmentation. Another two panels that consist of layers of material — in this case housing insulation — are designed to capture shrapnel in order for the pieces to be measured as well as the depth of perforation.
+
+The data will be used to measure up against what the engineers believed would happen based on modeling and simulation and will also help refine future modeling, Truitt explained.
+
+“I’m hoping we already nailed it,” Truitt said, when comparing his initial impressions and the model’s predictions, but said the company would take the data back to its labs and give it a deeper look.
+
+“Right now we’re spending our own [internal research and development] to position ourselves to play when the customer comes around and says, ‘I have this need in this target set. How can you help me?’” Nolan said. “And so it just helps us with our suite of capabilities to answer questions once we have that demonstration in hand.”
+
+Hypersonic efforts ramp up
+
+Orbital ATK’s efforts are among many initiatives both within U.S. industry and the Defense Department to stay ahead of peer competitors Russia and China, who are both heavily engaged in developing hypersonic weapons.
+
+While it’s been argued that the U.S. is behind Russia and China in its development of hypersonic missiles, that isn’t exactly true, according to James Acton, physicist and co-director of the Carnegie Institute’s Nuclear Policy Program.
+
+“Experts often argue the United States is behind in this technology because Russia and China appear to be testing more frequently,” he said in an explainer piece on hypersonics published this month on Carnegie’s website. “This is true, but in many ways, the United States is running a different race from Russia and China.”
+
+He argues that Russia and China are more focused on nuclear warheads for their hypersonic weapons which requires less accuracy on a target to be effective. However, the U.S. wants to be able to hit targets with near pinpoint accuracy, within a few meters of a target.
+
+“So U.S. goals are much more demanding than Russian and Chinese goals,” Acton said.
+
+Additionally, the U.S. has been testing hypersonics for a long time to include the Advanced Hypersonic Weapon that has traveled “over about” 4,000 kilometers in a test, according to Acton.
+
+China, for instance, he noted, has only tested boost-glide weapons at a range of 2,000 kilometers.
+
+Yet Acton warns there are signs that Russia, at least, has intentions to use non-nuclear capable warheads on hypersonic weapons which “would present a new and potentially very significant security threat to the United States and its allies,” Acton said. “Such weapons would allow Russia to threaten, with non-nuclear warheads, targets in Europe and eventually the continental United States that, previously, it could only have destroyed with nuclear weapons.”
+
+This means the U.S. Defense Department is getting even more serious about hypersonic development and is making hypersonic capabilities its “highest technical priority,” Michael Griffin, the Pentagon’s new undersecretary of defense for research and engineering, said last month at the McAleese/Credit Suisse conference in Washington, D.C.
+
+DARPA, NASA and the overall DoD will all participate, starting next year, in a national hypersonics initiative to get after hypersonics development. The investment in the initiative is expected to be in the hundreds of millions.
+
+The Defense Advanced Research Projects Agency budget has increased for hypersonic weapons development over the last two years.
+
+DARPA plans to start flying some of its hypersonic systems in 2019, which promises a lot of tests.
+
+Among the programs being pursued by DARPA are the Hypersonic Air-breathing Weapon Concept (HAWC) and the Tactical Boost Glide (TBG) program.
+
+The Army has designated Long-Range Precision Fires as its top modernization priority and plans to include hypersonics development in that effort. It’s possible, according Brig. Gen. Steve Maranian, who is in charge of LRPF modernization efforts within the Army, that the Army could test hypersonic prototypes as early as fiscal year 2019 to try to get after strike capability at strategic ranges.
+
+The Navy and the Air Force are also looking at hypersonic capabilities.

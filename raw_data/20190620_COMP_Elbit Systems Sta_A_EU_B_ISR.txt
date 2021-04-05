@@ -1,0 +1,13 @@
+Elbit Systems has started operating the maritime UAS patrol service available to countries in the European Union (EU) under a contract between the European Maritime Safety Agency (EMSA) and the Portuguese company CEiiA. Iceland is the first EU country to use this particular long-range UAS patrol service.
+
+The Icelandic maritime authorities based the Hermes 900 Maritime Patrol operation at the Egilsstaðir airport in the East of the island, from which maritime UAS patrol has the capability of covering more than half of the Icelandic Exclusive Economic Zone (EEZ).
+
+The Hermes 900 Maritime Patrol is a persistent long-range unmanned maritime surveillance system tailored for littoral and blue water operations, featuring maritime radar, an Electro Optic payload, Satellite Communication, an Automatic Identification System (AIS) receiver and an Emergency Position-indicating Radio Beacon (EPIRB) receiver.
+
+Thus configured, the Hermes 900 Maritime Patrol enables persistent monitoring of vast swathes of sea and long coastlines and effective identification of suspicious activities and potential hazards. The particular Hermes 900 Maritime Patrol in use is adapted to withstand the strong winds and icy conditions common to the North Atlantic Ocean.
+
+Elad Aharonson, General Manager of Elbit Systems ISTAR Division, commented:
+
+“We are pleased to have been able to commence operation only a few months after the contract was awarded to CEiiA. Providing maritime UAS services to European Union authorities is a vote of confidence in the Hermes 900. Extensively deployed, the Hermes 900 family of UAS is continuously extending its capabilities, introducing the capability to operate in civilian airspace and integrating self-protection suites and stronger payloads.”
+
+Source: Press Release

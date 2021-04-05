@@ -1,0 +1,63 @@
+TEL AVIV: As the US tightens its terms for financing the Israeli military, one of America’s closest allies is beginning to sell its weapons to the US, instead of the other way around.
+
+MPR 500 Bombs
+
+Just last week, US-based Orbital ATK and Israel’s IMI Systems announced a teaming agreement to supply a version of IMI’s 500-lb Multi-Purpose Rigid Bomb (MPR 500) family of munitions for the US Air Force.
+
+“We are hopeful that this relationship will lead to future product enhancements and additional opportunities for Orbital ATK and IMI Systems to collaborate,” said Pat Nolan, vice president and general manager of missile products at Orbital’s Defense Systems Group.
+
+The MPR-500 is used on several different Israeli fighter aircraft. In conjunction with GPS or laser guidance, it’s designed to improve strikes in dense urban environments and in close proximity to friendly forces, while reducing collateral damage and risk to non-combatants. The new bomb is designed to penetrate multiple floors and detonate its fragmenting high-explosive warhead inside buildings, destroying hidden targets. That allows planners to target a specific floor, while leaving the rest of a building relatively safe.
+
+IMI says that the weapon maintains its structural integrity throughout its path; eliminating breakup or jittering that has often been encountered with standard GP bombs, which increases the risk of duds or collateral damage. IMI claims that MPR-500 offers over 90 percent reliability operating against such hard targets.
+
+Iron Dome & Tamir
+
+A letter signed by 40 Republicans and Democrats in the House of Representatives urged appropriators to consider purchasing the Israeli Iron Dome rocket interceptor for American use. In Israel, Iron Dome intercepts incoming rockets, artillery, and mortar shells aimed mainly at civilian targets; since the US homeland isn’t in range of such tactical weapons, an American Iron Dome would primarily protect frontline forces and forward bases.
+
+For these missions, however, the US Army seems committed to its own Indirect Fire Protection Capability (IFPC). However, the Army has test-fired the Iron Dome’s Tamir interceptor from IPFC’s Multi-Mission Launcher (MML), which is designed to fire a wide array of different interceptors. (See video above.) Raytheon has teamed with Rafael to build the Tamir, which kills incoming threats launched from ranges of up to 70 km.
+
+Iron Dome has a remarkable track record: It’s the world’s most used missile defense system, intercepting more than 1,500 targets with a greater than 90 percent success rate since being fielded in 2011. I can say from my own experience that, during the Protective Edge operation in Gaza in 2015, when rockets were launched into Israel, it was very comforting to hear the sound of a Hamas rocket exploding overhead after being hit by Iron Dome.
+
+The system is effective day or night and in all weather conditions, including low clouds, rain, dust storms and fog. It features a first-of-its-kind multi-mission launcher, which is designed to fire a variety of interceptor missiles, depending on the threat — similar to the American MML still in development.
+
+Rafael is now completing development of the C-Dome, a naval system derived from the Iron Dome designed to protect ships from all aerial threats. C-Dome handles saturation attacks by engaging multiple incoming threat simultaneously. C-Dome components include a multi-round launcher assembly loaded with vertically-launched canistered interceptors, installed under the ship’s deck.
+
+Will Rafael offer C-Dome to the U.S military? “If Raytheon makes this version a locally-made system, this option looks very realistic,” a Ministry of Defense source tells Breaking Defense. Rafael refused to comment.
+
+Eitan Armored Personnel Carrier
+
+Sources in the Israeli Defense Ministry point to the Israeli-developed Eitan eight-wheel drive armored personnel carrier (APC) as another candidate. Israel recently approved the production of hundreds of the Eitan APCs.
+
+Defense Minister Avigdor Lieberman said after the Eitan was approved that it would dramatically improve Israeli capabilities within a decade, equipping IDF ground forces with hundreds of armored APCs with capabilities including an Active Protection System (APS) to shoot down incoming anti-tank weapons.
+
+In fact, Brig. Gen. Guy Paglin, head of the Defense Ministry’s tank and APC directorate, said that the Eitan will be the world’s best protected armored vehicle: “It will have excellent combat capabilities that were tested in the past year in all the combat (sectors), from north to south.”
+
+The Eitan is the first wheeled 8×8 APC developed in Israel, with the prototype first publicly unveiled in 2016. The IDF plans to gradually replace its very old tracked M113 APCs with a new armored vehicle. A prototype of the Eitan was first publicly unveiled in 2016.
+
+The Eitan will be fitted with Rafael’s Trophy APS, and Israeli sources tell Breaking Defense that other weapon systems will also be mounted on the wheeled APC. Sources in the Defense Ministry say that it will make sense to transfer production to the U.S .
+
+Will this open the U.S market for a version of this advanced APC? A Ministry of Defense source, asked about this, smiled and said: “Production in the U.S of an Israeli system is a different opera.” Currently the US Army is doubling down on its investment in a different 8×8 APC, the US-built Stryker, itself a variant of the widely sold Swiss MOWAG Piranha. The Strykers are slated to get bigger guns, upgraded underbody armor, and US-built active protection systems. For its part, the IDF had tested the Stryker but decided that it did not meet its requirements.
+
+Could a variant of Eitan be built in the US? Already, many components of two Israeli tracked vehicles, the Merkava 4 Main Battle Tank and the Namer heavy APC, are made in the US. In fact, some 60 percent of the Namer is made in the US, including the chassis. General Dynamics is the lead US contractor, but dozens more US companies are also involved in the program. In the case of the Eitan APC, involvement by US industry is expected to be even greater than in the Namer project.
+
+So when the amount of local currency available from US grants will limit the production of the Eitan in Israel, transferring the production to the U.S is an idea that is in the air in all relevant parties.
+
+https://youtu.be/9eF22kVN46g?t=8s
+
+Hero-30 & Hero-400EC Loitering Weapon
+
+Three years ago, Raytheon teamed with Israeli company Uvision in an attempt to get orders to supply the Israeli-developed Hero-30 loitering weapon system — essentially, a kamikaze drone — to the U.S Army, under the Army’s Lethal Miniature Aerial Missile Systems (LMAMS) . The tender is aimed at the purchase of 25,000 loitering weapon systems over 15 years. If the Hero-30 is selected, Raytheon will serve as the main contractor, according to the contract.
+
+Uvision also has a larger version of the loitering weapons system, the Hero 400 EC, unveiled last year. This variant has a unique cruciform aerodynamic design which, according to the Israeli company, delivers high-accuracy and reduces collateral damage.
+
+Uvision says that the Hero 400 EC’s electric motor enables it to loiter silently above a target, ready to instantly respond to threats. According to Noam Levitt, UVision’s CEO, the system was developed to answer a growing requirement for a loitering weapons system that can remain in the air for extended periods, provide a substantial warhead effective against a wide variety of targets, and deliver missile-level pinpoint strike capabilities. Will that version also be evaluated by the U.S armed forces? Uvision refused to answer questions about this option.
+
+Trophy and Iron Fist Active Protection Systems
+
+One system the US Army is already buying: Rafael’s Trophy Active Protection System, which shoots down incoming anti-tank weapons before they impact. Trophy is the only battle-tested APS in the Western world, though Russia has used its own APS to great effect in Ukraine. The IDF has installed Trophy on its Merkava heavy tanks and now the US is buying four brigades’ worth for its M1 Abrams, with Chief of Staff Mark Milley pledging to eventually equip all armored brigades.
+
+Meanwhile the US is testing a rival Israeli APS, IMI’s Iron Fist, on its M2 Bradley infantry fighting vehicles. Installing APS on a Bradley is harder than on a tank, because the Bradley’s electrical system has less available power — crews in Iraq often had to shut down some systems before turning others on — and the vehicle’s capacity to take more weight is lower as well. But if Iron Fist passes US testing, which is not a foregone conclusion, it will probably equip the Bradleys in the same four brigades whose tanks are getting Trophy, and possibly many more units as well.
+
+“The intent is to outfit the entire heavy force, all of our vehicles, all the ground vehicles — the Bradleys, the tanks, any future combat vehicles — with active protective systems,” Gen. Milley told the Senate. “Active protection systems are manufactured only in…three (countries) right now. (One is) Russia, which we’re not going to get them from. (The others are) Israel and the United States, and the companies in the United States, they’re not ready yet for full rate production.” That could mean big business for Israeli firms.
+
+Sydney Freedberg contributed to this article.

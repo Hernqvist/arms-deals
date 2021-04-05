@@ -1,0 +1,5 @@
+Go.USA.gov is a URL shortener that lets government employees create short .gov URLs from official government domains, such as .gov, .mil, .si.edu, .fed.us, or .state.xx.us URLs.
+
+Registration is limited to people with .mil, .gov, .fed.us, .si.edu, and .state.xx.us e-mail addresses. Create a new account.
+
+If you are a government employee, but are unable to register for a new account, please contact us.

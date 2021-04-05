@@ -1,0 +1,81 @@
+The Spike lightweight fire-and-forget anti-tank missile system. The Spike missile system during trials with the British Army. Spike-MR (Gill) is the shorter range version with a range up to 2.5km. Spike-LR has a range up to 4km. The Spike missile uses a charge-coupled device (CCD) seeker for daytime use or an imaging infrared (IIR) seeker for day and night-time use. The lofted trajectory and tandem high-explosive warhead enables the Spike missile to penetrate tanks equipped with explosive reactive armour (ERA). The firing post consists of the command launch unit (CLU), the thermal imaging sight and a tripod. Both Spike-MR and Spike-LR missiles are in service with the Israeli Defence Force.
+
+Rafael, based in Haifa, Israel, manufactures the Spike family of anti-armour weapons. The weapons are lightweight fire-and-forget anti-tank missiles and use electro-optical and fibre-optic technologies. The systems are used by infantry soldiers, special rapid reaction forces, ground forces and helicopter aircrew.
+
+Spike anti-tank missile family
+
+The Spike family includes: Spike-SR with a range of 800m, Spike-MR (Gill) with range of 2,500m, Spike-LR with 4,000m range and Spike-ER (formerly known as NTD Dandy) with a range of 8,000m. Spike-LR and Spike-ER can also be fitted on light combat vehicles and a package for mounting Spike-ER on helicopters is also available. The Spike missile system is currently in production and in service with the Israeli, Dutch, Chilean, Colombian, Finnish, German, Polish, Italian, Peruvian, Spanish and Singaporean armed forces.
+
+Spike anti-tank missile orders and deliveries
+
+In October 2003, the IDF awarded a production contract for Spike C4I, the Spike-ER system fitted with networking capability. The Spike launcher will be fitted with a variant of the Azimuth Comet global positioning system (GPS), laptop computer and VHF datalink.
+
+In June 2004, a joint venture company, Eurospike, was formed by Rafael with Rheinmetall Defence Electronics (formerly STN Atlas Elektronik) and Diehl Munitionssysteme (DMS). This followed a cooperation agreement signed by the three companies in November 1998. Eurospike GmbH is the prime contractor for the Spike family of missiles in Europe.
+
+In May 2000, the Finnish Army selected the Spike-MR system to meet its requirement for a medium-range anti-tank missile system. Rheinmetall DeTec will produce the launchers, Diehl the munition and Rheinmetall the warhead.
+
+In August 2001, the Dutch Ministry of Defence ordered the Spike-MR (Gill) missile system to replace the Dragon missile of the Royal Netherlands Army and Marine Corps. Rafael is the prime contractor, with Rheinmetall, Diehl and Thales Nederland (formerly Signaal) the major subcontractors.
+
+“The Spike anti-armour missile has four rectangular fins for aerodynamic control.”
+
+In January 2004, Poland signed a contract with ZM Mesko for the purchase of the Spike-LR missile system. ZM Mesko manufactured elements of the missiles and began final assembly in 2006. The requirement is for 264 tripod launchers and 2,675 missiles. Deliveries began in November 2004 and conclude in 2013. Poland also requires 160 systems to be integrated on the Oto Melara HITFIST 30 turret mounted on Patria armoured modular vehicles. The system is also being trialled by the Romanian Army.
+
+In December 2006, the government of Spain placed an order for 260 launchers and 2,600 Spike-LR missiles, to replace Milan and Dragon missiles. General Dynamics Santa Barbara has signed a contract with Rafael for local production of the missiles. Deliveries began in 2009 and scheduled to conclude in 2014.
+
+In January 2008, Spain placed an order for Spike-ER missiles to equip the 24 Tiger HAD attack helicopters on order from Eurocopter.
+
+In December 2008, PSM and the German Ministry of Defence signed a contract to integrate the Spike missile system on the Puma armoured infantry fighting vehicle being developed for the German Army.
+
+Spike anti-tank missile system
+
+Spike-MR and Spike-LR have the same firing post. The firing post consists of the command launch Unit (CLU), the thermal imaging sight and a tripod.
+
+The system is made ready to fire in less than 30 seconds. The soldier acquires the target and lays the crosshairs of the sight on the aim point on the target using either the day sight with a 10× magnification and 5° field of view or the clip-on thermal imaging night sight with wide and narrow fields of view.
+
+In fire-and-forget mode, the soldier activates the missile, locking the tracker on the target and pushes the fire button to launch. The missile automatically propels itself towards the target without any additional interaction and this fire-and-forget capability allows the soldier the option of relocating to a new firing position or to reload immediately for the next engagement. Reloading takes less than 15 seconds.
+
+After launch the missile follows a lofted trajectory and as it approaches the target it dives down to impact the target. The lofted trajectory and the tandem high explosive warhead enables the missile to penetrate tanks equipped with explosive reactive armour (ERA).
+
+Anti-armour missile
+
+The missile has four rectangular fins for aerodynamic control at the rear, and four wings at just over halfway from nose to tail on the length of the body. They unfold as the missile leaves the launch canister.
+
+The guidance system in the nose of the Spike missile comprises a charge-coupled device (CCD) and imaging infrared (IIR) seeker. The imaging infrared provides higher sensitivity and improved thermal background rejection characteristics for all weather day and night operation.
+
+Spike-MR (Gill) medium-range anti-armour missile
+
+Spike-MR, the medium-range version, is a portable fire-and-forget anti-armour missile system with a range up to 2.5km. It can have the option of the additional fire, observe and update mode of operation if required.
+
+“Spike can penetrate tanks equipped with ERA.”
+
+Spike-LR long-range anti-armour missile
+
+Spike-LR is a portable anti-armour weapon system with a range of up to 4km, which can be operated in fire-and-forget mode and in fire, observe and update mode using the fibre-optic data link.
+
+Spike-LR is equipped with a fibre-optic data link guidance system, which sends commands to the missile from the launch system and receives, into the gunner’s field of view, images from the seeker. The gunner can update his aim point while the missile is in flight using the fibre-optic link. As well as update target information, the datalink allows the gunner to switch targets and also receive real-time intelligence and perform battle damage assessment. The Spike system can work in non line-of-sight (NLOS) mode allowing the gunner to operate from a covered position.
+
+Spike-LR, which can also be installed on light combat vehicles, can be used to engage tanks, armoured vehicles, hardened shelters and low flying slow targets such as helicopters.
+
+Spike-ER extended-range anti-armour missile
+
+The extended-range (8km) version, Spike-ER, also has a larger warhead. It is designed for mounting on light combat vehicles but can also be removed and fitted onto a tripod. The vehicle package includes the missile in its canister, a remotely controlled turret with target acquisition system and electronics and gunner’s station with multifunction display, control panel and handgrip.
+
+A bi-directional fibre-optic datalink provides Spike-ER with a fire and steer mode, in addition to the other two modes. This means that the gunner does not need to lock-on to the target before launch, but can choose the target after launch and steer the missile to the target’s most vulnerable point or hand over to fire-and-forget.
+
+“The extended-range (8km) version,
+
+Spike-ER, has
+
+a larger warhead.”
+
+Rafael has developed a version of Spike-ER with a penetration, blast and fragmentation (PBF) warhead which only explodes after penetration of the target (e.g. a wall), minimising collateral damage.
+
+A Spike-ER launcher has been developed for helicopters. The four-round launcher requires no modifications to the helicopter, other than software integration. It can be fitted to a variety of helicopters, including AH-64 Apache (which can carry 16 missiles), AH-1S Cobra, A-129, MD-500, Mi-24 and others.
+
+Spike NLOS non-line of sight missile
+
+The Spike NLOS is a multi-platform electro-optical attack missile that can be fired from land, air and naval platforms. The missile can hit the non-line of sight (NLOS) targets within the range of 25km. Equipped with a range of warheads and RF communication, Spike NLOS can be deployed in offensive and defensive scenarios.
+
+Mantis fast attack vehicle mounted Spike-LR
+
+A prototype of the Spike-LR missile mounted on a Marvin ITV-1 4×4 all-terrain vehicle has been built by Rafael. The system is called Mantis and consists of six Spike-LR missiles with the Rafael Spike C3I system and reconnaissance sensors, including CCD day camera, thermal imager, laser rangefinder and GPS.

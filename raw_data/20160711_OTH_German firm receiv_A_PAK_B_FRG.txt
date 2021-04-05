@@ -1,0 +1,19 @@
+German firm receives contract to configure Pakistani ATR-72s
+
+Rheinland Air Service (RAS), a German firm specializing in airliner maintenance, repair and overhaul (MRO) as well as other support tasks, was awarded a contract by the Pakistan Navy to convert two ATR-72 aircraft for anti-submarine warfare (ASW).
+
+Although the company did not explicitly note that the ATR-72 would be converted, Pakistan Navy ATRs were spotted at RAS’s facilities in Germany in recent weeks. RAS was contracted to re-configure two Pakistani ATR-72s, with the first slotted for delivery by the end of 2017.
+
+RAS expects additional Pakistani orders in the coming years.
+
+Comment and Analysis
+
+The current iteration of the ATR-72 ASW – currently on offer by Italian vendor Leonardo-Finmeccanica – uses the ATR-72-600 as its base platform. This aircraft is capable of ASW operations through the use of a fitted sono-buoy launcher (for underwater acoustic detection) and pylons for lightweight ASW torpedoes.
+
+The Pakistan Navy operates the slighter smaller ATR-72-500, but this should not impact its likelihood of being an ATR-72 ASW. RAS made very explicit mention of the aircraft’s use as a ASW platform, and it is worth noting that Turkey did intend to use the ATR-72-500 as the basis for its program, before shifting to the ATR-72-600 (which is currently serving as the basis for the Turkish Maritime Patrol Aircraft or TMPA).
+
+ATR-72 ASWs will be a welcome addition to the Pakistan Navy’s maritime patrol aircraft (MPA) fleet, which has yet to fully recover from the loss of two Lockheed Martin P-3C Orion in 2011 (from an insurgent attack on the naval base PNS Mehran). It currently has seven P-3Cs in service.
+
+Derived from a widely used commercial platform, the ATR-72 ASW is a relatively feasible and accessible platform for building a sizable MPA fleet. In fact, while Alenia Aermacchi (now Leonardo) was the first to offer the ATR-72 ASW, it is not the only available avenue. Rather, the Pakistan Navy could (and likely did) select subsystems from a variety of vendors (with RAS being selected to undertake the integration work).
+
+If Pakistan’s ATR-72 ASWs are similar in their general configuration to Turkey’s ATR-72 TMPA, then it is likely the following subsystems are being integrated: a search radar, electro-optical sensors, electronic support measures (ESM), magnetic anomaly detector (MAD), integrated self-protection suite, sono-buoy launcher, and hardpoints for the fuselage sides (for lightweight ASW torpedoes).
