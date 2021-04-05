@@ -104,14 +104,11 @@ class EndMark(tk.Canvas):
 
 class Editor(tk.Text):
   def __init__(self, master=None):
-    super().__init__(master=master)
+    super().__init__(master=master, wrap="word")
     self.master = master
     self.on_edit = lambda: None
 
-    text = ""
-    for i in range(50):
-      text = text + "hello this is text {}\n".format(i)
-    self.initialize(text)
+    self.initialize("")
 
   def refresh(self):
     y = self.yview()[0]
@@ -268,7 +265,8 @@ class Application(tk.Frame):
     self.legend.next_button.configure(command=self.load_random)
 
     self.editor = Editor(self)
-    self.editor.pack(expand=True, fill='both')
+    self.editor.pack(expand=True, fill='both',
+        padx=5, pady=5)
     self.editor.on_edit = self.invalidate
     self.master.bind("<Key>", self.editor.key_pressed)
 
