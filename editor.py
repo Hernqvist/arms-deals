@@ -329,7 +329,6 @@ class Application(tk.Frame):
       existing = INPUT_DIR + "/" + Path(existing).stem + ".txt"
       if existing in paths:
         paths.remove(existing)
-        print("Excluding", existing, "from random choice.")
     if len(paths) == 0:
       self.editor.initialize("All files are annotated.")
     else:
