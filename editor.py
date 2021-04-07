@@ -11,6 +11,7 @@ from pathlib import Path
 
 INPUT_DIR = "raw_data"
 OUTPUT_DIR = "annotated_data"
+FINAL_OUTPUT = "data.json"
 
 class MultiSet:
   def __init__(self):
@@ -292,6 +293,7 @@ class Application(tk.Frame):
     path = self.output_path(self.filename)
     with open(path, 'w') as file:
       json.dump(as_json, file, indent=2, sort_keys=True)
+    self.merge_files()
 
   def invalidate(self):
     self.legend.next_button["state"] = "disabled"
@@ -348,6 +350,14 @@ class Application(tk.Frame):
           icon = 'warning') == 'yes' and \
         os.path.exists(OUTPUT_DIR): 
       os.remove(path)
+  
+  def merge_files(self):
+    json_output = []
+    for path in glob.glob(OUTPUT_DIR + "/*"):
+      with open(path) as file:
+        json_output.append(json.load(file))
+    with open(FINAL_OUTPUT, 'w') as file:
+      json.dump(json_output, file, indent=2, sort_keys=True)
 
 root = tk.Tk()
 root.scale = 2.5
