@@ -70,7 +70,7 @@ add_label_type(LabelType("Date", "D", 'd', 'purple'))
 class BeginMark(tk.Canvas):
   def __init__(self, master, label):
     label_type = label_by_tag[label.tag]
-    width, height = int(8*root.scale), int(16*root.scale)
+    width, height = int(15*root.scale), int(30*root.scale)
     super().__init__(master=master,
         width=width, 
         height=height, 
@@ -81,14 +81,14 @@ class BeginMark(tk.Canvas):
         outline='')
     self.create_text(width/2, height/2,
        fill='white',
-       font="Arial {}".format(int(height*0.3)),
+       font="Arial {}".format(int(height*0.2)),
        text=label_type.short_tag,
        angle=90)
 
 class EndMark(tk.Canvas):
   def __init__(self, master, label, callback):
     label_type = label_by_tag[label.tag]
-    width, height = int(8*root.scale), int(16*root.scale)
+    width, height = int(15*root.scale), int(30*root.scale)
     super().__init__(master=master,
         width=width, 
         height=height, 
@@ -99,7 +99,7 @@ class EndMark(tk.Canvas):
         outline='')
     self.create_text(width/2, height/2,
        fill='black',
-       font="Arial {}".format(int(height*0.3)), text="X")
+       font="Arial {}".format(int(height*0.2)), text="X")
     self.bind("<Button-1>", callback)
 
 class Editor(tk.Text):
@@ -350,7 +350,7 @@ class Application(tk.Frame):
       os.remove(path)
 
 root = tk.Tk()
-root.scale = 1.5
+root.scale = 2.5
 root.tk.call('tk', 'scaling', root.scale)
 app = Application(master=root)
 app.mainloop()

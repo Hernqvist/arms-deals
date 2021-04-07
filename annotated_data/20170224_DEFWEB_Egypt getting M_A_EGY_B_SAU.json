@@ -56,12 +56,6 @@
       "text": "Panthera T6s"
     },
     {
-      "end": 1599,
-      "start": 1579,
-      "tag": "Seller",
-      "text": "United Arab Emirates"
-    },
-    {
       "end": 1634,
       "start": 1512,
       "tag": "Answer",
@@ -78,6 +72,12 @@
       "start": 121,
       "tag": "Buyer Country",
       "text": "Egypt"
+    },
+    {
+      "end": 1599,
+      "start": 1575,
+      "tag": "Seller",
+      "text": "the United Arab Emirates"
     },
     {
       "end": 1599,
