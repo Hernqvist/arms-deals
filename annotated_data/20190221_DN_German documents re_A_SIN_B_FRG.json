@@ -1,0 +1,312 @@
+{
+  "filename": "20190221_DN_German documents re_A_SIN_B_FRG",
+  "labels": [
+    {
+      "end": 87,
+      "start": 81,
+      "tag": "Seller",
+      "text": "German"
+    },
+    {
+      "end": 87,
+      "start": 81,
+      "tag": "Seller Country",
+      "text": "German"
+    },
+    {
+      "end": 103,
+      "start": 88,
+      "tag": "Weapon",
+      "text": "Leopard 2 tanks"
+    },
+    {
+      "end": 116,
+      "start": 107,
+      "tag": "Buyer",
+      "text": "Singapore"
+    },
+    {
+      "end": 116,
+      "start": 107,
+      "tag": "Buyer Country",
+      "text": "Singapore"
+    },
+    {
+      "end": 124,
+      "start": 120,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 124,
+      "start": 67,
+      "tag": "Answer",
+      "text": "a delivery of German Leopard 2 tanks to Singapore in 2017"
+    },
+    {
+      "end": 442,
+      "start": 311,
+      "tag": "Answer",
+      "text": "Singapore received 18 Leopard 2 main battle tanks in 2017, adding to the seven tanks the German government said it exported in 2016"
+    },
+    {
+      "end": 332,
+      "start": 330,
+      "tag": "Quantity",
+      "text": "18"
+    },
+    {
+      "end": 320,
+      "start": 311,
+      "tag": "Buyer",
+      "text": "Singapore"
+    },
+    {
+      "end": 320,
+      "start": 311,
+      "tag": "Buyer Country",
+      "text": "Singapore"
+    },
+    {
+      "end": 360,
+      "start": 333,
+      "tag": "Weapon",
+      "text": "Leopard 2 main battle tanks"
+    },
+    {
+      "end": 368,
+      "start": 364,
+      "tag": "Quantity",
+      "text": "2017"
+    },
+    {
+      "end": 417,
+      "start": 400,
+      "tag": "Seller",
+      "text": "German government"
+    },
+    {
+      "end": 406,
+      "start": 400,
+      "tag": "Seller Country",
+      "text": "German"
+    },
+    {
+      "end": 930,
+      "start": 859,
+      "tag": "Answer",
+      "text": "Krauss-Maffei Wegmann was building Leopard 2A7s for Singapore and Qatar"
+    },
+    {
+      "end": 880,
+      "start": 859,
+      "tag": "Seller",
+      "text": "Krauss-Maffei Wegmann"
+    },
+    {
+      "end": 906,
+      "start": 894,
+      "tag": "Weapon",
+      "text": "Leopard 2A7s"
+    },
+    {
+      "end": 920,
+      "start": 911,
+      "tag": "Buyer",
+      "text": "Singapore"
+    },
+    {
+      "end": 920,
+      "start": 911,
+      "tag": "Buyer Country",
+      "text": "Singapore"
+    },
+    {
+      "end": 930,
+      "start": 925,
+      "tag": "Buyer",
+      "text": "Qatar"
+    },
+    {
+      "end": 930,
+      "start": 925,
+      "tag": "Buyer Country",
+      "text": "Qatar"
+    },
+    {
+      "end": 1027,
+      "start": 933,
+      "tag": "Answer",
+      "text": "Germany previously declared it exported 161 Leopard 2 tanks to Singapore between 2007 and 2012"
+    },
+    {
+      "end": 940,
+      "start": 933,
+      "tag": "Seller",
+      "text": "Germany"
+    },
+    {
+      "end": 940,
+      "start": 933,
+      "tag": "Seller Country",
+      "text": "Germany"
+    },
+    {
+      "end": 976,
+      "start": 973,
+      "tag": "Quantity",
+      "text": "161"
+    },
+    {
+      "end": 992,
+      "start": 977,
+      "tag": "Weapon",
+      "text": "Leopard 2 tanks"
+    },
+    {
+      "end": 1005,
+      "start": 996,
+      "tag": "Buyer",
+      "text": "Singapore"
+    },
+    {
+      "end": 1005,
+      "start": 996,
+      "tag": "Buyer Country",
+      "text": "Singapore"
+    },
+    {
+      "end": 1018,
+      "start": 1014,
+      "tag": "Date",
+      "text": "2007"
+    },
+    {
+      "end": 1027,
+      "start": 1023,
+      "tag": "Date",
+      "text": "2012"
+    },
+    {
+      "end": 1442,
+      "start": 1181,
+      "tag": "Answer",
+      "text": "The 2017 delivery forms part of the $93 million worth of conventional arms exported to Singapore from Germany that year, which also included recovery vehicles, parts for tanks, various military vehicles, training and in-flight refueling aircraft, and small arms"
+    },
+    {
+      "end": 1189,
+      "start": 1185,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 1228,
+      "start": 1217,
+      "tag": "Price",
+      "text": "$93 million"
+    },
+    {
+      "end": 1250,
+      "start": 1238,
+      "tag": "Weapon",
+      "text": "conventional"
+    },
+    {
+      "end": 1277,
+      "start": 1268,
+      "tag": "Buyer",
+      "text": "Singapore"
+    },
+    {
+      "end": 1277,
+      "start": 1268,
+      "tag": "Buyer Country",
+      "text": "Singapore"
+    },
+    {
+      "end": 1290,
+      "start": 1283,
+      "tag": "Seller",
+      "text": "Germany"
+    },
+    {
+      "end": 1290,
+      "start": 1283,
+      "tag": "Seller Country",
+      "text": "Germany"
+    },
+    {
+      "end": 1339,
+      "start": 1322,
+      "tag": "Weapon",
+      "text": "recovery vehicles"
+    },
+    {
+      "end": 1356,
+      "start": 1341,
+      "tag": "Weapon",
+      "text": "parts for tanks"
+    },
+    {
+      "end": 1383,
+      "start": 1358,
+      "tag": "Weapon",
+      "text": "various military vehicles"
+    },
+    {
+      "end": 1426,
+      "start": 1385,
+      "tag": "Weapon",
+      "text": "training and in-flight refueling aircraft"
+    },
+    {
+      "end": 1442,
+      "start": 1428,
+      "tag": "Weapon",
+      "text": "and small arms"
+    },
+    {
+      "end": 1743,
+      "start": 1662,
+      "tag": "Answer",
+      "text": "Singapore announced it had acquired refurbished Leopard 2A4s from Germany in 2006"
+    },
+    {
+      "end": 1722,
+      "start": 1710,
+      "tag": "Weapon",
+      "text": "Leopard 2A4s"
+    },
+    {
+      "end": 1735,
+      "start": 1728,
+      "tag": "Seller",
+      "text": "Germany"
+    },
+    {
+      "end": 1735,
+      "start": 1728,
+      "tag": "Seller Country",
+      "text": "Germany"
+    },
+    {
+      "end": 1743,
+      "start": 1739,
+      "tag": "Date",
+      "text": "2006"
+    },
+    {
+      "end": 1671,
+      "start": 1662,
+      "tag": "Buyer",
+      "text": "Singapore"
+    },
+    {
+      "end": 1671,
+      "start": 1662,
+      "tag": "Buyer Country",
+      "text": "Singapore"
+    }
+  ],
+  "text": "MELBOURNE, Australia \u2014 Information from government documents about a delivery of German Leopard 2 tanks to Singapore in 2017 suggest the city-state bought a new batch of tanks for its Army.\n\nAccording to the register of conventional arms exports released by the German Ministry for Economic Affairs and Energy, Singapore received 18 Leopard 2 main battle tanks in 2017, adding to the seven tanks the German government said it exported in 2016.\n\nThe additional delivery in 2017 brings the total number of this type of tank received by Singapore to more than 170.\n\nIt\u2019s unknown how many tanks were ordered or what variant of was delivered. It is also unknown if this latest batch of tanks are brand new or refurbished secondhand vehicles, although the former is unlikely given production of the Leopard 2A4 has ended.\n\nGerman media reports say the manufacturer Krauss-Maffei Wegmann was building Leopard 2A7s for Singapore and Qatar.\n\nGermany previously declared it exported 161 Leopard 2 tanks to Singapore between 2007 and 2012 in its reports to the United Nations Register of Conventional Arms database. Singapore declared the receipt of 156 Leopard 2A4s during the same period.\n\nThe 2017 delivery forms part of the $93 million worth of conventional arms exported to Singapore from Germany that year, which also included recovery vehicles, parts for tanks, various military vehicles, training and in-flight refueling aircraft, and small arms.\n\nWhen contacted for comment regarding the 2017 deliveries, the ministry told Defense News to refer to its earlier statement. It had previously said that \u201cno other variants of the Leopard has (sic) been acquired\u201d since Singapore announced it had acquired refurbished Leopard 2A4s from Germany in 2006. Singapore announced at the time that it had acquired 96 tanks, with 66 to be refurbished and put into service, with the remaining 30 to serve as spares.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nHowever, the statement does not deny Singapore increased the number of Leopard 2A4s in its possession. KMW declined to comment about the transfer when asked by Defense News.\n\nThe Singapore Army has one active battalion of Leopard 2s, with additional vehicles assigned to training units in Singapore and Germany, where it uses Oberlausitz Military Training Area. Even accounting for those being used as a source for spares, the number acquired so far suggests Singapore has enough vehicles to equip a number of reserve units."
+}
