@@ -1,0 +1,144 @@
+{
+  "filename": "20181208_OTH_Philippines sounde_A_PHI_B_JAP",
+  "labels": [
+    {
+      "end": 85,
+      "start": 9,
+      "tag": "Answer",
+      "text": "Japan is considering selling air defense radar technology to the Philippines"
+    },
+    {
+      "end": 14,
+      "start": 9,
+      "tag": "Seller",
+      "text": "Japan"
+    },
+    {
+      "end": 14,
+      "start": 9,
+      "tag": "Seller Country",
+      "text": "Japan"
+    },
+    {
+      "end": 66,
+      "start": 38,
+      "tag": "Weapon",
+      "text": "air defense radar technology"
+    },
+    {
+      "end": 85,
+      "start": 74,
+      "tag": "Buyer",
+      "text": "Philippines"
+    },
+    {
+      "end": 85,
+      "start": 74,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 316,
+      "start": 185,
+      "tag": "Answer",
+      "text": "Tokyo is sounding out the Philippines about buying an upgraded model of the Mitsubishi Electric-made FPS-3 air defense radar system"
+    },
+    {
+      "end": 190,
+      "start": 185,
+      "tag": "Seller",
+      "text": "Tokyo"
+    },
+    {
+      "end": 222,
+      "start": 211,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 222,
+      "start": 211,
+      "tag": "Buyer",
+      "text": "Philippines"
+    },
+    {
+      "end": 316,
+      "start": 239,
+      "tag": "Weapon",
+      "text": "upgraded model of the Mitsubishi Electric-made FPS-3 air defense radar system"
+    },
+    {
+      "end": 2309,
+      "start": 2216,
+      "tag": "Answer",
+      "text": "Japan sought to build submarines for export to Australia, but lost the deal to France in 2016"
+    },
+    {
+      "end": 2248,
+      "start": 2238,
+      "tag": "Weapon",
+      "text": "submarines"
+    },
+    {
+      "end": 2272,
+      "start": 2263,
+      "tag": "Buyer",
+      "text": "Australia"
+    },
+    {
+      "end": 2272,
+      "start": 2263,
+      "tag": "Buyer Country",
+      "text": "Australia"
+    },
+    {
+      "end": 2301,
+      "start": 2295,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 2301,
+      "start": 2295,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 2309,
+      "start": 2305,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 2456,
+      "start": 2439,
+      "tag": "Seller",
+      "text": "a Spanish company"
+    },
+    {
+      "end": 2448,
+      "start": 2441,
+      "tag": "Seller Country",
+      "text": "Spanish"
+    },
+    {
+      "end": 2456,
+      "start": 2380,
+      "tag": "Answer",
+      "text": "Japan lost a bid to supply radar for the Thai air force to a Spanish company"
+    },
+    {
+      "end": 2435,
+      "start": 2421,
+      "tag": "Buyer",
+      "text": "Thai air force"
+    },
+    {
+      "end": 2425,
+      "start": 2421,
+      "tag": "Buyer Country",
+      "text": "Thai"
+    }
+  ],
+  "text": "TOKYO -- Japan is considering selling air defense radar technology to the Philippines in what would be its first export of defense equipment since ending a nearly 50-year ban in 2014.\n\nTokyo is sounding out the Philippines about buying an upgraded model of the Mitsubishi Electric-made FPS-3 air defense radar system, which Japan's Air Self-Defense Force has used since 1991 in missile defense and monitoring airspace incursions. Tokyo has already begun offering technical information on the system to Manila.\n\nJapan's thinking goes that upgrading the less-than-cutting-edge radar to meet the Philippines' needs will keep costs down, helping it win orders. The price is expected to be between 1 billion yen and 2 billion yen ($8.87 million and $17.7 million). Manila has also approached the U.S. and Israel on the matter, according to a source connected to the Japanese government, and may decide as early as the start of next year.\n\nJapan's defense cooperation with the Philippines, which had centered on joint military exercises, has expanded into defense equipment in recent years. In March, Japan's Maritime Self-Defense Force donated TC-90 trainer craft to the Philippine navy. And Japan agreed in June to grant parts for multi-mission UH-1H helicopters formerly used by the Ground Self-Defense Force to the Philippine air force.\n\nThe two sides are interested in partnering on maritime security as China continues to build up its military presence in the South China Sea, a vital sea lane for goods and energy shipments for both Tokyo and Manila. By exporting air-defense radars to the Philippines, Japan hopes to improve the Southeast Asian country's detection and surveillance capabilities and help maintain safety in the region.\n\nJapan essentially banned arms exports for decades until April 2014, when the cabinet laid out basic rules letting the country transfer defense equipment and technology and participate in international joint development under certain conditions, such as when it contributes to Japan's security. Selling the radars to the Philippines was judged appropriate because it would further bilateral defense cooperation.\n\nTokyo has not yet sold any defense equipment under the new rules. Japan sought to build submarines for export to Australia, but lost the deal to France in 2016. An effort to sell P-1 patrol jets to the U.K. also fell through, and Japan lost a bid to supply radar for the Thai air force to a Spanish company."
+}

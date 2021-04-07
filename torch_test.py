@@ -20,7 +20,7 @@ def preprocess_dataset(dataset):
   return torch.stack(texts), torch.stack(labels)
 
 
-dataset = data_loader.DataSet.load_json(sys.argv[1])
+dataset = data_loader.DataSet.load_json2(sys.argv[1])
 texts, labels = preprocess_dataset(dataset)
 
 split_at = len(texts)//3

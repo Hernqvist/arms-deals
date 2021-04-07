@@ -1,0 +1,54 @@
+{
+  "filename": "20170626_OTH_Russia will finish_A_RUS_B_UKR",
+  "labels": [
+    {
+      "end": 56,
+      "start": 50,
+      "tag": "Buyer",
+      "text": "Russia"
+    },
+    {
+      "end": 56,
+      "start": 50,
+      "tag": "Buyer Country",
+      "text": "Russia"
+    },
+    {
+      "end": 98,
+      "start": 91,
+      "tag": "Seller Country",
+      "text": "Ukraine"
+    },
+    {
+      "end": 116,
+      "start": 91,
+      "tag": "Seller",
+      "text": "Ukraine's Antonov company"
+    },
+    {
+      "end": 138,
+      "start": 117,
+      "tag": "Weapon",
+      "text": "An-148 passenger jets"
+    },
+    {
+      "end": 157,
+      "start": 154,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 166,
+      "start": 158,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 176,
+      "start": 50,
+      "tag": "Answer",
+      "text": "Russia will phase out the manufacture of Ukraine's Antonov company An-148 passenger jets after the last two aircraft are built"
+    }
+  ],
+  "text": "Russian Aviaton \u00bb Monday June 26, 2017 12:13 MSK\n\nRussia will phase out the manufacture of Ukraine's Antonov company An-148 passenger jets after the last two aircraft are built at the Voronezh Aircraft Manufacturing Company, a Russian aviation industry source said Monday. This reports by Sputnik.\n\n\"In Voronezh, the last couple of aircraft are being completed and the fate of the aircraft in Russia will not be developed further,\" the source told reporters.\n\nAn-148 was designed in the 1990s and its first flight was carried out in 2004. The aircraft developed by Ukraine's Antonov company is produced both in Ukraine and in Russia's city of Voronezh. The jets could be used for transportation of both passengers and cargoes, according to Antonov's website."
+}

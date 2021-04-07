@@ -1,0 +1,324 @@
+{
+  "filename": "20180416_DEFWEB_SEN and IVO buy_A_IVO_B_INS",
+  "labels": [
+    {
+      "end": 100,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Senegal and the Ivory Coast are buying CN235 and NC-212 aircraft from PT Dirgantara Indonesia (PTDI)"
+    },
+    {
+      "end": 7,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 27,
+      "start": 16,
+      "tag": "Buyer Country",
+      "text": "Ivory Coast"
+    },
+    {
+      "end": 27,
+      "start": 16,
+      "tag": "Buyer",
+      "text": "Ivory Coast"
+    },
+    {
+      "end": 7,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 44,
+      "start": 39,
+      "tag": "Weapon",
+      "text": "CN235"
+    },
+    {
+      "end": 64,
+      "start": 49,
+      "tag": "Weapon",
+      "text": "NC-212 aircraft"
+    },
+    {
+      "end": 100,
+      "start": 70,
+      "tag": "Seller",
+      "text": "PT Dirgantara Indonesia (PTDI)"
+    },
+    {
+      "end": 93,
+      "start": 84,
+      "tag": "Seller Country",
+      "text": "Indonesia"
+    },
+    {
+      "end": 476,
+      "start": 271,
+      "tag": "Answer",
+      "text": "he agreement is worth $75 million and covers the supply of two NC-212-200 maritime surveillance aircraft and a CN235-220 maritime patrol aircraft to Senegal and a CN235-220 to the Ivory Coast for transport"
+    },
+    {
+      "end": 333,
+      "start": 330,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 375,
+      "start": 334,
+      "tag": "Weapon",
+      "text": "NC-212-200 maritime surveillance aircraft"
+    },
+    {
+      "end": 416,
+      "start": 382,
+      "tag": "Weapon",
+      "text": "CN235-220 maritime patrol aircraft"
+    },
+    {
+      "end": 427,
+      "start": 420,
+      "tag": "Buyer",
+      "text": "Senegal"
+    },
+    {
+      "end": 443,
+      "start": 434,
+      "tag": "Weapon",
+      "text": "CN235-220"
+    },
+    {
+      "end": 427,
+      "start": 420,
+      "tag": "Buyer Country",
+      "text": "Senegal"
+    },
+    {
+      "end": 462,
+      "start": 451,
+      "tag": "Buyer",
+      "text": "Ivory Coast"
+    },
+    {
+      "end": 462,
+      "start": 451,
+      "tag": "Buyer Country",
+      "text": "Ivory Coast"
+    },
+    {
+      "end": 1377,
+      "start": 1292,
+      "tag": "Answer",
+      "text": "In December 2016 PTDI delivered a CN235-220 transport aircraft to Senegal\u2019s Air Force"
+    },
+    {
+      "end": 1377,
+      "start": 1358,
+      "tag": "Buyer",
+      "text": "Senegal\u2019s Air Force"
+    },
+    {
+      "end": 1365,
+      "start": 1358,
+      "tag": "Buyer Country",
+      "text": "Senegal"
+    },
+    {
+      "end": 1354,
+      "start": 1326,
+      "tag": "Weapon",
+      "text": "CN235-220 transport aircraft"
+    },
+    {
+      "end": 1313,
+      "start": 1309,
+      "tag": "Seller",
+      "text": "PTDI"
+    },
+    {
+      "end": 1308,
+      "start": 1295,
+      "tag": "Date",
+      "text": "December 2016"
+    },
+    {
+      "end": 1612,
+      "start": 1605,
+      "tag": "Buyer",
+      "text": "Senegal"
+    },
+    {
+      "end": 1612,
+      "start": 1605,
+      "tag": "Buyer Country",
+      "text": "Senegal"
+    },
+    {
+      "end": 1635,
+      "start": 1624,
+      "tag": "Date",
+      "text": "August 2017"
+    },
+    {
+      "end": 1648,
+      "start": 1642,
+      "tag": "Quantity",
+      "text": "single"
+    },
+    {
+      "end": 1658,
+      "start": 1649,
+      "tag": "Weapon",
+      "text": "CN235-220"
+    },
+    {
+      "end": 1658,
+      "start": 1604,
+      "tag": "Answer",
+      "text": " Senegal\u2019s order in August 2017 for a single CN235-220"
+    },
+    {
+      "end": 1824,
+      "start": 1713,
+      "tag": "Answer",
+      "text": "Burkina Faso and Guinea have also ordered CN235s \u2013 the Burkina Faso deal for two CN235s was facilitated by PTDI"
+    },
+    {
+      "end": 1725,
+      "start": 1713,
+      "tag": "Buyer",
+      "text": "Burkina Faso"
+    },
+    {
+      "end": 1736,
+      "start": 1730,
+      "tag": "Buyer",
+      "text": "Guinea"
+    },
+    {
+      "end": 1736,
+      "start": 1730,
+      "tag": "Buyer Country",
+      "text": "Guinea"
+    },
+    {
+      "end": 1725,
+      "start": 1713,
+      "tag": "Buyer Country",
+      "text": "Burkina Faso"
+    },
+    {
+      "end": 1761,
+      "start": 1755,
+      "tag": "Weapon",
+      "text": "CN235s"
+    },
+    {
+      "end": 1793,
+      "start": 1790,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1800,
+      "start": 1794,
+      "tag": "Weapon",
+      "text": "CN235s"
+    },
+    {
+      "end": 1824,
+      "start": 1820,
+      "tag": "Seller",
+      "text": "PTDI"
+    },
+    {
+      "end": 1780,
+      "start": 1768,
+      "tag": "Buyer",
+      "text": "Burkina Faso"
+    },
+    {
+      "end": 1780,
+      "start": 1768,
+      "tag": "Buyer Country",
+      "text": "Burkina Faso"
+    },
+    {
+      "end": 1965,
+      "start": 1847,
+      "tag": "Answer",
+      "text": "Guinea\u2019s single CN235 was acquired from Senegal, which had previously acquired two second-hand aircraft from Indonesia"
+    },
+    {
+      "end": 1853,
+      "start": 1847,
+      "tag": "Buyer",
+      "text": "Guinea"
+    },
+    {
+      "end": 1853,
+      "start": 1847,
+      "tag": "Buyer Country",
+      "text": "Guinea"
+    },
+    {
+      "end": 1868,
+      "start": 1863,
+      "tag": "Weapon",
+      "text": "CN235"
+    },
+    {
+      "end": 1894,
+      "start": 1887,
+      "tag": "Seller",
+      "text": "Senegal"
+    },
+    {
+      "end": 1894,
+      "start": 1887,
+      "tag": "Seller Country",
+      "text": "Senegal"
+    },
+    {
+      "end": 1894,
+      "start": 1887,
+      "tag": "Buyer",
+      "text": "Senegal"
+    },
+    {
+      "end": 1894,
+      "start": 1887,
+      "tag": "Buyer Country",
+      "text": "Senegal"
+    },
+    {
+      "end": 1965,
+      "start": 1956,
+      "tag": "Seller",
+      "text": "Indonesia"
+    },
+    {
+      "end": 1965,
+      "start": 1956,
+      "tag": "Seller Country",
+      "text": "Indonesia"
+    },
+    {
+      "end": 1929,
+      "start": 1926,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1950,
+      "start": 1942,
+      "tag": "Weapon",
+      "text": "aircraft"
+    }
+  ],
+  "text": "Senegal and the Ivory Coast are buying CN235 and NC-212 aircraft from PT Dirgantara Indonesia (PTDI) for transport and maritime surveillance duties.\n\nA framework agreement was signed last week during the Indonesia-Africa Forum held in Indonesia between 10 and 11 April. The agreement is worth $75 million and covers the supply of two NC-212-200 maritime surveillance aircraft and a CN235-220 maritime patrol aircraft to Senegal and a CN235-220 to the Ivory Coast for transport.\n\nThe agreement was signed with Belgian company AD Trade Belgium, which is facilitating the deals with Senegal and the Ivory Coast.\n\nPTDI (Indonesian Aerospace) President Director Elfien Goentoro said \u201cthe African market is promising, as it comprises several countries. Geographically, African countries and Indonesia have similarities, so they need several light and medium turboprop aircraft.\u201d\n\nGoentoro said the contracts will be firmed up in July this year and the aircraft delivered in two and a half years\u2019 time.\n\n\u201cWe are offering countries in Africa the development of human resource skills and knowledge in the aircraft manufacturing industry,\u201d Goentoro added, saying there are opportunities for African countries regarding upgrades, modifications and maintenance and overhaul of CN235 and NC212 aircraft.\n\nIn December 2016 PTDI delivered a CN235-220 transport aircraft to Senegal\u2019s Air Force. It was ordered in November 2014 via AD Trade Belgium. The aircraft is in a quick change configuration that allows it to be used for paratrooping, medical evacuation, VIP and passenger transport missions.\n\nThis was followed by Senegal\u2019s order in August 2017 for a single CN235-220 for maritime patrol, again through AD Trade Belgium.\n\nBurkina Faso and Guinea have also ordered CN235s \u2013 the Burkina Faso deal for two CN235s was facilitated by PTDI and AD Trade Belgium. Guinea\u2019s single CN235 was acquired from Senegal, which had previously acquired two second-hand aircraft from Indonesia.\n\nPTDI said its maritime patrol aircraft are able to carry out a wide range of missions, such as border patrol, Exclusive Economic Zone monitoring, fisheries policing, pollution monitoring, search and rescue and combating human trafficking and drug smuggling.\n\nThe aircraft CN235-220 MPA variant has an endurance of 10-11 hours and features a more modern full-glass avionics cockpit system, autopilot, and winglets for better performance and economy.\n\n\n\n\n\n\n\nThe CN235-220 MPA aircraft can be fitted with a 360-degree search radar that can detect small targets up to 200 nautical miles away, forward-looking infrared as well as an Automatic Identification System (AIS), and automatic tracking system."
+}

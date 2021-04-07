@@ -1,0 +1,324 @@
+{
+  "filename": "20170607_DEFWEB_Russia deliver _A_EGY_B_RUS",
+  "labels": [
+    {
+      "end": 92,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The Egyptian military has begun to receive S-300VM/Antey-2500 surface-to-air missile systems"
+    },
+    {
+      "end": 21,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The Egyptian military"
+    },
+    {
+      "end": 12,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "Egyptian"
+    },
+    {
+      "end": 92,
+      "start": 43,
+      "tag": "Weapon",
+      "text": "S-300VM/Antey-2500 surface-to-air missile systems"
+    },
+    {
+      "end": 509,
+      "start": 360,
+      "tag": "Answer",
+      "text": "News of the Egyptian contract emerged in 2015, when it was reported that Egypt had ordered the S-300VM/Antey-2500 under a roughly $1 billion contract"
+    },
+    {
+      "end": 380,
+      "start": 372,
+      "tag": "Buyer",
+      "text": "Egyptian"
+    },
+    {
+      "end": 380,
+      "start": 372,
+      "tag": "Buyer Country",
+      "text": "Egyptian"
+    },
+    {
+      "end": 438,
+      "start": 433,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 438,
+      "start": 433,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 405,
+      "start": 401,
+      "tag": "Date",
+      "text": "2015"
+    },
+    {
+      "end": 473,
+      "start": 455,
+      "tag": "Weapon",
+      "text": "S-300VM/Antey-2500"
+    },
+    {
+      "end": 500,
+      "start": 490,
+      "tag": "Price",
+      "text": "$1 billion"
+    },
+    {
+      "end": 1072,
+      "start": 960,
+      "tag": "Answer",
+      "text": "Egypt has looked to Russia to meet some of its military needs and has agreed to a massive $3.5 billion arms deal"
+    },
+    {
+      "end": 965,
+      "start": 960,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 965,
+      "start": 960,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 986,
+      "start": 980,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 986,
+      "start": 980,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1062,
+      "start": 1050,
+      "tag": "Price",
+      "text": "$3.5 billion"
+    },
+    {
+      "end": 1067,
+      "start": 1063,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 1465,
+      "start": 1309,
+      "tag": "Answer",
+      "text": "Russia is supplying 46 Ka-52K attack helicopters to Egypt and 50 MiG-29M fighter jets, as well as 1000 AT-9 and 100 AT-16 anti-tank missiles for the Ka-52Ks"
+    },
+    {
+      "end": 1315,
+      "start": 1309,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1315,
+      "start": 1309,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1331,
+      "start": 1329,
+      "tag": "Quantity",
+      "text": "46"
+    },
+    {
+      "end": 1357,
+      "start": 1332,
+      "tag": "Weapon",
+      "text": "Ka-52K attack helicopters"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1366,
+      "start": 1361,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1373,
+      "start": 1371,
+      "tag": "Quantity",
+      "text": "50"
+    },
+    {
+      "end": 1411,
+      "start": 1407,
+      "tag": "Quantity",
+      "text": "1000"
+    },
+    {
+      "end": 1424,
+      "start": 1421,
+      "tag": "Quantity",
+      "text": "100"
+    },
+    {
+      "end": 1394,
+      "start": 1374,
+      "tag": "Weapon",
+      "text": "MiG-29M fighter jets"
+    },
+    {
+      "end": 1416,
+      "start": 1412,
+      "tag": "Weapon",
+      "text": "AT-9"
+    },
+    {
+      "end": 1449,
+      "start": 1425,
+      "tag": "Weapon",
+      "text": "AT-16 anti-tank missiles"
+    },
+    {
+      "end": 1593,
+      "start": 1467,
+      "tag": "Answer",
+      "text": "Russia also donated a Project-1241/Tarantual fast attack craft to Egypt \u2013 this is armed with Moskit/SS-N-22 anti-ship missiles"
+    },
+    {
+      "end": 1473,
+      "start": 1467,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1473,
+      "start": 1467,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1529,
+      "start": 1489,
+      "tag": "Weapon",
+      "text": "Project-1241/Tarantual fast attack craft"
+    },
+    {
+      "end": 1538,
+      "start": 1533,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1538,
+      "start": 1533,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1593,
+      "start": 1560,
+      "tag": "Weapon",
+      "text": "Moskit/SS-N-22 anti-ship missiles"
+    },
+    {
+      "end": 1739,
+      "start": 1602,
+      "tag": "Answer",
+      "text": "Other Russian equipment delivered in the last five years includes 14 Mi-8MT/Mi-17 helicopters and the EgyptSat-2 reconnaissance satellite"
+    },
+    {
+      "end": 1615,
+      "start": 1608,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 1615,
+      "start": 1608,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1670,
+      "start": 1668,
+      "tag": "Quantity",
+      "text": "14"
+    },
+    {
+      "end": 1695,
+      "start": 1671,
+      "tag": "Weapon",
+      "text": "Mi-8MT/Mi-17 helicopters"
+    },
+    {
+      "end": 1738,
+      "start": 1709,
+      "tag": "Weapon",
+      "text": "Sat-2 reconnaissance satellit"
+    },
+    {
+      "end": 1709,
+      "start": 1704,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1709,
+      "start": 1704,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1306,
+      "start": 1239,
+      "tag": "Answer",
+      "text": "Russia would supply small arms, air defence equipment and artillery"
+    },
+    {
+      "end": 1245,
+      "start": 1239,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1245,
+      "start": 1239,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1269,
+      "start": 1259,
+      "tag": "Weapon",
+      "text": "small arms"
+    },
+    {
+      "end": 1292,
+      "start": 1271,
+      "tag": "Weapon",
+      "text": "air defence equipment"
+    },
+    {
+      "end": 1306,
+      "start": 1297,
+      "tag": "Weapon",
+      "text": "artillery"
+    }
+  ],
+  "text": "The Egyptian military has begun to receive S-300VM/Antey-2500 surface-to-air missile systems, with photos emerging of the missiles and vehicles being unloaded in Alexandria.\n\nA photo posted on Russian social media website vk.com showed several missile canisters and vehicles being unloaded from the military quay at the Egyptian port of Alexandria on 6 June.\n\nNews of the Egyptian contract emerged in 2015, when it was reported that Egypt had ordered the S-300VM/Antey-2500 under a roughly $1 billion contract.\n\nThe S-300VM uses two different missiles (9M82 and smaller 9M83) to shoot down targets ranging from cruise missiles and aircraft to ballistic missiles. It can engage four targets out to 200 km and altitudes of up to 25 000 metres. The S-300VM is the export version of the S-300 system.\n\nAs a result of the US suspension of some of its $1.3 billion in annual military aid following the ouster of President Mohamed Mursi by the military in July 2013, Egypt has looked to Russia to meet some of its military needs and has agreed to a massive $3.5 billion arms deal, announced at the Africa Aerospace and Defence (AAD) 2014 exhibition in Pretoria. State-owned company Rostec CEO Sergei Chemezov told RIA Novosti that under the deal Russia would supply small arms, air defence equipment and artillery.\n\nRussia is supplying 46 Ka-52K attack helicopters to Egypt and 50 MiG-29M fighter jets, as well as 1000 AT-9 and 100 AT-16 anti-tank missiles for the Ka-52Ks. Russia also donated a Project-1241/Tarantual fast attack craft to Egypt \u2013 this is armed with Moskit/SS-N-22 anti-ship missiles.\n\n\n\n\n\n\n\nOther Russian equipment delivered in the last five years includes 14 Mi-8MT/Mi-17 helicopters and the EgyptSat-2 reconnaissance satellite."
+}

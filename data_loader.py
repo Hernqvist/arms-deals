@@ -128,7 +128,6 @@ class Text:
     self.text = text
     self.deals = sorted(deals, key=lambda deal: deal.start)
     self.positive_sample = len(self.deals) > 0
-    self.all_labels = [] if len(deals) == 0 else deals[0].labels_list
 
   @classmethod
   def from_json(cls, data_):

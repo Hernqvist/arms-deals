@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter.filedialog import askopenfilename
 from tkinter.font import Font
 from tkinter.messagebox import askquestion
+from tkinter.scrolledtext import ScrolledText
 from collections import defaultdict
 import os
 import glob
@@ -103,7 +104,7 @@ class EndMark(tk.Canvas):
        font="Arial {}".format(int(height*0.2)), text="X")
     self.bind("<Button-1>", callback)
 
-class Editor(tk.Text):
+class Editor(ScrolledText):
   def __init__(self, master=None):
     super().__init__(master=master, wrap="word")
     self.master = master
@@ -321,7 +322,8 @@ class Application(tk.Frame):
     if existing != None:
       self.editor.load_json(existing)
 
-    self.winfo_toplevel().title("Textinatiratiror: {}".format(self.filename))
+    total, done = self.get_progress()
+    self.winfo_toplevel().title("Textinatiratiror: {}  \t|\t{}/{} done.".format(self.filename, done, total))
 
   def load_random(self):
     paths = glob.glob(INPUT_DIR + "/*")
@@ -358,6 +360,11 @@ class Application(tk.Frame):
         json_output.append(json.load(file))
     with open(FINAL_OUTPUT, 'w') as file:
       json.dump(json_output, file, indent=2, sort_keys=True)
+  
+  def get_progress(self):
+    total = len(glob.glob(INPUT_DIR + "/*"))
+    done = len(glob.glob(OUTPUT_DIR + "/*"))
+    return (total, done)
 
 root = tk.Tk()
 root.scale = 2.5
