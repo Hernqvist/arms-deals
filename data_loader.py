@@ -81,6 +81,11 @@ class Label:
   def from_json(cls, text, label_):
     start, end = label_['start'], label_['end']
     return cls(text, start, end, label_['marker'])
+  
+  @classmethod
+  def from_json2(cls, text, label_):
+    start, end = label_['start'], label_['end']
+    return cls(text, start, end, label_['tag'])
 
   @classmethod
   def from_transpose(cls, label, text, offset):
@@ -107,6 +112,12 @@ class Deal:
     answer = Label.from_json(text, answer_)
     labels = [Label.from_json(text, label_) for label_ in labels_]
     return cls(answer, labels)
+  
+  @classmethod
+  def from_json2(cls, text, answer_, labels_):
+    answer = Label.from_json2(text, answer_)
+    labels = [Label.from_json2(text, label_) for label_ in labels_]
+    return cls(answer, labels)
 
   @classmethod
   def from_transpose(cls, deal, text, offset):
@@ -131,6 +142,18 @@ class Text:
         if label_['end'] - label_['start'] < 3:
           continue # It's just a placeholder
         deals.append(Deal.from_json(text, label_, labels_))
+
+    return cls(text, deals)
+  
+  @classmethod
+  def from_json2(cls, data_):
+    text = data_['text']
+    labels_ = data_['labels']
+
+    deals = []
+    for label_ in labels_:
+      if label_['tag'] == 'Answer':
+        deals.append(Deal.from_json2(text, label_, labels_))
 
     return cls(text, deals)
 
@@ -191,6 +214,16 @@ class DataSet:
         text = Text.from_json(data_)
         texts.append(text)
     return cls(texts, path)
+  
+  @classmethod
+  def load_json2(cls, path):
+    texts = []
+    with open(path) as file:
+      data = json.load(file)
+      for data_ in data:
+        text = Text.from_json2(data_)
+        texts.append(text)
+    return cls(texts, path)
 
   def split_deals(self):
     texts = []
@@ -210,6 +243,6 @@ class DataSet:
     print(len([x for x in self.texts if not x.positive_sample]), "negative samples")
 
 if __name__ == "__main__":
-  dataset = DataSet.load_json(sys.argv[1])
+  dataset = DataSet.load_json2(sys.argv[1])
   split = dataset.split_deals()
   split.print_data()
