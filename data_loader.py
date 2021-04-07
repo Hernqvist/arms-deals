@@ -96,7 +96,6 @@ class Deal:
     self.answer = answer
     self.start, self.end = self.answer.start, self.answer.end
     self.labels = {tag:[] for tag in label_types}
-    self.labels_list = labels
 
     for label in labels:
       if label.start < self.start or label.end > self.end \
