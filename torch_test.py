@@ -2,6 +2,7 @@ import data_loader
 import sys
 import torch
 import torch.optim as optim
+import sklearn.metrics
 from transformers import BertTokenizer
 from bert_module import BERT
 
@@ -23,7 +24,7 @@ def preprocess_dataset(dataset):
 dataset = data_loader.DataSet.load_json2(sys.argv[1])
 texts, labels = preprocess_dataset(dataset)
 
-split_at = len(texts)//3
+split_at = len(texts)//2
 eval_texts, eval_labels = texts[:split_at], labels[:split_at]
 train_texts, train_labels = texts[split_at:], labels[split_at:]
 
@@ -41,8 +42,17 @@ def eval():
   model.eval()
   with torch.no_grad():                    
     output = model(eval_texts, eval_labels)
-    loss, _ = output
-    print("Loss: ", loss.item())
+    loss, probabilities = output
+    loss = loss.item()
+    predictions = torch.argmax(probabilities, dim=1).tolist()
+    actual = [x[0] for x in eval_labels.tolist()]
+    print(predictions)
+    print(actual)
+    precision, recall, f1, _ = sklearn.metrics.precision_recall_fscore_support(actual, predictions)
+    print("{0:<10}".format("loss"), loss)
+    print("{0:<10}".format("precision"), precision[1])
+    print("{0:<10}".format("recall"), recall[1])
+    print("{0:<10}".format("f1"), f1[1])
 
 
 print(len(texts))
@@ -57,6 +67,7 @@ for epoch in range(EPOCHS):
     model.train()
     output = model(batch_texts, batch_labels)
     loss, _ = output
+    print(_)
 
     optimizer.zero_grad()
     loss.backward()
@@ -66,5 +77,6 @@ for epoch in range(EPOCHS):
     total_evaled += len(batch_texts)
     if until_eval <= 0:
       eval()
-      
+print("Done.")
+eval()
 

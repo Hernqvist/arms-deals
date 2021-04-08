@@ -133,7 +133,9 @@ class Editor(ScrolledText):
     for i, label in enumerate(self.labels):
       tag_name = 'label_{}'.format(i)
       self.mark_set(tag_name + '_start', self.n_chars(label.start))
+      self.mark_gravity(tag_name + '_start', 'right')
       self.mark_set(tag_name + '_end', self.n_chars(label.end))
+      self.mark_gravity(tag_name + '_end', 'left')
       label_type = label_by_tag[label.tag]
       text_colors.append((label.start, label_type.color))
       text_colors.append((label.end, '-' + label_type.color))

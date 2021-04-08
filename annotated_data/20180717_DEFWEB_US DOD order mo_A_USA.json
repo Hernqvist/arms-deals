@@ -1,0 +1,336 @@
+{
+  "filename": "20180717_DEFWEB_US DOD order mo_A_USA",
+  "labels": [
+    {
+      "end": 239,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The United States Department of Defence (DoD) has awarded Chemring Sensors and Electronic Systems a $92 million contract for the procurement of Husky mine detection vehicles, which are manufactured in South Africa by DCD Protected Mobility"
+    },
+    {
+      "end": 239,
+      "start": 217,
+      "tag": "Seller",
+      "text": "DCD Protected Mobility"
+    },
+    {
+      "end": 97,
+      "start": 58,
+      "tag": "Seller",
+      "text": "Chemring Sensors and Electronic Systems"
+    },
+    {
+      "end": 111,
+      "start": 100,
+      "tag": "Price",
+      "text": "$92 million"
+    },
+    {
+      "end": 173,
+      "start": 144,
+      "tag": "Weapon",
+      "text": "Husky mine detection vehicles"
+    },
+    {
+      "end": 45,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The United States Department of Defence (DoD)"
+    },
+    {
+      "end": 213,
+      "start": 201,
+      "tag": "Seller",
+      "text": "South Africa"
+    },
+    {
+      "end": 213,
+      "start": 201,
+      "tag": "Seller Country",
+      "text": "South Africa"
+    },
+    {
+      "end": 17,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "United States"
+    },
+    {
+      "end": 458,
+      "start": 242,
+      "tag": "Answer",
+      "text": "On 15 August the DoD said Chemring Sensors and Electronic Systems Inc of Dulles, Virginia, was awarded a $92 556 056 firm-fixed-price contract to procure Husky Mounted Detection System systems, spare and repair parts"
+    },
+    {
+      "end": 254,
+      "start": 245,
+      "tag": "Date",
+      "text": "15 August"
+    },
+    {
+      "end": 262,
+      "start": 259,
+      "tag": "Buyer",
+      "text": "DoD"
+    },
+    {
+      "end": 358,
+      "start": 347,
+      "tag": "Price",
+      "text": "$92 556 056"
+    },
+    {
+      "end": 434,
+      "start": 396,
+      "tag": "Weapon",
+      "text": "Husky Mounted Detection System systems"
+    },
+    {
+      "end": 745,
+      "start": 556,
+      "tag": "Answer",
+      "text": "The United States has ordered more than 1 500 Husky vehicles from DCD Protected Mobility and its partners, which include Critical Solutions International (CSI) of Charleston, South Carolina"
+    },
+    {
+      "end": 573,
+      "start": 556,
+      "tag": "Buyer",
+      "text": "The United States"
+    },
+    {
+      "end": 573,
+      "start": 560,
+      "tag": "Buyer Country",
+      "text": "United States"
+    },
+    {
+      "end": 601,
+      "start": 596,
+      "tag": "Quantity",
+      "text": "1 500"
+    },
+    {
+      "end": 616,
+      "start": 602,
+      "tag": "Weapon",
+      "text": "Husky vehicles"
+    },
+    {
+      "end": 661,
+      "start": 622,
+      "tag": "Seller",
+      "text": "DCD Protected Mobility and its partners"
+    },
+    {
+      "end": 331,
+      "start": 268,
+      "tag": "Seller",
+      "text": "Chemring Sensors and Electronic Systems Inc of Dulles, Virginia"
+    },
+    {
+      "end": 745,
+      "start": 677,
+      "tag": "Seller",
+      "text": "Critical Solutions International (CSI) of Charleston, South Carolina"
+    },
+    {
+      "end": 797,
+      "start": 765,
+      "tag": "Seller",
+      "text": "Critical Solutions International"
+    },
+    {
+      "end": 824,
+      "start": 812,
+      "tag": "Price",
+      "text": "$131 946 942"
+    },
+    {
+      "end": 939,
+      "start": 897,
+      "tag": "Weapon",
+      "text": "commercial Husky second generation systems"
+    },
+    {
+      "end": 763,
+      "start": 750,
+      "tag": "Date",
+      "text": "30 March 2017"
+    },
+    {
+      "end": 939,
+      "start": 747,
+      "tag": "Answer",
+      "text": "On 30 March 2017, Critical Solutions International was awarded a $131 946 942 firm-fixed-price, foreign military sales contract for the production of commercial Husky second generation systems"
+    },
+    {
+      "end": 1140,
+      "start": 984,
+      "tag": "Answer",
+      "text": "The vehicles are destined for Egypt, Jordan and Saudi Arabia, and will be delivered by 30 March 2021. DCD said over 20 vehicles are involved in the contract"
+    },
+    {
+      "end": 1019,
+      "start": 1014,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1019,
+      "start": 1014,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1027,
+      "start": 1021,
+      "tag": "Buyer",
+      "text": "Jordan"
+    },
+    {
+      "end": 1027,
+      "start": 1021,
+      "tag": "Buyer Country",
+      "text": "Jordan"
+    },
+    {
+      "end": 1044,
+      "start": 1032,
+      "tag": "Buyer",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 1044,
+      "start": 1032,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 1084,
+      "start": 1071,
+      "tag": "Date",
+      "text": "30 March 2021"
+    },
+    {
+      "end": 1089,
+      "start": 1086,
+      "tag": "Seller",
+      "text": "DCD"
+    },
+    {
+      "end": 1102,
+      "start": 1100,
+      "tag": "Quantity",
+      "text": "20"
+    },
+    {
+      "end": 1111,
+      "start": 1103,
+      "tag": "Weapon",
+      "text": "vehicles"
+    },
+    {
+      "end": 996,
+      "start": 988,
+      "tag": "Weapon",
+      "text": "vehicles"
+    },
+    {
+      "end": 1888,
+      "start": 1877,
+      "tag": "Price",
+      "text": "$22 920 000"
+    },
+    {
+      "end": 1516,
+      "start": 1505,
+      "tag": "Price",
+      "text": "$14 339 127"
+    },
+    {
+      "end": 1260,
+      "start": 1250,
+      "tag": "Price",
+      "text": "$9 201 176"
+    },
+    {
+      "end": 1385,
+      "start": 1181,
+      "tag": "Answer",
+      "text": "on 22 March this year Critical Solutions International was awarded a $9 201 176 firm-fixed-price contract for the acquisition of non-commercial Husky M20 interrogation arms to support the Husky 2G vehicle"
+    },
+    {
+      "end": 1353,
+      "start": 1325,
+      "tag": "Weapon",
+      "text": "Husky M20 interrogation arms"
+    },
+    {
+      "end": 1235,
+      "start": 1203,
+      "tag": "Seller",
+      "text": "Critical Solutions International"
+    },
+    {
+      "end": 1192,
+      "start": 1184,
+      "tag": "Date",
+      "text": "22 March"
+    },
+    {
+      "end": 1605,
+      "start": 1547,
+      "tag": "Weapon",
+      "text": "engineering changes to the Husky Mounted Detection systems"
+    },
+    {
+      "end": 1490,
+      "start": 1449,
+      "tag": "Seller",
+      "text": "Chemring Sensors & Electronic Systems Inc"
+    },
+    {
+      "end": 1447,
+      "start": 1440,
+      "tag": "Date",
+      "text": "23 July"
+    },
+    {
+      "end": 1605,
+      "start": 1432,
+      "tag": "Answer",
+      "text": "Then on 23 July, Chemring Sensors & Electronic Systems Inc was awarded a $14 339 127 firm-fixed-price contract for engineering changes to the Husky Mounted Detection systems"
+    },
+    {
+      "end": 1843,
+      "start": 1841,
+      "tag": "Buyer Country",
+      "text": "US"
+    },
+    {
+      "end": 1933,
+      "start": 1927,
+      "tag": "Date",
+      "text": "FY2019"
+    },
+    {
+      "end": 1923,
+      "start": 1892,
+      "tag": "Weapon",
+      "text": "Huksy Mounted Detection Systems"
+    },
+    {
+      "end": 1865,
+      "start": 1837,
+      "tag": "Buyer",
+      "text": "the US Department of Defence"
+    },
+    {
+      "end": 1933,
+      "start": 1836,
+      "tag": "Answer",
+      "text": " the US Department of Defence will spend $22 920 000 on Huksy Mounted Detection Systems in FY2019"
+    }
+  ],
+  "text": "The United States Department of Defence (DoD) has awarded Chemring Sensors and Electronic Systems a $92 million contract for the procurement of Husky mine detection vehicles, which are manufactured in South Africa by DCD Protected Mobility.\n\nOn 15 August the DoD said Chemring Sensors and Electronic Systems Inc of Dulles, Virginia, was awarded a $92 556 056 firm-fixed-price contract to procure Husky Mounted Detection System systems, spare and repair parts. One bid was solicited with one bid received.\n\nThe estimated completion date is 15 August 2022.\n\nThe United States has ordered more than 1 500 Husky vehicles from DCD Protected Mobility and its partners, which include Critical Solutions International (CSI) of Charleston, South Carolina. On 30 March 2017, Critical Solutions International was awarded a $131 946 942 firm-fixed-price, foreign military sales contract for the production of commercial Husky second generation systems as well as spares, equipment and training.\n\nThe vehicles are destined for Egypt, Jordan and Saudi Arabia, and will be delivered by 30 March 2021. DCD said over 20 vehicles are involved in the contract.\n\nOther contracts have since followed \u2013 on 22 March this year Critical Solutions International was awarded a $9 201 176 firm-fixed-price contract for the acquisition of non-commercial Husky M20 interrogation arms to support the Husky 2G vehicle. Estimated completion date is 20 March 2022.\n\nThen on 23 July, Chemring Sensors & Electronic Systems Inc was awarded a $14 339 127 firm-fixed-price contract for engineering changes to the Husky Mounted Detection systems. Work will be performed in Dulles, Virginia, with an estimated completion date of 23 November 2020.\n\nAccording to the Department of Defence National Guard and Reserve Equipment Report for Fiscal Year 2019, published in March 2018, the US Department of Defence will spend $22 920 000 on Huksy Mounted Detection Systems in FY2019.\n\n\n\n\n\n\n\nThe Husky is DCD\u2019s flagship route clearance vehicle, and is able to detect mines at 5km/h-35km/h. It uses metal detectors for metallic mines and ground-penetrating radar for non-metal mines, but can be fitted with various sensors and interrogation arms. The Husky comes in several variants, including the single seat Husky Mk III, second generation two seat Husky 2G and optionally unmanned Autonomous Husky. The vehicle can be fitted with a wide variety of sensors and optional extras, including cameras, mine roller system, cyclone blower, remote weapons station, 360-degree camera system, gunshot detection system and RPG protection nets."
+}

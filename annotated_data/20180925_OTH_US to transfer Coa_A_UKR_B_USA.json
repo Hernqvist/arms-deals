@@ -1,0 +1,48 @@
+{
+  "filename": "20180925_OTH_US to transfer Coa_A_UKR_B_USA",
+  "labels": [
+    {
+      "end": 102,
+      "start": 17,
+      "tag": "Answer",
+      "text": "The US Coast Guard plans to transfer two former 110-foot Coast Guard ships to Ukraine"
+    },
+    {
+      "end": 35,
+      "start": 17,
+      "tag": "Seller",
+      "text": "The US Coast Guard"
+    },
+    {
+      "end": 23,
+      "start": 21,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 57,
+      "start": 54,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 91,
+      "start": 65,
+      "tag": "Weapon",
+      "text": "110-foot Coast Guard ships"
+    },
+    {
+      "end": 102,
+      "start": 95,
+      "tag": "Buyer",
+      "text": "Ukraine"
+    },
+    {
+      "end": 102,
+      "start": 95,
+      "tag": "Buyer Country",
+      "text": "Ukraine"
+    }
+  ],
+  "text": "Washington (CNN) The US Coast Guard plans to transfer two former 110-foot Coast Guard ships to Ukraine during a ceremony on Thursday in Baltimore.\n\nCoast Guard Vice Adm. Michael McAllister and Ukraine's President Petro Poroshenko are expected to attend the transfer ceremony.\n\nThe transfer of the two armed Coast Guard cutters come as tensions between Ukraine and Russia in the Sea of Azov have increased in recent weeks, with Kiev and the US accusing Moscow of interfering with Ukrainian shipping in the region.\n\n\"The United States condemns Russia's harassment of international shipping in the Sea of Azov and the Kerch Strait,\" State Department spokesperson Heather Nauert said in a statement late last month.\n\n\"Russia has delayed hundreds of commercial vessels since April and in recent weeks has stopped at least 16 commercial ships attempting to reach Ukrainian ports,\" she added.\n\nRead More"
+}

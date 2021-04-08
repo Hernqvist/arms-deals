@@ -1,0 +1,48 @@
+{
+  "filename": "20180329_TASS_Russia inks more _A_UZB_B_RUS",
+  "labels": [
+    {
+      "end": 115,
+      "start": 27,
+      "tag": "Answer",
+      "text": "Russia and Uzbekistan have clinched a contract to deliver more than 10 Mi-35 helicopters"
+    },
+    {
+      "end": 33,
+      "start": 27,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 33,
+      "start": 27,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 48,
+      "start": 38,
+      "tag": "Buyer",
+      "text": "Uzbekistan"
+    },
+    {
+      "end": 48,
+      "start": 38,
+      "tag": "Buyer Country",
+      "text": "Uzbekistan"
+    },
+    {
+      "end": 97,
+      "start": 95,
+      "tag": "Quantity",
+      "text": "10"
+    },
+    {
+      "end": 115,
+      "start": 98,
+      "tag": "Weapon",
+      "text": "Mi-35 helicopters"
+    }
+  ],
+  "text": "YEREVAN, March 29. /TASS/. Russia and Uzbekistan have clinched a contract to deliver more than 10 Mi-35 helicopters, deputy head of the Federal Service for Military-Technical Cooperation Vladimir Drozhzhov told reporters at the ArmHiTec exhibition on Thursday.\n\n\"We\u2019ve got a delivery contract for Mi-35 helicopters signed in accordance with the agreements. The work is successful, and military-technical cooperation with Uzbekistan is actively developing,\" he said."
+}

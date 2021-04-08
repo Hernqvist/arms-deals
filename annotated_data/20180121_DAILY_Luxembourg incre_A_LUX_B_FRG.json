@@ -1,0 +1,90 @@
+{
+  "filename": "20180121_DAILY_Luxembourg incre_A_LUX_B_FRG",
+  "labels": [
+    {
+      "end": 314,
+      "start": 135,
+      "tag": "Answer",
+      "text": "The Luxembourg state has decided to strengthen its defence capabilities by investing in a high-resolution Earth observation satellite and in two Airbus 145M multi-role helicopters"
+    },
+    {
+      "end": 155,
+      "start": 135,
+      "tag": "Buyer",
+      "text": "The Luxembourg state"
+    },
+    {
+      "end": 149,
+      "start": 139,
+      "tag": "Buyer Country",
+      "text": "Luxembourg"
+    },
+    {
+      "end": 268,
+      "start": 225,
+      "tag": "Weapon",
+      "text": "high-resolution Earth observation satellite"
+    },
+    {
+      "end": 279,
+      "start": 276,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 314,
+      "start": 280,
+      "tag": "Weapon",
+      "text": "Airbus 145M multi-role helicopters"
+    },
+    {
+      "end": 286,
+      "start": 280,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 1515,
+      "start": 1383,
+      "tag": "Answer",
+      "text": "The German armed forces were the first to order the Airbus 145M multi-role helicopter model, followed by the Royal Thai Navy in 2016"
+    },
+    {
+      "end": 1406,
+      "start": 1383,
+      "tag": "Buyer",
+      "text": "The German armed forces"
+    },
+    {
+      "end": 1507,
+      "start": 1492,
+      "tag": "Buyer",
+      "text": "Royal Thai Navy"
+    },
+    {
+      "end": 1515,
+      "start": 1511,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1474,
+      "start": 1435,
+      "tag": "Weapon",
+      "text": "Airbus 145M multi-role helicopter model"
+    },
+    {
+      "end": 1393,
+      "start": 1387,
+      "tag": "Buyer Country",
+      "text": "German"
+    },
+    {
+      "end": 1502,
+      "start": 1498,
+      "tag": "Buyer Country",
+      "text": "Thai"
+    }
+  ],
+  "text": "The German armed forces were the first to use the Airbus 145M multi-role helicopter model in 2015 (Airbus Helicopters / Chales Abarr)\n\nThe Luxembourg state has decided to strengthen its defence capabilities by investing in a high-resolution Earth observation satellite and in two Airbus 145M multi-role helicopters.\n\nThe government council approved on Friday the purchase of the satellite that will allow the country to meet its defence obligations as a NATO member, particularly within the organisation's defence planning mechanism.\n\nThrough this investment, Luxembourg will bring a significant contribution to international initiatives and operations, both at NATO and EU levels.\n\nWith Luxembourg's defence being traditionally specialised in terrestrial recognition, the satellite purchase supports the national defence programme for 2025 and allows for increased defence capabilities.\n\nThe ''Luxembourg Defence Guidelines for 2025 and Beyond'' foresees the development of space-based capabilities for observation, communication, transmission and analysis purposes, as well as the increase of security for the deployment of military personnel.\n\nAs for the two Airbus 145M multi-role helicopters, to be acquired through the NATO support and acquisition agency, they will support both military and police needs, making various defence capabilities available to several departments.\n\nThe German armed forces were the first to order the Airbus 145M multi-role helicopter model, followed by the Royal Thai Navy in 2016.\n\nThe ''Luxembourg Defence Policy Guidelines for 2025 and Beyond'' is the first public national policy document defining long-term defence policy directions for Luxembourg.\n\nThe Grand-Duchy seeks to develop its armed forces, modernise its intelligence, surveillance and recognition (ISR) capabilities, invest in new platforms for medical evacuation and maritime aerial surveillance and develop a government air hub at Findel airport.\n\nAt the 2014 NATO Summit in Wales, Luxembourg announced plans to raise its defence investments from 0.4% to 0.6% of the GDP in 2020.\n\nIn 2018, Luxembourg's annual defence efforts will exceed \u20ac320 million, amounting to roughly 0.5% of the GDP."
+}
