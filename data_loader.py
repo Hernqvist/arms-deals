@@ -1,6 +1,7 @@
 import json
 import sys
 import functools
+import random
 
 class Colors:
     """ ANSI color codes """
@@ -155,26 +156,44 @@ class Text:
 
     return cls(text, deals)
 
+  def split_chunks(self, min_length):
+    if len(self.deals) > 1:
+      return [text for one_deal in self.split_deals() for text in one_deal.split_chunks(min_length)]
+    
+    if len(self.deals) == 1:
+      deal = self.deals[0]
+      if deal.start > len(self.text) - deal.end:
+        index = deal.start//2
+      else:
+        index = (len(self.text) + deal.end)//2
+    else:
+      index = len(self.text)//2
+    
+    if index < min_length or len(self.text) - index < min_length:
+      return [self]
+    text1, text2 = self.split(index)
+    return text1.split_chunks(min_length) + text2.split_chunks(min_length)
+
   # Splits the text between deals so that each text contains at most one deal
   def split_deals(self):
-    if not self.positive_sample:
+    if len(self.deals) < 2:
       return [self]
+    head, tail = self.split((self.deals[0].end + self.deals[1].start)//2)
+    return [head] + tail.split_deals()
+  
+  def split(self, index):
+    deals1, deals2 = [], []
+    text1, text2 = self.text[:index], self.text[index:]
+    for deal in self.deals:
+      if deal.start <= index and index < deal.end:
+        raise Exception("Can't split a text through a deal")
+      if deal.end <= index:
+        deals1.append(Deal.from_transpose(deal, self.text, 0))
+      else:
+        deals2.append(Deal.from_transpose(deal, self.text, index))
+    return (Text(text1, deals1), Text(text2, deals2))
 
-    cutoffs = [0]
-    for i in range(1, len(self.deals)):
-      cutoffs.append((self.deals[i-1].end + self.deals[i].start)//2)
-    cutoffs.append(len(self.text))
-
-    texts = []
-    for i in range(len(cutoffs) - 1):
-      start, end = cutoffs[i], cutoffs[i+1]
-      substring = self.text[start:end]
-      deal = Deal.from_transpose(self.deals[i], self.text, start)
-      texts.append(Text(substring, [deal]))
-
-    return texts
       
-
   def colored_text(self):
     ANSWER_COLOR = Colors.END + Colors.UNDERLINE
     labels = [""]*len(self.text)
@@ -228,6 +247,14 @@ class DataSet:
     for text in self.texts:
       texts.extend(text.split_deals())
     return DataSet(texts, "Split of {}".format(self.name))
+  
+  def split_chunks(self, min_length=400, shuffle=True):
+    texts = []
+    for text in self.texts:
+      texts.extend(text.split_chunks(min_length))
+    if shuffle:
+      random.Random(1).shuffle(texts)
+    return DataSet(texts, "Split of {} into chunks of at least {}".format(self.name, min_length))
 
   def print_data(self):
     print("Dataset:", self.name)
@@ -242,5 +269,5 @@ class DataSet:
 
 if __name__ == "__main__":
   dataset = DataSet.load_json2(sys.argv[1])
-  split = dataset.split_deals()
+  split = dataset.split_chunks()
   split.print_data()

@@ -21,23 +21,23 @@ def preprocess_dataset(dataset):
   return torch.stack(texts), torch.stack(labels)
 
 
-dataset = data_loader.DataSet.load_json2(sys.argv[1])
+dataset = data_loader.DataSet.load_json2(sys.argv[1]).split_chunks()
 texts, labels = preprocess_dataset(dataset)
 
-split_at = len(texts)//2
-eval_texts, eval_labels = texts[:split_at], labels[:split_at]
-train_texts, train_labels = texts[split_at:], labels[split_at:]
+split_at = (len(texts)*2)//3
+eval_texts, eval_labels = texts[split_at:], labels[split_at:]
+train_texts, train_labels = texts[:split_at], labels[:split_at]
 
 model = BERT()
 optimizer = optim.Adam(model.parameters(), lr=2e-5)
-BATCH_SIZE = 5
+BATCH_SIZE = 20
 EPOCHS = 10
-eval_every = 20
-until_eval, total_evaled = eval_every, 0
+eval_every = 100
+until_eval, total_evaled, total = eval_every, 0, len(train_texts)*EPOCHS
 
 def eval():
   global total_evaled, until_eval, eval_every
-  print("Processed", total_evaled, "datapoints. Evaluating.")
+  print("Processed", total_evaled, "/", total, "datapoints. Evaluating.")
   until_eval = eval_every
   model.eval()
   with torch.no_grad():                    
@@ -67,7 +67,6 @@ for epoch in range(EPOCHS):
     model.train()
     output = model(batch_texts, batch_labels)
     loss, _ = output
-    print(_)
 
     optimizer.zero_grad()
     loss.backward()
