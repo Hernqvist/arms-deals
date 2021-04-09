@@ -28,6 +28,9 @@ split_at = (len(texts)*2)//3
 eval_texts, eval_labels = texts[split_at:], labels[split_at:]
 train_texts, train_labels = texts[:split_at], labels[:split_at]
 
+print(len(train_texts), "Train")
+print(len(eval_texts), "Eval")
+
 model = BERT()
 optimizer = optim.Adam(model.parameters(), lr=2e-5)
 BATCH_SIZE = 20

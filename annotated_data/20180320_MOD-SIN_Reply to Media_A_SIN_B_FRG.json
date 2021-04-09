@@ -1,0 +1,42 @@
+{
+  "filename": "20180320_MOD-SIN_Reply to Media_A_SIN_B_FRG",
+  "labels": [
+    {
+      "end": 205,
+      "start": 106,
+      "tag": "Answer",
+      "text": "In 2006, the SAF announced the acquisition of the Leopard 2A4 from Germany to replace the SM1 tanks"
+    },
+    {
+      "end": 113,
+      "start": 109,
+      "tag": "Date",
+      "text": "2006"
+    },
+    {
+      "end": 122,
+      "start": 115,
+      "tag": "Buyer",
+      "text": "the SAF"
+    },
+    {
+      "end": 167,
+      "start": 156,
+      "tag": "Weapon",
+      "text": "Leopard 2A4"
+    },
+    {
+      "end": 180,
+      "start": 173,
+      "tag": "Seller",
+      "text": "Germany"
+    },
+    {
+      "end": 180,
+      "start": 173,
+      "tag": "Seller Country",
+      "text": "Germany"
+    }
+  ],
+  "text": "In response to media queries on SAF's Acquisition of Leopard 2A7 Tanks, the following reply was issued:\n\n\"In 2006, the SAF announced the acquisition of the Leopard 2A4 from Germany to replace the SM1 tanks. Since then, the refurnished Leopard tanks have entered service and no other variants of the Leopard has been acquired by the SAF.\""
+}
