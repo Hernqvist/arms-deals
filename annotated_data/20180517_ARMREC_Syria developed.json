@@ -1,0 +1,42 @@
+{
+  "filename": "20180517_ARMREC_Syria developed",
+  "labels": [
+    {
+      "end": 482,
+      "start": 410,
+      "tag": "Answer",
+      "text": "the T-72 that Russia has supplied to some pro-government forces in Syria"
+    },
+    {
+      "end": 418,
+      "start": 410,
+      "tag": "Weapon",
+      "text": "the T-72"
+    },
+    {
+      "end": 430,
+      "start": 424,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 430,
+      "start": 424,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 473,
+      "start": 452,
+      "tag": "Buyer",
+      "text": "pro-government forces"
+    },
+    {
+      "end": 482,
+      "start": 477,
+      "tag": "Buyer Country",
+      "text": "Syria"
+    }
+  ],
+  "text": "This month, footage emerged of a Syrian system dubbed 'Golan-1000'. Based on a T-72 tank chassis with desert camouflage, the Golan-1000 is a self-propelled rocket system that, according to Sputnik International, carries 500mm rounds. The vehicle carries three launchers for the rockets, which are fired from a remote control.\n\n\n\nThe Golan-1000 visually resembles the TOS-1, a multiple rocket launcher based on the T-72 that Russia has supplied to some pro-government forces in Syria. (source: Twitter )\n\nFurther details on the system are not forthcoming, though Sputnik referred to the system as being operated by the Syrian military's 4th Armored Division, which has played a major role in the country's ongoing civil war.\n\nIt is not clear what the system's range is or how many have been produced; it is similarly uncertain if all systems in existence belong to the Syrian military or if some are operated by allied militia groups. The Syrian military is said to have used the Golan-1000 as part of a military offensive against militants in Hajar al-Aswad, an urban area south of Damascus held by an Islamic State cell. The system's name is a reference to the Golan Heights."
+}

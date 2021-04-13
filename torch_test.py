@@ -3,20 +3,24 @@ import sys
 import torch
 import torch.optim as optim
 import sklearn.metrics
-from transformers import BertTokenizer
+from preprocessor import Preprocessor
+from transformers import BertTokenizerFast
 from bert_module import BERT
 
 def preprocess_dataset(dataset):
-  tokenizer = BertTokenizer.from_pretrained(BERT.options_name)
-  PAD_INDEX = tokenizer.convert_tokens_to_ids(tokenizer.pad_token)
+  tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
+  preprocessor = Preprocessor(tokenizer, BERT.max_length)
 
   texts, labels = [], []
 
   for text in dataset.texts:
-    encoded = torch.LongTensor(tokenizer(text.text, max_length=BERT.max_length, truncation=True, padding='max_length')['input_ids'])
-    positive = torch.LongTensor([1 if text.positive_sample else 0])
-    texts.append(encoded)
-    labels.append(positive)
+    x, y = preprocessor.binary(text)
+    texts.append(x)
+    labels.append(y)
+
+    if False:
+      print(tokenizer(text.text, return_offsets_mapping=True, max_length=BERT.max_length, truncation=True, padding='max_length'))
+      print(tokenizer.decode(tokens))
 
   return torch.stack(texts), torch.stack(labels)
 

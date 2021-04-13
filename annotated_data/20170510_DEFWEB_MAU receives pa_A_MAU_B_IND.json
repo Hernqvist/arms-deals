@@ -1,0 +1,276 @@
+{
+  "filename": "20170510_DEFWEB_MAU receives pa_A_MAU_B_IND",
+  "labels": [
+    {
+      "end": 97,
+      "start": 0,
+      "tag": "Answer",
+      "text": "India\u2019s Goa Shipyards Limited has formally handed over the CGS Valiant patrol vessel to Mauritius"
+    },
+    {
+      "end": 29,
+      "start": 8,
+      "tag": "Seller",
+      "text": "Goa Shipyards Limited"
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Seller Country",
+      "text": ""
+    },
+    {
+      "end": 84,
+      "start": 59,
+      "tag": "Weapon",
+      "text": "CGS Valiant patrol vessel"
+    },
+    {
+      "end": 97,
+      "start": 88,
+      "tag": "Buyer",
+      "text": "Mauritius"
+    },
+    {
+      "end": 97,
+      "start": 88,
+      "tag": "Buyer Country",
+      "text": "Mauritius"
+    },
+    {
+      "end": 446,
+      "start": 211,
+      "tag": "Answer",
+      "text": "the CGS Valiant was handed over on 1 May in India, although Goa Shipyards Limited (GSL) said it was handed over on 30 April by Rear Admiral Shekhar Mital, head of GSL, to K Jhugroo, Deputy Commissioner of Police, Mauritius Police Force"
+    },
+    {
+      "end": 226,
+      "start": 211,
+      "tag": "Weapon",
+      "text": "the CGS Valiant"
+    },
+    {
+      "end": 251,
+      "start": 246,
+      "tag": "Date",
+      "text": "1 May"
+    },
+    {
+      "end": 334,
+      "start": 326,
+      "tag": "Date",
+      "text": "30 April"
+    },
+    {
+      "end": 377,
+      "start": 338,
+      "tag": "Seller",
+      "text": "Rear Admiral Shekhar Mital, head of GSL"
+    },
+    {
+      "end": 446,
+      "start": 382,
+      "tag": "Buyer",
+      "text": "K Jhugroo, Deputy Commissioner of Police, Mauritius Police Force"
+    },
+    {
+      "end": 433,
+      "start": 424,
+      "tag": "Buyer Country",
+      "text": "Mauritius"
+    },
+    {
+      "end": 260,
+      "start": 255,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 1320,
+      "start": 1147,
+      "tag": "Answer",
+      "text": "CGS Valiant is the second of two fast patrol vessels ordered from GSL, with CGS Victory having been handed over to the Mauritius National Coast Guard (NCG) in September 2016"
+    },
+    {
+      "end": 1158,
+      "start": 1147,
+      "tag": "Weapon",
+      "text": "CGS Valiant"
+    },
+    {
+      "end": 1179,
+      "start": 1176,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1199,
+      "start": 1185,
+      "tag": "Weapon",
+      "text": "patrol vessels"
+    },
+    {
+      "end": 1216,
+      "start": 1213,
+      "tag": "Seller",
+      "text": "GSL"
+    },
+    {
+      "end": 1234,
+      "start": 1223,
+      "tag": "Weapon",
+      "text": "CGS Victory"
+    },
+    {
+      "end": 1302,
+      "start": 1262,
+      "tag": "Buyer",
+      "text": "the Mauritius National Coast Guard (NCG)"
+    },
+    {
+      "end": 1275,
+      "start": 1266,
+      "tag": "Buyer Country",
+      "text": "Mauritius"
+    },
+    {
+      "end": 1320,
+      "start": 1306,
+      "tag": "Date",
+      "text": "September 2016"
+    },
+    {
+      "end": 1501,
+      "start": 1387,
+      "tag": "Answer",
+      "text": "Mauritius in December last year commissioned into service CGS Victory as well as two Chetak helicopters from India"
+    },
+    {
+      "end": 1396,
+      "start": 1387,
+      "tag": "Buyer",
+      "text": "Mauritius"
+    },
+    {
+      "end": 1418,
+      "start": 1400,
+      "tag": "Date",
+      "text": "December last year"
+    },
+    {
+      "end": 1456,
+      "start": 1445,
+      "tag": "Weapon",
+      "text": "CGS Victory"
+    },
+    {
+      "end": 1471,
+      "start": 1468,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1490,
+      "start": 1472,
+      "tag": "Weapon",
+      "text": "Chetak helicopters"
+    },
+    {
+      "end": 1501,
+      "start": 1496,
+      "tag": "Seller",
+      "text": "India"
+    },
+    {
+      "end": 1501,
+      "start": 1496,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 1396,
+      "start": 1387,
+      "tag": "Buyer Country",
+      "text": "Mauritius"
+    },
+    {
+      "end": 1695,
+      "start": 1538,
+      "tag": "Answer",
+      "text": "The two refurbished helicopters were donated by the Indian government in line with India\u2019s commitment to augment the capacities of the Mauritius Police Force"
+    },
+    {
+      "end": 1545,
+      "start": 1542,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1569,
+      "start": 1558,
+      "tag": "Weapon",
+      "text": "helicopters"
+    },
+    {
+      "end": 1607,
+      "start": 1586,
+      "tag": "Seller",
+      "text": "the Indian government"
+    },
+    {
+      "end": 1596,
+      "start": 1590,
+      "tag": "Seller Country",
+      "text": "Indian"
+    },
+    {
+      "end": 1695,
+      "start": 1673,
+      "tag": "Buyer",
+      "text": "Mauritius Police Force"
+    },
+    {
+      "end": 1682,
+      "start": 1673,
+      "tag": "Buyer Country",
+      "text": "Mauritius"
+    },
+    {
+      "end": 1906,
+      "start": 1751,
+      "tag": "Answer",
+      "text": "In March last year the island nation strengthened its maritime capabilities with the commissioning of ten 14.5 metre Fast Interceptor Boats (FIBs) from GSL"
+    },
+    {
+      "end": 1787,
+      "start": 1770,
+      "tag": "Buyer",
+      "text": "the island nation"
+    },
+    {
+      "end": 1769,
+      "start": 1754,
+      "tag": "Date",
+      "text": "March last year"
+    },
+    {
+      "end": 1856,
+      "start": 1853,
+      "tag": "Quantity",
+      "text": "ten"
+    },
+    {
+      "end": 1897,
+      "start": 1857,
+      "tag": "Weapon",
+      "text": "14.5 metre Fast Interceptor Boats (FIBs)"
+    },
+    {
+      "end": 1906,
+      "start": 1903,
+      "tag": "Seller",
+      "text": "GSL"
+    }
+  ],
+  "text": "India\u2019s Goa Shipyards Limited has formally handed over the CGS Valiant patrol vessel to Mauritius, which is expected to reach the island nation in June after sailing from India.\n\nThe Mauritius Police Force said the CGS Valiant was handed over on 1 May in India, although Goa Shipyards Limited (GSL) said it was handed over on 30 April by Rear Admiral Shekhar Mital, head of GSL, to K Jhugroo, Deputy Commissioner of Police, Mauritius Police Force.\n\nMital said the contract was signed on 17 May 2014 and the keel laid on 22 may 2015, with the launch taking place on 2 February 2017. \u201cWe have successfully delivered this ship four months ahead of contractual schedule of August 2017, within 23 months of keel laying which is a record in itself,\u201d Mital said.\n\nThe 50 metre long CGS Valiant is designed for coastal patrols, anti-piracy, search and rescue and counter smuggling and drug missions. It is fitted with a 30 mm CRN-91 cannon, 12.7 mm heavy machineguns and 7.62 mm machineguns. It has a top speed of 37 knots and endurance of seven days. It is powered by three MTU-F 16V4000 M90 diesel engines that drive three KAMEWA Type-71SII waterjets.\n\nCGS Valiant is the second of two fast patrol vessels ordered from GSL, with CGS Victory having been handed over to the Mauritius National Coast Guard (NCG) in September 2016. The India Import-Export Bank helped fund the $41 million order.\n\nMauritius in December last year commissioned into service CGS Victory as well as two Chetak helicopters from India for its Police Helicopter Squadron. The two refurbished helicopters were donated by the Indian government in line with India\u2019s commitment to augment the capacities of the Mauritius Police Force, including in the critical area of search and rescue.\n\nIn March last year the island nation strengthened its maritime capabilities with the commissioning of ten 14.5 metre Fast Interceptor Boats (FIBs) from GSL. The bulk of the FIBs will be used to conduct day and night patrols and periodic Special Forces Operations (SFOs) in shallow waters. Each boat has a top speed of 35 knots with a cruising speed of 20 knots, along with an endurance of over 200 km. The boats were ordered along with machineguns, ammunition and body armour for the crews.\n\n\n\n\n\n\n\nThe Mauritius National Coast Guard on 14 July last year inducted a third Do 228 aircraft into service to patrol the nation\u2019s coastline."
+}
