@@ -5,7 +5,20 @@ import torch.optim as optim
 import sklearn.metrics
 from preprocessor import Preprocessor
 from transformers import BertTokenizerFast
-from bert_module import BERT
+
+import torch.nn as nn
+from transformers import BertForSequenceClassification, BertForTokenClassification
+
+class BERT(nn.Module):
+  max_length = 128
+  options_name = "bert-base-uncased"
+  def __init__(self):
+    super(BERT, self).__init__()
+    self.encoder = BertForTokenClassification.from_pretrained(self.options_name)
+
+  def forward(self, text, label):
+    loss, text_fea = self.encoder(text, labels=label)[:2]
+    return loss, text_fea
 
 def preprocess_dataset(dataset):
   tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
@@ -14,13 +27,9 @@ def preprocess_dataset(dataset):
   texts, labels = [], []
 
   for text in dataset.texts:
-    x, y = preprocessor.binary(text)
+    x, y = preprocessor.labels(text)
     texts.append(x)
     labels.append(y)
-
-    if False:
-      print(tokenizer(text.text, return_offsets_mapping=True, max_length=BERT.max_length, truncation=True, padding='max_length'))
-      print(tokenizer.decode(tokens))
 
   return torch.stack(texts), torch.stack(labels)
 
@@ -51,18 +60,16 @@ def eval():
     output = model(eval_texts, eval_labels)
     loss, probabilities = output
     loss = loss.item()
-    predictions = torch.argmax(probabilities, dim=1).tolist()
-    actual = [x[0] for x in eval_labels.tolist()]
-    print(predictions)
-    print(actual)
-    precision, recall, f1, _ = sklearn.metrics.precision_recall_fscore_support(actual, predictions)
     print("{0:<10}".format("loss"), loss)
-    print("{0:<10}".format("precision"), precision[1])
-    print("{0:<10}".format("recall"), recall[1])
-    print("{0:<10}".format("f1"), f1[1])
+    if False:
+      predictions = torch.argmax(probabilities, dim=1).tolist()
+      actual = [x[0] for x in eval_labels.tolist()]
+      precision, recall, f1, _ = sklearn.metrics.precision_recall_fscore_support(actual, predictions)
+      print("{0:<10}".format("precision"), precision[1])
+      print("{0:<10}".format("recall"), recall[1])
+      print("{0:<10}".format("f1"), f1[1])
 
 
-print(len(texts))
 eval()
 for epoch in range(EPOCHS):
   print("Epoch", epoch)
