@@ -1,0 +1,306 @@
+{
+  "filename": "20180808_DEFWEB_SAAB receives c_A_IND_B_SWE",
+  "labels": [
+    {
+      "end": 202,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Saab has been awarded a follow-on contract from India\u2019s Hindustan Aeronautics Limited (HAL) for IDAS-2 self-protection systems for the Dhruv advanced light helicopters it is building for the Indian Army"
+    },
+    {
+      "end": 4,
+      "start": -1,
+      "tag": "Seller",
+      "text": ""
+    },
+    {
+      "end": 91,
+      "start": 56,
+      "tag": "Buyer",
+      "text": "Hindustan Aeronautics Limited (HAL)"
+    },
+    {
+      "end": 53,
+      "start": 48,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 202,
+      "start": 191,
+      "tag": "Buyer",
+      "text": "Indian Army"
+    },
+    {
+      "end": 197,
+      "start": 191,
+      "tag": "Buyer Country",
+      "text": "Indian"
+    },
+    {
+      "end": 91,
+      "start": 56,
+      "tag": "Seller",
+      "text": "Hindustan Aeronautics Limited (HAL)"
+    },
+    {
+      "end": 167,
+      "start": 96,
+      "tag": "Weapon",
+      "text": "IDAS-2 self-protection systems for the Dhruv advanced light helicopters"
+    },
+    {
+      "end": 53,
+      "start": 48,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 815,
+      "start": 654,
+      "tag": "Answer",
+      "text": "Saab has been awarded several follow-on IDAS contracts for India in the past, after receiving initial serial production orders in December 2008 worth $24 million"
+    },
+    {
+      "end": 658,
+      "start": 654,
+      "tag": "Seller",
+      "text": "Saab"
+    },
+    {
+      "end": 698,
+      "start": 694,
+      "tag": "Weapon",
+      "text": "IDAS"
+    },
+    {
+      "end": 718,
+      "start": 713,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 718,
+      "start": 713,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 797,
+      "start": 784,
+      "tag": "Date",
+      "text": "December 2008"
+    },
+    {
+      "end": 815,
+      "start": 804,
+      "tag": "Price",
+      "text": "$24 million"
+    },
+    {
+      "end": 1865,
+      "start": 1704,
+      "tag": "Answer",
+      "text": "In June last year Saab Grintek Defence said it will produce the IDAS for H225M Caracal multirole utility helicopters under a new contract from Airbus Helicopters"
+    },
+    {
+      "end": 1742,
+      "start": 1722,
+      "tag": "Seller",
+      "text": "Saab Grintek Defence"
+    },
+    {
+      "end": 1820,
+      "start": 1768,
+      "tag": "Weapon",
+      "text": "IDAS for H225M Caracal multirole utility helicopters"
+    },
+    {
+      "end": 1865,
+      "start": 1847,
+      "tag": "Buyer",
+      "text": "Airbus Helicopters"
+    },
+    {
+      "end": 2051,
+      "start": 1903,
+      "tag": "Answer",
+      "text": "Saab is looking at installing IDAS aboard other helicopters made by HAL, such as its Light Combat Helicopter, and expects more IDAS sales from India"
+    },
+    {
+      "end": 1907,
+      "start": 1903,
+      "tag": "Seller",
+      "text": "Saab"
+    },
+    {
+      "end": 1974,
+      "start": 1971,
+      "tag": "Buyer",
+      "text": "HAL"
+    },
+    {
+      "end": 2051,
+      "start": 2046,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 2051,
+      "start": 2046,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 2034,
+      "start": 2030,
+      "tag": "Weapon",
+      "text": "IDAS"
+    },
+    {
+      "end": 1937,
+      "start": 1933,
+      "tag": "Weapon",
+      "text": "IDAS"
+    },
+    {
+      "end": 2240,
+      "start": 2060,
+      "tag": "Answer",
+      "text": "HAL has been building the Dhruv Advanced Light Helicopter (ALH) since 2002 and in December 2017 it had almost completed the initial order of 159 aircraft for the Army and Air Force"
+    },
+    {
+      "end": 2063,
+      "start": 2060,
+      "tag": "Seller",
+      "text": "HAL"
+    },
+    {
+      "end": 2123,
+      "start": 2086,
+      "tag": "Weapon",
+      "text": "Dhruv Advanced Light Helicopter (ALH)"
+    },
+    {
+      "end": 2134,
+      "start": 2130,
+      "tag": "Date",
+      "text": "2002"
+    },
+    {
+      "end": 2155,
+      "start": 2142,
+      "tag": "Date",
+      "text": "December 2017"
+    },
+    {
+      "end": 2204,
+      "start": 2201,
+      "tag": "Quantity",
+      "text": "159"
+    },
+    {
+      "end": 2213,
+      "start": 2205,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 2226,
+      "start": 2222,
+      "tag": "Buyer",
+      "text": "Army"
+    },
+    {
+      "end": 2240,
+      "start": 2231,
+      "tag": "Buyer",
+      "text": "Air Force"
+    },
+    {
+      "end": 2361,
+      "start": 2242,
+      "tag": "Answer",
+      "text": "In September 2017 it was given another contract for 41 Dhruvs worth $952 million \u2013 40 for the Army and one for the Navy"
+    },
+    {
+      "end": 2259,
+      "start": 2245,
+      "tag": "Date",
+      "text": "September 2017"
+    },
+    {
+      "end": 2296,
+      "start": 2294,
+      "tag": "Quantity",
+      "text": "41"
+    },
+    {
+      "end": 2303,
+      "start": 2297,
+      "tag": "Weapon",
+      "text": "Dhruvs"
+    },
+    {
+      "end": 2322,
+      "start": 2310,
+      "tag": "Price",
+      "text": "$952 million"
+    },
+    {
+      "end": 2327,
+      "start": 2325,
+      "tag": "Quantity",
+      "text": "40"
+    },
+    {
+      "end": 2340,
+      "start": 2336,
+      "tag": "Buyer",
+      "text": "Army"
+    },
+    {
+      "end": 2361,
+      "start": 2357,
+      "tag": "Buyer",
+      "text": "Navy"
+    },
+    {
+      "end": 2438,
+      "start": 2363,
+      "tag": "Answer",
+      "text": "That followed a March 2017 order for 32 Dhruvs for the Navy and Coast Guard"
+    },
+    {
+      "end": 2389,
+      "start": 2379,
+      "tag": "Date",
+      "text": "March 2017"
+    },
+    {
+      "end": 2402,
+      "start": 2400,
+      "tag": "Quantity",
+      "text": "32"
+    },
+    {
+      "end": 2409,
+      "start": 2403,
+      "tag": "Weapon",
+      "text": "Dhruvs"
+    },
+    {
+      "end": 2422,
+      "start": 2418,
+      "tag": "Buyer",
+      "text": "Navy"
+    },
+    {
+      "end": 2438,
+      "start": 2427,
+      "tag": "Buyer",
+      "text": "Coast Guard"
+    }
+  ],
+  "text": "Saab has been awarded a follow-on contract from India\u2019s Hindustan Aeronautics Limited (HAL) for IDAS-2 self-protection systems for the Dhruv advanced light helicopters it is building for the Indian Army.\n\nSaab on 8 August said the order is worth around SEK350 million ($39 million) and includes the IDAS-2 (Integrated Defensive Aids Suite). Production will take place at Saab\u2019s facility in Centurion, South Africa, with deliveries to begin during 2019.\n\n\u201cThis follow-on order confirms our successful partnership with HAL and further establishes Saab as a local partner to the Indian industry,\u201d said Anders Carp, head of Saab business area Surveillance.\n\nSaab has been awarded several follow-on IDAS contracts for India in the past, after receiving initial serial production orders in December 2008 worth $24 million. For instance, it received contracts worth $33 million in September 2013 and $78 million in March 2015.\n\nIDAS warns against radar, laser and infrared (IR) guided threats and automatically deploys appropriate countermeasures. IDAS has been designed for both helicopters and fixed wing aircraft. Saab also produces protection systems for both land and naval applications.\n\n\u201cThe system has a long and successful history with proven capability on many airborne platforms. This order strengthens our position as a supplier of high-tech systems to the Indian Armed forces,\u201d said Trevor Raman, head of Saab Grintek Defence.\n\nSaab says IDAS has been chosen for many different airborne platforms, including the Saab 2000, AW109, Super Lynx 300, Boeing CH-47 Chinook, Denel Rooivalk and Oryx, Eurocopter Cougar, Puma & Super Puma, NH Industries NH90, C-130 and L100 Hercules, and Sukhoi Su-30MKM.\n\nIn June last year Saab Grintek Defence said it will produce the IDAS for H225M Caracal multirole utility helicopters under a new contract from Airbus Helicopters. Deliveries are scheduled for 2020.\n\nSaab is looking at installing IDAS aboard other helicopters made by HAL, such as its Light Combat Helicopter, and expects more IDAS sales from India.\n\n\n\n\n\n\n\nHAL has been building the Dhruv Advanced Light Helicopter (ALH) since 2002 and in December 2017 it had almost completed the initial order of 159 aircraft for the Army and Air Force. In September 2017 it was given another contract for 41 Dhruvs worth $952 million \u2013 40 for the Army and one for the Navy. That followed a March 2017 order for 32 Dhruvs for the Navy and Coast Guard. Production of the improved Dhruv Mk III is underway as well as the armed Rudra version for the Air Force and Army."
+}
