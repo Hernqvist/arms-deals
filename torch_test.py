@@ -21,20 +21,24 @@ class BERT(nn.Module):
     return loss, text_fea
 
 def preprocess_dataset(dataset):
-  tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
-  preprocessor = Preprocessor(tokenizer, BERT.max_length)
 
   texts, labels = [], []
 
   for text in dataset.texts:
+    if not text.positive_sample:
+      continue
     x, y = preprocessor.labels(text)
     texts.append(x)
     labels.append(y)
+    #if text.positive_sample:
+    #  print(preprocessor.print_labels(x, y))
 
   return torch.stack(texts), torch.stack(labels)
 
 
 dataset = data_loader.DataSet.load_json2(sys.argv[1]).split_chunks()
+tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
+preprocessor = Preprocessor(tokenizer, BERT.max_length)
 texts, labels = preprocess_dataset(dataset)
 
 split_at = (len(texts)*2)//3
@@ -61,6 +65,10 @@ def eval():
     loss, probabilities = output
     loss = loss.item()
     print("{0:<10}".format("loss"), loss)
+    if True:
+      predictions = torch.argmax(probabilities, dim=2)
+      for x, y_actual, y in zip(eval_texts, eval_labels, predictions):
+        preprocessor.print_labels(x, y_actual, y)
     if False:
       predictions = torch.argmax(probabilities, dim=1).tolist()
       actual = [x[0] for x in eval_labels.tolist()]

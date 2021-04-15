@@ -1,0 +1,54 @@
+{
+  "filename": "20180122_DAILY_ Luxemburg H-145_A_LUX_B_FRG",
+  "labels": [
+    {
+      "end": 191,
+      "start": 62,
+      "tag": "Answer",
+      "text": "the cabinet of the Luxembourg government agreed to acquire two Airbus 145M multi-role helicopters for the Luxembourg Armed Forces"
+    },
+    {
+      "end": 102,
+      "start": 62,
+      "tag": "Buyer",
+      "text": "the cabinet of the Luxembourg government"
+    },
+    {
+      "end": 91,
+      "start": 81,
+      "tag": "Buyer Country",
+      "text": "Luxembourg"
+    },
+    {
+      "end": 124,
+      "start": 121,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 159,
+      "start": 125,
+      "tag": "Weapon",
+      "text": "Airbus 145M multi-role helicopters"
+    },
+    {
+      "end": 131,
+      "start": 125,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 191,
+      "start": 168,
+      "tag": "Buyer",
+      "text": "Luxembourg Armed Forces"
+    },
+    {
+      "end": 178,
+      "start": 168,
+      "tag": "Buyer Country",
+      "text": "Luxembourg"
+    }
+  ],
+  "text": "Airbus 145M multi-role helicopter; Credit: Airbus\n\nOn Friday, the cabinet of the Luxembourg government agreed to acquire two Airbus 145M multi-role helicopters for the Luxembourg Armed Forces.\n\nThe acquisition will be made through the NATO Support and Acquisition Agency and will be designated as dual-use (both military and civilian), for example by the Grand Ducal Police.\n\nThe announcement is in line with the renewal of the current police fleet under the broader context of the adoption by the government, on 30 June 2017, of the \"Guidelines for Luxembourg's defense policy by 2025 and beyond\". \u200b"
+}
