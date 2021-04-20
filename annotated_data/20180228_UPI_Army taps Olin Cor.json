@@ -1,0 +1,72 @@
+{
+  "filename": "20180228_UPI_Army taps Olin Cor",
+  "labels": [
+    {
+      "end": 30,
+      "start": 21,
+      "tag": "Buyer",
+      "text": "U.S. Army"
+    },
+    {
+      "end": 25,
+      "start": 21,
+      "tag": "Buyer Country",
+      "text": "U.S."
+    },
+    {
+      "end": 52,
+      "start": 43,
+      "tag": "Seller",
+      "text": "Olin Corp"
+    },
+    {
+      "end": 107,
+      "start": 86,
+      "tag": "Weapon",
+      "text": "small arms ammunition"
+    },
+    {
+      "end": 108,
+      "start": 17,
+      "tag": "Answer",
+      "text": "The U.S. Army has awarded Olin Corp. a contract for several sizes of small arms ammunition."
+    },
+    {
+      "end": 407,
+      "start": 246,
+      "tag": "Answer",
+      "text": "The contract taps the Winchester Division of the Olin Corporation, out of Illinois, to produce 5.56mm, 7.62mm, and .50 caliber ammunition cartridges for the Army"
+    },
+    {
+      "end": 407,
+      "start": 403,
+      "tag": "Buyer",
+      "text": "Army"
+    },
+    {
+      "end": 347,
+      "start": 341,
+      "tag": "Weapon",
+      "text": "5.56mm"
+    },
+    {
+      "end": 355,
+      "start": 349,
+      "tag": "Weapon",
+      "text": "7.62mm"
+    },
+    {
+      "end": 394,
+      "start": 361,
+      "tag": "Weapon",
+      "text": ".50 caliber ammunition cartridges"
+    },
+    {
+      "end": 311,
+      "start": 264,
+      "tag": "Seller",
+      "text": "the Winchester Division of the Olin Corporation"
+    }
+  ],
+  "text": "Feb. 28 (UPI) -- The U.S. Army has awarded Olin Corp. a contract for several sizes of small arms ammunition.\n\nThe deal, announced Tuesday by the Department of Defense, is valued at more than $51.1 million and modifies a previous contract award.\n\nThe contract taps the Winchester Division of the Olin Corporation, out of Illinois, to produce 5.56mm, 7.62mm, and .50 caliber ammunition cartridges for the Army.\n\nThe Department of Defense classifies small caliber ammunition as rounds that are .50 caliber and below.\n\nThe 5.56 mm cartridge is used in different weapon variants of the M16 Rifle, including the M4 Carbine and M249 Squad Automatic Weapon that can fire either a 30-round magazine or a 100- or 200-round drum.\n\nThe 7.62 mm ammunition cartridges can be used with different variants of the Army's M240 Machine Gun, as well as with the M24 Sniper Weapon System, the M110 Semi-Automatic Sniper System and M14 Enhanced Battle Rifle.\n\nU.S. Army special forces units along with the 75th Ranger Regiment, which falls under U.S. Special Operations Command, has been known to carry the Belgian-made Fabrique Nationale Special Operations Combat Assault Rifle, or FN SCAR. U.S. SOCOM uses the SCAR-H, or \"heavy\" version, which fires 7.62 mm ammunition cartridges -- other versions can fire 5.56 mm cartridge.\n\nFor the .50 caliber ammunition, the U.S. Army uses the M2 Browning Machine Gun, which has been in regular service since 1933 and the Barrett manufactured M107 semi-automatic long-range sniper rifle -- the M107 has a maximum range distance of 4,400 yards or what equates to 2.5 miles.\n\nWork on the contract will occur in Oxford, Miss., and is expected to be complete by August 2019.\n\nThe total amount of the contract will be obligated to Olin Corp. at time of award from Army fiscal 2016, 2017 and 2018 other procurement funds, the Department of Defense said in a press release."
+}

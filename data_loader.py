@@ -253,7 +253,7 @@ class DataSet:
     for text in self.texts:
       texts.extend(text.split_chunks(min_length))
     if shuffle:
-      random.Random(1).shuffle(texts)
+      random.Random(0).shuffle(texts)
     return DataSet(texts, "Split of {} into chunks of at least {}".format(self.name, min_length))
 
   def print_data(self):

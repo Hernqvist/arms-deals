@@ -1,0 +1,84 @@
+{
+  "filename": "20171115_OTH_Turkey emerges as _A_TUR_B_UK",
+  "labels": [
+    {
+      "end": 155,
+      "start": 19,
+      "tag": "Answer",
+      "text": "The Turkish government is interested in buying the soon-to-be-decommissioned UK helicopter carrier HMS Ocean if it is not sold to Brazil"
+    },
+    {
+      "end": 41,
+      "start": 19,
+      "tag": "Buyer",
+      "text": "The Turkish government"
+    },
+    {
+      "end": 30,
+      "start": 23,
+      "tag": "Buyer Country",
+      "text": "Turkish"
+    },
+    {
+      "end": 98,
+      "start": 96,
+      "tag": "Seller",
+      "text": "UK"
+    },
+    {
+      "end": 127,
+      "start": 99,
+      "tag": "Weapon",
+      "text": "helicopter carrier HMS Ocean"
+    },
+    {
+      "end": 98,
+      "start": 96,
+      "tag": "Seller Country",
+      "text": "UK"
+    },
+    {
+      "end": 970,
+      "start": 961,
+      "tag": "Weapon",
+      "text": "HMS Ocean"
+    },
+    {
+      "end": 1006,
+      "start": 988,
+      "tag": "Buyer",
+      "text": "the Brazilian Navy"
+    },
+    {
+      "end": 1001,
+      "start": 992,
+      "tag": "Buyer Country",
+      "text": "Brazilian"
+    },
+    {
+      "end": 1088,
+      "start": 925,
+      "tag": "Answer",
+      "text": "Brazilian media reports rumored the HMS Ocean could be sold to the Brazilian Navy for a \u201creasonable price\u201d. That price, according to reports, is \u00a380 million pounds"
+    },
+    {
+      "end": 1088,
+      "start": 1070,
+      "tag": "Price",
+      "text": "\u00a380 million pounds"
+    },
+    {
+      "end": 155,
+      "start": 149,
+      "tag": "Buyer",
+      "text": "Brazil"
+    },
+    {
+      "end": 155,
+      "start": 149,
+      "tag": "Buyer Country",
+      "text": "Brazil"
+    }
+  ],
+  "text": "November 15, 2017\n\nThe Turkish government is interested in buying the soon-to-be-decommissioned UK helicopter carrier HMS Ocean if it is not sold to Brazil.\n\nIn a reply to a parliamentary question, the UK defense ministry confirmed that Turkey sent an expression of interest to UK about the potential sale of HMS Ocean.\n\nHMS Ocean is currently on her final deployment as a commissioned Royal Navy ship, serving the role of NATO Standing Maritime Group 2 flagship in the Mediterranean.\n\nHMS Ocean and her crew are expected to return their homeport at Naval Base Plymouth in December after starting their deployment in March this year.\n\nCommissioned in October 1995, the 202-meter long HMS Ocean replaced HMS Bulwark as fleet flagship in June 2015. In her role as a helicopter carrier and amphibious assault ship, Ocean is designed to deliver troops by helicopter or by landing craft.\n\nAfter her decommissioning was announced, Brazilian media reports rumored the HMS Ocean could be sold to the Brazilian Navy for a \u201creasonable price\u201d. That price, according to reports, is \u00a380 million pounds.\n\nSecond helicopter carrier for Turkey\n\nTurkey is already building a landing helicopter dock which is based on the Spanish Navy\u2019s (LHD) Juan Carlos I and designed by Navantia. The Turkish version of the ship will be named TCG Anadolu and have the pennant number L-408.\n\nFirst steel on the ship, which will be registered as a light aircraft carrier by the Turkish Lloyd, was cut in May 2016 while delivery is scheduled for 2021."
+}
