@@ -1,0 +1,318 @@
+{
+  "filename": "20170803_DEFWEB_BOT acquire 300_A_BOT_B_FRA",
+  "labels": [
+    {
+      "end": 120,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Botswana purchased \u20ac304.2 million worth of military hardware from France in 2016, including MICA-VL and Mistral missiles"
+    },
+    {
+      "end": 8,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 8,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 33,
+      "start": 19,
+      "tag": "Price",
+      "text": "\u20ac304.2 million"
+    },
+    {
+      "end": 60,
+      "start": 43,
+      "tag": "Weapon",
+      "text": "military hardware"
+    },
+    {
+      "end": 72,
+      "start": 66,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 72,
+      "start": 66,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 80,
+      "start": 76,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 99,
+      "start": 92,
+      "tag": "Weapon",
+      "text": "MICA-VL"
+    },
+    {
+      "end": 120,
+      "start": 104,
+      "tag": "Weapon",
+      "text": "Mistral missiles"
+    },
+    {
+      "end": 1443,
+      "start": 1359,
+      "tag": "Answer",
+      "text": "the Mistral/MICA agreement is not the first defence deal between Botswana and France"
+    },
+    {
+      "end": 1432,
+      "start": 1424,
+      "tag": "Buyer",
+      "text": "Botswana"
+    },
+    {
+      "end": 1432,
+      "start": 1424,
+      "tag": "Buyer Country",
+      "text": "Botswana"
+    },
+    {
+      "end": 1443,
+      "start": 1437,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 1443,
+      "start": 1437,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1375,
+      "start": 1363,
+      "tag": "Weapon",
+      "text": "Mistral/MICA"
+    },
+    {
+      "end": 1737,
+      "start": 1680,
+      "tag": "Answer",
+      "text": "France delivered 14 missile launchers to Botswana in 2016"
+    },
+    {
+      "end": 1686,
+      "start": 1680,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 1686,
+      "start": 1680,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1699,
+      "start": 1697,
+      "tag": "Quantity",
+      "text": "14"
+    },
+    {
+      "end": 1717,
+      "start": 1700,
+      "tag": "Weapon",
+      "text": "missile launchers"
+    },
+    {
+      "end": 1729,
+      "start": 1721,
+      "tag": "Buyer",
+      "text": "Botswana"
+    },
+    {
+      "end": 1729,
+      "start": 1721,
+      "tag": "Buyer Country",
+      "text": "Botswana"
+    },
+    {
+      "end": 1737,
+      "start": 1733,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1911,
+      "start": 1828,
+      "tag": "Answer",
+      "text": "Botswana bought 100 Strela-3/SA-14 surface-to-air missiles from the Ukraine in 2012"
+    },
+    {
+      "end": 1836,
+      "start": 1828,
+      "tag": "Buyer",
+      "text": "Botswana"
+    },
+    {
+      "end": 1836,
+      "start": 1828,
+      "tag": "Buyer Country",
+      "text": "Botswana"
+    },
+    {
+      "end": 1847,
+      "start": 1844,
+      "tag": "Quantity",
+      "text": "100"
+    },
+    {
+      "end": 1886,
+      "start": 1848,
+      "tag": "Weapon",
+      "text": "Strela-3/SA-14 surface-to-air missiles"
+    },
+    {
+      "end": 1903,
+      "start": 1896,
+      "tag": "Seller",
+      "text": "Ukraine"
+    },
+    {
+      "end": 1903,
+      "start": 1896,
+      "tag": "Seller Country",
+      "text": "Ukraine"
+    },
+    {
+      "end": 1911,
+      "start": 1907,
+      "tag": "Date",
+      "text": "2012"
+    },
+    {
+      "end": 2077,
+      "start": 1914,
+      "tag": "Answer",
+      "text": "Gaborone is believed to be negotiating with Sweden for between eight and 12 Gripen fighter jets to replace its CF-5 fighters, for an estimated cost of $1.7 billion"
+    },
+    {
+      "end": 1922,
+      "start": 1914,
+      "tag": "Buyer",
+      "text": "Gaborone"
+    },
+    {
+      "end": 1964,
+      "start": 1958,
+      "tag": "Seller",
+      "text": "Sweden"
+    },
+    {
+      "end": 1964,
+      "start": 1958,
+      "tag": "Seller Country",
+      "text": "Sweden"
+    },
+    {
+      "end": 1982,
+      "start": 1977,
+      "tag": "Quantity",
+      "text": "eight"
+    },
+    {
+      "end": 1989,
+      "start": 1987,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 2009,
+      "start": 1990,
+      "tag": "Weapon",
+      "text": "Gripen fighter jets"
+    },
+    {
+      "end": 2077,
+      "start": 2065,
+      "tag": "Price",
+      "text": "$1.7 billion"
+    },
+    {
+      "end": 2191,
+      "start": 2079,
+      "tag": "Answer",
+      "text": "Other procurements include a $179 million deal for 45 Piranha 3 armoured vehicles from Swiss company GDELS-Mowag"
+    },
+    {
+      "end": 2125,
+      "start": 2108,
+      "tag": "Price",
+      "text": "$179 million deal"
+    },
+    {
+      "end": 2132,
+      "start": 2130,
+      "tag": "Quantity",
+      "text": "45"
+    },
+    {
+      "end": 2160,
+      "start": 2133,
+      "tag": "Weapon",
+      "text": "Piranha 3 armoured vehicles"
+    },
+    {
+      "end": 2171,
+      "start": 2166,
+      "tag": "Seller Country",
+      "text": "Swiss"
+    },
+    {
+      "end": 2191,
+      "start": 2180,
+      "tag": "Seller",
+      "text": "GDELS-Mowag"
+    },
+    {
+      "end": 2515,
+      "start": 2382,
+      "tag": "Answer",
+      "text": "Airbus Helicopters sold three AS350 B3e (now known as the H125) Ecureuil helicopters to the Police Air Support Branch in January 2015"
+    },
+    {
+      "end": 2400,
+      "start": 2382,
+      "tag": "Seller",
+      "text": "Airbus Helicopters"
+    },
+    {
+      "end": 2411,
+      "start": 2406,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 2466,
+      "start": 2412,
+      "tag": "Weapon",
+      "text": "AS350 B3e (now known as the H125) Ecureuil helicopters"
+    },
+    {
+      "end": 2499,
+      "start": 2470,
+      "tag": "Buyer",
+      "text": "the Police Air Support Branch"
+    },
+    {
+      "end": 2515,
+      "start": 2503,
+      "tag": "Date",
+      "text": "January 2015"
+    }
+  ],
+  "text": "Botswana purchased \u20ac304.2 million worth of military hardware from France in 2016, including MICA-VL and Mistral missiles.\n\nThis is according to the French Ministry for the Armed Forces 2017 report to Parliament on arms exports, published in July. Most of the money is believed to be from a contract with European missile manufacturer MBDA for MICA-VL and Mistral missiles. It has been reported that Botswana has been interested in these missiles for a time, and Botswana Defence Force (BDF) commander Lt Gen Galebotswe accompanied by Lt Col Mokgadi and Lt Col Motlaleng were in France in December 2015 for a demonstration of the missile systems.\n\nThe MICA-VL is a short range, ground based air defence system deploying the MICA fire-and-forget missile, capable of being fitted with either a heat-seeking homing head or with an active radar seeker head. Interception range is up to 20 km.\n\nThe Mistral man-portable air defence system (MANPADS) is a short range weapon using a fire-and-forget heat-seeking missile with a range of up to 6 km. It is normally operated by a gunner and a crew commander. However, if the mission is carried out in a simple tactical environment, it can be operated by one single soldier. Mistral entered series production in 1989 and over 16 000 missiles have been ordered by more than 27 countries.\n\nAs noted by ADIT \u2013 The Bulletin, the Mistral/MICA agreement is not the first defence deal between Botswana and France, as the BDF is a user of ACMAT (Ateliers de Construction M\u00e9canique de L\u2019Atlantique) vehicles. However, last year\u2019s contracts dwarf orders in previous years of \u20ac12 million in 2014 and just \u20ac0.1 million in 2015.\n\nAccording to the report, France delivered 14 missile launchers to Botswana in 2016. The Stockholm International Peace Research Institute\u2019s Arms Transfer Database notes that Botswana bought 100 Strela-3/SA-14 surface-to-air missiles from the Ukraine in 2012.\n\nGaborone is believed to be negotiating with Sweden for between eight and 12 Gripen fighter jets to replace its CF-5 fighters, for an estimated cost of $1.7 billion. Other procurements include a $179 million deal for 45 Piranha 3 armoured vehicles from Swiss company GDELS-Mowag.\n\nBotswana is an important market for France. Paris granted 15 defence export licences in 2016, as compared to five the year before. The law enforcement sector is also an important market \u2013 Airbus Helicopters sold three AS350 B3e (now known as the H125) Ecureuil helicopters to the Police Air Support Branch in January 2015, which joined three already acquired in 2007.\n\n\n\n\n\n\n\nMeanwhile, in July this year it emerged that Botswana has purchased 500 second hand Land Rover 110 Defenders for P161 million (12.5 million pounds) from UK-based Witham Specialist Vehicles. Land Rover Jaguar ended the production of the Defender range and its spare parts in 2015. The BDF and the Botswana Police Services Special Support Group (SSG) still have large fleets of the Defender 110 which are used for troop transportation and operational support roles."
+}

@@ -1,0 +1,258 @@
+{
+  "filename": "20180510_DEFWEB_ANG confirmed a_A_ANG_B_ISR",
+  "labels": [
+    {
+      "end": 116,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Angola is the customer for four Super Dvora Mk 3 patrol boats ordered from Israel Aerospace Industries (IAI) in 2015"
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 31,
+      "start": 27,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 61,
+      "start": 32,
+      "tag": "Weapon",
+      "text": "Super Dvora Mk 3 patrol boats"
+    },
+    {
+      "end": 108,
+      "start": 75,
+      "tag": "Seller",
+      "text": "Israel Aerospace Industries (IAI)"
+    },
+    {
+      "end": 81,
+      "start": 75,
+      "tag": "Seller Country",
+      "text": "Israel"
+    },
+    {
+      "end": 116,
+      "start": 112,
+      "tag": "Date",
+      "text": "2015"
+    },
+    {
+      "end": 1601,
+      "start": 1509,
+      "tag": "Answer",
+      "text": "in 2016 Angola ordered several patrol vessels from France as part of a 495 million euro deal"
+    },
+    {
+      "end": 1516,
+      "start": 1512,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 1523,
+      "start": 1517,
+      "tag": "Buyer",
+      "text": "Angola"
+    },
+    {
+      "end": 1523,
+      "start": 1517,
+      "tag": "Buyer Country",
+      "text": "Angola"
+    },
+    {
+      "end": 1566,
+      "start": 1560,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 1566,
+      "start": 1560,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1596,
+      "start": 1580,
+      "tag": "Price",
+      "text": "495 million euro"
+    },
+    {
+      "end": 1554,
+      "start": 1540,
+      "tag": "Weapon",
+      "text": "patrol vessels"
+    },
+    {
+      "end": 1539,
+      "start": 1532,
+      "tag": "Quantity",
+      "text": "several"
+    },
+    {
+      "end": 1762,
+      "start": 1756,
+      "tag": "Buyer",
+      "text": "Angola"
+    },
+    {
+      "end": 1762,
+      "start": 1756,
+      "tag": "Buyer Country",
+      "text": "Angola"
+    },
+    {
+      "end": 1816,
+      "start": 1805,
+      "tag": "Weapon",
+      "text": "helicopters"
+    },
+    {
+      "end": 1853,
+      "start": 1849,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1859,
+      "start": 1854,
+      "tag": "Weapon",
+      "text": "A109K"
+    },
+    {
+      "end": 1867,
+      "start": 1864,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1885,
+      "start": 1868,
+      "tag": "Weapon",
+      "text": "AW139 helicopters"
+    },
+    {
+      "end": 1928,
+      "start": 1891,
+      "tag": "Seller",
+      "text": "AgustaWestland (Leonardo Helicopters)"
+    },
+    {
+      "end": 2081,
+      "start": 1756,
+      "tag": "Answer",
+      "text": "Angola has already taken delivery of a number of helicopters over the last decade, including four A109K and two AW139 helicopters from AgustaWestland (Leonardo Helicopters) for use by the Navy; eight Mi-171Sh armed transport helicopters from Russia and 12 second hand and upgraded Mi-24P/Mi-35P attack helicopters from Russia"
+    },
+    {
+      "end": 1955,
+      "start": 1950,
+      "tag": "Quantity",
+      "text": "eight"
+    },
+    {
+      "end": 1992,
+      "start": 1956,
+      "tag": "Weapon",
+      "text": "Mi-171Sh armed transport helicopters"
+    },
+    {
+      "end": 2004,
+      "start": 1998,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2004,
+      "start": 1998,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 2011,
+      "start": 2009,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 2069,
+      "start": 2037,
+      "tag": "Weapon",
+      "text": "Mi-24P/Mi-35P attack helicopters"
+    },
+    {
+      "end": 2081,
+      "start": 2075,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2081,
+      "start": 2075,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1748,
+      "start": 1643,
+      "tag": "Answer",
+      "text": "In 2016 Angola ordered two fast patrol craft from Whitehead Sistemi Subacquei for around 7 million euros."
+    },
+    {
+      "end": 1650,
+      "start": 1646,
+      "tag": "Price",
+      "text": "2016"
+    },
+    {
+      "end": 1657,
+      "start": 1651,
+      "tag": "Buyer",
+      "text": "Angola"
+    },
+    {
+      "end": 1657,
+      "start": 1651,
+      "tag": "Buyer Country",
+      "text": "Angola"
+    },
+    {
+      "end": 1669,
+      "start": 1666,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1687,
+      "start": 1670,
+      "tag": "Weapon",
+      "text": "fast patrol craft"
+    },
+    {
+      "end": 1720,
+      "start": 1693,
+      "tag": "Seller",
+      "text": "Whitehead Sistemi Subacquei"
+    },
+    {
+      "end": 1747,
+      "start": 1732,
+      "tag": "Price",
+      "text": "7 million euros"
+    }
+  ],
+  "text": "Angola is the customer for four Super Dvora Mk 3 patrol boats ordered from Israel Aerospace Industries (IAI) in 2015.\n\nAt the time the deal was announced, IAI only said the vessels were going to an undisclosed African country and that they would be delivered in 2016.\n\nAccording to Angola\u2019s official government gazette published on 1 March this year, budget information has revealed that the country is spending $4.3 million on equipment for its Dvora vessels, including radars.\n\nThe Super Dvora Mk 3 is currently in service with several navies worldwide. The type has an overall length of 27 meters, a top speed in excess of 40 knots, and displaces approximately 50 tonnes. It has a range of over 1 000 nautical miles at 10 knots. The type can be armed with 20, 23, 25 or 30 mm cannons, 7.62 or 12.7 mm machineguns and 40 mm grenade launchers. These can be mounted on automatic turrets or manually aimed. Missiles can also be fitted. Accommodation provides for 12 crewmembers.\n\nThe Super Dvora MK 3 can be propelled by articulating surface drives (ASD) or waterjets. The ASD system enables operation in extremely shallow water at minimal drafts of 1.2 metres. The ASD system is also highly manoeuvrable, steering the craft with thrust vectoring.\n\nAngola\u2019s most recent budget also makes provision for the acquisition of six transport helicopters for $52 million and budgets $9.5 million for maritime patrol vessels. According to the Stockholm International Peace Research Institute\u2019s Arms Transfers database, in 2016 Angola ordered several patrol vessels from France as part of a 495 million euro deal, but not much is known about this deal.\n\nIn 2016 Angola ordered two fast patrol craft from Whitehead Sistemi Subacquei for around 7 million euros.\n\n\n\n\n\n\n\nAngola has already taken delivery of a number of helicopters over the last decade, including four A109K and two AW139 helicopters from AgustaWestland (Leonardo Helicopters) for use by the Navy; eight Mi-171Sh armed transport helicopters from Russia and 12 second hand and upgraded Mi-24P/Mi-35P attack helicopters from Russia.\n\n"
+}
