@@ -12,7 +12,7 @@ from transformers import BertForSequenceClassification, BertForTokenClassificati
 
 class BERT(nn.Module):
   max_length = 128
-  options_name = "bert-base-uncased"
+  options_name = "bert-base-cased"
   def __init__(self):
     super(BERT, self).__init__()
     self.encoder = BertForTokenClassification.from_pretrained(self.options_name)
