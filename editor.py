@@ -112,9 +112,7 @@ class Editor(ScrolledText):
 
     self.initialize("")
 
-  def refresh(self):
-    y = self.yview()[0]
-
+  def refresh(self, goto=None):
     self.windows = []
     self.config(state='normal')
     self.configure(font=Font(family="Times New Roman",
@@ -168,16 +166,19 @@ class Editor(ScrolledText):
       self.window_create(tag_name + '_end', window=end)
 
     self.config(state='disabled')
-    self.yview_moveto(y)
+    if goto != None:
+      self.see(goto)
 
   def add_label(self, label):
+    goto = self.n_chars(label.start)
     self.labels.append(label)
-    self.refresh()
+    self.refresh(goto)
     self.on_edit()
 
   def delete_label(self, i):
+    goto = self.n_chars(self.labels[i].start)
     self.labels.pop(i)
-    self.refresh()
+    self.refresh(goto)
     self.on_edit()
 
   def initialize(self, text):
