@@ -1,0 +1,66 @@
+{
+  "filename": "20180328_DN_Croatia to buy used_A_CRO_B_ISR",
+  "labels": [
+    {
+      "end": 105,
+      "start": 17,
+      "tag": "Answer",
+      "text": "The Croatian government has decided to procure used F-16D Barak fighter jets from Israel"
+    },
+    {
+      "end": 40,
+      "start": 17,
+      "tag": "Buyer",
+      "text": "The Croatian government"
+    },
+    {
+      "end": 29,
+      "start": 21,
+      "tag": "Buyer Country",
+      "text": "Croatian"
+    },
+    {
+      "end": 93,
+      "start": 69,
+      "tag": "Weapon",
+      "text": "F-16D Barak fighter jets"
+    },
+    {
+      "end": 105,
+      "start": 99,
+      "tag": "Seller",
+      "text": "Israel"
+    },
+    {
+      "end": 105,
+      "start": 99,
+      "tag": "Seller Country",
+      "text": "Israel"
+    },
+    {
+      "end": 1099,
+      "start": 1010,
+      "tag": "Answer",
+      "text": "The first jets are expected to be delivered to the country\u2019s Air Force by the end of 2020"
+    },
+    {
+      "end": 1024,
+      "start": 1020,
+      "tag": "Weapon",
+      "text": "jets"
+    },
+    {
+      "end": 1080,
+      "start": 1057,
+      "tag": "Buyer",
+      "text": "the country\u2019s Air Force"
+    },
+    {
+      "end": 1099,
+      "start": 1095,
+      "tag": "Date",
+      "text": "2020"
+    }
+  ],
+  "text": "WARSAW, Poland \u2014 The Croatian government has decided to procure used F-16D Barak fighter jets from Israel, in order to replace its aging fleet of Russian jets.\n\nCroatia\u2019s Defence Council, which includes President Kolinda Grabar-Kitarovic and Prime Minister Andrej Plenkovic, made the decision at its March 27 meeting, the Defence Ministry said in a statement.\n\n\u201cThe decision was made unanimously, taking into consideration all the aspects, ranging from financial aspects to the needs of Croatia,\u201d Grabar-Kitarovic said, as reported by local daily Dnevnik.\n\nThe acquisition of 12 aircraft is estimated to be worth about $500 million.\n\nIn October, the Croatian ministry said it obtained four offers, including bids submitted by the U.S., Israel, Greece and Sweden. The former three countries offered to supply new or used F-16s, while Sweden\u2019s bid was for the delivery of JAS 39 Gripen fighters.\n\nThe purchase will allow Croatia to replace its outdated Soviet-designed Mikoyan MiG-21 aircraft with new fighters. The first jets are expected to be delivered to the country\u2019s Air Force by the end of 2020."
+}

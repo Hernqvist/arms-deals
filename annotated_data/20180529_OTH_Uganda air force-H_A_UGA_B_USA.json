@@ -1,0 +1,42 @@
+{
+  "filename": "20180529_OTH_Uganda air force-H_A_UGA_B_USA",
+  "labels": [
+    {
+      "end": 161,
+      "start": 45,
+      "tag": "Answer",
+      "text": "Russian Helicopters has delivered a VIP Mi-171E helicopter with a superior comfort cabin to the government of Uganda"
+    },
+    {
+      "end": 64,
+      "start": 45,
+      "tag": "Seller",
+      "text": "Russian Helicopters"
+    },
+    {
+      "end": 52,
+      "start": 45,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 103,
+      "start": 81,
+      "tag": "Weapon",
+      "text": "VIP Mi-171E helicopter"
+    },
+    {
+      "end": 161,
+      "start": 137,
+      "tag": "Buyer",
+      "text": "the government of Uganda"
+    },
+    {
+      "end": 161,
+      "start": 155,
+      "tag": "Buyer Country",
+      "text": "Uganda"
+    }
+  ],
+  "text": "VIP Mi-171E Delivered to Uganda, 10-Feb-16 : Russian Helicopters has delivered a VIP Mi-171E helicopter with a superior comfort cabin to the government of Uganda. Features included a wardrobe, food station, toilet and widescreen displays."
+}

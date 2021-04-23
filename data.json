@@ -416,6 +416,72 @@
     "text": "NEW DELHI: A $9-billion deal to codevelop a next-generation fighter aircraft with Russia fell through after Defence Research and Development Organisation ( DRDO ) shot it down saying it either had all the technologies such a project would bring to India or was in the process of developing these indigenously.The mega deal, which would have put India next to the US and China besides Russia with a fifth generation fighter aircraft , has been called off with a decision to purchase the jets off the shelf in the future, if the need arises.Sources who were involved in the negotiations and are knowledgeable about the decision to let it go for now said the nail in the coffin for the PAK FA project was the insistence by DRDO that it had the ability to develop all technologies needed.The fifth-generation jet project was an offer by Russia to share and codevelop a new fighter aircraft tailored for India that would see significant percentage of the research being carried out in India and a complete transfer of technology.India has already paid $295 million to Russia for the preliminary design phase of the project. An official said the termination of the deal meant this money has now gone \u2018down the drain.\u2019Sources said that at a top-level meeting on the project earlier this year, conducted by the PMO, the Air Force expressed reservations on the Russian proposal meeting all its requirements.While these were being addressed, with suggestions by top officials that improvements could be made, DRDO was asked for its opinion on whether the deal would result in the infusion of high-end technologies in India. An emphatic response by then DRDO chief, S Christopher , sealed the fate of the programme.India has now told Russia that it would not be participating in the development part of the programme, but would consider purchasing the fighter jets in the future as and when the technology matures and is proven.The deal being negotiated was to make a tailored jet for India with four flying prototypes to be delivered by 2019-20. It also included production facilities for at least 127 aircraft in India.Russia has also offered to sell India 20 of its older MiG-29 fighter jets to boost the declining fighter strength for a little over Rs 2000 crore. A decision on taking this proposal forward is however yet to be taken."
   },
   {
+    "filename": "20180328_DN_Croatia to buy used_A_CRO_B_ISR",
+    "labels": [
+      {
+        "end": 105,
+        "start": 17,
+        "tag": "Answer",
+        "text": "The Croatian government has decided to procure used F-16D Barak fighter jets from Israel"
+      },
+      {
+        "end": 40,
+        "start": 17,
+        "tag": "Buyer",
+        "text": "The Croatian government"
+      },
+      {
+        "end": 29,
+        "start": 21,
+        "tag": "Buyer Country",
+        "text": "Croatian"
+      },
+      {
+        "end": 93,
+        "start": 69,
+        "tag": "Weapon",
+        "text": "F-16D Barak fighter jets"
+      },
+      {
+        "end": 105,
+        "start": 99,
+        "tag": "Seller",
+        "text": "Israel"
+      },
+      {
+        "end": 105,
+        "start": 99,
+        "tag": "Seller Country",
+        "text": "Israel"
+      },
+      {
+        "end": 1099,
+        "start": 1010,
+        "tag": "Answer",
+        "text": "The first jets are expected to be delivered to the country\u2019s Air Force by the end of 2020"
+      },
+      {
+        "end": 1024,
+        "start": 1020,
+        "tag": "Weapon",
+        "text": "jets"
+      },
+      {
+        "end": 1080,
+        "start": 1057,
+        "tag": "Buyer",
+        "text": "the country\u2019s Air Force"
+      },
+      {
+        "end": 1099,
+        "start": 1095,
+        "tag": "Date",
+        "text": "2020"
+      }
+    ],
+    "text": "WARSAW, Poland \u2014 The Croatian government has decided to procure used F-16D Barak fighter jets from Israel, in order to replace its aging fleet of Russian jets.\n\nCroatia\u2019s Defence Council, which includes President Kolinda Grabar-Kitarovic and Prime Minister Andrej Plenkovic, made the decision at its March 27 meeting, the Defence Ministry said in a statement.\n\n\u201cThe decision was made unanimously, taking into consideration all the aspects, ranging from financial aspects to the needs of Croatia,\u201d Grabar-Kitarovic said, as reported by local daily Dnevnik.\n\nThe acquisition of 12 aircraft is estimated to be worth about $500 million.\n\nIn October, the Croatian ministry said it obtained four offers, including bids submitted by the U.S., Israel, Greece and Sweden. The former three countries offered to supply new or used F-16s, while Sweden\u2019s bid was for the delivery of JAS 39 Gripen fighters.\n\nThe purchase will allow Croatia to replace its outdated Soviet-designed Mikoyan MiG-21 aircraft with new fighters. The first jets are expected to be delivered to the country\u2019s Air Force by the end of 2020."
+  },
+  {
     "filename": "20171220_DAILY_PLA goose-steppi_A_QAT_B_CHI",
     "labels": [],
     "text": "Goose-stepping troops were the highlight of the military parade held in Doha, Qatar, on Dec. 18 in celebration of the country\u2019s National Day, China Central Television reported.\n\nDuring the hour-long event, more than 5,000 soldiers in 14 formations marched in goose step, a signature move of the Chinese People\u2019s Liberation Army (PLA).\n\nBefore the military parade, they received formation training from the guards of honor of the PLA. For historical reasons, Qatar had relied on British drill regulations in its previous National Day military parades.\n\nAfter the parade, Qatar\u2019s Deputy Prime Minister and Minister of State for Defense Affairs Khalid bin Mohammad Al Attiyah received the PLA trainers, speaking highly of their work and the results.\n\nHe said that Qatar is willing to further enhance cooperation with China."
@@ -982,9 +1048,278 @@
     "text": "Galang said it may also be used in humanitarian assistance and disaster response, assessing damage caused by disasters and calamities. \u2013 Rappler.com"
   },
   {
+    "filename": "20180826_DAILY_US delivers new _A_TUR_B_USA",
+    "labels": [
+      {
+        "end": 110,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Turkey has started to receive the second batch of CH-47 Chinook heavy transportation helicopters from the U.S."
+      },
+      {
+        "end": 6,
+        "start": -1,
+        "tag": "Buyer",
+        "text": ""
+      },
+      {
+        "end": 6,
+        "start": -1,
+        "tag": "Buyer Country",
+        "text": ""
+      },
+      {
+        "end": 96,
+        "start": 50,
+        "tag": "Weapon",
+        "text": "CH-47 Chinook heavy transportation helicopters"
+      },
+      {
+        "end": 110,
+        "start": 106,
+        "tag": "Seller",
+        "text": "U.S."
+      },
+      {
+        "end": 110,
+        "start": 106,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 373,
+        "start": 244,
+        "tag": "Answer",
+        "text": "the first of five helicopters, part of the second delivery of Chinooks, entered the inventory of the Turkish Military on Saturday"
+      },
+      {
+        "end": 273,
+        "start": 262,
+        "tag": "Weapon",
+        "text": "helicopters"
+      },
+      {
+        "end": 261,
+        "start": 257,
+        "tag": "Quantity",
+        "text": "five"
+      },
+      {
+        "end": 314,
+        "start": 306,
+        "tag": "Weapon",
+        "text": "Chinooks"
+      },
+      {
+        "end": 361,
+        "start": 341,
+        "tag": "Buyer",
+        "text": "the Turkish Military"
+      },
+      {
+        "end": 352,
+        "start": 345,
+        "tag": "Buyer Country",
+        "text": "Turkish"
+      },
+      {
+        "end": 373,
+        "start": 365,
+        "tag": "Date",
+        "text": "Saturday"
+      },
+      {
+        "end": 537,
+        "start": 376,
+        "tag": "Answer",
+        "text": "The initial agreement with Boeing, an American multinational corporation, on the purchase of 11 CH-47 helicopters in 2011 first delivered six helicopters in 2016"
+      },
+      {
+        "end": 537,
+        "start": 533,
+        "tag": "Date",
+        "text": "2016"
+      },
+      {
+        "end": 409,
+        "start": 403,
+        "tag": "Seller",
+        "text": "Boeing"
+      },
+      {
+        "end": 422,
+        "start": 414,
+        "tag": "Seller Country",
+        "text": "American"
+      },
+      {
+        "end": 471,
+        "start": 469,
+        "tag": "Quantity",
+        "text": "11"
+      },
+      {
+        "end": 489,
+        "start": 472,
+        "tag": "Weapon",
+        "text": "CH-47 helicopters"
+      },
+      {
+        "end": 497,
+        "start": 493,
+        "tag": "Date",
+        "text": "2011"
+      },
+      {
+        "end": 517,
+        "start": 514,
+        "tag": "Quantity",
+        "text": "six"
+      },
+      {
+        "end": 529,
+        "start": 518,
+        "tag": "Weapon",
+        "text": "helicopters"
+      },
+      {
+        "end": 608,
+        "start": 540,
+        "tag": "Answer",
+        "text": "The move came amid U.S. efforts to delay delivery of F-35s to Turkey"
+      },
+      {
+        "end": 563,
+        "start": 559,
+        "tag": "Seller",
+        "text": "U.S."
+      },
+      {
+        "end": 563,
+        "start": 559,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 598,
+        "start": 593,
+        "tag": "Weapon",
+        "text": "F-35s"
+      },
+      {
+        "end": 608,
+        "start": 602,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 608,
+        "start": 602,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 746,
+        "start": 610,
+        "tag": "Answer",
+        "text": "In early August, U.S. President Donald Trump approved a defense budget law delaying delivery of F-35 Joint Strike Fighter jets to Turkey"
+      },
+      {
+        "end": 625,
+        "start": 613,
+        "tag": "Date",
+        "text": "early August"
+      },
+      {
+        "end": 654,
+        "start": 627,
+        "tag": "Seller",
+        "text": "U.S. President Donald Trump"
+      },
+      {
+        "end": 631,
+        "start": 627,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 736,
+        "start": 706,
+        "tag": "Weapon",
+        "text": "F-35 Joint Strike Fighter jets"
+      },
+      {
+        "end": 746,
+        "start": 740,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 746,
+        "start": 740,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 1538,
+        "start": 1492,
+        "tag": "Answer",
+        "text": "Turkey plans to purchase 100 F-35 fighter jets"
+      },
+      {
+        "end": 1498,
+        "start": 1492,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 1498,
+        "start": 1492,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 1520,
+        "start": 1517,
+        "tag": "Quantity",
+        "text": "100"
+      },
+      {
+        "end": 1538,
+        "start": 1521,
+        "tag": "Weapon",
+        "text": "F-35 fighter jets"
+      },
+      {
+        "end": 1659,
+        "start": 1604,
+        "tag": "Answer",
+        "text": "The country took delivery of its first F-35 fighter jet"
+      },
+      {
+        "end": 1615,
+        "start": 1604,
+        "tag": "Buyer",
+        "text": "The country"
+      },
+      {
+        "end": 1659,
+        "start": 1643,
+        "tag": "Weapon",
+        "text": "F-35 fighter jet"
+      }
+    ],
+    "text": "Turkey has started to receive the second batch of CH-47 Chinook heavy transportation helicopters from the U.S., despite the ongoing crisis with the country regarding delivery of F-35 jets.\n\nThe Presidency of the Defense Industry announced that the first of five helicopters, part of the second delivery of Chinooks, entered the inventory of the Turkish Military on Saturday.\n\nThe initial agreement with Boeing, an American multinational corporation, on the purchase of 11 CH-47 helicopters in 2011 first delivered six helicopters in 2016.\n\nThe move came amid U.S. efforts to delay delivery of F-35s to Turkey. In early August, U.S. President Donald Trump approved a defense budget law delaying delivery of F-35 Joint Strike Fighter jets to Turkey. An amendment to the National Defense Authorization Act (NDAA), quickly approved by Congress, prohibits F-35 sales to Turkey until the Pentagon issues a report on Turkish-American relations in 90 days.\n\nStill, the F-35 Joint Program Office announced on Aug. 16 that it would continue to execute current program plans with all partners, including Turkey, and to abide by any future policy guidelines.\n\nTurkey has been in the F-35 program since 1999, and the Turkish defense industry has taken an active role in the production of aircraft and invested $1.25 billion in the aircraft's development. Alp Aviation, AYESAS, Kale Aviation, Kale Pratt & Whitney and Turkish Aerospace Industries have been producing parts for the first F-35 fighter jet.\n\nTurkey plans to purchase 100 F-35 fighter jets in the coming years. Out of 100 aircraft, 30 have been approved. The country took delivery of its first F-35 fighter jet at a ceremony in Fort Worth, Texas, on June 21. The first F-35 aircraft delivered is also the first fifth-generation fighter jet to enter the Turkish Air Force Command inventory.\n\nEach CH-47 helicopter has two rotors and two motors, each having 4,800 horsepower. With a range that can increase to 1,100 kilometers with the help of the fuel tanks, the helicopters can fly safely even at conditions of zero visibility.\n\nThe helicopters, which can carry 10 tons, can be used in war operations and operations with humanitarian and civil aims."
+  },
+  {
     "filename": "20181218_DIDA_Korea New Coastal_A_KOS",
     "labels": [],
     "text": "A timeout error occurred.\n\nTry again. Reload the page.\n\nThis page requires the PrintFriendly & PDF Browser Extension.\n\nInstall Browser Extension (click the button below) Go back to the original page and use the browser extension.\n\nThe Browser Extension is more powerful, faster, and easier to use, plus will not generate this error.Learn more."
+  },
+  {
+    "filename": "20180900_SCRAM_Argentina_A_ARG_B_USA",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
   },
   {
     "filename": "20180516_OTH_Host of Israeli We_A_USA_B_ISR",
@@ -3647,6 +3982,11 @@
     "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
   },
   {
+    "filename": "20180500_SCRAM_India Ka-226_A_JAP_B_USA",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20171222_DAILY_Japan boosts def",
     "labels": [
       {
@@ -3894,6 +4234,119 @@
     "text": "We use cookies to offer you a better website experience, analyze site traffic, personalize content and serve targeted advertisements. Read about how we use cookies and how you can control them."
   },
   {
+    "filename": "20180914_DEFWEB_New UAV ordered_A_SAU_B_SA",
+    "labels": [
+      {
+        "end": 162,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Denel Dynamics has received another order for its Seeker 400 unmanned aerial vehicle (UAV) after completing deliveries to the South African National Defence Force"
+      },
+      {
+        "end": 14,
+        "start": 0,
+        "tag": "Seller",
+        "text": "Denel Dynamics"
+      },
+      {
+        "end": 162,
+        "start": 122,
+        "tag": "Buyer",
+        "text": "the South African National Defence Force"
+      },
+      {
+        "end": 139,
+        "start": 126,
+        "tag": "Buyer Country",
+        "text": "South African"
+      },
+      {
+        "end": 90,
+        "start": 50,
+        "tag": "Weapon",
+        "text": "Seeker 400 unmanned aerial vehicle (UAV)"
+      },
+      {
+        "end": 256,
+        "start": 164,
+        "tag": "Answer",
+        "text": "It has also received a small contract for Seeker 200 platforms from a Middle Eastern country"
+      },
+      {
+        "end": 226,
+        "start": 206,
+        "tag": "Weapon",
+        "text": "Seeker 200 platforms"
+      },
+      {
+        "end": 256,
+        "start": 234,
+        "tag": "Buyer",
+        "text": "Middle Eastern country"
+      },
+      {
+        "end": 911,
+        "start": 766,
+        "tag": "Answer",
+        "text": "The South African National Defence Force (SANDF) was the launch customer for the Seeker 400, and took delivery of its first aircraft in late 2015"
+      },
+      {
+        "end": 911,
+        "start": 907,
+        "tag": "Date",
+        "text": "2015"
+      },
+      {
+        "end": 814,
+        "start": 766,
+        "tag": "Buyer",
+        "text": "The South African National Defence Force (SANDF)"
+      },
+      {
+        "end": 783,
+        "start": 770,
+        "tag": "Buyer Country",
+        "text": "South African"
+      },
+      {
+        "end": 857,
+        "start": 847,
+        "tag": "Weapon",
+        "text": "Seeker 400"
+      },
+      {
+        "end": 898,
+        "start": 890,
+        "tag": "Weapon",
+        "text": "aircraft"
+      },
+      {
+        "end": 660,
+        "start": 589,
+        "tag": "Answer",
+        "text": "Denel Dynamics has received another order for its larger Seeker 400 UAV"
+      },
+      {
+        "end": 603,
+        "start": 589,
+        "tag": "Seller",
+        "text": "Denel Dynamics"
+      },
+      {
+        "end": 660,
+        "start": 646,
+        "tag": "Weapon",
+        "text": "Seeker 400 UAV"
+      }
+    ],
+    "text": "Denel Dynamics has received another order for its Seeker 400 unmanned aerial vehicle (UAV) after completing deliveries to the South African National Defence Force. It has also received a small contract for Seeker 200 platforms from a Middle Eastern country.\n\nThe Middle Eastern contract, worth R182 million, was announced at the Dubai air show in November 2017, but it was not at the time specified which models had been ordered. According to Sello Ntsihlele, head of business development at Denel Dynamics, the order was for a small number of Seeker 200s to replenish an existing fleet.\n\nDenel Dynamics has received another order for its larger Seeker 400 UAV, from a customer who cannot yet be disclosed. Ntsihlele told defenceWeb the contract was \u201csubstantial\u201d.\n\nThe South African National Defence Force (SANDF) was the launch customer for the Seeker 400, and took delivery of its first aircraft in late 2015. Ntsihlele said Denel Dynamics was in the process of handing the system over to the SANDF and this would probably conclude by year-end. The company was awarded an interim military type certificate for the Seeker 400 system and additional efforts are underway towards a full military type certification.\n\nInternationally, Ntsihlele said there is huge interest in the Seeker 400, especially the armed version, which can be fitted with lightweight Impi and Impi-S missiles or the unpowered GPS-guided P2. The 14 kg P2 was delivered for a client in the Middle East and has been qualified on the Seeker 200.\n\nThe Seeker 400 is somewhat unusual in that it can carry two sensor payloads (weighing a combined 100 kg) at the same time, such as an optronic sensor turret like the Argos II and a synthetic aperture radar or electronic intelligence package. In this configuration it is known as the Enhanced Seeker 400 and will be shown in this configuration at the Africa Aerospace and Defence (AAD) exhibition at AFB Waterkloof from September 19 to 23. Up until now the Seeker 400 has been fitted with a single sensor payload.\n\n\n\n\n\n\n\nThe Seeker 400 can be used for a wide range of military and civilian missions, including maritime surveillance and disaster reconnaissance. It has up to 16 hours endurance at altitudes up to 18 000 feet. At typical operating altitudes of between 4 500 and 9 000 feet, it is not visible from the ground by the human eye and is effectively inaudible. The UAV\u2019s line-of-sight range is 250 km from its ground station, but this can be doubled by using a forward ground station with deployed forces."
+  },
+  {
+    "filename": "20181000_SCRAM_Ukraine_A_UKR_B_USA",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20180524_REU_Concrete and coral",
     "labels": [],
     "text": "HONG KONG/SINGAPORE (Reuters) - At first glance from above it looks like any clean and neatly planned small town, complete with sports grounds, neat roads and large civic buildings.\n\nBut the town is on Subi reef in the Spratlys archipelago of the hotly contested South China Sea and, regional security experts believe, could soon be home to China\u2019s first troops based in the maritime heart of Southeast Asia.\n\nPrivate sector data analysis reviewed by Reuters shows Subi, some 1,200 km (750 miles) from China\u2019s coast, is now home to nearly 400 individual buildings \u2013 far more than other Chinese islands.\n\nSubi could be the future location of hundreds of People\u2019s Liberation Army marines, as well as a possible administrative hub as China cements its claim with a civilian presence, security analysts and diplomatic sources say.\n\nThe data from Earthrise Media, a non-profit group supporting independent media with imagery research, was based on surveys of high-resolution images obtained by DigitalGlobe satellites, dating back to when China started dredging reefs in early 2014.\n\nThe images show neat rows of basketball courts, parade grounds and a wide variety of buildings, some flanked by radar equipment.\n\nEarthrise founder Dan Hammer said his team\u2019s count included only free-standing, permanent and recognizable structures.\n\n\u201cWhen I look at these pictures I see a standard PLA base on the mainland \u2013 it is incredible, right down to the basketball courts,\u201d Singapore-based security analyst Collin Koh said after reviewing the data and images.\n\n\u201cAny deployment of troops will be a huge step, however \u2013 and then they will need to secure and sustain them, so the military presence will have to only grow from where it is now.\u201d\n\nSenior Western diplomats describe the placement of troops or jet fighters on the islands as a looming test of international efforts to curb China\u2019s determination to dominate the vital trade waterway.\n\nSubi is the largest of China\u2019s seven man-made outposts in the Spratlys. The so-called \u201cBig Three\u201d of Subi, Mischief and Fiery Cross reefs all share similar infrastructure \u2013 including emplacements for missiles, 3km runways, extensive storage facilities and a range of installations that can track satellites, foreign military activity and communications.\n\nMischief and Fiery Cross each house almost 190 individual buildings and structures, according to the Earthrise analysis. The previously unpublished data details the building count on more than 60 South China Sea features, including those occupied by Vietnam, Malaysia, Taiwan and the Philippines.\n\nWhile the data shows well developed infrastructure on some on islands such as Vietnam's Spratly Island, the Philippines' Thitu Island and Taiwan's Itu Aba, the scale and development by Beijing dwarfs its rivals. (For a multimedia package on the data, click tmsnrt.rs/2J3cWne)\n\nSlideshow ( 6 images )\n\nThe number of buildings on Subi makes it similar in size to Woody Island in the Paracels, a Beijing-controlled group much closer to China also claimed by Vietnam.\n\nWoody is the base and surveillance post which foreign military attaches say is the headquarters of the military division across the South China Sea, reporting to the PLA\u2019s southern theater command.\n\nKoh and other analysts said the facilities on Subi, Mischief and Fiery Cross could each hold a regiment - between 1,500 to 2,400 troops.\n\nChina\u2019s precise intentions remain unclear and Chinese experts say much will depend on whether Beijing feels threatened by regional security trends, particularly U.S. activity such as its so-called \u201cfreedom of navigation patrols\u201d.\n\nChina\u2019s defense ministry did not respond to Reuters questions about the build-up on Subi or what the facilities could be used for.\n\nBeijing has consistently said the facilities on its reclaimed islands are for civilian use and necessary self-defense purposes. China blames Washington for militarizing the region with their freedom of navigation patrols.\n\nDing Duo, a researcher at the Chinese government-backed National Institute for South China Sea Studies, said Beijing needs a military presence in the Spratlys to protect its civilian infrastructure.\n\n\u201cAs for how big that presence is depends on the threat assessment China has going forward for the Nansha Islands,\u201d he said, using the Chinese name for the Spratlys.\n\n\u201cThe Nansha region faces severe military pressure, especially since Trump took office and increased freedom of navigation patrols. So China has raised its threat assessment.\u201d\n\nLOOMING TEST\n\nThe White House said this month it had raised concerns with China about its latest militarization after CNBC reported anti-ship cruise missiles and surface-to-air missile systems had been installed on Subi, Mischief and Fiery Cross. [nL1N1SA1VE]\n\nThis weekend, China revealed bombers had conducted take-off and landing training on some of its islands and reefs in preparation for what it called \u201cthe battle for the South China Sea\u201d. [nL3N1SR08Q]\n\nSlideshow ( 6 images )\n\nSome U.S. analysts noted PLA photographs appeared to show a bomber landing on Woody Island in the Paracels, and the Chinese military has yet to confirm planes actually landed on its Spratlys holdings.\n\nOn Wednesday, the Pentagon withdrew an invitation for China to join a major naval drill because of Beijing\u2019s continued militarization of its islands in the South China Sea. [nL2N1SU1KU]\n\nAdmiral Philip Davidson, the nominee to be the next commander of all U.S. forces in the Pacific, said last month the bases were now complete and lacked only deployed forces.\n\n\u201cAny forces deployed to the islands would easily overwhelm the military forces of any other South China Sea-claimants,\u201d Davidson told a congressional panel.\n\nSo far, repeated U.S. naval patrols close to Chinese features and growing international naval deployments through the region have had little obvious impact on Beijing\u2019s plans.\n\n\u201cThere is a real sense among Western nations that a new strategy is needed, but there is little sign anything meaningful coalescing,\u201d said one senior Western diplomat familiar with discussions across several countries. \u201cThe deployment of jet fighters \u2013 even temporarily \u2013 will sorely test that lack of a cohesive response.\u201d\n\nAlready large Chinese amphibious landing vessels and other ships have used the full-scale naval wharves at Fiery Cross, Subi and Mischief \u2013 pointing to what foreign naval officers describe as virtually a permanent presence throughout hotly contested waters.\n\nChinese forces are using their island holdings to police of what Chinese naval officers tell other navies is a \u201cmilitary alert zone\u201d \u2013 an ambiguous term that both Asian and Western military officials say holds no basis in international law.\n\nPeople briefed on recent Western intelligence reports describe an intensifying pattern of radio challenges to foreign military ships and aircraft delivered from Chinese naval ships and monitoring stations on Fiery Cross.\n\nAustralian officials recently publicized a \u201crobust but polite\u201d Chinese challenge to three of its naval ships plying the South China Sea en route to Vietnam.\n\nSources say such exchanges between Chinese and foreign militaries are far more frequent than is widely known.\n\n\u201cThey have become the rule rather than the exception across significant areas of the South China Sea,\u201d one person familiar with recent Western security reports told Reuters.\n\nShips and aircraft from India, France, Japan, New Zealand and rival claimants Vietnam, Malaysia and the Philippines have also been similarly warned, according to regional military officials and analysts.\n\nWith the claimed \u201cmilitary alert zone\u201d having no basis in international law or military practice, foreign naval officials routinely stress they are in international waters and continue on their way.\n\nZhang Baohui, a Chinese security expert at Hong Kong\u2019s Lingnan University, said Beijing was likely to be cautious about any offensive moves, such as the stationing of combat aircraft.\n\n\u201cNow the islands are complete, I think we will see a degree of caution in Beijing\u2019s next moves,\u201d he said. \u201cSustaining that presence so far from the Chinese coast is a massive undertaking, and I think the deployment of troops and jet fighters would really cross a threshold for China\u2019s neighbors.\u201d\n\nU.S. military officials insist they are leaving little to chance, warning the bases are already helping China project military power into areas once dominated by its neighbors.\n\n\u201cIn short, China is now capable of controlling the South China Sea in scenarios short of war with the United States,\u201d Davidson said in his testimony last month."
@@ -3902,6 +4355,11 @@
     "filename": "20180523_DN_EU offers up cash i",
     "labels": [],
     "text": "BRUSSELS \u2015 The European Union has agreed to bolster the ailing European defense industry by allocating \u20ac500 million (U.S. $585.19 million) in 2019 and 2020 to the European Defence Industrial Development Programme.\n\nThe EDIDP is a new program aimed at the development, for instance, of drones for military use or a European cyber defense mechanism. Funding is expected to increase to \u20ac1 billion per year from 2021.\n\nIt means increased pan-EU cooperation in major weapons systems such as aircraft, battle tanks and navy ships should now be possible.\n\nBoom or bust? German industry sizes up Euro-defense potential A whitepaper aims to clean up major misunderstandings surrounding the nascent PESCO process, chiefly the assumption that the construct represents a pot of money for which companies can apply.\n\nA European Commission spokesman said the \u201ccore objective\u201d of the funding was to make Europe\u2019s defense industry more competitive and innovative. The program will act as an \u201cenabler for cooperation, incentivising potential collaborative development programs.\u201d\n\n\u201cIt aims to encourage cooperation in developing the technologies and equipment needed to address common defense and security challenges,\u201d added the spokesman.\n\nWhat remains unclear at this stage, however, is the role and future involvement of the U.K. in EU-funded defense programs after it exits the EU, due to happen at the end of March 2019.\n\nQuestions remain particularly about the impact a British exit will have on the European Defence Technological and Industrial Base (EDTIB) and, indeed, on the desirable future agreements between the U.K. and the EU in this area.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nWith a turnover of \u20ac97.3 billion in 2014, 500,000 people directly employed and 1.2 million indirect jobs, the European defence industry is a major industrial sector. But the European defense market has been shrinking, with NATO saying spending on defense by its 26 European members slipped to about $250 billion in 2014 from $275 billion in 2010.\n\nThe new \u20ac500 million funding, announced Wednesday, is partly designed to the give the sector an economic shot in the arm.\n\nThe deal will now be presented to EU ambassadors for their endorsement on May 29, after which it will be submitted to the European Parliament for a vote and then to the EU member states for final adoption.\n\nIt is expected that the program will finance the first capability projects in 2019.\n\nTo foster the pan-EU development of defense systems, the requirement is that a minimum of three companies from three EU countries participate.\n\nFor prototypes, up to 20 percent of the cost could be covered by the program while for other actions such as design or testing, it can go up to 100 percent.\n\nFor the period 2021-2027 the EU also plans to allocate \u20ac13 billion for the European Defence Fund, a relatively new initiative which has already started to fund pan-European research projects.\n\nThe new funding announcement was welcomed by El\u017cbieta Bie\u0144kowska, EU commissioner for the internal market, industry, entrepreneurship and small and medium enterprises, who said the program \u201cis part of our wider efforts to establish a credible Defence Union which protects its citizens. With this agreement, we are building EU\u2019s strategic autonomy and boosting the competitiveness of the EU defense industry.\u201d\n\nFurther comment came from Krasimir Karakachanov, Deputy Prime Minister for Public Order and Security, Minister for Defence of Bulgaria, which currently holds the Presidency of the Council, who added, \u201cThis agreement will allow the European Union to fund for the first time a programme on defence capabilities. This new step in our security and defence cooperation reflects the importance in today\u2019s world of doing more as Europeans for our own security.\u201d\n\nElsewhere, Fran\u00e7oise Grosset\u00eate, a senior French centre right Member of the European Parliament and rapporteur on the issue in Parliament, said, \u201cWe have taken a first and very important step to increase cooperation in the defence industry and strengthen the competitiveness of the EU defence industry.\n\n\u201cThe all-European defense technological and industrial base, in particular our SMEs and mid-caps, will benefit from this program in order to strengthen our strategic autonomy. Excellence and innovation will be the main drivers.\u201d\n\nA source at the European Defence Agency, based in Brussels, said, \u201cmaintenance of a strong and competitive DTIB in Europe is a fundamental underpinning of the European security and defense policy. A robust EDTIB is a prerequisite to the EDA achieving its mission: improving the EU\u2019s defense capabilities."
+  },
+  {
+    "filename": "20180119_OTH_Azerbaijan to Boos_A_AZB_B_AZB",
+    "labels": [],
+    "text": "The Minister of Defense Industry of Azerbaijan Yavar Jamalov held a press conference, on December 17, to discuss the outcomes of 2017 for the country\u2019s defense industry sector. The minister pointed out that this past year, two additional military-production factories were built in Azerbaijan. Thus, the total number of defense-manufacturing facilities in the country is now 58 (Trend, December 17, 2017). Moreover, these new factories were fully equipped with modern machinery developed by leading Western defense contractors. The Ministry of Defense Industry plans to launch two more new factories, which will be able to produce four kinds of modern artillery shells, mortars, and armor for military vehicles. Moreover, new military labs will be developed to produce blasting powder, trinitrotoluene (TNT) and hexogen (RDX) chemical compounds (Azerbaijan-news.az, December 17, 2017).\n\nSince its establishment, the Ministry of Defense Industry of Azerbaijan has sought to eliminate the country\u2019s military dependence on foreign suppliers and to further develop its mass-production capabilities in the defense sector. Due to the unresolved conflict with its arch-rival Armenia over the Karabakh region, Azerbaijan has significantly raised military expenditures since the beginning of the 2000s (Tradingeconomics.com, accessed January 8). However, anemic energy-export revenues in recent years had forced the government to cut back its defense budget. So the current recovery in the global oil and natural gas price have allowed Baku to somewhat increase its annual military budget for 2018, in particular to boost the domestic defense industry.\n\nThe draft military budget for 2018, released by the Ministry of Finance on October 9, outlines plans to increase the defense budget to 2.73 billion manat ($1.6 billion), representing a 3.7 percent increase over 2017\u2019s allocation of 2.64 billion manat ($1.56 billion). The 2018 allocation includes 1.36 billion manat ($800 million) in funding for the Armed Forces, 0.1 billion ($60 million) for national security and 1.258 billion ($740 million) in other defense expenditures (Jane\u2019s Defence Weekly, October 24, 2017).\n\nAzerbaijan considers the financial boost to the defense industry especially vital, particularly in the aftermath of the tense situation along the Line of Contact (LoC) in the Karabakh region, following the four-day war in April of 2016 (see EDM, April 6, 2016; May 5, 2016; May 11, 2016). Azerbaijan\u2019s active usage of domestically produced weaponry during the April conflict further prompted Baku to increase local production and more heavily rely on it. Thus, Yavar Jamalov confirmed that Azerbaijan has launched preliminary tests of domestic unmanned aerial vehicles (UAV) capable of striking human targets and enemy\u2019s military equipment. The Ministry is currently concentrating its efforts on developing the Zarba-1K, a local derivative of the Israeli-produced Aeronautics Orbiter 1K. \u201cMoreover, negotiations on the creation of electropulse [sic] weapons are being conducted with a number of countries,\u201d he said (CBC, December 18, 2017). The production of various unmanned drones, armor for vehicles, machine guns, and sniper rifles is mostly being carried out by Azerbaijan\u2019s \u201cAlov,\u201d \u201cAgregat\u201d and \u201cAZAD\u201d military factories.\n\nThe Ministry of Defense Industry is readying to complete and present 17 new, next-generation domestically produced weapons, some of which will be developed jointly with the Azerbaijani National Aerospace Agency. The priority in 2018 will be given to the production of the new \u201cTufan\u201d (Storm) armored military vehicle\u2014the first fully domestically produced vehicle, featuring a stabilized remote-controlled weapons system (RWS), and equipped with a 12.7-millimeter NVS machine gun, a 40-millimeter QP-25 grenade-launcher, a 107-millimeter Multiple Launch Rocket System (MLRS), and a domestically produced long-range missile system (Milli.az, December 17, 2017). Mass production of the Tufan will start in 2018. The vehicle will come in four varieties: medical evacuation, air-defense/ anti-armor, anti-riot and a basic armored personnel carrier (APC). Azerbaijan is also developing a version that will be available for export.\n\nAs the military budget gradually grows this year, the national defense industry is expected to undergo further expansion in 2018, which means that the country\u2019s military exports will likely also grow. According to Defense Industry Minister Jamalov, Azerbaijan currently exports weapons to more than ten foreign countries. In 2016, the Azerbaijani Ministry of Defense Industry increased the volume of defense-industry production by 1.6 times, compared to 2015, while the product assortment rose by 1.8 times (Qafqazinfo.az, December 17, 2017). In this regard, Azerbaijan strives to increase military exports, while decreasing imports of weaponry from other countries. While much of Azerbaijan\u2019s military production must be attributed to joint ventures\u2014especially with Israeli (see EDM, September 25, 2017), Turkish (see EDM, October 26, 2017) and South-African companies\u201431 domestic production sites currently produce entirely homegrown technology (Trend, July 11, 2017).\n\nIn light of ongoing violence and tensions with Armenia over Karabakh, and repeated failure to reach a diplomatic solution to the conflict, Azerbaijan is prioritizing efforts to boost its defense industry in 2018. And as its domestic military manufacturers continue to be ever more innovative and self-sufficient, Baku will seek to carve out an increasingly larger share of the global arms market."
   },
   {
     "filename": "20190301_NAVREC_GE Marine award_A_IND_B_ITA",
@@ -4421,6 +4879,11 @@
       }
     ],
     "text": "November 15, 2017\n\nThe Turkish government is interested in buying the soon-to-be-decommissioned UK helicopter carrier HMS Ocean if it is not sold to Brazil.\n\nIn a reply to a parliamentary question, the UK defense ministry confirmed that Turkey sent an expression of interest to UK about the potential sale of HMS Ocean.\n\nHMS Ocean is currently on her final deployment as a commissioned Royal Navy ship, serving the role of NATO Standing Maritime Group 2 flagship in the Mediterranean.\n\nHMS Ocean and her crew are expected to return their homeport at Naval Base Plymouth in December after starting their deployment in March this year.\n\nCommissioned in October 1995, the 202-meter long HMS Ocean replaced HMS Bulwark as fleet flagship in June 2015. In her role as a helicopter carrier and amphibious assault ship, Ocean is designed to deliver troops by helicopter or by landing craft.\n\nAfter her decommissioning was announced, Brazilian media reports rumored the HMS Ocean could be sold to the Brazilian Navy for a \u201creasonable price\u201d. That price, according to reports, is \u00a380 million pounds.\n\nSecond helicopter carrier for Turkey\n\nTurkey is already building a landing helicopter dock which is based on the Spanish Navy\u2019s (LHD) Juan Carlos I and designed by Navantia. The Turkish version of the ship will be named TCG Anadolu and have the pennant number L-408.\n\nFirst steel on the ship, which will be registered as a light aircraft carrier by the Turkish Lloyd, was cut in May 2016 while delivery is scheduled for 2021."
+  },
+  {
+    "filename": "20170524_DAILY_Trump Budget Cut",
+    "labels": [],
+    "text": "WASHINGTON\u2014The budget unveiled Monday by the Trump administration will see a drastic 70 percent\u201369.6 percent\u2013cut in aid to Armenia over the fiscal year 2017 budget, which allocated $22.4 million in assistance to Armenia. Trump\u2019s budget is calling for a $6.8 million aid package to Armenia.\n\n\u201cWe are troubled by President Trump\u2019s ill-advised and misguided proposal to sharply cut aid to Armenia. His budget recommendation underscores the need to work with Congressional appropriators to reverse these reductions, while redoubling our efforts to empower Armenia\u2019s aid-to-trade transition,\u201d said Aram Hamparian, Executive Director of the Armenian National Committee of America.\n\n\u201cBuilding on 2015\u2019s Trade and Investment Framework Agreement and leveraging the five hundred million dollars in new U.S. investments in Armenia, we need to put in place a badly-needed Double Tax Treaty, launch direct Los Angeles to Yerevan flights, secure an MCC Science and Technology education grant for Armenian schools, and undertake other targeted commercial initiatives to strengthen the U.S.-Armenia bilateral economic relationship,\u201d added Hamparian.\n\nUnder the Administration\u2019s budget, aid to Armenia would be reduced by 70 percent, dropping from $22.4 million in FY17 to $6.8 million proposed for FY18. The Trump budget also reduces assistance to Azerbaijan by 90 percent as compared with FY16 to $1 million.\n\nThe Trump budget request for Armenia envisions $4 million in Economic Support and Development Fund, $1.5 million for International Narcotics Control and Law Enforcement, and $700,000 for Nonproliferation, Antiterrorism, Demining and Related Programs. Military parity between Armenia and Azerbaijan is maintained in the proposed budget with each receiving $600,000 for International Military Education and Training and cuts Foreign Military Financing to both countries. In the FY17 budget $1 million was allocated for FMF.\n\nIn early April, the Congressional Armenian Caucus called on key U.S. House appropriators to prioritize Fiscal Year 2018 foreign aid policies \u201cstrengthening Armenia\u2019s independence, promoting peace in Nagorno Karabakh, and supporting Armenia as a regional safe haven for at-risk Middle East refugees.\n\nAmong the specific priorities advanced by the Caucus were:\n\n\u2014 U.S. support for Armenia as a regional safe haven for Middle East refugees, in the form of a $40 million appropriation to support transitional programs, including short-term housing/rental assistance and social and economic integration initiatives.\n\n\u2014 A renewed focus on aid to Artsakh, with an appropriation of at least $8 million for de-mining, rehabilitation programs (such as the Lady Cox Rehabilitation Center), and water supply systems.\n\n\u2014 A focused effort to check Azerbaijani aggression, through the appropriation of at least $20 million to support implementation of the Royce-Engel peace proposals, the suspension of U.S. military aid to Baku, and the strengthening of Section 907 of the FREEDOM Support Act.\n\n\u2014 An appropriation of at least $40 million in economic aid to Armenia, and no less than $11 million in military aid, with a focus on advancing U.S.-Armenia defense cooperation goals, promoting NATO interoperability, and supporting increased Armenia\u2019s participation in global peacekeeping operations.\n\nIn March, House Intelligence Committee Ranking Democrat Adam Schiff (D-CA) and Congressional Armenian Caucus Co-Chair Frank Pallone (D-NJ) delivered powerful testimony before key House foreign aid appropriators, calling for the expansion of U.S. assistance to Artsakh and Armenia, and the implementation of measures to check escalating Azerbaijani aggression.\n\nANCA\u2019s Hamparian also noted that the organization will continue working with congressional leaders to ensure that a portion of the Trump\u2019s proposed $2.75 billion allocated to Migration and Refugee Assistance would go to Armenia, which has accepted a large number of refugees from Syria over the course of the past several years."
   },
   {
     "filename": "20180627_OTH_Airbus have sold 2_A_UKR_B_FRG",
@@ -6013,6 +6476,402 @@
     "text": "The government must lift the ban on media access and ensure that the repatriation of refugees is acceptable to the international community.\n\nBy SITHU AUNG MYINT | FRONTIERWHEN THE National League for Democracy government took office in March 2016, there was intense interest in its plans for developing the economy.State Counsellor Daw Aung San Suu Kyi decided that economic development depended on ending decades of civil war and made the pursuit of peace the government\u2019s top priority, a cause to which she has devoted much time and energy.The NLD government\u2019s efforts to attract foreign investment, which included legislative reforms, received a boost when the United States lifted all remaining economic sanctions against Myanmar in September 2016. The next month, the Arakan Rohingya Salvation Army launched the first of a coordinated series of attacks on security posts in northern Rakhine State.They were followed by another series of attacks last August, which led to a massive military counter-insurgency operation that triggered the exodus of more than 688,000 Muslims to neighbouring Bangladesh. Many Myanmar initially believed that conflict and violence in a remote corner of the country was unlikely to have a negative impact on economic development, but it is now clear they were wrong. This week I\u2019d like to discuss the adverse effects of the Rakhine crisis on the economy.In a shock decision on February 1, Herzfeld Rubin Meyer & Rose, the Myanmar affiliate of a New York-based law firm, announced that it was closing its Yangon office at the end of the month. In 2013, it became the first American law firm to open for business in Myanmar amid the high expectations for economic growth fuelled by foreign investment after the country began its transition to democracy in 2011.HRMR\u2019s lead director, Mr Eric Rose, was quoted as saying there were three main reasons that influenced the decision to close shop in Myanmar. In lengthy interviews withand, he cited government inaction on the economy, the Rakhine crisis, and remaining US financial sanctions together with the suspension of the European Union-Myanmar investment protection agreement.It is clear that economic development has been adversely affected by the situation in Rakhine. Rose said the Rakhine crisis, particularly the flight of more than 750,000 refugees, had created a reputational risk that deterred Western companies from investing in Myanmar. The risk was \u201cin particular due to the lack of a coherent response from the Myanmar government\u201d to the situation in Rakhine, he toldThe Rakhine crisis is not only a border problem, a religious and ethnic problem, a human rights problem and a sovereignty problem, but a problem that is directly related to economic development. That it was a factor in the decision to close the Herzfeld Rubin Meyer & Rose office after five years is an indication of the importance of solving the Rakhine problem.What needs to be done to address the problem that has attracted intense domestic and international interest?Media coverage of the violence in northern Rakhine after the August attacks last year has had a negative effect on Myanmar\u2019s international image. It has included accounts of atrocities against Muslims and the burning of their homes to drive them out of the country.Initially, the government and the Tatmadaw denied allegations of human rights abuses during the counter-insurgency operation. Then news emerged of the massacre at Inn Din village in Maungdaw Township on September 2 last year. An exhaustive account of the Inn Din massacre published byon February 8 included interviews with Buddhist villagers who admitted torching Muslim homes, burying bodies and killing Muslims.The report also included the accounts by security personnel of their role in an operation to drive Muslims from the village.said it was the first time soldiers and paramilitary police were implicated by testimony from other security personnel.A week before the Reuters investigation was published,reported that there were at least five mass graves containing the bodies of Muslims at Gu Dar Pyin village in Buthidaung Township. The report said that before victims were thrown into mass graves, acid was poured on their faces to prevent them from being identified.On February 2, the government denied the report, saying a clash at the village on August 27 last year had resulted in the deaths of 19 \u201cterrorists\u201d who had been \u201ccarefully buried\u201d by the security forces. The Rakhine State government threatened to suewhich said it stood by its reporting.On media coverage, there is only one way forward. The ban on media access to northern Rakhine must be lifted so that the international community may learn the truth about what happened during the counter-insurgency operation launched after the August 25 attacks.The Annan commission on Rakhine recommended \u201cfull and regular\u201d media access, saying that the ban was counterproductive. Media access has also been urged by former Thai foreign minister, Mr Surakiart Sathirathai, who heads a board appointed by the government to advise the committee formed to implement the Annan commission recommendations.Another important issue is the repatriation and resettlement of refugees, which must be accomplished successfully, no matter how many difficulties need to be overcome. Muslims should be resettled where they had lived before they fled Myanmar and be able to live without fear.The repatriation process must be conducted in a way that is acceptable to the international community. Otherwise, the Rakhine problem will continue to hinder economic development in Myanmar.who are they ?"
   },
   {
+    "filename": "20190401_REU_US HALTS F35 TURKE_A_TUR_B_USA",
+    "labels": [
+      {
+        "end": 129,
+        "start": 23,
+        "tag": "Answer",
+        "text": "The United States has halted delivery of equipment related to the stealthy F-35 fighter aircraft to Turkey"
+      },
+      {
+        "end": 40,
+        "start": 23,
+        "tag": "Seller",
+        "text": "The United States"
+      },
+      {
+        "end": 40,
+        "start": 27,
+        "tag": "Seller Country",
+        "text": "United States"
+      },
+      {
+        "end": 119,
+        "start": 64,
+        "tag": "Weapon",
+        "text": "equipment related to the stealthy F-35 fighter aircraft"
+      },
+      {
+        "end": 129,
+        "start": 123,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 129,
+        "start": 123,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 402,
+        "start": 290,
+        "tag": "Answer",
+        "text": "U.S. officials told their Turkish counterparts they will not receive further shipments of F-35 related equipment"
+      },
+      {
+        "end": 304,
+        "start": 290,
+        "tag": "Seller",
+        "text": "U.S. officials"
+      },
+      {
+        "end": 294,
+        "start": 290,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 323,
+        "start": 316,
+        "tag": "Buyer",
+        "text": "Turkish"
+      },
+      {
+        "end": 323,
+        "start": 316,
+        "tag": "Buyer Country",
+        "text": "Turkish"
+      },
+      {
+        "end": 402,
+        "start": 380,
+        "tag": "Weapon",
+        "text": "F-35 related equipment"
+      },
+      {
+        "end": 287,
+        "start": 226,
+        "tag": "Answer",
+        "text": "Ankara\u2019s planned purchase of a Russian missile defense system"
+      },
+      {
+        "end": 232,
+        "start": 226,
+        "tag": "Buyer",
+        "text": "Ankara"
+      },
+      {
+        "end": 264,
+        "start": 257,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 264,
+        "start": 257,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 287,
+        "start": 265,
+        "tag": "Weapon",
+        "text": "missile defense system"
+      },
+      {
+        "end": 1029,
+        "start": 962,
+        "tag": "Answer",
+        "text": "Ankara\u2019s planned purchase of a Russian S-400 missile defense system"
+      },
+      {
+        "end": 968,
+        "start": 962,
+        "tag": "Buyer",
+        "text": "Ankara"
+      },
+      {
+        "end": 1000,
+        "start": 993,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 1000,
+        "start": 993,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 1029,
+        "start": 1001,
+        "tag": "Weapon",
+        "text": "S-400 missile defense system"
+      },
+      {
+        "end": 1989,
+        "start": 1930,
+        "tag": "Answer",
+        "text": "Turkey has said it will take delivery of the S-400s in July"
+      },
+      {
+        "end": 1936,
+        "start": 1930,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 1936,
+        "start": 1930,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 1981,
+        "start": 1975,
+        "tag": "Weapon",
+        "text": "S-400s"
+      },
+      {
+        "end": 1989,
+        "start": 1985,
+        "tag": "Date",
+        "text": "July"
+      },
+      {
+        "end": 3474,
+        "start": 3272,
+        "tag": "Answer",
+        "text": "In an attempt to persuade Turkey to drop its plans to buy the S-400, the United States offered the pricier American-made Patriot anti-missile system in a discounted deal that expired at the end of March"
+      },
+      {
+        "end": 3304,
+        "start": 3298,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 3304,
+        "start": 3298,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 3339,
+        "start": 3334,
+        "tag": "Weapon",
+        "text": "S-400"
+      },
+      {
+        "end": 3358,
+        "start": 3341,
+        "tag": "Seller",
+        "text": "the United States"
+      },
+      {
+        "end": 3358,
+        "start": 3345,
+        "tag": "Seller Country",
+        "text": "United States"
+      },
+      {
+        "end": 3387,
+        "start": 3379,
+        "tag": "Seller Country",
+        "text": "American"
+      },
+      {
+        "end": 3420,
+        "start": 3393,
+        "tag": "Weapon",
+        "text": "Patriot anti-missile system"
+      },
+      {
+        "end": 3474,
+        "start": 3469,
+        "tag": "Date",
+        "text": "March"
+      },
+      {
+        "end": 3685,
+        "start": 3598,
+        "tag": "Answer",
+        "text": "Turkey has engaged with U.S. negotiators in recent days about buying the Patriot system"
+      },
+      {
+        "end": 3604,
+        "start": 3598,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 3604,
+        "start": 3598,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 3638,
+        "start": 3622,
+        "tag": "Seller",
+        "text": "U.S. negotiators"
+      },
+      {
+        "end": 3626,
+        "start": 3622,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 3685,
+        "start": 3671,
+        "tag": "Weapon",
+        "text": "Patriot system"
+      },
+      {
+        "end": 4058,
+        "start": 3941,
+        "tag": "Answer",
+        "text": "the F-35, each of which costs $90 million, and that Ankara was expecting the aircraft to arrive in Turkey in November"
+      },
+      {
+        "end": 3949,
+        "start": 3945,
+        "tag": "Weapon",
+        "text": "F-35"
+      },
+      {
+        "end": 3982,
+        "start": 3971,
+        "tag": "Price",
+        "text": "$90 million"
+      },
+      {
+        "end": 3999,
+        "start": 3993,
+        "tag": "Buyer",
+        "text": "Ankara"
+      },
+      {
+        "end": 4046,
+        "start": 4040,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 4046,
+        "start": 4040,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 4058,
+        "start": 4050,
+        "tag": "Date",
+        "text": "November"
+      },
+      {
+        "end": 4026,
+        "start": 4018,
+        "tag": "Weapon",
+        "text": "aircraft"
+      },
+      {
+        "end": 4395,
+        "start": 4348,
+        "tag": "Answer",
+        "text": "Turkey\u2019s planned purchase of the Russian system"
+      },
+      {
+        "end": 4395,
+        "start": 4389,
+        "tag": "Weapon",
+        "text": "system"
+      },
+      {
+        "end": 4388,
+        "start": 4381,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 4388,
+        "start": 4381,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 4354,
+        "start": 4348,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 4354,
+        "start": 4348,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 4597,
+        "start": 4479,
+        "tag": "Answer",
+        "text": "transfer of F-35s to Turkey until the U.S. government certifies that Ankara will not take delivery of the S-400 system"
+      },
+      {
+        "end": 4496,
+        "start": 4491,
+        "tag": "Weapon",
+        "text": "F-35s"
+      },
+      {
+        "end": 4506,
+        "start": 4500,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 4506,
+        "start": 4500,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 4532,
+        "start": 4517,
+        "tag": "Seller",
+        "text": "U.S. government"
+      },
+      {
+        "end": 4521,
+        "start": 4517,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 4554,
+        "start": 4548,
+        "tag": "Buyer",
+        "text": "Ankara"
+      },
+      {
+        "end": 4554,
+        "start": 4548,
+        "tag": "Buyer Country",
+        "text": "Ankara"
+      },
+      {
+        "end": 4597,
+        "start": 4585,
+        "tag": "Weapon",
+        "text": "S-400 system"
+      }
+    ],
+    "text": "WASHINGTON (Reuters) - The United States has halted delivery of equipment related to the stealthy F-35 fighter aircraft to Turkey, marking the first concrete U.S. step to block delivery of the jet to the NATO ally in light of Ankara\u2019s planned purchase of a Russian missile defense system.\n\nU.S. officials told their Turkish counterparts they will not receive further shipments of F-35 related equipment needed to prepare for the arrival of the stealthy jet, two sources familiar with the situation told Reuters on Monday.\n\nThe Pentagon confirmed the Reuters report that the equipment delivery had been stopped.\n\n\u201cPending an unequivocal Turkish decision to forgo delivery of the S-400, deliveries and activities associated with the stand-up of Turkey\u2019s F-35 operational capability have been suspended,\u201d Air Force Lieutenant Colonel Mike Andrews, a Defense Department spokesman, said in a statement.\n\nTurkish President Tayyip Erdogan has refused to back down from Ankara\u2019s planned purchase of a Russian S-400 missile defense system that the United States has said would compromise the security of F-35 aircraft.\n\nThe disagreement over the F-35 is the latest of a series of diplomatic disputes between the United States and Turkey including Turkish demands that the United States extradite Islamic cleric Fethullah Gulen, differences over Middle East policy and the war in Syria, and sanctions on Iran.\n\nThe sources, who spoke on condition of anonymity, told Reuters the next shipment of training equipment, and all subsequent shipments of F-35 related material, had been canceled. The aircraft is built by Lockheed Martin Corp.\n\nA Pentagon official had told Reuters in March that the United States had a number of items it could withhold in order to send Turkey a signal that the United States was serious about Ankara dropping its ambition to own the S-400.\n\nTurkish officials in Ankara were not immediately available for comment. Turkey has said it will take delivery of the S-400s in July.\n\nNATO SUMMIT\n\nThe U.S. decision on the F-35s was expected to complicate Turkish Foreign Minister Mevlut Cavusoglu\u2019s visit to Washington this week for a NATO summit. On Sunday, Erdogan suffered one of his biggest electoral losses in decades in local elections.\n\n\u201cCertain Russian weapon systems are seen as inherently threatening to the United States regardless of who is operating them and for what purpose,\u201d Andrew Hunter, a fellow at the Center for Strategic and International Studies, said.\n\n\u201cBecause Turkey is not just an F-35 purchaser, but an industrial partner, blocking delivery of these systems represents a major escalation by the United States as it threatens to impose serious costs on both sides,\u201d Hunter said.\n\nSlideshow ( 3 images )\n\nReuters reported last week that Washington was exploring whether it could remove Turkey from production of the F-35. Turkey makes parts of the fuselage, landing gear and cockpit displays. Sources familiar with the F-35\u2019s intricate worldwide production process and U.S. thinking on the issue last week said Turkey\u2019s role can be replaced.\n\nThe United States and other NATO allies that own F-35s fear the radar on the Russian S-400 missile system will learn how to spot and track the jet, making it less able to evade Russian weapons.\n\nIn an attempt to persuade Turkey to drop its plans to buy the S-400, the United States offered the pricier American-made Patriot anti-missile system in a discounted deal that expired at the end of March. Turkey has shown interest in the Patriot system, but not at the expense of abandoning the S-400.\n\nSlideshow ( 3 images )\n\nTurkey has engaged with U.S. negotiators in recent days about buying the Patriot system, a person familiar with the matter said on condition of anonymity. The system is made by Raytheon Co.\n\nTurkish Defense Minister Hulusi Akar in March said that despite some issues, Turkish pilots were continuing their training at an air base in Arizona on the F-35, each of which costs $90 million, and that Ankara was expecting the aircraft to arrive in Turkey in November.\n\nBy halting jet deliveries, the Pentagon could subsequently delay training of Turkish pilots. Two additional jets are scheduled to arrive in Arizona in April and a significant delay could impact Turkey\u2019s November target date for operations.\n\nU.S. lawmakers also have expressed alarm over Turkey\u2019s planned purchase of the Russian system. Four U.S. senators last week introduced a bipartisan bill that would prohibit the transfer of F-35s to Turkey until the U.S. government certifies that Ankara will not take delivery of the S-400 system.\n\nFollowing news of the halt, U.S. Senator Jeanne Shaheen, one of the bill sponsors, said she was glad to hear the administration was \u201cto delay the transfer of F-35 equipment to Turkey to help ensure U.S. military technology and capabilities cannot fall into the hands of the Kremlin.\u201d"
+  },
+  {
     "filename": "20180324_OTH_Where are Indias s_A_IND_B_RUS",
     "labels": [],
     "text": "India is planning a digital firewall against China. It has stopped short of banning Chinese telecom equipment. However, now, a new policy is in the works that would make it harder for Chinese companies such as Huawei and ZTE to do business in India."
@@ -6925,6 +7784,48 @@
     "text": "Author: Nicole Jenne, Pontifical Catholic University of Chile\n\nIn March 2018, Cambodia and Thailand announced plans for several joint initiatives relating to trans-border movements, including a deal on exchanging fugitives, including exiled political figures. The move comes as both governments show increasingly authoritarian tendencies. But though the deal was hailed by its protagonists as beginning a new era of cooperation, the agreement to hunt down political refugees \u2014 if implemented at all \u2014 will not dramatically change relations between the two countries.\n\nIn the week of 19 March, Cambodia\u2019s Deputy Prime Minister and Minister of National Defence, Tea Banh, travelled to Bangkok to co-chair the 13th meeting of the Cambodian\u2013Thai General Border Committee. Besides meeting his Thai counterpart Prawit Wongsuwon, Banh visited Thai Prime Minister Prayuth Chan-o-cha on the latter\u2019s birthday on 21 March. Banh\u2019s meeting with Prayuth attracted considerably more attention than that of the General Border Committee, a two-decade-old dialogue mechanism that has yet to impress with substantial results.\n\nBanh and Prayuth announced a deal to exchange fugitives and \u2018monitor individuals who escape the law by crossing the border\u2019. \u2018Fugitives\u2019 likely refer to exiled members of the political opposition from the respective countries. After the coup in Thailand in 2014, over 100 Thai nationals sought refuge in Cambodia, many to avoid lengthy prison sentences under the country\u2019s harsh lese-majeste law. Thailand, in turn, has hosted at least dozens of Cambodia\u2019s ex-opposition party members since the Cambodian National Rescue Party (CNRP) was dissolved in November 2017.\n\nThe new deal places the exiled opposition from both countries in an even more precarious situation. Only a few days after the agreement was made public, the Phnom Penh Post reported that vehicles from the Royal Cambodian Armed Forces (RCAF) had been stationed near the Bangkok homes of ex-CNRP members. Phnom Penh justified the presence of the vehicles by saying that the RCAF only operate in Bangkok in cooperation with Thai authorities to tackle transnational crime.\n\nBut recent trends indicate that crime suppression can serve as a cover for politically motivated charges. Both the regimes in Cambodia and Thailand are increasingly repressive and share an interest in preventing the political opposition from organising abroad. For Prime Minister Hun Sen and his ruling Cambodian People\u2019s Party (CPP), this is especially relevant ahead of the country\u2019s general elections in July this year.\n\nA case that set a potential precedent earlier in 2018 involved the extradition of a Cambodian labour activist from Thailand in what was a violation of customary international law. The same international law principles also apply under an extradition agreement signed between the two countries in 2011. Accordingly, forced return is permissible only if the crime for which extradition is sought exists in both countries. Extradition needs to be rejected if there is reason to believe that the request is politically motivated.\n\nIn 2009, it was on these grounds that Cambodia rejected a request by the then Democratic Party government to extradite former Thai prime minister Thaksin Shinawatra. The rejection came just a week after Hun Sen appointed Thaksin as his economic advisor. Under Thaksin, Thailand and Cambodia had forged closer business ties, and Thaksin and Hun Sen developed a close relationship. But after Thaksin\u2019s ouster in the 2006 coup, bilateral relations deteriorated as a result of conflict at the border near the Preah Vihear temple.\n\nWith the regime change in Bangkok in 2014, it is even clearer that reciprocity and political favours weigh more than legal commitments. In the wake of the CPP\u2019s uncomfortably narrow victory in the 2013 elections, Phnom Penh sought international allies and reached out to the newly installed military government in Bangkok. Banh assured Prayuth as early as 2014 that \u2018Cambodia has no policy to allow anyone to use its land to operate against Thailand\u2019.\n\nIn this sense, the agreement in March to exchange fugitives is a formalisation of developments already underway. All the same, the deal is unlikely to bring about substantial changes. Political alliances based on a common enemy are usually of limited duration. In contrast to positive cooperation for a common good, negative cooperation against a threat tends to aim to do the bare minimum. Such joint security measures have limited objectives and are rarely adopted as part of a larger reform package that would induce a qualitative shift in bilateral relations.\n\nThe agreement to exchange fugitives fails to address the range of issues that have led to uneasy relations between Cambodia and Thailand. These include unresolved border disputes, such as the pending implementation of the International Court of Justice\u2019s 2013 ruling on the border near Preah Vihear. Disagreements also cover the growing role of China in Southeast Asia \u2014 particularly in Cambodia \u2014 as well as several transnational issues such as labour migration, smuggling and illegal logging.\n\nIn contrast, the General Border Committee meeting appeared to make some headway in improving cross-border mobility through the creation of several new permanent border gates. If implemented, these measures may facilitate trade and better regulation of illegal crossings. Unlike the authoritarian extradition deal, they could lead to a real improvement in bilateral relations.\n\nNicole Jenne is Assistant Professor at the Institute of Political Science, Pontifical Catholic University of Chile. Follow her on Twitter at @nicjenne."
   },
   {
+    "filename": "20180529_OTH_Uganda air force-H_A_UGA_B_USA",
+    "labels": [
+      {
+        "end": 161,
+        "start": 45,
+        "tag": "Answer",
+        "text": "Russian Helicopters has delivered a VIP Mi-171E helicopter with a superior comfort cabin to the government of Uganda"
+      },
+      {
+        "end": 64,
+        "start": 45,
+        "tag": "Seller",
+        "text": "Russian Helicopters"
+      },
+      {
+        "end": 52,
+        "start": 45,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 103,
+        "start": 81,
+        "tag": "Weapon",
+        "text": "VIP Mi-171E helicopter"
+      },
+      {
+        "end": 161,
+        "start": 137,
+        "tag": "Buyer",
+        "text": "the government of Uganda"
+      },
+      {
+        "end": 161,
+        "start": 155,
+        "tag": "Buyer Country",
+        "text": "Uganda"
+      }
+    ],
+    "text": "VIP Mi-171E Delivered to Uganda, 10-Feb-16 : Russian Helicopters has delivered a VIP Mi-171E helicopter with a superior comfort cabin to the government of Uganda. Features included a wardrobe, food station, toilet and widescreen displays."
+  },
+  {
     "filename": "20180622_DN_US Air Force announ",
     "labels": [
       {
@@ -7059,6 +7960,120 @@
       }
     ],
     "text": "VICTORIA, British Columbia \u2014 Raytheon Canada Limited has received a contact from the Canadian government worth CN$704 million (U.S. $570 million) to maintain and upgrade the Phalanx Close-In Weapon Systems operated by the Royal Canadian Navy.\n\nThe contract covers 21 such systems.\n\nThe rapid-fire, radar-guided gun system was described by Canadian Defence Minister Harjit Sajjan, in announcing the contract, as the most effective naval self-defense system available against close-in threats such as missiles, small ships and aircraft.\n\n\u201cIt is the last line of defense for the backbone of the Royal Canadian Navy \u2014 the Halifax-class frigate,\u201d he said.\n\nThe CIWS in-service support contract will be valid until late 2037.\n\nThe contract will update all 21 Phalanx CIWS and provide engineering services, project management, support and disposal services, as well as the procurement of spares and test equipment, according to Canada\u2019s Department of National Defence.\n\nA number of the upgrades will center on improvements to the gun\u2019s radar system, a Department of National Defence official said.\n\nThe previous contract to maintain the systems was also with Raytheon Canada and lasted 10 years. The value of that was deal was CN$189 million.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nThe increase in value represents the planned improvements with the radar, the need for more maintenance because of the older nature of the system and the longer period for the maintenance, the department official said.\n\nEach of the 12 Royal Canadian Navy Halifax-class frigates carry a Phalanx CIWS. Others are used for training."
+  },
+  {
+    "filename": "20171107_DAILY_China supports D_A_PAP_B_CHI",
+    "labels": [
+      {
+        "end": 133,
+        "start": 0,
+        "tag": "Answer",
+        "text": "SIXTY-two vehicles costing a total of K17.5 million were donated to the PNG Defence Force (PNGDF) on Friday by the Chinese government"
+      },
+      {
+        "end": 97,
+        "start": 72,
+        "tag": "Buyer",
+        "text": "PNG Defence Force (PNGDF)"
+      },
+      {
+        "end": 9,
+        "start": 0,
+        "tag": "Quantity",
+        "text": "SIXTY-two"
+      },
+      {
+        "end": 51,
+        "start": 38,
+        "tag": "Price",
+        "text": "K17.5 million"
+      },
+      {
+        "end": 133,
+        "start": 111,
+        "tag": "Seller",
+        "text": "the Chinese government"
+      },
+      {
+        "end": 122,
+        "start": 115,
+        "tag": "Seller Country",
+        "text": "Chinese"
+      },
+      {
+        "end": 18,
+        "start": 10,
+        "tag": "Weapon",
+        "text": "vehicles"
+      },
+      {
+        "end": 316,
+        "start": 136,
+        "tag": "Answer",
+        "text": "They were 44 troop carriers, 10 armoured vehicles, four 45-seater busses and four mobile kitchen vans and spare parts. The donation was made by China\u2019s Ministry of National Defence"
+      },
+      {
+        "end": 148,
+        "start": 146,
+        "tag": "Quantity",
+        "text": "44"
+      },
+      {
+        "end": 167,
+        "start": 165,
+        "tag": "Quantity",
+        "text": "10"
+      },
+      {
+        "end": 163,
+        "start": 149,
+        "tag": "Weapon",
+        "text": "troop carriers"
+      },
+      {
+        "end": 185,
+        "start": 168,
+        "tag": "Weapon",
+        "text": "armoured vehicles"
+      },
+      {
+        "end": 191,
+        "start": 187,
+        "tag": "Quantity",
+        "text": "four"
+      },
+      {
+        "end": 208,
+        "start": 192,
+        "tag": "Weapon",
+        "text": "45-seater busses"
+      },
+      {
+        "end": 217,
+        "start": 213,
+        "tag": "Quantity",
+        "text": "four"
+      },
+      {
+        "end": 237,
+        "start": 218,
+        "tag": "Weapon",
+        "text": "mobile kitchen vans"
+      },
+      {
+        "end": 316,
+        "start": 280,
+        "tag": "Seller",
+        "text": "China\u2019s Ministry of National Defence"
+      },
+      {
+        "end": 285,
+        "start": 280,
+        "tag": "Seller Country",
+        "text": "China"
+      }
+    ],
+    "text": "SIXTY-two vehicles costing a total of K17.5 million were donated to the PNG Defence Force (PNGDF) on Friday by the Chinese government.\n\nThey were 44 troop carriers, 10 armoured vehicles, four 45-seater busses and four mobile kitchen vans and spare parts. The donation was made by China\u2019s Ministry of National Defence.\n\nChinese Ambassador Xue Bing said the donation was part of an ongoing relationship between China and PNG, which has also seen 83 officers from the defence force train in China.\n\nHe said such exchanges and cooperation have deepened the mutual understanding of the two armed forces and brought real benefits for the people.\n\n\u201cIt fully demonstrates our sincere support to the PNG Defence Force for its capacity building,\u201d he said.\n\n\u201cIt is also another illustration of the practical results and benefits brought to us in the 41 years of friendly relations between China and PNG.\n\n\u201cI hope that this batch of equipment will be helpful for the PNGDF to enhance the ability to safeguard the national interest and to maintain peace and safety of your country and people.\u201d\n\nSaid Defence Minister Solan Mirisim: \u201cIt\u2019s the second gift by the People\u2019s Republic of China in the short time since the relationship started in 2007, compared to that relationship with other countries.\n\n\u201cThat growth in our relationship is featured and illustrated by the many exchange visits by the senior military officers of the PNGDF, and China is ranked second to those of other countries.\n\n\u201cWe are ready to use these equipment . . . for the Apec programme in 2018.\u201d\n\nPNGDF Commander Brigadier-General Gilbert Toropo said the Chinese government was also helping with medical and gymnasium equipment.\n\nHe said China donated 44 vehicles last year.\n\n\u201cThis donation will assist our troops to be mobile and conduct operations during Apec 2018,\u201d he said."
   },
   {
     "filename": "20180206_DEFWEB_UAE orders Seek_A_UAE_B_SA",
@@ -8169,6 +9184,78 @@
     "filename": "20180417_OTH_China just another",
     "labels": [],
     "text": "Author: David H Shinn, George Washington University\n\nDoes China\u2019s growing engagement with Africa represent the replacement of Western influence with a new economic hegemon? Or does China\u2019s influence continue to face huge challenges and is it significantly overstated? The truth is somewhere in between. China has become a major player but much of the commentary about its relationship with Africa is overwrought. While China\u2019s tactics and perhaps even strategy are novel, it is just another major power pursuing its own interests \u2014 much as the United States, France and the United Kingdom are doing.\n\nThe principal non-African actors on the continent want essentially the same thing from the 54 diverse African countries. They all want access to Africa\u2019s oil, minerals and natural resources. They seek maximum political support from African countries in international forums such as the UN General Assembly and World Trade Organization. They want to increase their exports of goods and services to Africa for the purpose of earning foreign exchange. They are anxious to avoid various negative impacts on their interests and nationals, such as terrorist attacks, piracy, narcotics trafficking and international crime.\n\nEach major power may also have one or two unique interests. China seeks diplomatic recognition from two hold outs \u2014 Burkina Faso and Swaziland \u2014 who still recognise Taiwan. The United States depends on access to ports and airports for its military aircrafts and ships. France wants to maintain its cultural and language connections. The United Kingdom takes pride in the 19 African members of its Commonwealth of Nations.\n\nIt is indisputable that China has joined the big leagues in Africa. China has been Africa\u2019s largest trading partner since 2009. It accounts for about 15 per cent of Africa\u2019s trade, though Africa accounts for only about 4 per cent of China\u2019s trade. China is the largest bilateral financier of infrastructure projects in Africa, averaging about US$11.5 billion in infrastructure investment annually over 2012\u201316.\n\nIn recent years, China\u2019s OECD-equivalent aid to Africa has averaged about US$2.5 billion, compared with about US$8 billion from the United States and US$23 billion from the European Union. China\u2019s foreign direct investment (FDI) flows to Africa are estimated to be about US$3 billion annually. This is roughly the same amount flowing from US companies but well below the US$35 billion invested in 2015 by companies in the European Union. China accounts for only about 5 per cent of Africa\u2019s global FDI stock.\n\nIn 2017, China established its first overseas military base in Djibouti, where France, the United States, Japan and Italy also have bases. China contributes more personnel to UN peacekeeping operations in Africa \u2014 almost 2,100 \u2014 than any other permanent member of the UN Security Council. China is also the second-largest supplier of major weapons to Africa after Russia.\n\nChina\u2019s growing security links to Africa are driven by the increasing numbers of its nationals \u2014 upwards of 1 million \u2014 who live or work in Africa. But these nationals are subject to attack just like the nationals and interests of many other countries. Overall, both the United States and France are more militarily engaged in Africa than is China. Since 2008, China has contributed two frigates and a supply ship to anti-piracy operations in the Gulf of Aden \u2014 but so have many other countries.\n\nOne important but little-understood link is the cooperation between the Chinese Communist Party (CCP) and African ruling parties. There are frequent exchanges of delegations going both directions. The CCP provides cadre training and occasionally material support for African parties. Its relationship with the ruling parties in South Africa and Ethiopia is particularly strong. US political parties have no similar relationship, and even most European political parties collaborate far less with African parties than does the CCP.\n\nThe biggest difference between Western countries\u2019 and China\u2019s approach to Africa concerns liberal democracy and human rights. The West attaches importance to these concepts and even puts conditions revolving around them on its assistance to certain African countries. China eschews this practice and emphasises that it does not attach political conditions to its aid (except for insistence on the \u2018One China\u2019 principle). China\u2019s approach is welcomed almost unanimously by African governments \u2014 especially the more authoritarian ones \u2014 but is not appreciated by many African civil society organisations.\n\nThe divergent political ideologies represented by China and the West complicate their ability to cooperate in Africa. Going forward, China\u2019s regime may pose an additional challenge for the expansion of ties in Africa, particularly with the more democratic African governments. A case in point is press freedom. In 2018, China ranked lower than every country in Africa, except Eritrea, in the Reporters without Borders\u2019 press freedom index (the index ranked 180 countries, including 53 in Africa). At some point, increasing numbers of African governments may start asking themselves what kind of democracy is best for them: China\u2019s or the West\u2019s.\n\nDavid H Shinn is an Adjunct Professor at the Elliott School of International Affairs, George Washington University."
+  },
+  {
+    "filename": "20180608_DN_France to double mi",
+    "labels": [
+      {
+        "end": 92,
+        "start": 21,
+        "tag": "Answer",
+        "text": "France is to double its order for the Light VBMR reconnaissance vehicle"
+      },
+      {
+        "end": 27,
+        "start": 21,
+        "tag": "Buyer",
+        "text": "France"
+      },
+      {
+        "end": 27,
+        "start": 21,
+        "tag": "Buyer Country",
+        "text": "France"
+      },
+      {
+        "end": 92,
+        "start": 59,
+        "tag": "Weapon",
+        "text": "Light VBMR reconnaissance vehicle"
+      },
+      {
+        "end": 2594,
+        "start": 2474,
+        "tag": "Answer",
+        "text": "France is also to order an upgrade for 200 Leclerc main battle tanks, with a first delivery of a modernized tank in 2021"
+      },
+      {
+        "end": 2480,
+        "start": 2474,
+        "tag": "Buyer",
+        "text": "France"
+      },
+      {
+        "end": 2480,
+        "start": 2474,
+        "tag": "Buyer Country",
+        "text": "France"
+      },
+      {
+        "end": 2542,
+        "start": 2501,
+        "tag": "Weapon",
+        "text": "upgrade for 200 Leclerc main battle tanks"
+      },
+      {
+        "end": 2586,
+        "start": 2571,
+        "tag": "Weapon",
+        "text": "modernized tank"
+      },
+      {
+        "end": 2594,
+        "start": 2590,
+        "tag": "Date",
+        "text": "2021"
+      },
+      {
+        "end": 2516,
+        "start": 2513,
+        "tag": "Quantity",
+        "text": "200"
+      }
+    ],
+    "text": "VERSAILLES, France \u2015 France is to double its order for the Light VBMR reconnaissance vehicle, a key element in the French Army\u2019s \u20ac10 billion (U.S. $12 billion) Scorpion modernization program.\n\nAn additional 420 Light VBMR units are to be ordered, taking the total to 978, according to Erwan, the director of the Scorpion modernization program at Direction G\u00e9n\u00e9rale de l\u2019Armement procurement office. Erwan, whose last name is not used for security reasons, spoke to the press May 16.\n\nA first delivery of the Light VBMR is due in 2022, with 489 shipped by 2025.\n\nIn addition to the highly equipped 489, there will be a further 200 units ordered, with the latter more lightly equipped units, according to the annex of the draft multiyear military budget law for 2019-2025.\n\nThat raises the total of Light VBMRs to 689 delivered by 2025.\n\nAfter 2025 and out to 2032, there will be a further 978 ordered for Scorpion, and 1,060 ordered outside of the program, with a total of 2,038 for that period.\n\nA first delivery of an armored personnel carrier version of Light VBMR is due in 2021, a reconnaissance model in 2022 and a communications variant in 2023.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nA wide spectrum of missions will be covered, as there will be 16 versions of the vehicle, with 10 of the APC, two for recon and four for comms.\n\nNexter will design, build and service the vehicles, while Texelis will supply the chassis and driveline.\n\nNexter\u2019s factory at Roanne, central France, will build the Light VBMR, adding to the workload generated by orders for the Griffon troop carrier and the Jaguar combat and reconnaissance vehicle.\n\nThe Light VBMR weighs 15-17 tons, can reach a speed of 100 kph and has a range of 600 kilometers. That weight compares to the French Army\u2019s initial requirement for a 10-ton vehicle, before industry called that unrealistic.\n\nOne of the vehicles can be airlifted on a C-130, while two can fit on the A400M transport aircraft. Regarding the latter, the vehicles can be fully equipped for combat and still be successfully loaded.\n\nThe vehicle is armed with a remote controlled 7.62mm machine gun, a minigun at the rear and self-protection with a Galix smoke dispenser.\n\nThe vehicle can carry 10 people \u2015 eight troops, a driver and a gunner.\n\nFrance is also to order an upgrade for 200 Leclerc main battle tanks, with a first delivery of a modernized tank in 2021, Erwan said. Sensors and the Bull SICS battle management system, or Scorpion Information Communication System, will bring the tank into the Scorpion\u2019s so-called collaborative combat concept, which seeks to heighten teamwork on the ground and with commanders at the regimental level.\n\nAn order for the Griffon multipurpose troop carrier is to be raised to \u201da target\u201c of 1,872, up 150 units from a previous total, Erwan said. A first delivery is due by the end of the year, with certification in the second quarter of 2019. Some 936 units are due by 2025.\n\nContracts for those increased orders are expected to be signed later this year after the French Parliament formally adopts the draft military budget law, expected in July.\n\nThat boost in orders follows the Army\u2019s call for a speedy introduction of the new armored vehicles, to replace an aging fleet of VAB troop carriers. There is a 2,700-strong fleet of VABs, which are some 40 years old."
   },
   {
     "filename": "20180207_REU_Canada orders revi_A_PHI_B_CAN",
@@ -9859,6 +10946,48 @@
     "text": "In the 2016 calendar year South Africa imported arms, armaments and associated equipment valued at R673 million according to the National Conventional Arms Control Committee (NCACC) annual report.\n\nWhile there were no \u201cbig ticket\u201d items such as combat aircraft, attack helicopters, warships and large calibre artillery \u2013 all dutifully listed as \u201cnone\u201d in the report \u2013 South Africa did import eight armoured combat vehicles from Finland. The eight, collectively valued at R268 969 122, are the forerunners of the Badger, the SA Army\u2019s new infantry fighting vehicle being built by Denel Land Systems.\n\nAs far as heavy weapons are concerned the report notes the import of 16 cannon, worth R19 989 941, from Switzerland; 12 84 mm weapons, worth R4 867 196, from the Peoples Republic of China; 46 grenade launchers (R183 847) from the United States and two Swiss sniper rifles (R167 015).\n\nFrom China, the import of 13 missile launchers worth R1.2 million was approved, as well as two missile launchers from the United States worth R1.3 million. A single mortar system was acquired from Spain, for R362 000.\n\nOn the ammunition front South Africa imported thousands of rounds ranging in calibre from 40mm to 338, 30mm and 7.62 mm as well as 400 specialist rounds for sniper rifles. All told the value of ammunition is over R186 million. The majority of this was for 21 000 rounds of 40 mm ammunition from Bulgaria, worth R175 million. Other large ammunition contracts were awarded to Norway (2 000 30 mm rounds worth R8 million) and Switzerland (1 000 20 mm rounds worth R1.3 million).\n\nOther imports noted in the report include five simulators from Switzerland (R2.4 million); communications equipment from Germany (R69 million); communications equipment from the United States (R65 million); and cameras, thermal imagers and other optics from France, Belgium, Canada and Germany worth a total of R48 million. The 51 thermal imagers from France (worth R46 million) were probably for the Badger infantry fighting vehicle.\n\n\n\n\n\n\n\nIn total, the NCACC granted 2 245 import permits from 74 countries in the 2016 calendar year. For the 2015 calendar year, the NCACC authorised 2 249 import permits covering 74 countries worth R502 million. This compares to R200 million in 2014.\n\n"
   },
   {
+    "filename": "20170711_MOD-SRI_Two F-7 Aircra_A_SRI_B_CHI",
+    "labels": [
+      {
+        "end": 251,
+        "start": 0,
+        "tag": "Answer",
+        "text": "The first two F-7 Aircraft overhauled as part of the establishment of the Aircraft Overhaul Wing at Sri Lanka Air Force Base, Katunayake, were accepted by the Commander of the Sri Lanka Air Force, Air Marshal Kapila Jayampathy yesterday (10 July 2017)"
+      },
+      {
+        "end": 13,
+        "start": 10,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 26,
+        "start": 14,
+        "tag": "Weapon",
+        "text": "F-7 Aircraft"
+      },
+      {
+        "end": 226,
+        "start": 155,
+        "tag": "Buyer",
+        "text": "the Commander of the Sri Lanka Air Force, Air Marshal Kapila Jayampathy"
+      },
+      {
+        "end": 185,
+        "start": 176,
+        "tag": "Buyer Country",
+        "text": "Sri Lanka"
+      },
+      {
+        "end": 250,
+        "start": 238,
+        "tag": "Date",
+        "text": "10 July 2017"
+      }
+    ],
+    "text": "The first two F-7 Aircraft overhauled as part of the establishment of the Aircraft Overhaul Wing at Sri Lanka Air Force Base, Katunayake, were accepted by the Commander of the Sri Lanka Air Force, Air Marshal Kapila Jayampathy yesterday (10 July 2017) at a simple ceremony at Katunayake. The event was attended also by the Chief of Staff of the Air Force, Air Vice Marshal Sumangala Dias, members of the Air Force Board of Management and other officers as well as representatives of the Aviation Engineering Division of the M/S CATIC of China, who are partnering the SLAF in this technology transfer project.\n\n\n\nThe Aircraft Overhaul Wing was established at the beginning of the year 2016 with the technical assistance of M/S CATIC. The Chinese specialist are expected to assist and guide the SLAF in establishing the facilities and in the first few overhauls, after which they are expected to withdraw gradually, leaving the SLAF with the capability to independently handle overhauls. Initially the project is expected to handle the airframe overhaul of Chinese origin aircraft although the SLAF expects that the technology acquired will facilitate the overhaul of other aircraft as well.\n\n\n\nThe concept of Technology transfer is a common practice in most countries where foreign origin aircraft are inducted and used over a period of time. The practice permits the user nation to ensure longevity of the platforms that they acquire without having to rely on foreign assistance and having to dispatch aircraft overseas at great expense in terms of both money and time. While the process of technology transfer requires an initial capital overlay, it is justified by the return on investment over the lifetime of the aircraft fleet. At the same time, the process and facilities such as this also help increase the level of competence of the Aircraft industry of the nation as well and creates opportunities for the technicians engaged in such enterprises to obtain gainful employment even after their retirement from Military Service.\n\n"
+  },
+  {
     "filename": "20180828_OTH_Sri Lanka Navy cer_A_SRI_B_USA",
     "labels": [
       {
@@ -10692,6 +11821,11 @@
     "filename": "20181000_SCRAM_Panama DHC-3_A_PAN",
     "labels": [],
     "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
+    "filename": "20171013_OTH_Army aviation proc_A_BAN_B_AST",
+    "labels": [],
+    "text": "Hi !\n\n\n\nI just joined this forum because recently the type 69 II G has been introduced into the video game \"war thunder\". The thing is, there have been conflicts to know if the vehicle was representated correctly. Depending on the source I can find, it has either a 105mm gun or a 120mm, a thermal imager sight or not etc.\n\n\n\nSo I think asking the experts might be a better idea, and here I am\n\n\n\nExcuse me if this isnt the good location or if it's off topic, I'm a bit lost\n\n\n\nThanks in advance for your anwsers !\n\n\n\n8 replies"
   },
   {
     "filename": "20180307_DN_Airbus cutting 3700",
@@ -11713,6 +12847,11 @@
     "text": "Abaco supports Ghostrider HUD upgrade MAGIC1A embedded computing system is intended to enhance operational visibility.\n\nUSSOCOM awards new modification for Long Endurance Aircraft Contract ceiling raised to $75 million for programme to acquire new UAV capability for US SOF.\n\nFlexrotor undergoes SOCOM reliability tests Demonstration of UAS included accelerated cycling.\n\nMystery FMS customer to receive Shallow Water Combat Submersibles Advanced underwater vehicle for SOF will be manufactured for first export customer.\n\nNetherlands builds new training facilities for special forces Two new centres to train Dutch special forces will be up and running by the mid-2020s."
   },
   {
+    "filename": "20180507_OTH_No evidence Canadi_A_SAU_B_CAN",
+    "labels": [],
+    "text": "An investigation by Global Affairs cast doubt on suggestions that civilians were deliberately targeted by Saudi Arabian forces using Canadian armoured vehicles when the Saudi interior ministry cracked down on a rebellious enclave last summer, a newly-released document reveals.\n\nA briefing note, drafted on Oct. 10, 2017 for Foreign Affairs Minister Chrystia Freeland, was released Monday by her staff.\n\nThe review was ordered last year after videos surfaced online which showed armoured trucks known as Gurkhas, built by Terradyne of Newmarket, Ont., were apparently involved in the fighting in the village of Al-Awamiyah, in the Shia majority eastern region of Qatif.\n\nAnother video, which surfaced at the same time last July, purportedly showed Canadian-made light armoured vehicles (LAVs), manufactured separately by General Dynamic Land Systems of London, Ont., fighting in the same area.\n\nAppearing before House of Commons foreign affairs committee in February, Freeland said the investigation by Canadian officials \"found no conclusive evidence that Canadian-made vehicles were used in human rights violations.\"\n\nShe called the review \"independent\" and \"objective.\"\n\nHuman rights groups \u2014 notably Project Ploughshares \u2014 challenged Freeland to release the full investigation.\n\n'No credible information'\n\nPloughshares Executive Director Cesar Jaramillo told CBC News in March that the Liberal government owed it to Canadians to explain how it came to the conclusion that no abuses took place in eastern Saudi Arabia involving Canadian vehicles.\n\n\"There is no credible information that Saudi Ministry of Interior forces committed serious human rights violations in the conduct of that operation, with Gurkhas or otherwise,\" says the briefing note. \"We also assess that the Saudi Ministry of Interior forces made efforts to minimize civilian casualties, that the use of force remained proportionate and appropriate given the level of threat in the area.\"\n\nThe briefing note describes itself as having been based on \"wide range of diplomatic, security and other contacts\" in the Kingdom.\n\nJaramillo said, for him, the briefing note just raises more questions.\n\n\"Some of the sources of this supposed validation are suspect at best,\" he told CBC News on Monday.\n\nThe briefing note does not appear to have been compiled using first-hand accounts from the region or interviews with officials at Human Rights Watch, which levelled most of the allegations.\n\n\"Information gathered to date by the Department does not substantiate allegations that civilians were deliberately targeted by Ministry of Interior forces in the conduct of the operation, and a number of sources confirm that most of the population of Al-Awamiyah was evacuated,\" it says.\n\nOfficials said they couldn't even determine from the video whether the Terradyne vehicle seen in it was even firing, or why.\n\n\"It is not possible to confirm either the target or the tactical situation, including whether the vehicle crews were returning fire after having been fired upon,\" says the briefing note.\n\nMissing the point\n\nJaramillo said officials writing the briefing note missed a key point about arms-control law.\n\nThe question under international law for countries like Canada engaging in the arms trade, he said, isn't whether an action took place, but whether the weapons being exported run the \"risk\" of being used to violate human rights.\n\n\"In order to cast doubt, they paint a picture of where shots may have been fired and coming from, when that is not the point,\" he said.\n\nThe briefing note also attempts to debunk the notion that more heavily-armed and lethal Canadian-made LAVs were involved separately in fighting, saying only one Saudi national guard unit, which uses the vehicles, was put on standby.\n\nIt shows the government suspended Terradyne's two export permits to Saudi Arabia almost immediately after the videos surfaced.\n\nThey were later reinstated.\n\nThe briefing note told Freeland that Terradyne had received an additional order from the Saudi Kingdom and those vehicles were in various states of assembly at the time of the permit suspension.\n\nIt warned the company would be unable to sell them to another customer because they were custom-built."
+  },
+  {
     "filename": "20160923_OTH_A2-AD Threat Russi",
     "labels": [
       {
@@ -11741,6 +12880,11 @@
       }
     ],
     "text": "Advertisement\n\nLast month, the Russian military took delivery of a new S-400 Triumf advanced Air Defense System (NATO reporting name: SA-21 Growler) regiment, according to local media reports. It is the second S-400 regiment to be inducted into the ranks of the Russian Army in 2016 and will further boost Russia\u2019s so called anti-access/area denial (A2/AD) capability. (S-400 units have so far been deployed to Kaliningrad along the Baltic Sea, the Black Sea region, Syria covering the eastern Mediterranean Sea, as well as in Russia\u2019s Far East.)\n\nThree additional S-400 regiments are slated for delivery by the end of 2016, according to an official in the Russian defense industry, which will bring up the total number of S-400 regiments to 16. One S-400 regiment is divided into two battalions. Each battalion consists of eight launchers and 32 missiles in addition to acquisition and engagement radar systems and a command post.\n\nIn comparison to its predecessor, the S-300, the S-400 air defense system features an improved radar system and updated software; it can purportedly can fire four new types of surface-to-air (SAM) missiles in addition to the S-300\u2019s 48N6E, a vertical tube launched, solid fuel, single stage SAM with an estimated range of 150 kilometers (93 miles), and the improved 48N6E2 missile with a reported range of 195 kilometers (121 miles).\n\nOne of the S-400\u2019s new missiles is the so-called 40N6 SAM with an estimated operational range of 400 kilometers (248.5 miles) and an altitude of up to 185 kilometers (607,000 feet). The missile is reportedly capable of exo-atmospheric interception of intermediate-range ballistic missile warheads in their terminal phase. However, it is unclear whether the weapon is operational in Russia yet and no images of the 40N6 SAM have surfaced so far.\n\nDiplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter\n\nThe S-400 is also armed with an improved variant of the 48N6E2 with an alleged range of 250 kilometers (160 miles). The air defense system can also fire two additional missiles, the 9M96E and 9M96E2 with respective ranges of 40 km (25 miles) and 120 km (75 miles). Improved S-300 air defense systems such as the S-300PMU-2 Favorite (sold to Iran), can purportedly also fire the 9M96E and 9M96E2.\n\nEnjoying this article? Click here to subscribe for full access. Just $5 a month.\n\nThe S-400 can purportedly fire missiles at a rate 2.5 times faster than its predecessor, the S-300. It can engage stand-off jammer aircraft, Airborne Warning and Control System (AWACS) aircraft, and both ballistic and cruise missiles in an electronic countermeasures environment. Russia is also working on a newer long-range air defense system, the S-500 Prometheus, which will specifically be designed to intercept up to ten ballistic missiles simultaneously."
+  },
+  {
+    "filename": "20190309_OTH_Ukroboronprom asks_A_UKR",
+    "labels": [],
+    "text": "Ukraine\u2019s defense state enterprise Ukroboronprom korrespondent.net\n\nThe information space of the country continues to spread the information with signs of manipulation, misinformation or obvious incompetence. This is said in the Ukroboronprom state enterprise's statement.\n\n\n\n\"In particular, the statements of MP Biletsky about dozens of factories in Eastern Europe, which offer Ukraine cooperation in the repair and modernization of Soviet-made military equipment, ready to supply a wide range of components, and in general about the \"infinity of spare parts in Europe\u201d, can be considered such misinformation, the document reads.\n\n\n\nUkroboronprom stressed that as a result of the integration of Eastern Europe into NATO, the stocks of Soviet weapons and spare parts there are almost exhausted. \"Therefore, the thesis of a respected deputy on the \"infinity \"is quite contradictory. Moreover, in this statement we see the speaker\u2019s lack of clear understanding of such fundamental terminological nuances as ordinary repair of equipment and the supply of spare parts for the current production,\" the enterprise added.\n\nIt also clarified that despite the objective difficulties, the concern is developing cooperation with foreign partners, in particular that with armored enterprises in Eastern Europe.\"We emphasize that the statements of Mr. Biletsky, reinforced by the words of a representative of one of the private companies, Mr. Nosov, about the alleged restrictions on the admission of non-state companies to the state defense order, do not correspond to reality. The evidence is that about 60% of the state defense order was performed by the non-state enterprises,\" said the document."
   },
   {
     "filename": "20181115_DAILY_Aust China are o_A_PAP_B_INS",
@@ -12212,6 +13356,11 @@
       }
     ],
     "text": "MELBOURNE, Australia \u2014 Information from government documents about a delivery of German Leopard 2 tanks to Singapore in 2017 suggest the city-state bought a new batch of tanks for its Army.\n\nAccording to the register of conventional arms exports released by the German Ministry for Economic Affairs and Energy, Singapore received 18 Leopard 2 main battle tanks in 2017, adding to the seven tanks the German government said it exported in 2016.\n\nThe additional delivery in 2017 brings the total number of this type of tank received by Singapore to more than 170.\n\nIt\u2019s unknown how many tanks were ordered or what variant of was delivered. It is also unknown if this latest batch of tanks are brand new or refurbished secondhand vehicles, although the former is unlikely given production of the Leopard 2A4 has ended.\n\nGerman media reports say the manufacturer Krauss-Maffei Wegmann was building Leopard 2A7s for Singapore and Qatar.\n\nGermany previously declared it exported 161 Leopard 2 tanks to Singapore between 2007 and 2012 in its reports to the United Nations Register of Conventional Arms database. Singapore declared the receipt of 156 Leopard 2A4s during the same period.\n\nThe 2017 delivery forms part of the $93 million worth of conventional arms exported to Singapore from Germany that year, which also included recovery vehicles, parts for tanks, various military vehicles, training and in-flight refueling aircraft, and small arms.\n\nWhen contacted for comment regarding the 2017 deliveries, the ministry told Defense News to refer to its earlier statement. It had previously said that \u201cno other variants of the Leopard has (sic) been acquired\u201d since Singapore announced it had acquired refurbished Leopard 2A4s from Germany in 2006. Singapore announced at the time that it had acquired 96 tanks, with 66 to be refurbished and put into service, with the remaining 30 to serve as spares.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nHowever, the statement does not deny Singapore increased the number of Leopard 2A4s in its possession. KMW declined to comment about the transfer when asked by Defense News.\n\nThe Singapore Army has one active battalion of Leopard 2s, with additional vehicles assigned to training units in Singapore and Germany, where it uses Oberlausitz Military Training Area. Even accounting for those being used as a source for spares, the number acquired so far suggests Singapore has enough vehicles to equip a number of reserve units."
+  },
+  {
+    "filename": "20150904_OTH_Twiga supplying Ny_A_UGA_B_SA",
+    "labels": [],
+    "text": "A question on a lot of lips is have we managed to achieve the goal of Arresting the Decline of critical defence capabilities as..."
   },
   {
     "filename": "20150923_DAILY_Burkina Faso Pre_A_BF_B_FRA",
@@ -13315,6 +14464,11 @@
     "text": "The Pentagon is \u201cvery concerned\u201d over the possible implications of Russian sanctions on defence ties between India and the US, a top defence department official has said.\n\nIndia could face sanctions for purchasing high value military defence items, in particular state-of-the-art S-400 missile defence system, from Russia under the Countering America\u2019s Adversaries Through Sanctions Act (CAATSA).\n\nSection 231 of CAATSA mandates secondary sanctions on those who conduct significant transactions with the Russian defence and intelligence sectors.\n\n\u201cWe understand India\u2019s concern about this and we are very concerned as well. These sanctions are intended to target Russia - not India,\u201d Joe Felter, Deputy Assistant Secretary of Defence for South and Southeast Asia, told PTI.\n\nIndia is currently in advance stage of negotiations with Russia for five S-400 system worth an estimate $4.5 billion. The air defence system includes radar, missile launchers and command center technology.\n\nAccording to some lawmakers, the latest Indian move to purchase S-400 air defence missile from Russia could be considered as a sanctionable activity.\n\nForeign Secretary Vijay Gokhale and Defence Secretary G Mohan Kumar also expressed their concerns over this during their US visit last month.\n\n\u201cWe totally appreciate Indians concerns. It was raised in discussions during senior level meetings last month. We also are very concerned because we very much hope to maintain the momentum and the trajectory of this relationship. We want to deepen our cooperation and not to reduce it,\u201d Felter said.\n\nCAATSA was signed into law in August 2017 and went into effect in January this year. The law mandates the Trump administration to punish entities engaging in significant transaction with the defence or intelligence sectors of Russia.\n\n\u201cWe are concerned about anything that\u2019s going to make it more difficult for us to cooperate. But it\u2019s just out of our hands this legislation. I can\u2019t anticipate what will actually happen. Any decision to impose sanctions is made outside of DoD,\u201d Felter said.\n\n\u201cWe are committed to building our relationship and keeping it on the current trajectory. We appreciate that that defence trade is a key activity to build this partnership. We will continue to work diligently to maintain the positive trajectory we are on with this relationship and ideally deepen and expand our defence trade,\u201d he said.\n\nReferring to the growth in India US bilateral defence trade from almost zero to $15 billion, Felter said there was tremendous growth potential for the bilateral ties.\n\nAtman Trivedi, a former State Department official under the previous Obama Administration said that triggering of sanctions on India because of S-400 deal would \u201cundermine serious American interests\u201d.\n\n\u201cToo much is at stake to allow individual defence transactions to damage a budding relationship with a promising partner like India. Before it\u2019s too late, the two countries should quietly work together to find other arrangements to address India\u2019s defence requirements,\u201d he added.\n\n\u201cIf that is not feasible, Congress should provide India a sanctions waiver or consider a larger legislative fix that allows important US allies and partners, like India, to be exempted,\u201d Trivedi said.\n\nCara Abercrombie, a visiting scholar in the South Asia Program at the Carnegie Endowment for International Peace, also argued in favour of exemption for India last week.\n\n\u201cIndia warrants an exemption from these secondary sanctions, as does any country with which the US is forging new and strategically important defence relations,\u201d Abercrombie wrote in Axios, an online publication.\n\nWhile the US has become its second largest defence supplier, mainly of aircraft and artillery, India still relies heavily on Russian equipment, such as submarines and missiles, that the US has been unwilling to provide, she wrote.\n\n\u201cThese sanctions, like penalties the US imposed after India\u2019s nuclear tests in the 1990s, would sour relations. At worst, they could stoke domestic backlash and close off US defence sales to India for the foreseeable future.\n\n\u201cGiven bipartisan support for the US\u2013India defence relationship, Congress should grant India waiver authority under CAATSA. Without waivers, other important regional partners, like Vietnam and Indonesia, are also likely to trigger sanctions,\u201d Abercrombie said.\n\n\u201cSeventy per cent of their military hardware is Russian in origin. You can\u2019t expect India to go cold turkey on that. We ought to look at ways to have a glide path, so that we can continue to trade in arms within India,\u201d Admiral Harry Harris, Commander of US Pacific Command, told a Congressional committee last month."
   },
   {
+    "filename": "20181128_DN_Will the Thai Air F_A_THA_B_SWE",
+    "labels": [],
+    "text": "Money Minute: How to decide whether to take advantage of a balance transfer\n\nPlay Video"
+  },
+  {
     "filename": "20180322_OTH_India to Locally U_A_IND_B_ISR",
     "labels": [
       {
@@ -13366,6 +14520,11 @@
     "filename": "20181106_OTH_Armenia defense bu",
     "labels": [],
     "text": "YEREVAN, November 6. /ARKA/. Armenia\u2019s defense budget for 2019 will be increased by 26.6%, the acting defense minister David Tonoyan said today.\n\n\n\nThis year, Armenia has passed to the so-called program budgeting, when a budget designed for a specific activity or program. Tonoyan declined to say what amount will be spent on purchases of new weapons, adding however, that the ministry will buy a large variety of new types of weapons.\n\n\n\nThe draft budget for 2019 approved last month by the government calls for 1.5 trillion drams in revenue and 1.6 trillion drams in spending. It expects capital expenditures to grow to 3% of GDP, up from anticipated 2.8% in 2018. Tax revenues in 2019 are expected to make 1 trillion and 396 billion drams, which will enable the government to increase its spending to 1 trillion and 614 billion drams. The budget deficit is projected at 2.2% of GDP or about 150 billion drams.\n\n\n\nAlso 44% of the spending will be allocated to social and cultural sectors, 24% are earmarked for defense, security and public order protection, 12.3% will be provided to the economy, about 10% of the state budget will be used for servicing public debt, 3.2% will be provided as subsidies to communities and 5.8% will be given to state apparatus. ($1 \u2013 487.52 drams). -0-\n\n\n\n\n\n16:05 06.11.2018"
+  },
+  {
+    "filename": "20180205_DN_Finland seeks USD73_A_FIN_B_USA",
+    "labels": [],
+    "text": "Money Minute: How to decide whether to take advantage of a balance transfer\n\nPlay Video"
   },
   {
     "filename": "20181214_OTH_Hyundai Bags USD56_A_KOS",
@@ -13819,6 +14978,48 @@
     "text": "April 17, 2017\n\nThe Turkish Navy commissioned the lead ship of a new class of landing ships, TCG Bayraktar, on April 14, Turkish minister of defense tweeted.\n\nThis was first reported by Turkish Bosphorus Naval News who noted that the ship will remain under the shipyard\u2019s warranty for 12 months. After the 12-month period, TCG Bayraktar will become responsibility of the Turkish Navy.\n\nTCG Bayraktar and sister ship TCG Sancaktar, the second ship in the class, are being built under a contract signed between Anadolu Shipyard and the Turkish Ministry of Defense in May 2011. TCG Sancaktar was launched on July 16, 2016 and is expected to be delivered in October this year.\n\nFirst steel for TCG Bayraktar was cut in May 2014 and the ship was launched on October 3, 2015.\n\nTCG Bayraktar and her sister ship displace over 7200 tonnes at 139 meters. They are capable of transporting up to 1.200 tonnes of cargo (18 tanks).\n\nAdditionally, the ships are equipped with two command and control centers (one for ship\u2019s CIC and the other for joint amphibious command and control purposes) and four landing craft, vehicle, personnel boats (each can carry 40 Marines or 8 t cargo).\n\nThey feature three onload/offload gates (fore, aft, and port side) and have an 18 m trifold bow ramp. A fore draft of less than 2 meters makes the ships suitable for beach landing operations."
   },
   {
+    "filename": "20180409_OTH_Will Israeli Air F_A_ISR_B_USA",
+    "labels": [
+      {
+        "end": 171,
+        "start": 10,
+        "tag": "Answer",
+        "text": "The Israeli Air Force (IAF) may delay the acquisition of a third Lockheed Martin F-35 squadron in favor of a fast purchase of additional new versions of the F-15"
+      },
+      {
+        "end": 37,
+        "start": 10,
+        "tag": "Buyer",
+        "text": "The Israeli Air Force (IAF)"
+      },
+      {
+        "end": 21,
+        "start": 14,
+        "tag": "Buyer Country",
+        "text": "Israeli"
+      },
+      {
+        "end": 171,
+        "start": 167,
+        "tag": "Weapon",
+        "text": "F-15"
+      },
+      {
+        "end": 95,
+        "start": 91,
+        "tag": "Weapon",
+        "text": "F-35"
+      },
+      {
+        "end": 90,
+        "start": 75,
+        "tag": "Seller",
+        "text": "Lockheed Martin"
+      }
+    ],
+    "text": "TEL AVIV: The Israeli Air Force (IAF) may delay the acquisition of a third Lockheed Martin F-35 squadron in favor of a fast purchase of additional new versions of the F-15.\n\nIn recent deliberations within the IAF\u2019s high command, the leading direction was clear \u2013 -priority for the additional F-15\u2019s while delaying the purchase of a third F-35 squadron.\n\nHowever, the head of the IAF\u2019s aircraft department, Col. H., told Breaking Defense that the force will soon face the decision whether to purchase additional F-35s, on top of the 50 that are included in the signed contracts. \u201cWe are very pleased with the performance of the aircraft,\u201d he said.\n\nEven before the delivery of the test aircraft the IAF has equipped the first F-35\u2019s with Israeli-developed systems.\n\nSources told Breaking Defense that the rapidly changing situation in the Middle East, especially the Iranian effort to gain more influence in countries like Syria and Lebanon, makes buying F-35\u2019s more urgent. The sources added that the decrease in the price of the F-35 will be a one of the main factors in the expected decision.\n\nAccording to sources close to the issue, while the F-35 can perform best when its stealth feature is essential \u2014 in later phases of combat \u2014 the IAF believes the need is for other aircraft, ones with advanced avionics that can operate in conjunction with the F-35 and carry heavy loads of weapons.\n\nRetired Brig. Gen. Assaf Agmon, who served in the IAF as a fighter pilot and in senior command position and then headed the Fisher Institute for Air and Space Strategic Studies told Breaking Defense that it will be a mistake to delay the acquisition of an additional F-35 squadron.\u201dThe F-35 is not just another aircraft, it brings a total revolution in the interoperability of air, ground and sea sensors \u201d\n\nHe added that even the Americans have not yet learned the full operational capabilities of the F-35 \u201cand what they do know they not always share with us. So we have to learn by ourselves and this is being done everyday\u201d\n\nHe said that it will be a mistake to invest in another platform based on its capability to carry heavy loads of weapons systems: \u201cThe Israeli defense forces have enough ways to use massive fire power against faraway targets\u201d.\n\nAnother retired IAF brigadier general, who asked not to be identified, said that he was against the acquisition of the F-35 from the outset: \u201cThis is a very expensive aircraft that will not really change the capability of the IAF in the coming 20 years.\u201d With the current Israeli defense budget there is no way to create a critical mass buying F-35s. \u201cThis is a niche system that cannot serve as a game changer. The combat now is based on standoff weapon systems, which makes the presence of an aircraft like the F-35 in the fighting area less important,\u201d the retired general said.\n\nThe contrasting views of the two former high ranking IAF officers symbolize the debate within the IAF. The crucial factor may be the senior leadership of the Israeli Defense Forces and Israel\u2019s intelligence community. The scales tip to the opposite direction whenever the intelligence guys present the most imminent threats, and these changes ARE frequent in the unstable Middle East.\n\nIf the IAF decides to purchase additional F-15s, the deal is likely to occur in the middle of the 10 years U.S defense package that was recently approved by Washington. The new package, in effect from 2019, is for $38 billion over 10 years, up from the $31 billion over the last decade.\n\nThe IAF command wants to keep a \u201ccritical mass \u201d of fighter aircraft that can carry a variety of heavy load weapon systems, including some that are being currently developed by the Israeli defense industries .\n\nThe IAF\u2019s F-15D Baz are central to Israeli air power. They operate a number of missions including air superiority, strike, reconnaissance, and command and control and networking \u201cstations\u201d.\n\nIn the meantime, the IAF is continuing to open the envelope of F-35. And the IAF is adding capabilities to the already operational Adir stealth fighters. This even before the delivery of the dedicated test F-35 that will be delivered in 2019.\n\nThe Israeli F-35A, known as the F-35I Adir, recently took part in the attacks on Syrian ground-air systems that followed the downing of an Israeli F-16 by a Syrian ground -air SA-5 missile.\n\nThe IAF refused to be specific but said that the stealth fighter\u2019s capabilities are a \u201cgame changer.\u201d\n\nIn mid-March, several IAF sources described the F-35 as a \u201csuper intelligence collector\u201d in stealth mode and with the capability to disperse the data to forces in the air and on the ground.\n\nIAF Commander Maj. Gen. Amikam Norkin has decided to classify all F-35 operations so as not to give away data an enemy could use to decrease the stealth fighter\u2019s capabilities.\n\nThe IAF\u2019s Golden Eagle squadron is currently operating nine F-35\u2019s; this year another six will be delivered."
+  },
+  {
     "filename": "20180529_OTH_Uganda Police-Heli_A_UGA_B_UK",
     "labels": [],
     "text": "The Police Air Wing was established within the Ugandan Police Force in 1966 to enhance the operations of the internal security forces. It gained a wider remit following the reforms in the 1967 constitution which created a national police force from the existing federal states."
@@ -13905,6 +15106,11 @@
     "filename": "20180323_ALJAZ_Report_ Western _A_Transparency",
     "labels": [],
     "text": "Western governments and arms companies have contributed to the Egyptian military\u2019s consolidation of political power, a new report said.\n\nTitled The Officers\u2019 Republic, the report was published by Transparency International Defence & Security on Friday a week before Egyptians take to the polls in an election that is expected to see the president and military general, Abdel Fattah el-Sisi, secure another four-year term.\n\nThe report said Western defence companies \u2013 with approval from their governments \u2013 continue to provide Egypt\u2019s military with aid and security support without any form of \u201cmeaningful transparency\u201d.\n\nJames Lynch, deputy director of the UK-based organisation, said countries are assisting a military that has not only taken full political control of Egypt \u2013 albeit with little to no scrutiny \u2013 but one that is also struggling with local and regional instability.\n\n\u201cWestern states, who could do much to influence this situation, are meanwhile failing to demand serious reform and instead carrying on with business as usual, while mistakenly still considering Egypt a trusted partner for security in stability in the region,\u201d said Lynch.\n\n\u2018Unaccountable institution\u2019\n\nSince former president Hosni Mubarak was forced to step down in 2011, Egypt\u2019s military has gone from one political strength to another, and has expanded its economic goals. Yet, the report said, the military has remained a \u201clargely opaque and unaccountable institution\u201d.\n\nThe average defence budget is estimated to be about $4.4bn, but little is known about where that gets earmarked as it is treated as a state secret.\n\nDuring the past five years, Egypt has become the third largest arms importer in the world, but Lynch said there is little to show in terms of protecting the safety and security of its citizens.\n\n\u201cThe Egyptian people have a military that does everything but keep the country secure,\u201d he said. \u201cIts concern with building its economic and political power has hugely frustrated its efforts to deal with the security challenges it faces in the Sinai and other places.\u201d\n\nIn recent years, several human rights groups, including Amnesty International, have accused members of the Egyptian military of extrajudicial executions in the Sinai, showing \u201cthey fear no oversight or accountability for their actions\u201d.\n\n\u201cThis is a military that may very well be the architect of its own security crisis,\u201d Lynch said.\n\n{articleGUID}\n\nTransparency in the face of opacity\n\nAs human rights abuses and state violence in Egypt continue to increase, the report made a series of recommendations for the international community to counter the opacity of the Egyptian military.\n\nIt called for making financial and security assistance dependant on achieving basic levels of transparency and accountability, and to amplify domestic voices advocating for that.\n\nIt also urged better domestic oversight of the armed forces by asking tougher questions on the military\u2019s economic activities.\n\n\u201cThe international community must understand that not only is it doing a major disservice to the people of Egypt by providing support to the armed forces with few strings attached,\u201d Lynch said, \u201cit is also contributing to the security crisis in the country and region.\u201d"
+  },
+  {
+    "filename": "20180515_DN_Selling guns abroad_B_USA-SMARMS",
+    "labels": [],
+    "text": "WASHINGTON -- The Trump administration is moving forward with plans to make it easier to sell small arms abroad.\n\nThe State department has submitted a request to shift oversight on small-arms exports, such as semiautomatic rifles, from State to Commerce, kicking off a 45-day review period of the new policy, which has been long sought by the gun industry.\n\nThe move impacts any firearms that are \u201cwidely available\u201d in U.S. stores for commercial sale. However, State would maintain oversight on any weapons sold primarily for military use.\n\nIt\u2019s a move that arms manufacturers have sought for years, with hopes of selling more weapons abroad \u2013 one that aligns with the Trump administration\u2019s stance that economic security and national security are irrevocably linked.\n\nDo new Trump arms export rules live up to the hype? The Trump administration has a new conventional arms export policy, but it is unclear what has actually changed.\n\nBut while the Trump administration is pushing forward the policy, discussion about moving such weapons to Commerce has been underway for years as part of the Obama administration\u2019s export reform efforts. Under that umbrella, the State department went through the various categories of export rules and looked to move as much as possible over to Commerce, in order to encourage exports and free up State regulators to spend more time on large defense items.\n\n\u201cThese changes will significantly reduce the regulatory burden on the U.S. commercial firearms and ammunition industry, promote American exports, and clarify the regulatory requirements for independent gunsmiths, while at the same time prioritizing national security controls and continuing our ability to restrict exports where human rights, illicit trafficking, and related issues may be of concern,\u201d a State department spokesman told Defense News on background.\n\nDuring the 45-day comment period, arms control groups are expected to object over fears such weapons may be used against civilian populations. While State continues to have oversight on military-grade weapons, sales of semiautomatic weapons for police forces would now be outside the agency\u2019s jurisdiction.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nIn 2016, Senate Foreign Relations Committee member Ben Cardin, D-Md., helped block the sale of rifles to police in Philippines over human rights concerns. In a May 15 statement, he warned that \u201cweakened Congressional oversight of international small arms and munitions sales is extremely hazardous to global security.\u201d"
   },
   {
     "filename": "20150600_MOD-NZ_Special operati_A_NZ_B_AUS",

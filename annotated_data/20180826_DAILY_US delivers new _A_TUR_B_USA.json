@@ -1,0 +1,264 @@
+{
+  "filename": "20180826_DAILY_US delivers new _A_TUR_B_USA",
+  "labels": [
+    {
+      "end": 110,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Turkey has started to receive the second batch of CH-47 Chinook heavy transportation helicopters from the U.S."
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 96,
+      "start": 50,
+      "tag": "Weapon",
+      "text": "CH-47 Chinook heavy transportation helicopters"
+    },
+    {
+      "end": 110,
+      "start": 106,
+      "tag": "Seller",
+      "text": "U.S."
+    },
+    {
+      "end": 110,
+      "start": 106,
+      "tag": "Seller Country",
+      "text": "U.S."
+    },
+    {
+      "end": 373,
+      "start": 244,
+      "tag": "Answer",
+      "text": "the first of five helicopters, part of the second delivery of Chinooks, entered the inventory of the Turkish Military on Saturday"
+    },
+    {
+      "end": 273,
+      "start": 262,
+      "tag": "Weapon",
+      "text": "helicopters"
+    },
+    {
+      "end": 261,
+      "start": 257,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 314,
+      "start": 306,
+      "tag": "Weapon",
+      "text": "Chinooks"
+    },
+    {
+      "end": 361,
+      "start": 341,
+      "tag": "Buyer",
+      "text": "the Turkish Military"
+    },
+    {
+      "end": 352,
+      "start": 345,
+      "tag": "Buyer Country",
+      "text": "Turkish"
+    },
+    {
+      "end": 373,
+      "start": 365,
+      "tag": "Date",
+      "text": "Saturday"
+    },
+    {
+      "end": 537,
+      "start": 376,
+      "tag": "Answer",
+      "text": "The initial agreement with Boeing, an American multinational corporation, on the purchase of 11 CH-47 helicopters in 2011 first delivered six helicopters in 2016"
+    },
+    {
+      "end": 537,
+      "start": 533,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 409,
+      "start": 403,
+      "tag": "Seller",
+      "text": "Boeing"
+    },
+    {
+      "end": 422,
+      "start": 414,
+      "tag": "Seller Country",
+      "text": "American"
+    },
+    {
+      "end": 471,
+      "start": 469,
+      "tag": "Quantity",
+      "text": "11"
+    },
+    {
+      "end": 489,
+      "start": 472,
+      "tag": "Weapon",
+      "text": "CH-47 helicopters"
+    },
+    {
+      "end": 497,
+      "start": 493,
+      "tag": "Date",
+      "text": "2011"
+    },
+    {
+      "end": 517,
+      "start": 514,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 529,
+      "start": 518,
+      "tag": "Weapon",
+      "text": "helicopters"
+    },
+    {
+      "end": 608,
+      "start": 540,
+      "tag": "Answer",
+      "text": "The move came amid U.S. efforts to delay delivery of F-35s to Turkey"
+    },
+    {
+      "end": 563,
+      "start": 559,
+      "tag": "Seller",
+      "text": "U.S."
+    },
+    {
+      "end": 563,
+      "start": 559,
+      "tag": "Seller Country",
+      "text": "U.S."
+    },
+    {
+      "end": 598,
+      "start": 593,
+      "tag": "Weapon",
+      "text": "F-35s"
+    },
+    {
+      "end": 608,
+      "start": 602,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 608,
+      "start": 602,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 746,
+      "start": 610,
+      "tag": "Answer",
+      "text": "In early August, U.S. President Donald Trump approved a defense budget law delaying delivery of F-35 Joint Strike Fighter jets to Turkey"
+    },
+    {
+      "end": 625,
+      "start": 613,
+      "tag": "Date",
+      "text": "early August"
+    },
+    {
+      "end": 654,
+      "start": 627,
+      "tag": "Seller",
+      "text": "U.S. President Donald Trump"
+    },
+    {
+      "end": 631,
+      "start": 627,
+      "tag": "Seller Country",
+      "text": "U.S."
+    },
+    {
+      "end": 736,
+      "start": 706,
+      "tag": "Weapon",
+      "text": "F-35 Joint Strike Fighter jets"
+    },
+    {
+      "end": 746,
+      "start": 740,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 746,
+      "start": 740,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 1538,
+      "start": 1492,
+      "tag": "Answer",
+      "text": "Turkey plans to purchase 100 F-35 fighter jets"
+    },
+    {
+      "end": 1498,
+      "start": 1492,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 1498,
+      "start": 1492,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 1520,
+      "start": 1517,
+      "tag": "Quantity",
+      "text": "100"
+    },
+    {
+      "end": 1538,
+      "start": 1521,
+      "tag": "Weapon",
+      "text": "F-35 fighter jets"
+    },
+    {
+      "end": 1659,
+      "start": 1604,
+      "tag": "Answer",
+      "text": "The country took delivery of its first F-35 fighter jet"
+    },
+    {
+      "end": 1615,
+      "start": 1604,
+      "tag": "Buyer",
+      "text": "The country"
+    },
+    {
+      "end": 1659,
+      "start": 1643,
+      "tag": "Weapon",
+      "text": "F-35 fighter jet"
+    }
+  ],
+  "text": "Turkey has started to receive the second batch of CH-47 Chinook heavy transportation helicopters from the U.S., despite the ongoing crisis with the country regarding delivery of F-35 jets.\n\nThe Presidency of the Defense Industry announced that the first of five helicopters, part of the second delivery of Chinooks, entered the inventory of the Turkish Military on Saturday.\n\nThe initial agreement with Boeing, an American multinational corporation, on the purchase of 11 CH-47 helicopters in 2011 first delivered six helicopters in 2016.\n\nThe move came amid U.S. efforts to delay delivery of F-35s to Turkey. In early August, U.S. President Donald Trump approved a defense budget law delaying delivery of F-35 Joint Strike Fighter jets to Turkey. An amendment to the National Defense Authorization Act (NDAA), quickly approved by Congress, prohibits F-35 sales to Turkey until the Pentagon issues a report on Turkish-American relations in 90 days.\n\nStill, the F-35 Joint Program Office announced on Aug. 16 that it would continue to execute current program plans with all partners, including Turkey, and to abide by any future policy guidelines.\n\nTurkey has been in the F-35 program since 1999, and the Turkish defense industry has taken an active role in the production of aircraft and invested $1.25 billion in the aircraft's development. Alp Aviation, AYESAS, Kale Aviation, Kale Pratt & Whitney and Turkish Aerospace Industries have been producing parts for the first F-35 fighter jet.\n\nTurkey plans to purchase 100 F-35 fighter jets in the coming years. Out of 100 aircraft, 30 have been approved. The country took delivery of its first F-35 fighter jet at a ceremony in Fort Worth, Texas, on June 21. The first F-35 aircraft delivered is also the first fifth-generation fighter jet to enter the Turkish Air Force Command inventory.\n\nEach CH-47 helicopter has two rotors and two motors, each having 4,800 horsepower. With a range that can increase to 1,100 kilometers with the help of the fuel tanks, the helicopters can fly safely even at conditions of zero visibility.\n\nThe helicopters, which can carry 10 tons, can be used in war operations and operations with humanitarian and civil aims."
+}

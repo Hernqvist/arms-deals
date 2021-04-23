@@ -1,0 +1,396 @@
+{
+  "filename": "20190401_REU_US HALTS F35 TURKE_A_TUR_B_USA",
+  "labels": [
+    {
+      "end": 129,
+      "start": 23,
+      "tag": "Answer",
+      "text": "The United States has halted delivery of equipment related to the stealthy F-35 fighter aircraft to Turkey"
+    },
+    {
+      "end": 40,
+      "start": 23,
+      "tag": "Seller",
+      "text": "The United States"
+    },
+    {
+      "end": 40,
+      "start": 27,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 119,
+      "start": 64,
+      "tag": "Weapon",
+      "text": "equipment related to the stealthy F-35 fighter aircraft"
+    },
+    {
+      "end": 129,
+      "start": 123,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 129,
+      "start": 123,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 402,
+      "start": 290,
+      "tag": "Answer",
+      "text": "U.S. officials told their Turkish counterparts they will not receive further shipments of F-35 related equipment"
+    },
+    {
+      "end": 304,
+      "start": 290,
+      "tag": "Seller",
+      "text": "U.S. officials"
+    },
+    {
+      "end": 294,
+      "start": 290,
+      "tag": "Seller Country",
+      "text": "U.S."
+    },
+    {
+      "end": 323,
+      "start": 316,
+      "tag": "Buyer",
+      "text": "Turkish"
+    },
+    {
+      "end": 323,
+      "start": 316,
+      "tag": "Buyer Country",
+      "text": "Turkish"
+    },
+    {
+      "end": 402,
+      "start": 380,
+      "tag": "Weapon",
+      "text": "F-35 related equipment"
+    },
+    {
+      "end": 287,
+      "start": 226,
+      "tag": "Answer",
+      "text": "Ankara\u2019s planned purchase of a Russian missile defense system"
+    },
+    {
+      "end": 232,
+      "start": 226,
+      "tag": "Buyer",
+      "text": "Ankara"
+    },
+    {
+      "end": 264,
+      "start": 257,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 264,
+      "start": 257,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 287,
+      "start": 265,
+      "tag": "Weapon",
+      "text": "missile defense system"
+    },
+    {
+      "end": 1029,
+      "start": 962,
+      "tag": "Answer",
+      "text": "Ankara\u2019s planned purchase of a Russian S-400 missile defense system"
+    },
+    {
+      "end": 968,
+      "start": 962,
+      "tag": "Buyer",
+      "text": "Ankara"
+    },
+    {
+      "end": 1000,
+      "start": 993,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 1000,
+      "start": 993,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1029,
+      "start": 1001,
+      "tag": "Weapon",
+      "text": "S-400 missile defense system"
+    },
+    {
+      "end": 1989,
+      "start": 1930,
+      "tag": "Answer",
+      "text": "Turkey has said it will take delivery of the S-400s in July"
+    },
+    {
+      "end": 1936,
+      "start": 1930,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 1936,
+      "start": 1930,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 1981,
+      "start": 1975,
+      "tag": "Weapon",
+      "text": "S-400s"
+    },
+    {
+      "end": 1989,
+      "start": 1985,
+      "tag": "Date",
+      "text": "July"
+    },
+    {
+      "end": 3474,
+      "start": 3272,
+      "tag": "Answer",
+      "text": "In an attempt to persuade Turkey to drop its plans to buy the S-400, the United States offered the pricier American-made Patriot anti-missile system in a discounted deal that expired at the end of March"
+    },
+    {
+      "end": 3304,
+      "start": 3298,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 3304,
+      "start": 3298,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 3339,
+      "start": 3334,
+      "tag": "Weapon",
+      "text": "S-400"
+    },
+    {
+      "end": 3358,
+      "start": 3341,
+      "tag": "Seller",
+      "text": "the United States"
+    },
+    {
+      "end": 3358,
+      "start": 3345,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 3387,
+      "start": 3379,
+      "tag": "Seller Country",
+      "text": "American"
+    },
+    {
+      "end": 3420,
+      "start": 3393,
+      "tag": "Weapon",
+      "text": "Patriot anti-missile system"
+    },
+    {
+      "end": 3474,
+      "start": 3469,
+      "tag": "Date",
+      "text": "March"
+    },
+    {
+      "end": 3685,
+      "start": 3598,
+      "tag": "Answer",
+      "text": "Turkey has engaged with U.S. negotiators in recent days about buying the Patriot system"
+    },
+    {
+      "end": 3604,
+      "start": 3598,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 3604,
+      "start": 3598,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 3638,
+      "start": 3622,
+      "tag": "Seller",
+      "text": "U.S. negotiators"
+    },
+    {
+      "end": 3626,
+      "start": 3622,
+      "tag": "Seller Country",
+      "text": "U.S."
+    },
+    {
+      "end": 3685,
+      "start": 3671,
+      "tag": "Weapon",
+      "text": "Patriot system"
+    },
+    {
+      "end": 4058,
+      "start": 3941,
+      "tag": "Answer",
+      "text": "the F-35, each of which costs $90 million, and that Ankara was expecting the aircraft to arrive in Turkey in November"
+    },
+    {
+      "end": 3949,
+      "start": 3945,
+      "tag": "Weapon",
+      "text": "F-35"
+    },
+    {
+      "end": 3982,
+      "start": 3971,
+      "tag": "Price",
+      "text": "$90 million"
+    },
+    {
+      "end": 3999,
+      "start": 3993,
+      "tag": "Buyer",
+      "text": "Ankara"
+    },
+    {
+      "end": 4046,
+      "start": 4040,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 4046,
+      "start": 4040,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 4058,
+      "start": 4050,
+      "tag": "Date",
+      "text": "November"
+    },
+    {
+      "end": 4026,
+      "start": 4018,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 4395,
+      "start": 4348,
+      "tag": "Answer",
+      "text": "Turkey\u2019s planned purchase of the Russian system"
+    },
+    {
+      "end": 4395,
+      "start": 4389,
+      "tag": "Weapon",
+      "text": "system"
+    },
+    {
+      "end": 4388,
+      "start": 4381,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 4388,
+      "start": 4381,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 4354,
+      "start": 4348,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 4354,
+      "start": 4348,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 4597,
+      "start": 4479,
+      "tag": "Answer",
+      "text": "transfer of F-35s to Turkey until the U.S. government certifies that Ankara will not take delivery of the S-400 system"
+    },
+    {
+      "end": 4496,
+      "start": 4491,
+      "tag": "Weapon",
+      "text": "F-35s"
+    },
+    {
+      "end": 4506,
+      "start": 4500,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 4506,
+      "start": 4500,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 4532,
+      "start": 4517,
+      "tag": "Seller",
+      "text": "U.S. government"
+    },
+    {
+      "end": 4521,
+      "start": 4517,
+      "tag": "Seller Country",
+      "text": "U.S."
+    },
+    {
+      "end": 4554,
+      "start": 4548,
+      "tag": "Buyer",
+      "text": "Ankara"
+    },
+    {
+      "end": 4554,
+      "start": 4548,
+      "tag": "Buyer Country",
+      "text": "Ankara"
+    },
+    {
+      "end": 4597,
+      "start": 4585,
+      "tag": "Weapon",
+      "text": "S-400 system"
+    }
+  ],
+  "text": "WASHINGTON (Reuters) - The United States has halted delivery of equipment related to the stealthy F-35 fighter aircraft to Turkey, marking the first concrete U.S. step to block delivery of the jet to the NATO ally in light of Ankara\u2019s planned purchase of a Russian missile defense system.\n\nU.S. officials told their Turkish counterparts they will not receive further shipments of F-35 related equipment needed to prepare for the arrival of the stealthy jet, two sources familiar with the situation told Reuters on Monday.\n\nThe Pentagon confirmed the Reuters report that the equipment delivery had been stopped.\n\n\u201cPending an unequivocal Turkish decision to forgo delivery of the S-400, deliveries and activities associated with the stand-up of Turkey\u2019s F-35 operational capability have been suspended,\u201d Air Force Lieutenant Colonel Mike Andrews, a Defense Department spokesman, said in a statement.\n\nTurkish President Tayyip Erdogan has refused to back down from Ankara\u2019s planned purchase of a Russian S-400 missile defense system that the United States has said would compromise the security of F-35 aircraft.\n\nThe disagreement over the F-35 is the latest of a series of diplomatic disputes between the United States and Turkey including Turkish demands that the United States extradite Islamic cleric Fethullah Gulen, differences over Middle East policy and the war in Syria, and sanctions on Iran.\n\nThe sources, who spoke on condition of anonymity, told Reuters the next shipment of training equipment, and all subsequent shipments of F-35 related material, had been canceled. The aircraft is built by Lockheed Martin Corp.\n\nA Pentagon official had told Reuters in March that the United States had a number of items it could withhold in order to send Turkey a signal that the United States was serious about Ankara dropping its ambition to own the S-400.\n\nTurkish officials in Ankara were not immediately available for comment. Turkey has said it will take delivery of the S-400s in July.\n\nNATO SUMMIT\n\nThe U.S. decision on the F-35s was expected to complicate Turkish Foreign Minister Mevlut Cavusoglu\u2019s visit to Washington this week for a NATO summit. On Sunday, Erdogan suffered one of his biggest electoral losses in decades in local elections.\n\n\u201cCertain Russian weapon systems are seen as inherently threatening to the United States regardless of who is operating them and for what purpose,\u201d Andrew Hunter, a fellow at the Center for Strategic and International Studies, said.\n\n\u201cBecause Turkey is not just an F-35 purchaser, but an industrial partner, blocking delivery of these systems represents a major escalation by the United States as it threatens to impose serious costs on both sides,\u201d Hunter said.\n\nSlideshow ( 3 images )\n\nReuters reported last week that Washington was exploring whether it could remove Turkey from production of the F-35. Turkey makes parts of the fuselage, landing gear and cockpit displays. Sources familiar with the F-35\u2019s intricate worldwide production process and U.S. thinking on the issue last week said Turkey\u2019s role can be replaced.\n\nThe United States and other NATO allies that own F-35s fear the radar on the Russian S-400 missile system will learn how to spot and track the jet, making it less able to evade Russian weapons.\n\nIn an attempt to persuade Turkey to drop its plans to buy the S-400, the United States offered the pricier American-made Patriot anti-missile system in a discounted deal that expired at the end of March. Turkey has shown interest in the Patriot system, but not at the expense of abandoning the S-400.\n\nSlideshow ( 3 images )\n\nTurkey has engaged with U.S. negotiators in recent days about buying the Patriot system, a person familiar with the matter said on condition of anonymity. The system is made by Raytheon Co.\n\nTurkish Defense Minister Hulusi Akar in March said that despite some issues, Turkish pilots were continuing their training at an air base in Arizona on the F-35, each of which costs $90 million, and that Ankara was expecting the aircraft to arrive in Turkey in November.\n\nBy halting jet deliveries, the Pentagon could subsequently delay training of Turkish pilots. Two additional jets are scheduled to arrive in Arizona in April and a significant delay could impact Turkey\u2019s November target date for operations.\n\nU.S. lawmakers also have expressed alarm over Turkey\u2019s planned purchase of the Russian system. Four U.S. senators last week introduced a bipartisan bill that would prohibit the transfer of F-35s to Turkey until the U.S. government certifies that Ankara will not take delivery of the S-400 system.\n\nFollowing news of the halt, U.S. Senator Jeanne Shaheen, one of the bill sponsors, said she was glad to hear the administration was \u201cto delay the transfer of F-35 equipment to Turkey to help ensure U.S. military technology and capabilities cannot fall into the hands of the Kremlin.\u201d"
+}
