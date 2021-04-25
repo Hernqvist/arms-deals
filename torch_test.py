@@ -9,13 +9,14 @@ from tabulate import tabulate
 
 import torch.nn as nn
 from transformers import BertForSequenceClassification, BertForTokenClassification
+from parallel_token_classification import BertForParallelTokenClassification
 
 class BERT(nn.Module):
   max_length = 128
   options_name = "bert-base-cased"
   def __init__(self):
     super(BERT, self).__init__()
-    self.encoder = BertForTokenClassification.from_pretrained(self.options_name)
+    self.encoder = BertForParallelTokenClassification.from_pretrained(self.options_name)
 
   def forward(self, text, label):
     loss, text_fea = self.encoder(text, labels=label)[:2]
@@ -79,6 +80,7 @@ def eval():
     if True:   
       output = model(eval_texts, eval_labels)
       loss, probabilities = output
+      print(probabilities.size())
       predictions = torch.argmax(probabilities, dim=2)
       for x, y_actual, y in zip(eval_texts, eval_labels, predictions):
         preprocessor.print_labels(x, y_actual, y)
