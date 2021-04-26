@@ -1,7 +1,20 @@
 import torch.nn as nn
+import torch
 from torch.nn import CrossEntropyLoss
 from transformers.modeling_outputs import TokenClassifierOutput
 from transformers import BertPreTrainedModel, BertModel
+
+class LinearRepeat(nn.Module):
+
+    def __init__(self, in_features, out_features, repeats):
+        super(LinearRepeat, self).__init__()
+        self.repeats = repeats
+        self.out_features = out_features
+        self.linear = nn.Linear(in_features, repeats*out_features)
+
+    def forward(self, x):
+        y = self.linear(x)
+        return torch.reshape(y, (*(y.size()[:-1]), self.repeats, self.out_features))
 
 class BertForParallelTokenClassification(BertPreTrainedModel):
 
@@ -10,10 +23,11 @@ class BertForParallelTokenClassification(BertPreTrainedModel):
     def __init__(self, config):
         super().__init__(config)
         self.num_labels = config.num_labels
+        self.num_label_types = 4
 
         self.bert = BertModel(config, add_pooling_layer=False)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
-        self.classifier = nn.Linear(config.hidden_size, config.num_labels)
+        self.classifier = LinearRepeat(config.hidden_size, config.num_labels, self.num_label_types)
 
         self.init_weights()
 

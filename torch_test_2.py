@@ -8,14 +8,16 @@ from transformers import BertTokenizerFast
 from tabulate import tabulate
 
 import torch.nn as nn
-from transformers import BertForSequenceClassification, BertForTokenClassification
+from parallel_token_classification import BertForParallelTokenClassification
+
+labels_considered = ("Buyer", "Seller", "Weapon", "Price")
 
 class BERT(nn.Module):
   max_length = 128
   options_name = "bert-base-cased"
   def __init__(self):
     super(BERT, self).__init__()
-    self.encoder = BertForTokenClassification.from_pretrained(self.options_name)
+    self.encoder = BertForParallelTokenClassification.from_pretrained(self.options_name)
 
   def forward(self, text, label):
     loss, text_fea = self.encoder(text, labels=label)[:2]
@@ -26,11 +28,13 @@ def preprocess_dataset(dataset):
   texts, labels = [], []
 
   for text in dataset.texts:
-    #if not text.positive_sample:
-    #  continue
-    x, y = preprocessor.labels(text)
+    if not text.positive_sample:
+      continue
+    x, y = preprocessor.labels_multiple(text, labels_considered)
     texts.append(x)
     labels.append(y)
+    if False and text.positive_sample:
+      print(preprocessor.print_labels(x, y[0]))
 
   return torch.stack(texts), torch.stack(labels)
 
@@ -39,10 +43,13 @@ dataset = data_loader.DataSet.load_json2(sys.argv[1]).split_chunks()
 tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
 preprocessor = Preprocessor(tokenizer, BERT.max_length)
 texts, labels = preprocess_dataset(dataset)
+texts = texts[:100]
+labels = labels[:100]
 
-split_at = (len(texts)*2)//3
+split_at = len(texts)-40 # (len(texts)*2)//3
 eval_texts, eval_labels = texts[split_at:], labels[split_at:]
-train_texts, train_labels = texts[:split_at], labels[:split_at]
+train_texts, train_labels = eval_texts, eval_labels# texts[:split_at], labels[:split_at]
+
 
 print(len(train_texts), "Train")
 print(len(eval_texts), "Eval")
@@ -50,7 +57,7 @@ print(len(eval_texts), "Eval")
 model = BERT()
 optimizer = optim.Adam(model.parameters(), lr=2e-5)
 BATCH_SIZE = 20
-EPOCHS = 30
+EPOCHS = 300
 eval_every = 100
 until_eval, total_evaled, total = eval_every, 0, len(train_texts)*EPOCHS
 
@@ -77,13 +84,19 @@ def eval():
     if True:   
       output = model(eval_texts, eval_labels)
       loss, probabilities = output
+      predictions = torch.argmax(probabilities, dim=3)
+      print("In eval")
       print(probabilities.size())
-      predictions = torch.argmax(probabilities, dim=2)
-      for x, y_actual, y in zip(eval_texts, eval_labels, predictions):
-        preprocessor.print_labels(x, y_actual, y)
-    if True:
-      #predictions = torch.argmax(probabilities, dim=1).tolist()
-      #actual = [x[0] for x in eval_labels.tolist()]
+      print(predictions.size())
+      print(eval_labels.size())
+      print(eval_texts.size())
+      
+      for x, y_actual_all, y_all in zip(eval_texts, eval_labels, predictions):
+        print()
+        for label, y_actual, y in zip(labels_considered, torch.transpose(y_actual_all, 0, 1), torch.transpose(y_all, 0, 1)):
+          print((label.upper() + " ")*5)
+          preprocessor.print_labels(x, y_actual, y)
+    if False:
       print("Calculating scores")
       e_loss, e_precision, e_recall, e_f1 = scores(eval_texts, eval_labels)
       t_loss, t_precision, t_recall, t_f1 = scores(train_texts, train_labels)

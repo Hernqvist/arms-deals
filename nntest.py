@@ -32,4 +32,5 @@ original_input = Tensor(
   ])
 print(original_input.size())
 linear_repeat = LinearRepeat(4, 2, 5)
+print(linear_repeat)
 print(linear_repeat(original_input).size())

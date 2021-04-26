@@ -75,13 +75,14 @@ class Preprocessor:
         offsets = [(int(start), int(end)) for start, end in tokenized['offset_mapping'][0]]
         x = tokenized['input_ids'][0]
         y = self.token_has_label(text, label, offsets)
-        if False and text.positive_sample:
-            decoded = [self.tokenizer.decode(z) for z in x]
-            print(self.tokenizer.decode(x))
-            for a, b in zip(decoded, y):
-                if b == 1:
-                    print(a)
         return x, y
+
+    def labels_multiple(self, text, labels=("Buyer",)):
+        tokenized = self.tokenizer(text.text, return_offsets_mapping=True, **self.common_options())
+        offsets = [(int(start), int(end)) for start, end in tokenized['offset_mapping'][0]]
+        x = tokenized['input_ids'][0]
+        y = torch.stack([self.token_has_label(text, label, offsets) for label in labels])
+        return x, torch.transpose(y, 0, 1)
     
     def print_labels(self, x, y_actual, y=None):
         if y == None:
