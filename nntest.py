@@ -13,8 +13,7 @@ class LinearRepeat(nn.Module):
 
   def forward(self, x):
     y = self.linear(x)
-    y = torch.reshape(y, (*(y.size()[:-1]), self.repeats, self.out_features))
-    return y
+    return torch.reshape(y, (*(y.size()[:-1]), self.repeats, self.out_features))
 
 
 # texts, 3 tokens, 4 features
