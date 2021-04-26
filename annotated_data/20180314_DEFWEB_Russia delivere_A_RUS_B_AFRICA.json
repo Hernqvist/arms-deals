@@ -1,0 +1,678 @@
+{
+  "filename": "20180314_DEFWEB_Russia delivere_A_RUS_B_AFRICA",
+  "labels": [
+    {
+      "end": 187,
+      "start": 12,
+      "tag": "Answer",
+      "text": "Russia exported some $15 billion worth of weapons around the world. This included African nations, which received an array of equipment from fighter jets to ballistic missiles"
+    },
+    {
+      "end": 18,
+      "start": 12,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 18,
+      "start": 12,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 44,
+      "start": 33,
+      "tag": "Price",
+      "text": "$15 billion"
+    },
+    {
+      "end": 61,
+      "start": 54,
+      "tag": "Weapon",
+      "text": "weapons"
+    },
+    {
+      "end": 109,
+      "start": 94,
+      "tag": "Buyer",
+      "text": "African nations"
+    },
+    {
+      "end": 165,
+      "start": 153,
+      "tag": "Weapon",
+      "text": "fighter jets"
+    },
+    {
+      "end": 187,
+      "start": 169,
+      "tag": "Weapon",
+      "text": "ballistic missiles"
+    },
+    {
+      "end": 493,
+      "start": 420,
+      "tag": "Answer",
+      "text": "Russia in 2017 received orders for $16 billion worth of defence equipment"
+    },
+    {
+      "end": 426,
+      "start": 420,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 426,
+      "start": 420,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 434,
+      "start": 430,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 466,
+      "start": 455,
+      "tag": "Price",
+      "text": "$16 billion"
+    },
+    {
+      "end": 493,
+      "start": 476,
+      "tag": "Weapon",
+      "text": "defence equipment"
+    },
+    {
+      "end": 636,
+      "start": 540,
+      "tag": "Answer",
+      "text": "Most equipment went to China, India and Vietnam, which ordered helicopters, engines, and vessels"
+    },
+    {
+      "end": 568,
+      "start": 563,
+      "tag": "Buyer",
+      "text": "China"
+    },
+    {
+      "end": 568,
+      "start": 563,
+      "tag": "Buyer Country",
+      "text": "China"
+    },
+    {
+      "end": 575,
+      "start": 570,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 575,
+      "start": 570,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 587,
+      "start": 580,
+      "tag": "Buyer",
+      "text": "Vietnam"
+    },
+    {
+      "end": 587,
+      "start": 580,
+      "tag": "Buyer Country",
+      "text": "Vietnam"
+    },
+    {
+      "end": 614,
+      "start": 603,
+      "tag": "Weapon",
+      "text": "helicopters"
+    },
+    {
+      "end": 636,
+      "start": 629,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 917,
+      "start": 639,
+      "tag": "Answer",
+      "text": "A number of African countries took delivery of military hardware from Russia last year, such as long-time customer Algeria. It received the last six of 14 Su-30MKA fighters; six more Mi-28NE attack helicopters (42 were ordered in 2013) and T-90SA tanks (out of an order for 200)"
+    },
+    {
+      "end": 668,
+      "start": 651,
+      "tag": "Buyer",
+      "text": "African countries"
+    },
+    {
+      "end": 715,
+      "start": 709,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 715,
+      "start": 709,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 761,
+      "start": 754,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 761,
+      "start": 754,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 787,
+      "start": 784,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 816,
+      "start": 813,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 848,
+      "start": 822,
+      "tag": "Weapon",
+      "text": "Mi-28NE attack helicopters"
+    },
+    {
+      "end": 891,
+      "start": 879,
+      "tag": "Weapon",
+      "text": "T-90SA tanks"
+    },
+    {
+      "end": 811,
+      "start": 794,
+      "tag": "Weapon",
+      "text": "Su-30MKA fighters"
+    },
+    {
+      "end": 852,
+      "start": 850,
+      "tag": "Quantity",
+      "text": "42"
+    },
+    {
+      "end": 916,
+      "start": 913,
+      "tag": "Quantity",
+      "text": "200"
+    },
+    {
+      "end": 873,
+      "start": 869,
+      "tag": "Date",
+      "text": "2013"
+    },
+    {
+      "end": 1209,
+      "start": 997,
+      "tag": "Answer",
+      "text": "Algeria has also recently acquired TOS-1 rocket launchers and Buk-M2E surface-to-air missiles and ordered BMPT Terminator tank support vehicles from Russia, while it is expecting delivery of Kilo class submarines"
+    },
+    {
+      "end": 1004,
+      "start": 997,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1004,
+      "start": 997,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1054,
+      "start": 1032,
+      "tag": "Weapon",
+      "text": "TOS-1 rocket launchers"
+    },
+    {
+      "end": 1090,
+      "start": 1059,
+      "tag": "Weapon",
+      "text": "Buk-M2E surface-to-air missiles"
+    },
+    {
+      "end": 1140,
+      "start": 1103,
+      "tag": "Weapon",
+      "text": "BMPT Terminator tank support vehicles"
+    },
+    {
+      "end": 1152,
+      "start": 1146,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1152,
+      "start": 1146,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1209,
+      "start": 1188,
+      "tag": "Weapon",
+      "text": "Kilo class submarines"
+    },
+    {
+      "end": 1293,
+      "start": 1212,
+      "tag": "Answer",
+      "text": "Algeria\u2019s receipt of four Iskander-E short range ballistic missiles was confirmed"
+    },
+    {
+      "end": 1219,
+      "start": 1212,
+      "tag": "Buyer",
+      "text": "Algeria"
+    },
+    {
+      "end": 1219,
+      "start": 1212,
+      "tag": "Buyer Country",
+      "text": "Algeria"
+    },
+    {
+      "end": 1237,
+      "start": 1233,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1279,
+      "start": 1238,
+      "tag": "Weapon",
+      "text": "Iskander-E short range ballistic missiles"
+    },
+    {
+      "end": 1648,
+      "start": 1643,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1648,
+      "start": 1643,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1699,
+      "start": 1695,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 1731,
+      "start": 1729,
+      "tag": "Quantity",
+      "text": "46"
+    },
+    {
+      "end": 1751,
+      "start": 1732,
+      "tag": "Weapon",
+      "text": "MiG-29M/M2 fighters"
+    },
+    {
+      "end": 1786,
+      "start": 1773,
+      "tag": "Date",
+      "text": "December 2015"
+    },
+    {
+      "end": 1816,
+      "start": 1643,
+      "tag": "Answer",
+      "text": "Egypt is another important African customer, and in 2017 began receiving the first of 46 MiG-29M/M2 fighters that were ordered in December 2015 \u2013 15 were delivered last year"
+    },
+    {
+      "end": 1791,
+      "start": 1789,
+      "tag": "Quantity",
+      "text": "15"
+    },
+    {
+      "end": 1916,
+      "start": 1818,
+      "tag": "Answer",
+      "text": "Egypt also received 19 Ka-52 attack helicopters, out of an order for 46 for the Egyptian Air Force"
+    },
+    {
+      "end": 1823,
+      "start": 1818,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1823,
+      "start": 1818,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1840,
+      "start": 1838,
+      "tag": "Quantity",
+      "text": "19"
+    },
+    {
+      "end": 1865,
+      "start": 1841,
+      "tag": "Weapon",
+      "text": "Ka-52 attack helicopters"
+    },
+    {
+      "end": 1889,
+      "start": 1887,
+      "tag": "Quantity",
+      "text": "46"
+    },
+    {
+      "end": 1916,
+      "start": 1894,
+      "tag": "Buyer",
+      "text": "the Egyptian Air Force"
+    },
+    {
+      "end": 1906,
+      "start": 1898,
+      "tag": "Buyer Country",
+      "text": "Egyptian"
+    },
+    {
+      "end": 2050,
+      "start": 1918,
+      "tag": "Answer",
+      "text": "The country has yet to decide on ordering the navalised Ka-52K for the Egyptian Navy\u2019s Mistral class landing helicopter docks (LHDs)"
+    },
+    {
+      "end": 1929,
+      "start": 1918,
+      "tag": "Buyer",
+      "text": "The country"
+    },
+    {
+      "end": 1980,
+      "start": 1964,
+      "tag": "Weapon",
+      "text": "navalised Ka-52K"
+    },
+    {
+      "end": 2002,
+      "start": 1985,
+      "tag": "Buyer",
+      "text": "the Egyptian Navy"
+    },
+    {
+      "end": 1997,
+      "start": 1989,
+      "tag": "Buyer Country",
+      "text": "Egyptian"
+    },
+    {
+      "end": 2279,
+      "start": 2095,
+      "tag": "Answer",
+      "text": "Russia last year also began delivering S-300VM missiles to Egypt and AT-9 and AT-16 anti-tank missiles for its Ka-52s. It has expressed interest in T-90 tanks and Buyan class corvettes"
+    },
+    {
+      "end": 2101,
+      "start": 2095,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2101,
+      "start": 2095,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 2150,
+      "start": 2134,
+      "tag": "Weapon",
+      "text": "S-300VM missiles"
+    },
+    {
+      "end": 2159,
+      "start": 2154,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 2159,
+      "start": 2154,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 2168,
+      "start": 2164,
+      "tag": "Weapon",
+      "text": "AT-9"
+    },
+    {
+      "end": 2197,
+      "start": 2173,
+      "tag": "Weapon",
+      "text": "AT-16 anti-tank missiles"
+    },
+    {
+      "end": 2253,
+      "start": 2243,
+      "tag": "Weapon",
+      "text": "T-90 tanks"
+    },
+    {
+      "end": 2279,
+      "start": 2258,
+      "tag": "Weapon",
+      "text": "Buyan class corvettes"
+    },
+    {
+      "end": 2359,
+      "start": 2282,
+      "tag": "Answer",
+      "text": "Other deliveries to the continent in 2017 included a single Mi-17V-5 to Kenya"
+    },
+    {
+      "end": 2323,
+      "start": 2319,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 2350,
+      "start": 2342,
+      "tag": "Weapon",
+      "text": "Mi-17V-5"
+    },
+    {
+      "end": 2359,
+      "start": 2354,
+      "tag": "Buyer",
+      "text": "Kenya"
+    },
+    {
+      "end": 2359,
+      "start": 2354,
+      "tag": "Buyer Country",
+      "text": "Kenya"
+    },
+    {
+      "end": 2381,
+      "start": 2378,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 2389,
+      "start": 2382,
+      "tag": "Weapon",
+      "text": "Mi-35Ms"
+    },
+    {
+      "end": 2400,
+      "start": 2393,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 2400,
+      "start": 2393,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 2411,
+      "start": 2409,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 2437,
+      "start": 2423,
+      "tag": "Date",
+      "text": "September 2015"
+    },
+    {
+      "end": 2437,
+      "start": 2378,
+      "tag": "Answer",
+      "text": "two Mi-35Ms to Nigeria (out of 12 ordered in September 2015"
+    },
+    {
+      "end": 2515,
+      "start": 2440,
+      "tag": "Answer",
+      "text": "two Mi-35Ms to Mali (apparently two more are on order for delivery by 2019)"
+    },
+    {
+      "end": 2443,
+      "start": 2440,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 2451,
+      "start": 2444,
+      "tag": "Weapon",
+      "text": "Mi-35Ms"
+    },
+    {
+      "end": 2459,
+      "start": 2455,
+      "tag": "Buyer",
+      "text": "Mali"
+    },
+    {
+      "end": 2459,
+      "start": 2455,
+      "tag": "Buyer Country",
+      "text": "Mali"
+    },
+    {
+      "end": 2475,
+      "start": 2472,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 2514,
+      "start": 2510,
+      "tag": "Date",
+      "text": "2019"
+    },
+    {
+      "end": 2660,
+      "start": 2533,
+      "tag": "Answer",
+      "text": "18 refurbished Su-30Ks to Angola (originally the order was for 12 but another six ex-Indian Air Force examples have been added)"
+    },
+    {
+      "end": 2535,
+      "start": 2533,
+      "tag": "Quantity",
+      "text": "18"
+    },
+    {
+      "end": 2555,
+      "start": 2548,
+      "tag": "Weapon",
+      "text": "Su-30Ks"
+    },
+    {
+      "end": 2565,
+      "start": 2559,
+      "tag": "Buyer",
+      "text": "Angola"
+    },
+    {
+      "end": 2565,
+      "start": 2559,
+      "tag": "Buyer Country",
+      "text": "Angola"
+    },
+    {
+      "end": 2598,
+      "start": 2596,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 2781,
+      "start": 2663,
+      "tag": "Answer",
+      "text": "Another contract that was confirmed was for two Pantsyr-S1 (SA-22 Greyhound) air defence systems for Equatorial Guinea"
+    },
+    {
+      "end": 2710,
+      "start": 2707,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 2759,
+      "start": 2711,
+      "tag": "Weapon",
+      "text": "Pantsyr-S1 (SA-22 Greyhound) air defence systems"
+    },
+    {
+      "end": 2781,
+      "start": 2764,
+      "tag": "Buyer",
+      "text": "Equatorial Guinea"
+    },
+    {
+      "end": 2781,
+      "start": 2764,
+      "tag": "Buyer Country",
+      "text": "Equatorial Guinea"
+    }
+  ],
+  "text": "During 2017 Russia exported some $15 billion worth of weapons around the world. This included African nations, which received an array of equipment from fighter jets to ballistic missiles \u2013 Africa accounted for 13% of Russian arms sales over the last five years.\n\nAccording to Russia\u2019s Kommersant newspaper, and confirmed at a meeting of the Commission for Military-Technical Cooperation with Foreign States on 5 March, Russia in 2017 received orders for $16 billion worth of defence equipment, bringing Russia\u2019s order book to $45 billion. Most equipment went to China, India and Vietnam, which ordered helicopters, engines, and vessels.\n\nA number of African countries took delivery of military hardware from Russia last year, such as long-time customer Algeria. It received the last six of 14 Su-30MKA fighters; six more Mi-28NE attack helicopters (42 were ordered in 2013) and T-90SA tanks (out of an order for 200).\n\nAlthough not mentioned by the Commission for Military-Technical Cooperation, Algeria has also recently acquired TOS-1 rocket launchers and Buk-M2E surface-to-air missiles and ordered BMPT Terminator tank support vehicles from Russia, while it is expecting delivery of Kilo class submarines.\n\nAlgeria\u2019s receipt of four Iskander-E short range ballistic missiles was confirmed. The system has a range of around 300 km with a 480 kg warhead (fragmentation, blast fragmentation or penetration warheads). Each launch vehicle carries two missiles and each missile regiment includes around thirty vehicles (launchers, loaders, command, logistics vehicles etc.). Algeria is the second export customer for the system after Armenia.\n\nEgypt is another important African customer, and in 2017 began receiving the first of 46 MiG-29M/M2 fighters that were ordered in December 2015 \u2013 15 were delivered last year. Egypt also received 19 Ka-52 attack helicopters, out of an order for 46 for the Egyptian Air Force. The country has yet to decide on ordering the navalised Ka-52K for the Egyptian Navy\u2019s Mistral class landing helicopter docks (LHDs).\n\nAlthough not mentioned by the Commission, Russia last year also began delivering S-300VM missiles to Egypt and AT-9 and AT-16 anti-tank missiles for its Ka-52s. It has expressed interest in T-90 tanks and Buyan class corvettes.\n\nOther deliveries to the continent in 2017 included a single Mi-17V-5 to Kenya (for its police); two Mi-35Ms to Nigeria (out of 12 ordered in September 2015); two Mi-35Ms to Mali (apparently two more are on order for delivery by 2019) and the first of 18 refurbished Su-30Ks to Angola (originally the order was for 12 but another six ex-Indian Air Force examples have been added).\n\nAnother contract that was confirmed was for two Pantsyr-S1 (SA-22 Greyhound) air defence systems for Equatorial Guinea. This is armed with twelve 57E6 surface-to-air guided missiles and two 2A38M30-millimetre automatic guns developed from the two-barreled 30mm GSh-30 gun.\n\nNot mentioned by the Commission was an order announced in August last year for two Mi-171Sh armed helicopters for Burkina Faso\u2019s military.\n\nAccording to Kommersant, Russia expects its 2018 order book to be roughly the same as last year, although possibly a bit lighter due to American sanctions.\n\n\u201cRussia matches high standards and confirms its status of one of the leading providers on the world weapons market,\u201d Russian President Vladimir Putin said last week. \u201cThe scope of our military-technical cooperation keeps growing in geographic terms steadily. The number of partners has already exceeded one hundred countries.\u201d\n\nAccording to the Stockholm International Peace Research Institute (SIPRI), Russia is the second largest arms exporter after the United States, with a 22% share of the market between 2013 and 2017, compared to the US share of 34%. Third on the list is France with a 6.7% share.\n\n\n\n\n\n\n\nRussian exports of major weapons decreased by 7.1% between 2008\u201312 and 2013\u201317, SIPRI said. \u201cThe fall was largely due to reductions in deliveries to some of its main recipients. Deliveries to Algeria and China, for example, continued throughout 2013\u201317 but were at lower levels than the previous five-year period. Weapons remain on order from Russia for both countries. In addition, while Russia made significant deliveries to Venezuela in 2013, deliveries dropped to nil for the period 2015\u201317.\n\n\u201cRussia has fewer arms export destinations than the USA. In 2013\u201317 Russia delivered major weapons to 47 states and to rebel forces in Ukraine. A total of 58% of Russia\u2019s arms exports went to its top three recipients in 2013\u201317: India, China and Vietnam accounted for 35, 12 and 10%, respectively. At the regional level, Asia and Oceania accounted for 66% of Russian arms exports in 2013\u201317, Africa for 13%, the Middle East for 11%, Europe for 6.2% and the Americas for 4.2%,\u201d SIPRI said."
+}

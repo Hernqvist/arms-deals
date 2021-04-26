@@ -1,0 +1,90 @@
+{
+  "filename": "20180214_NATOPR_Belgium joins A_A_BEL_B_SPA",
+  "labels": [
+    {
+      "end": 165,
+      "start": 33,
+      "tag": "Answer",
+      "text": "Belgium joined a multinational effort to acquire a European multinational fleet of Airbus multirole tanker\u2013transport (MRTT) aircraft"
+    },
+    {
+      "end": 40,
+      "start": 33,
+      "tag": "Buyer",
+      "text": "Belgium"
+    },
+    {
+      "end": 40,
+      "start": 33,
+      "tag": "Buyer Country",
+      "text": "Belgium"
+    },
+    {
+      "end": 122,
+      "start": 116,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 165,
+      "start": 123,
+      "tag": "Weapon",
+      "text": "multirole tanker\u2013transport (MRTT) aircraft"
+    },
+    {
+      "end": 901,
+      "start": 780,
+      "tag": "Answer",
+      "text": "The project was launched in July 2016 through an order of two Airbus A330 MRTT aircraft by the Netherlands and Luxembourg"
+    },
+    {
+      "end": 817,
+      "start": 808,
+      "tag": "Date",
+      "text": "July 2016"
+    },
+    {
+      "end": 841,
+      "start": 838,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 867,
+      "start": 849,
+      "tag": "Weapon",
+      "text": "A330 MRTT aircraft"
+    },
+    {
+      "end": 848,
+      "start": 842,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 886,
+      "start": 875,
+      "tag": "Buyer",
+      "text": "Netherlands"
+    },
+    {
+      "end": 886,
+      "start": 875,
+      "tag": "Buyer Country",
+      "text": "Netherlands"
+    },
+    {
+      "end": 901,
+      "start": 891,
+      "tag": "Buyer",
+      "text": "Luxembourg"
+    },
+    {
+      "end": 901,
+      "start": 891,
+      "tag": "Buyer Country",
+      "text": "Luxembourg"
+    }
+  ],
+  "text": "On Wednesday (14 February 2018), Belgium joined a multinational effort to acquire a European multinational fleet of Airbus multirole tanker\u2013transport (MRTT) aircraft. At a signing ceremony at NATO Headquarters in Brussels, Defence Ministers from Belgium, Germany, Luxembourg, the Netherlands and Norway celebrated Belgium\u2019s official accession to this effort.\n\nThe initiative has been supported by NATO and the European Union. It is an example of effective cooperation between the two organizations when delivering critical capabilities for its members.\n\nDeputy Secretary General Rose Gottemoeller said: \u201cIncreasing our ability to keep our planes flying - for longer periods and farther distances - has a direct bearing on our ability to defend our citizens and our territories.\u201d\n\nThe project was launched in July 2016 through an order of two Airbus A330 MRTT aircraft by the Netherlands and Luxembourg, and has expanded steadily. With Belgium joining, the multinational fleet will now grow to eight aircraft, which are scheduled for delivery between 2020 and 2024. The aircraft can be configured for air-to-air refuelling, the transport of passengers and cargo, as well as medical evacuation missions. The multinational fleet will be operated from a Main Operating Base in Eindhoven (Netherlands) and a Forward Operating Base in Cologne (Germany).\n\nThis multinational fleet arrangement will substantially increase European capacity in air-to-air refueling and reduce the over-reliance on the United States in this area. It remains open to other participants."
+}

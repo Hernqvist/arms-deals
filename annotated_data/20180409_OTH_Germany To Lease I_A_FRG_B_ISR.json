@@ -1,0 +1,78 @@
+{
+  "filename": "20180409_OTH_Germany To Lease I_A_FRG_B_ISR",
+  "labels": [
+    {
+      "end": 137,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The German Ministry of Defense is looking to reviving a multi-billion dollar deal for leasing Israel-built unmanned aerial vehicles (UAV)"
+    },
+    {
+      "end": 30,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The German Ministry of Defense"
+    },
+    {
+      "end": 10,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "German"
+    },
+    {
+      "end": 76,
+      "start": 56,
+      "tag": "Price",
+      "text": "multi-billion dollar"
+    },
+    {
+      "end": 100,
+      "start": 94,
+      "tag": "Seller",
+      "text": "Israel"
+    },
+    {
+      "end": 137,
+      "start": 107,
+      "tag": "Weapon",
+      "text": "unmanned aerial vehicles (UAV)"
+    },
+    {
+      "end": 100,
+      "start": 94,
+      "tag": "Seller Country",
+      "text": "Israel"
+    },
+    {
+      "end": 445,
+      "start": 354,
+      "tag": "Answer",
+      "text": "including a deal to lease five Heron-PT UAVs made by Israel Aerospace Industries Ltd. (IAI)"
+    },
+    {
+      "end": 384,
+      "start": 380,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 398,
+      "start": 385,
+      "tag": "Weapon",
+      "text": "Heron-PT UAVs"
+    },
+    {
+      "end": 438,
+      "start": 407,
+      "tag": "Seller",
+      "text": "Israel Aerospace Industries Ltd"
+    },
+    {
+      "end": 413,
+      "start": 407,
+      "tag": "Seller Country",
+      "text": "Israel"
+    }
+  ],
+  "text": "The German Ministry of Defense is looking to reviving a multi-billion dollar deal for leasing Israel-built unmanned aerial vehicles (UAV), after the Budget Committee in the German Parliament decided to postpone the acquisition in June 2017.\n\nThe ministry is soon expected to request for a 1-billion-euro ($1.11 billion) funding package for the military, including a deal to lease five Heron-PT UAVs made by Israel Aerospace Industries Ltd. (IAI).\n\nThe contract \u201cis likely to be signed in the coming weeks,\u201d German parliament member Fritz Felgentreu, responsible for defense affairs in the German Social Democratic Party, told Globes.\n\nThe sources in Berlin told Defense News that the German Ministry of Defense's request for approval of the UAV deal could be approved soon. Government sources who favor the deal are stressing the argument that Germany's friendship with Israel should guide the decision-making process, and this consideration carries weight in the Bundestag.\n\nUnder the program, the UAVs will be stationed in Israel under the management of the military wing of Airbus, at least in the first stage. The UAVs are initially designated for intelligence missions, such as aerial photography and surveillance of enemy forces. At a later stage, they are also likely to be used to attack ground targets, including targeted killings.\n\nThe UAVs are due to become available to the German army starting at the end of 2019."
+}

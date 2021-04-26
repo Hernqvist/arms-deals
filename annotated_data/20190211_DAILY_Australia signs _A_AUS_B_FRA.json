@@ -1,0 +1,66 @@
+{
+  "filename": "20190211_DAILY_Australia signs _A_AUS_B_FRA",
+  "labels": [
+    {
+      "end": 435,
+      "start": 294,
+      "tag": "Answer",
+      "text": "The federal government announced the signing of the Attack class submarine Strategic Partnering Agreement with French shipbuilder Naval Group"
+    },
+    {
+      "end": 316,
+      "start": 294,
+      "tag": "Buyer",
+      "text": "The federal government"
+    },
+    {
+      "end": 411,
+      "start": 405,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 435,
+      "start": 424,
+      "tag": "Seller",
+      "text": "Naval Group"
+    },
+    {
+      "end": 368,
+      "start": 346,
+      "tag": "Weapon",
+      "text": "Attack class submarine"
+    },
+    {
+      "end": 551,
+      "start": 438,
+      "tag": "Answer",
+      "text": "Defence and Naval Group officials have been locked in negotiations for several years to produce the 12 submarines"
+    },
+    {
+      "end": 445,
+      "start": 438,
+      "tag": "Buyer",
+      "text": "Defence"
+    },
+    {
+      "end": 461,
+      "start": 450,
+      "tag": "Seller",
+      "text": "Naval Group"
+    },
+    {
+      "end": 540,
+      "start": 538,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 551,
+      "start": 541,
+      "tag": "Weapon",
+      "text": "submarines"
+    }
+  ],
+  "text": "Sydney: After several years of negotiations, officials will on Monday sign an agreement for the construction of the Australian Navy's fleet of new submarines.\n\nMinister for Defence Christopher Pyne during a visit to the submarine construction yard at Osborne, Adelaide in December. Credit:AAP\n\nThe federal government announced the signing of the Attack class submarine Strategic Partnering Agreement with French shipbuilder Naval Group.\n\nDefence and Naval Group officials have been locked in negotiations for several years to produce the 12 submarines.\n\nIn December there were reports the $50 billion project could arrive late and cost millions more than expected."
+}

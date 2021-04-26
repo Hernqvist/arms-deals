@@ -9,11 +9,10 @@ class LinearRepeat(nn.Module):
     super(LinearRepeat, self).__init__()
     self.repeats = repeats
     self.out_features = out_features
-    self.weights = Parameter(torch.randn((in_features*repeats, repeats*out_features)))
+    self.linear = nn.Linear(in_features, repeats*out_features)
 
   def forward(self, x):
-    y = x.repeat(1, 1, self.repeats)
-    y = torch.matmul(y, self.weights)
+    y = self.linear(x)
     y = torch.reshape(y, (*(y.size()[:-1]), self.repeats, self.out_features))
     return y
 
