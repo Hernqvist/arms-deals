@@ -1,0 +1,378 @@
+{
+  "filename": "20180719_DEFWEB_CHI and CAM sig_A_CAM_B_CHI",
+  "labels": [
+    {
+      "end": 145,
+      "start": 0,
+      "tag": "Answer",
+      "text": "China and Cameroon have signed a military assistance agreement that includes China providing $8 million for the acquisition of military equipment"
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Seller",
+      "text": ""
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Seller Country",
+      "text": ""
+    },
+    {
+      "end": 18,
+      "start": 10,
+      "tag": "Buyer",
+      "text": "Cameroon"
+    },
+    {
+      "end": 18,
+      "start": 10,
+      "tag": "Buyer Country",
+      "text": "Cameroon"
+    },
+    {
+      "end": 82,
+      "start": 77,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 82,
+      "start": 77,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 103,
+      "start": 93,
+      "tag": "Price",
+      "text": "$8 million"
+    },
+    {
+      "end": 145,
+      "start": 127,
+      "tag": "Weapon",
+      "text": "military equipment"
+    },
+    {
+      "end": 1466,
+      "start": 1338,
+      "tag": "Answer",
+      "text": "Cameroon\u2019s armed forces have acquired a variety of weaponry from China, including infantry fighting vehicles and tank destroyers"
+    },
+    {
+      "end": 1361,
+      "start": 1338,
+      "tag": "Buyer",
+      "text": "Cameroon\u2019s armed forces"
+    },
+    {
+      "end": 1346,
+      "start": 1338,
+      "tag": "Buyer Country",
+      "text": "Cameroon"
+    },
+    {
+      "end": 1408,
+      "start": 1403,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1408,
+      "start": 1403,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 1446,
+      "start": 1420,
+      "tag": "Weapon",
+      "text": "infantry fighting vehicles"
+    },
+    {
+      "end": 1466,
+      "start": 1451,
+      "tag": "Weapon",
+      "text": "tank destroyers"
+    },
+    {
+      "end": 1840,
+      "start": 1468,
+      "tag": "Answer",
+      "text": "Since 2010 Cameroon has received from China two P-108 patrol craft, two MA60 twin turboprop aircraft, 50 FN-16 surface-to-air missile launchers, 12 Type-90 (PG-99) 35 mm anti-aircraft guns, two Type-07 armoured personnel carriers, 18 Type-07P/VN-1 infantry fighting vehicles, 12 WMA-301 Assaulter armoured combat vehicles, two P-108 patrol craft and four Z-9WE helicopters"
+    },
+    {
+      "end": 1478,
+      "start": 1474,
+      "tag": "Date",
+      "text": "2010"
+    },
+    {
+      "end": 1487,
+      "start": 1479,
+      "tag": "Buyer",
+      "text": "Cameroon"
+    },
+    {
+      "end": 1487,
+      "start": 1479,
+      "tag": "Buyer Country",
+      "text": "Cameroon"
+    },
+    {
+      "end": 1511,
+      "start": 1506,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1511,
+      "start": 1506,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 1515,
+      "start": 1512,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1539,
+      "start": 1536,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1572,
+      "start": 1570,
+      "tag": "Quantity",
+      "text": "50"
+    },
+    {
+      "end": 1615,
+      "start": 1613,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 1661,
+      "start": 1658,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1701,
+      "start": 1699,
+      "tag": "Quantity",
+      "text": "18"
+    },
+    {
+      "end": 1746,
+      "start": 1744,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 1794,
+      "start": 1791,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1822,
+      "start": 1818,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1534,
+      "start": 1516,
+      "tag": "Weapon",
+      "text": "P-108 patrol craft"
+    },
+    {
+      "end": 1568,
+      "start": 1540,
+      "tag": "Weapon",
+      "text": "MA60 twin turboprop aircraft"
+    },
+    {
+      "end": 1611,
+      "start": 1573,
+      "tag": "Weapon",
+      "text": "FN-16 surface-to-air missile launchers"
+    },
+    {
+      "end": 1656,
+      "start": 1616,
+      "tag": "Weapon",
+      "text": "Type-90 (PG-99) 35 mm anti-aircraft guns"
+    },
+    {
+      "end": 1697,
+      "start": 1662,
+      "tag": "Weapon",
+      "text": "Type-07 armoured personnel carriers"
+    },
+    {
+      "end": 1742,
+      "start": 1702,
+      "tag": "Weapon",
+      "text": "Type-07P/VN-1 infantry fighting vehicles"
+    },
+    {
+      "end": 1789,
+      "start": 1747,
+      "tag": "Weapon",
+      "text": "WMA-301 Assaulter armoured combat vehicles"
+    },
+    {
+      "end": 1813,
+      "start": 1795,
+      "tag": "Weapon",
+      "text": "P-108 patrol craft"
+    },
+    {
+      "end": 1840,
+      "start": 1823,
+      "tag": "Weapon",
+      "text": "Z-9WE helicopters"
+    },
+    {
+      "end": 2241,
+      "start": 1986,
+      "tag": "Answer",
+      "text": "Other arms suppliers to Cameroon include the United States, South Africa, Spain, Serbia, Russia, Israel and France, which have supplied armoured vehicles, transport and combat helicopters, mortars, unmanned aerial vehicles and light and transport aircraft"
+    },
+    {
+      "end": 2018,
+      "start": 2010,
+      "tag": "Buyer",
+      "text": "Cameroon"
+    },
+    {
+      "end": 2018,
+      "start": 2010,
+      "tag": "Buyer Country",
+      "text": "Cameroon"
+    },
+    {
+      "end": 2045,
+      "start": 2031,
+      "tag": "Seller",
+      "text": "United States,"
+    },
+    {
+      "end": 2045,
+      "start": 2031,
+      "tag": "Seller Country",
+      "text": "United States,"
+    },
+    {
+      "end": 2058,
+      "start": 2046,
+      "tag": "Seller",
+      "text": "South Africa"
+    },
+    {
+      "end": 2058,
+      "start": 2046,
+      "tag": "Seller Country",
+      "text": "South Africa"
+    },
+    {
+      "end": 2065,
+      "start": 2060,
+      "tag": "Seller",
+      "text": "Spain"
+    },
+    {
+      "end": 2065,
+      "start": 2060,
+      "tag": "Seller Country",
+      "text": "Spain"
+    },
+    {
+      "end": 2073,
+      "start": 2067,
+      "tag": "Seller",
+      "text": "Serbia"
+    },
+    {
+      "end": 2073,
+      "start": 2067,
+      "tag": "Seller Country",
+      "text": "Serbia"
+    },
+    {
+      "end": 2081,
+      "start": 2075,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2081,
+      "start": 2075,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 2089,
+      "start": 2083,
+      "tag": "Seller",
+      "text": "Israel"
+    },
+    {
+      "end": 2089,
+      "start": 2083,
+      "tag": "Seller Country",
+      "text": "Israel"
+    },
+    {
+      "end": 2100,
+      "start": 2094,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 2100,
+      "start": 2094,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 2139,
+      "start": 2122,
+      "tag": "Weapon",
+      "text": "armoured vehicles"
+    },
+    {
+      "end": 2173,
+      "start": 2155,
+      "tag": "Weapon",
+      "text": "combat helicopters"
+    },
+    {
+      "end": 2182,
+      "start": 2175,
+      "tag": "Weapon",
+      "text": "mortars"
+    },
+    {
+      "end": 2208,
+      "start": 2184,
+      "tag": "Weapon",
+      "text": "unmanned aerial vehicles"
+    },
+    {
+      "end": 2241,
+      "start": 2223,
+      "tag": "Weapon",
+      "text": "transport aircraft"
+    }
+  ],
+  "text": "China and Cameroon have signed a military assistance agreement that includes China providing $8 million for the acquisition of military equipment.\n\nCameroon\u2019s Ministry of Defence on 18 July said the Chinese Ambassador to Cameroon, Wang Yingwu on behalf of the Chinese government and Cameroon\u2019s Minister of Defence Beti Assomo Joseph signed an agreement on military assistance in the Hall of Acts of the ministry of defence.\n\n\u201cBilateral military cooperation is being reinforced once more between the government of Cameroon and the People\u2019s Republic of China as the Chinese Ambassador to Cameroon Wang Yingwu and the Minister Delegate at the Presidency in Charge of Defence signed a convention worth 4.5 billion francs CFA [$7.9 million] to assist the Cameroon defence forces acquire some military equipment,\u201d the Ministry said.\n\nIt added that the objective of the agreement is to promoting peace and security in Cameroon particularly as the country is facing numerous threats as emphasized by Yingwu.\n\n\u201cIt should be recalled that this is the 5th time the People\u2019s Republic of China is exhibiting a benevolent gesture to the Cameroon Defence Forces. This convention merely comes to reaffirm the fruitful bilateral military cooperation existing between Beijing and Yaounde not only security wise but in diverse domains,\u201d the Ministry said.\n\nCameroon\u2019s armed forces have acquired a variety of weaponry from China, including infantry fighting vehicles and tank destroyers. Since 2010 Cameroon has received from China two P-108 patrol craft, two MA60 twin turboprop aircraft, 50 FN-16 surface-to-air missile launchers, 12 Type-90 (PG-99) 35 mm anti-aircraft guns, two Type-07 armoured personnel carriers, 18 Type-07P/VN-1 infantry fighting vehicles, 12 WMA-301 Assaulter armoured combat vehicles, two P-108 patrol craft and four Z-9WE helicopters that can be armed with Red Arrow-8 missiles, according to the Stockholm International Peace Research Institute\u2019s arms transfers database.\n\n\n\n\n\n\n\nOther arms suppliers to Cameroon include the United States, South Africa, Spain, Serbia, Russia, Israel and France, which have supplied armoured vehicles, transport and combat helicopters, mortars, unmanned aerial vehicles and light and transport aircraft."
+}

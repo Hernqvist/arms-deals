@@ -284,6 +284,384 @@
     "text": "Make informed decisions with the FT\n\nKeep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust."
   },
   {
+    "filename": "20180719_DEFWEB_CHI and CAM sig_A_CAM_B_CHI",
+    "labels": [
+      {
+        "end": 145,
+        "start": 0,
+        "tag": "Answer",
+        "text": "China and Cameroon have signed a military assistance agreement that includes China providing $8 million for the acquisition of military equipment"
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Seller",
+        "text": ""
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Seller Country",
+        "text": ""
+      },
+      {
+        "end": 18,
+        "start": 10,
+        "tag": "Buyer",
+        "text": "Cameroon"
+      },
+      {
+        "end": 18,
+        "start": 10,
+        "tag": "Buyer Country",
+        "text": "Cameroon"
+      },
+      {
+        "end": 82,
+        "start": 77,
+        "tag": "Seller",
+        "text": "China"
+      },
+      {
+        "end": 82,
+        "start": 77,
+        "tag": "Seller Country",
+        "text": "China"
+      },
+      {
+        "end": 103,
+        "start": 93,
+        "tag": "Price",
+        "text": "$8 million"
+      },
+      {
+        "end": 145,
+        "start": 127,
+        "tag": "Weapon",
+        "text": "military equipment"
+      },
+      {
+        "end": 1466,
+        "start": 1338,
+        "tag": "Answer",
+        "text": "Cameroon\u2019s armed forces have acquired a variety of weaponry from China, including infantry fighting vehicles and tank destroyers"
+      },
+      {
+        "end": 1361,
+        "start": 1338,
+        "tag": "Buyer",
+        "text": "Cameroon\u2019s armed forces"
+      },
+      {
+        "end": 1346,
+        "start": 1338,
+        "tag": "Buyer Country",
+        "text": "Cameroon"
+      },
+      {
+        "end": 1408,
+        "start": 1403,
+        "tag": "Seller",
+        "text": "China"
+      },
+      {
+        "end": 1408,
+        "start": 1403,
+        "tag": "Seller Country",
+        "text": "China"
+      },
+      {
+        "end": 1446,
+        "start": 1420,
+        "tag": "Weapon",
+        "text": "infantry fighting vehicles"
+      },
+      {
+        "end": 1466,
+        "start": 1451,
+        "tag": "Weapon",
+        "text": "tank destroyers"
+      },
+      {
+        "end": 1840,
+        "start": 1468,
+        "tag": "Answer",
+        "text": "Since 2010 Cameroon has received from China two P-108 patrol craft, two MA60 twin turboprop aircraft, 50 FN-16 surface-to-air missile launchers, 12 Type-90 (PG-99) 35 mm anti-aircraft guns, two Type-07 armoured personnel carriers, 18 Type-07P/VN-1 infantry fighting vehicles, 12 WMA-301 Assaulter armoured combat vehicles, two P-108 patrol craft and four Z-9WE helicopters"
+      },
+      {
+        "end": 1478,
+        "start": 1474,
+        "tag": "Date",
+        "text": "2010"
+      },
+      {
+        "end": 1487,
+        "start": 1479,
+        "tag": "Buyer",
+        "text": "Cameroon"
+      },
+      {
+        "end": 1487,
+        "start": 1479,
+        "tag": "Buyer Country",
+        "text": "Cameroon"
+      },
+      {
+        "end": 1511,
+        "start": 1506,
+        "tag": "Seller",
+        "text": "China"
+      },
+      {
+        "end": 1511,
+        "start": 1506,
+        "tag": "Seller Country",
+        "text": "China"
+      },
+      {
+        "end": 1515,
+        "start": 1512,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 1539,
+        "start": 1536,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 1572,
+        "start": 1570,
+        "tag": "Quantity",
+        "text": "50"
+      },
+      {
+        "end": 1615,
+        "start": 1613,
+        "tag": "Quantity",
+        "text": "12"
+      },
+      {
+        "end": 1661,
+        "start": 1658,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 1701,
+        "start": 1699,
+        "tag": "Quantity",
+        "text": "18"
+      },
+      {
+        "end": 1746,
+        "start": 1744,
+        "tag": "Quantity",
+        "text": "12"
+      },
+      {
+        "end": 1794,
+        "start": 1791,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 1822,
+        "start": 1818,
+        "tag": "Quantity",
+        "text": "four"
+      },
+      {
+        "end": 1534,
+        "start": 1516,
+        "tag": "Weapon",
+        "text": "P-108 patrol craft"
+      },
+      {
+        "end": 1568,
+        "start": 1540,
+        "tag": "Weapon",
+        "text": "MA60 twin turboprop aircraft"
+      },
+      {
+        "end": 1611,
+        "start": 1573,
+        "tag": "Weapon",
+        "text": "FN-16 surface-to-air missile launchers"
+      },
+      {
+        "end": 1656,
+        "start": 1616,
+        "tag": "Weapon",
+        "text": "Type-90 (PG-99) 35 mm anti-aircraft guns"
+      },
+      {
+        "end": 1697,
+        "start": 1662,
+        "tag": "Weapon",
+        "text": "Type-07 armoured personnel carriers"
+      },
+      {
+        "end": 1742,
+        "start": 1702,
+        "tag": "Weapon",
+        "text": "Type-07P/VN-1 infantry fighting vehicles"
+      },
+      {
+        "end": 1789,
+        "start": 1747,
+        "tag": "Weapon",
+        "text": "WMA-301 Assaulter armoured combat vehicles"
+      },
+      {
+        "end": 1813,
+        "start": 1795,
+        "tag": "Weapon",
+        "text": "P-108 patrol craft"
+      },
+      {
+        "end": 1840,
+        "start": 1823,
+        "tag": "Weapon",
+        "text": "Z-9WE helicopters"
+      },
+      {
+        "end": 2241,
+        "start": 1986,
+        "tag": "Answer",
+        "text": "Other arms suppliers to Cameroon include the United States, South Africa, Spain, Serbia, Russia, Israel and France, which have supplied armoured vehicles, transport and combat helicopters, mortars, unmanned aerial vehicles and light and transport aircraft"
+      },
+      {
+        "end": 2018,
+        "start": 2010,
+        "tag": "Buyer",
+        "text": "Cameroon"
+      },
+      {
+        "end": 2018,
+        "start": 2010,
+        "tag": "Buyer Country",
+        "text": "Cameroon"
+      },
+      {
+        "end": 2045,
+        "start": 2031,
+        "tag": "Seller",
+        "text": "United States,"
+      },
+      {
+        "end": 2045,
+        "start": 2031,
+        "tag": "Seller Country",
+        "text": "United States,"
+      },
+      {
+        "end": 2058,
+        "start": 2046,
+        "tag": "Seller",
+        "text": "South Africa"
+      },
+      {
+        "end": 2058,
+        "start": 2046,
+        "tag": "Seller Country",
+        "text": "South Africa"
+      },
+      {
+        "end": 2065,
+        "start": 2060,
+        "tag": "Seller",
+        "text": "Spain"
+      },
+      {
+        "end": 2065,
+        "start": 2060,
+        "tag": "Seller Country",
+        "text": "Spain"
+      },
+      {
+        "end": 2073,
+        "start": 2067,
+        "tag": "Seller",
+        "text": "Serbia"
+      },
+      {
+        "end": 2073,
+        "start": 2067,
+        "tag": "Seller Country",
+        "text": "Serbia"
+      },
+      {
+        "end": 2081,
+        "start": 2075,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 2081,
+        "start": 2075,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 2089,
+        "start": 2083,
+        "tag": "Seller",
+        "text": "Israel"
+      },
+      {
+        "end": 2089,
+        "start": 2083,
+        "tag": "Seller Country",
+        "text": "Israel"
+      },
+      {
+        "end": 2100,
+        "start": 2094,
+        "tag": "Seller",
+        "text": "France"
+      },
+      {
+        "end": 2100,
+        "start": 2094,
+        "tag": "Seller Country",
+        "text": "France"
+      },
+      {
+        "end": 2139,
+        "start": 2122,
+        "tag": "Weapon",
+        "text": "armoured vehicles"
+      },
+      {
+        "end": 2173,
+        "start": 2155,
+        "tag": "Weapon",
+        "text": "combat helicopters"
+      },
+      {
+        "end": 2182,
+        "start": 2175,
+        "tag": "Weapon",
+        "text": "mortars"
+      },
+      {
+        "end": 2208,
+        "start": 2184,
+        "tag": "Weapon",
+        "text": "unmanned aerial vehicles"
+      },
+      {
+        "end": 2241,
+        "start": 2223,
+        "tag": "Weapon",
+        "text": "transport aircraft"
+      }
+    ],
+    "text": "China and Cameroon have signed a military assistance agreement that includes China providing $8 million for the acquisition of military equipment.\n\nCameroon\u2019s Ministry of Defence on 18 July said the Chinese Ambassador to Cameroon, Wang Yingwu on behalf of the Chinese government and Cameroon\u2019s Minister of Defence Beti Assomo Joseph signed an agreement on military assistance in the Hall of Acts of the ministry of defence.\n\n\u201cBilateral military cooperation is being reinforced once more between the government of Cameroon and the People\u2019s Republic of China as the Chinese Ambassador to Cameroon Wang Yingwu and the Minister Delegate at the Presidency in Charge of Defence signed a convention worth 4.5 billion francs CFA [$7.9 million] to assist the Cameroon defence forces acquire some military equipment,\u201d the Ministry said.\n\nIt added that the objective of the agreement is to promoting peace and security in Cameroon particularly as the country is facing numerous threats as emphasized by Yingwu.\n\n\u201cIt should be recalled that this is the 5th time the People\u2019s Republic of China is exhibiting a benevolent gesture to the Cameroon Defence Forces. This convention merely comes to reaffirm the fruitful bilateral military cooperation existing between Beijing and Yaounde not only security wise but in diverse domains,\u201d the Ministry said.\n\nCameroon\u2019s armed forces have acquired a variety of weaponry from China, including infantry fighting vehicles and tank destroyers. Since 2010 Cameroon has received from China two P-108 patrol craft, two MA60 twin turboprop aircraft, 50 FN-16 surface-to-air missile launchers, 12 Type-90 (PG-99) 35 mm anti-aircraft guns, two Type-07 armoured personnel carriers, 18 Type-07P/VN-1 infantry fighting vehicles, 12 WMA-301 Assaulter armoured combat vehicles, two P-108 patrol craft and four Z-9WE helicopters that can be armed with Red Arrow-8 missiles, according to the Stockholm International Peace Research Institute\u2019s arms transfers database.\n\n\n\n\n\n\n\nOther arms suppliers to Cameroon include the United States, South Africa, Spain, Serbia, Russia, Israel and France, which have supplied armoured vehicles, transport and combat helicopters, mortars, unmanned aerial vehicles and light and transport aircraft."
+  },
+  {
     "filename": "20180613_DAILY_DRDO technology _A_IND_B_RUS",
     "labels": [
       {
@@ -5148,6 +5526,162 @@
     "text": "Austal has welcomed an announcement by Prime Minister Malcolm Turnbull and Timor-Leste leader Mari Alkatiri that the South-East Asia country intends to take another two of the Perth-based shipbuilder\u2019s Guardian Class pacific patrol boats.\n\nThe order would increase total production of the boats to 21 from the 19 already committed to early last year in a contract worth $305 million.\n\nThe announcement was made at this year\u2019s Asia-Pacific Regional Conference in Perth, attended by both prime ministers over the weekend, and followed a visit to Austal\u2019s patrol boat facility.\n\n\u201cThe PPB program is intended to aid regional security in the South Pacific by helping to secure the Timor-Leste maritime border and represents an example of defence diplomacy fostering close relations between countries in the Asia-Pacific,\u201d Austal chief executive David Singleton said.\n\n\u201cThe first of the current order of Guardian Class patrol boats is already well into its construction phase and is running on time and on budget.\n\n\u201cThe Guardian Class patrol boat project at Austal is supporting 200 direct jobs and a further 200 indirect jobs in the broader industry.\n\n\u201cThis is in addition to several hundred more jobs supported by a large commercial export ship currently being built in the Henderson yard.\n\n\u201cWe are working on other export opportunities for the Guardian Class patrol boat thereby helping Australia sustain its sovereign naval shipbuilding industry which has already delivered over 40 patrol boats to international customers.\u201d"
   },
   {
+    "filename": "20180810_DEFWEB_Egypt received _A_EGY_B_RUS",
+    "labels": [
+      {
+        "end": 87,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Egypt\u2019s military has taken delivery of at least 12 Ka-52 attack helicopters from Russia"
+      },
+      {
+        "end": 16,
+        "start": 0,
+        "tag": "Buyer",
+        "text": "Egypt\u2019s military"
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Buyer Country",
+        "text": ""
+      },
+      {
+        "end": 50,
+        "start": 48,
+        "tag": "Quantity",
+        "text": "12"
+      },
+      {
+        "end": 75,
+        "start": 51,
+        "tag": "Weapon",
+        "text": "Ka-52 attack helicopters"
+      },
+      {
+        "end": 87,
+        "start": 81,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 87,
+        "start": 81,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 320,
+        "start": 197,
+        "tag": "Answer",
+        "text": "Last year Russian Helicopters General Manager Andrei Boginsky said 15 Ka-52s would be delivered to Egypt by the end of 2017"
+      },
+      {
+        "end": 258,
+        "start": 207,
+        "tag": "Seller",
+        "text": "Russian Helicopters General Manager Andrei Boginsky"
+      },
+      {
+        "end": 266,
+        "start": 264,
+        "tag": "Quantity",
+        "text": "15"
+      },
+      {
+        "end": 273,
+        "start": 267,
+        "tag": "Weapon",
+        "text": "Ka-52s"
+      },
+      {
+        "end": 301,
+        "start": 296,
+        "tag": "Buyer",
+        "text": "Egypt"
+      },
+      {
+        "end": 301,
+        "start": 296,
+        "tag": "Buyer Country",
+        "text": "Egypt"
+      },
+      {
+        "end": 214,
+        "start": 207,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 320,
+        "start": 316,
+        "tag": "Date",
+        "text": "2017"
+      },
+      {
+        "end": 611,
+        "start": 536,
+        "tag": "Answer",
+        "text": "In 2015 Egypt agreed to acquire 46 conventional Ka-52 Alligator helicopters"
+      },
+      {
+        "end": 543,
+        "start": 539,
+        "tag": "Date",
+        "text": "2015"
+      },
+      {
+        "end": 549,
+        "start": 544,
+        "tag": "Buyer",
+        "text": "Egypt"
+      },
+      {
+        "end": 549,
+        "start": 544,
+        "tag": "Buyer Country",
+        "text": "Egypt"
+      },
+      {
+        "end": 570,
+        "start": 568,
+        "tag": "Quantity",
+        "text": "46"
+      },
+      {
+        "end": 611,
+        "start": 584,
+        "tag": "Weapon",
+        "text": "Ka-52 Alligator helicopters"
+      },
+      {
+        "end": 846,
+        "start": 778,
+        "tag": "Answer",
+        "text": "Egypt is also looking to acquire navalised Ka-52K Katran helicopters"
+      },
+      {
+        "end": 783,
+        "start": 778,
+        "tag": "Buyer",
+        "text": "Egypt"
+      },
+      {
+        "end": 846,
+        "start": 811,
+        "tag": "Weapon",
+        "text": "navalised Ka-52K Katran helicopters"
+      },
+      {
+        "end": 783,
+        "start": 778,
+        "tag": "Buyer Country",
+        "text": "Egypt"
+      }
+    ],
+    "text": "Egypt\u2019s military has taken delivery of at least 12 Ka-52 attack helicopters from Russia.\n\nRecent satellite imagery has shown 12 of the helicopters at Katameya International Airport outside Cairo.\n\nLast year Russian Helicopters General Manager Andrei Boginsky said 15 Ka-52s would be delivered to Egypt by the end of 2017 and another 31 would arrive over the next two years.\n\nThe first three Egyptian Ka-52s were handed over in mid-2017 and used for pilot training \u2013 30 pilots and 70 technicians underwent training in Russia last year.\n\nIn 2015 Egypt agreed to acquire 46 conventional Ka-52 Alligator helicopters. The first, seen in desert camouflage, was spotted at the Progress engine factory in June 2017. AT-9 and AT-16 missiles have been acquired for the rotorcraft.\n\n\n\n\n\n\n\nEgypt is also looking to acquire navalised Ka-52K Katran helicopters."
+  },
+  {
     "filename": "20180309_DEFWEB_NIG get 2 more _A_NIG_B_FRA",
     "labels": [
       {
@@ -5638,6 +6172,11 @@
     "text": "Source: Xinhua| 2018-12-25 18:46:46|Editor: zh\n\nVideo Player Close\n\nCHENGDU, Dec. 25 (Xinhua) -- The producer of China's domestically-developed Wing Loong on Tuesday delivered the 100th unmanned aerial system (UAS) for export.\n\nThe state-owned Aviation Industry Corporation of China (AVIC) started to export the Wing Loong series of aircraft in 2010. The aircraft has been widely used in anti-terrorist operations, security patrols and aerial detection.\n\n\"The aircraft marks the transformation of China's aviation equipment from manned to unmanned, entering the world's high-end drone market,\" said Tan Ruisong, chairman of AVIC.\n\nThe company on Sunday launched the Wing Loong I-D, the latest member of the UAS family. It said the 30-minute maiden flight was successful. The fuselage of new model is completely built with composite material.\n\nThe Wing Loong UAS series is developed by the Chengdu Aircraft Design and Research Institute under AVIC in southwest China's Sichuan Province."
   },
   {
+    "filename": "20180927_OTH_Sri Lanka Air Forc_A_SRI_B_UK",
+    "labels": [],
+    "text": "The main hangar situated near the entrance, has a collection of vintage aircraft used by the SLAF since its inception. Some of these flying legends have been fully restored to flying condition by a dedicated team of engineers and technicians. The venerable De Havilland Tiger Moth and the Chipmunk TMK.10 are two of the many exhibits. Also included in the collection are two light aircraft manufactured by S.L.A.F. engineers. Four more hangars, each housing aircraft, picture galleries, vehicles, equipment, arms, ordinance, uniforms and even a mini-cinema make up the rest of the museum's indoor attractions. The car used by the former Commander Air Chief Marshal Harry Goonetileke and the armored limousine used by the former President His Excellency R. Premadasa are two exhibits which have a special historic importance."
+  },
+  {
     "filename": "20180525_OTH_ Pakistan Air Forc_A_PAK_B_SWE",
     "labels": [],
     "text": "We use cookies to offer you a better website experience, analyze site traffic, personalize content and serve targeted advertisements. Read about how we use cookies and how you can control them."
@@ -5752,6 +6291,11 @@
   },
   {
     "filename": "20181000_SCRAM_Ukraine_A_UKR_B_USA",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
+    "filename": "20180600_SCRAM_Algeria_A_ALG_B_ITA",
     "labels": [],
     "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
   },
@@ -8918,6 +9462,108 @@
     "text": "India is planning a digital firewall against China. It has stopped short of banning Chinese telecom equipment. However, now, a new policy is in the works that would make it harder for Chinese companies such as Huawei and ZTE to do business in India."
   },
   {
+    "filename": "20181128_DAILY_Taiwan plans pur_A_TAI_B_USA",
+    "labels": [
+      {
+        "end": 199,
+        "start": 23,
+        "tag": "Answer",
+        "text": "Taiwan\u2019s military has abandoned its plan to buy a number of F-35 fighter jets from the U.S., and will instead continue to consider a potential purchase of 66 F-16V fighter jets"
+      },
+      {
+        "end": 40,
+        "start": 23,
+        "tag": "Buyer",
+        "text": "Taiwan\u2019s military"
+      },
+      {
+        "end": 29,
+        "start": 23,
+        "tag": "Buyer Country",
+        "text": "Taiwan"
+      },
+      {
+        "end": 100,
+        "start": 83,
+        "tag": "Weapon",
+        "text": "F-35 fighter jets"
+      },
+      {
+        "end": 114,
+        "start": 110,
+        "tag": "Seller",
+        "text": "U.S."
+      },
+      {
+        "end": 114,
+        "start": 110,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 180,
+        "start": 178,
+        "tag": "Quantity",
+        "text": "66"
+      },
+      {
+        "end": 199,
+        "start": 181,
+        "tag": "Weapon",
+        "text": "F-16V fighter jets"
+      },
+      {
+        "end": 1200,
+        "start": 1033,
+        "tag": "Answer",
+        "text": "The Taiwan Government is expected to request a quote for the 66 proposed F-16V fighters, with the U.S. expected to confirm price and availability in the middle of 2019"
+      },
+      {
+        "end": 1054,
+        "start": 1033,
+        "tag": "Buyer",
+        "text": "The Taiwan Government"
+      },
+      {
+        "end": 1043,
+        "start": 1037,
+        "tag": "Buyer Country",
+        "text": "Taiwan"
+      },
+      {
+        "end": 1096,
+        "start": 1094,
+        "tag": "Quantity",
+        "text": "66"
+      },
+      {
+        "end": 1120,
+        "start": 1107,
+        "tag": "Weapon",
+        "text": "-16V fighters"
+      },
+      {
+        "end": 1135,
+        "start": 1131,
+        "tag": "Seller",
+        "text": "U.S."
+      },
+      {
+        "end": 1135,
+        "start": 1131,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 1200,
+        "start": 1196,
+        "tag": "Date",
+        "text": "2019"
+      }
+    ],
+    "text": "TAIPEI (Taiwan News) \u2013 Taiwan\u2019s military has abandoned its plan to buy a number of F-35 fighter jets from the U.S., and will instead continue to consider a potential purchase of 66 F-16V fighter jets, reports suggest.\n\nUDN reported rumors suggesting that the fleet of F-5 fighter jets at Zhi-Hang Air Base in Taitung County will be retired and replaced by 66 F-16V jets to strengthen the region\u2019s defense against Chinese warships and other threats.\n\nThe Taiwan military began investigating the potential F16-V purchase in August, and the Ministry of National Defense hopes to request a prospective quote from the U.S. by the end of the year, reports suggest.\n\nThe U.S. is open to the possibility of licensing to Taiwan the intellectual property and production line expertise relative to F-16V production, posing an opportunity for Taiwanese industry development and employment, reports suggest.\n\nAir Force Command Headquarters told UDN that any potential weapon procurement is judged against enemy capability and operational needs.\n\nThe Taiwan Government is expected to request a quote for the 66 proposed F-16V fighters, with the U.S. expected to confirm price and availability in the middle of 2019. This would then lead to payments taking place through the Ministry of National Defence's budget for 2020.\n\nAccording to international prices, the sale of 66 F-16V fighters would amount to around US$10 billion (NT$308.98 billion). The price would be greater if Taiwan was to manufacturer the jet in Taiwan, reported UDN.\n\nIn January 2017, the Taiwan Air Force began to upgrade its existing fleet of 145 F-16A/B fighters at a total cost of NT$110 billion (US$3.46 billion). The first of these upgraded fighters took to the skies in Oct. 2010, with the project expected to be completed before 2022."
+  },
+  {
     "filename": "20180724_DN_France to hand off ",
     "labels": [],
     "text": "PARIS \u2014 The French Armed Forces Minister called July 23 for industry to play a greater role in servicing heavily used military vehicles, with companies called to support 40 percent of the mixed fleet by the middle of the next decade.\n\nSpeaking at Bruz, a base for vehicle support in western France, Minister Florence Parly said the service goal compares to the present 15 percent, with a target of 2025.\n\nThe minister announced a \u201ctransformation plan\u201d for vehicle support based on an official report by defense procurement official Vincent Imbert and Army Gen. Bernard Guillet.\n\n\"The improvement of our maintenance process and availability of our equipment is one of my priorities,\u201d she said.\n\nThat call for greater support reflects problems in servicing a highly mixed fleet, including new-generation armored vehicles to be delivered in the Scorpion program, modern VBCI infantry fighting vehicles and Caesar truck-mounted artillery, and an aging park of VAB troop carriers and VBL scout cars.\n\nThe plan seeks to boost the availability of vehicles by restructuring the industrial and technological base for service, boost a sense of responsibility of the personnel using the vehicles, and reshaping links between the armed forces and industry, the ministry said in a briefing note. There are also plans to increase local support in the deployed theaters and adopt new technology in monitoring and predicting breakdowns.\n\nThere is a high availability of more than 90 percent for vehicles in overseas operations, but those vehicles return to France in poor condition, with only 65 percent of the various fleets available for use once back on national territory, the ministry said. That availability varies greatly depending on the type of vehicle.\n\nThat means there is a lack of vehicles for training troops for deployment. Some 3,500 vehicles are broken down and there is a lack of capability to reduce that number. The British and German forces face similar problems, with lower availability and lack of an organization to improve the situation, the ministry said.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nThe modernization plan calls for closer ties between government maintenance organizations, the armed forces and manufacturers including Arquus, Nexter, Safran and Thales, as well as specialist NSE and small- and medium-sized enterprises, the ministry said. Those actors should use more efficient tools and methods, and cut out duplication and waste of resources and time.\n\nA French military modernization program is getting a makeover Scorpion is seen as more than just bringing in new vehicles and equipment, as the French Army is rewriting the concept of operations to adapt to new technology.\n\nThe official report pointed up a \u201clack of sense of responsibility\u201d of the users as the vehicles are held in pools rather than assigned specifically, a contrast to an attachment of Air Force and Navy personnel who are closely tied to their aircraft and ships.\n\nCompanies showed a weak link with service support in the land sector, also in contrast to ties seen between industry and the naval and aeronautical sectors, the report said.\n\nThere should be greater use of new technology, adopting 3D printing and the use of health and usage monitoring systems (HUMS) to predict breakdowns, the report said. Development under the Scorpion program offered industry an opportunity not to be missed to incorporate such technology.\n\nThe report called for equipment which was beyond repair to be handed over to industry to repair and resell, with the money to be shared between the government and industry.\n\n\"This reform requires a mobilization and a greater responsibility of industry in their performance and their capacity to honor the client\u2019s needs, whose objective is both to be effective on the ground and to guarantee the safety of soldiers,\u201d Parly said.\n\nSome 13,000 personnel are employed on vehicle service, with 11,000 in the armed forces. The balance is split between two government organizations \u2014 SMITer and SIMMT. The latter awards service contracts to companies.\n\nSome \u20ac1 billion (US $1.2 billion) has been earmarked for land vehicle service in the 2019-2015 defense budget law."
@@ -10083,6 +10729,11 @@
     "filename": "20180511_OTH_Thai\u2013Cambodian f",
     "labels": [],
     "text": "Author: Nicole Jenne, Pontifical Catholic University of Chile\n\nIn March 2018, Cambodia and Thailand announced plans for several joint initiatives relating to trans-border movements, including a deal on exchanging fugitives, including exiled political figures. The move comes as both governments show increasingly authoritarian tendencies. But though the deal was hailed by its protagonists as beginning a new era of cooperation, the agreement to hunt down political refugees \u2014 if implemented at all \u2014 will not dramatically change relations between the two countries.\n\nIn the week of 19 March, Cambodia\u2019s Deputy Prime Minister and Minister of National Defence, Tea Banh, travelled to Bangkok to co-chair the 13th meeting of the Cambodian\u2013Thai General Border Committee. Besides meeting his Thai counterpart Prawit Wongsuwon, Banh visited Thai Prime Minister Prayuth Chan-o-cha on the latter\u2019s birthday on 21 March. Banh\u2019s meeting with Prayuth attracted considerably more attention than that of the General Border Committee, a two-decade-old dialogue mechanism that has yet to impress with substantial results.\n\nBanh and Prayuth announced a deal to exchange fugitives and \u2018monitor individuals who escape the law by crossing the border\u2019. \u2018Fugitives\u2019 likely refer to exiled members of the political opposition from the respective countries. After the coup in Thailand in 2014, over 100 Thai nationals sought refuge in Cambodia, many to avoid lengthy prison sentences under the country\u2019s harsh lese-majeste law. Thailand, in turn, has hosted at least dozens of Cambodia\u2019s ex-opposition party members since the Cambodian National Rescue Party (CNRP) was dissolved in November 2017.\n\nThe new deal places the exiled opposition from both countries in an even more precarious situation. Only a few days after the agreement was made public, the Phnom Penh Post reported that vehicles from the Royal Cambodian Armed Forces (RCAF) had been stationed near the Bangkok homes of ex-CNRP members. Phnom Penh justified the presence of the vehicles by saying that the RCAF only operate in Bangkok in cooperation with Thai authorities to tackle transnational crime.\n\nBut recent trends indicate that crime suppression can serve as a cover for politically motivated charges. Both the regimes in Cambodia and Thailand are increasingly repressive and share an interest in preventing the political opposition from organising abroad. For Prime Minister Hun Sen and his ruling Cambodian People\u2019s Party (CPP), this is especially relevant ahead of the country\u2019s general elections in July this year.\n\nA case that set a potential precedent earlier in 2018 involved the extradition of a Cambodian labour activist from Thailand in what was a violation of customary international law. The same international law principles also apply under an extradition agreement signed between the two countries in 2011. Accordingly, forced return is permissible only if the crime for which extradition is sought exists in both countries. Extradition needs to be rejected if there is reason to believe that the request is politically motivated.\n\nIn 2009, it was on these grounds that Cambodia rejected a request by the then Democratic Party government to extradite former Thai prime minister Thaksin Shinawatra. The rejection came just a week after Hun Sen appointed Thaksin as his economic advisor. Under Thaksin, Thailand and Cambodia had forged closer business ties, and Thaksin and Hun Sen developed a close relationship. But after Thaksin\u2019s ouster in the 2006 coup, bilateral relations deteriorated as a result of conflict at the border near the Preah Vihear temple.\n\nWith the regime change in Bangkok in 2014, it is even clearer that reciprocity and political favours weigh more than legal commitments. In the wake of the CPP\u2019s uncomfortably narrow victory in the 2013 elections, Phnom Penh sought international allies and reached out to the newly installed military government in Bangkok. Banh assured Prayuth as early as 2014 that \u2018Cambodia has no policy to allow anyone to use its land to operate against Thailand\u2019.\n\nIn this sense, the agreement in March to exchange fugitives is a formalisation of developments already underway. All the same, the deal is unlikely to bring about substantial changes. Political alliances based on a common enemy are usually of limited duration. In contrast to positive cooperation for a common good, negative cooperation against a threat tends to aim to do the bare minimum. Such joint security measures have limited objectives and are rarely adopted as part of a larger reform package that would induce a qualitative shift in bilateral relations.\n\nThe agreement to exchange fugitives fails to address the range of issues that have led to uneasy relations between Cambodia and Thailand. These include unresolved border disputes, such as the pending implementation of the International Court of Justice\u2019s 2013 ruling on the border near Preah Vihear. Disagreements also cover the growing role of China in Southeast Asia \u2014 particularly in Cambodia \u2014 as well as several transnational issues such as labour migration, smuggling and illegal logging.\n\nIn contrast, the General Border Committee meeting appeared to make some headway in improving cross-border mobility through the creation of several new permanent border gates. If implemented, these measures may facilitate trade and better regulation of illegal crossings. Unlike the authoritarian extradition deal, they could lead to a real improvement in bilateral relations.\n\nNicole Jenne is Assistant Professor at the Institute of Political Science, Pontifical Catholic University of Chile. Follow her on Twitter at @nicjenne."
+  },
+  {
+    "filename": "20190206_OTH_Mobile Rocket Laun_A_BF",
+    "labels": [],
+    "text": "Download any size at one price\n\nCredits are good for up to one year"
   },
   {
     "filename": "20180529_OTH_Uganda air force-H_A_UGA_B_USA",
@@ -11620,6 +12271,16 @@
       }
     ],
     "text": "G\u00d6TTINGEN \u2014 The German armed forces plan to lease advanced Israeli UAVs, Defence Minister Ursula von der Leyen said Tuesday.\n\nIn a statement, she pointed out that the inspector general of the Bundeswehr has decided to rent the drone Heron TP, manufactured by the Israeli company IAI, to protect German soldiers in deployments overseas. The German Army already uses the smaller predecessor drone Heron 1 for years in Afghanistan with good results.\n\nAccording to the minister, the leasing contract is intended to bridge the period until 2025 when a new European combat drone will enter service. Last year, Germany, France, Italy and Spain agreed to build such an UAV. In this project Germany wants to take the lead role.\n\nThe lease of three to five Heron TPs will cost roughly \u20ac600 million (US $650 million), with the deployment's start scheduled for 2018, government sources disclosed. The contract is to be concluded by the end of this year. Apparently, the UAVs are to be stationed initially in Israel for training purposes, but a relocation to an air base in northern Germany is planned in the long run. However, in case of problems with the registration, a deployment in Israel seems to be possible.\n\nHeron TP is considered a MALE drone (Medium Altitude, Long Endurance) for reconnaissance tasks and can be armed when needed, which is not possible for Heron 1. The partner for the Bundeswehr is primarily Airbus Defence and Space, the company operates and maintains the aircraft. With the Israeli manufacturer IAI, Airbus has completed a so-called teaming agreement without establishing a new company.\n\nAccording to sources in the Bundestag, Germany's lower house of parliament, a major reason for the Heron TP's selection was Israelis' willingness to give Germany a deep insight into the drone's technology . \"All the technical information we might need, was promised to us\", said a well-informed person linked to the Social Democrats of the Bundestag. According to the source, the Israelis also assured that the know-how could be used for the development of a European drone. IAI sees the Bundeswehr as an important reference customer for Heron TP drone, and the state of Israel is backing the deal, the person said. So far this UAV is only in use by the Israeli Defense Forces.\n\nAnother argument for Heron TP is its significantly faster availability in comparison to a procurement of US model Predator, insiders said. The technical resemblance of Heron 1 and Heron TP should also facilitate the training of operating personnel.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nNevertheless, with the selection of the Israeli aircraft the Bundeswehr goes a special path, as British, French, Italians, Dutch and Spanish opted for US drones produced by General Atomics. In case of problems with logistics, maintenance or operations Germany can't tap resources of European partners.\n\nAccording to media reports, it is currently being discussed to arm the Heron TP with the air-to-ground missile Brimstone from European manufacturer MBDA, which was confirmed by well-informed sources. Britain has used the weapon already in Libya and Iraq. The German Air Force checks apparently procurement of this missile for its Typhoon Eurofighters. However, IAI should have a say in the selection, as the Israelis would have to disclose their interface for the integration of weapons. Brimstone is manufactured by MBDA UK.\n\nAs of November, the Heron 1 UAVs had logged more than 25,000 flight hours in Afghanistan, Airbus announced. In its contracts, the Bundeswehr acquired a guaranteed number of flying hours of this aircraft type from Airbus. In addition to the maintenance, staff from Airbus is responsible even for takeoffs and landings of the Heron 1. A contract for Heron TP could look similar."
+  },
+  {
+    "filename": "20180320_OTH_What is Behind Bru",
+    "labels": [],
+    "text": "Advertisement\n\nOn March 10, Brunei\u2019s defense ministry officially confirmed the country\u2019s new proposed defense budget for this year. Though the budget allocation does amount to a double-digit hike over the previous year, that hike is worth keeping in perspective given previous drastic cuts to the defense budget as well as lingering economic challenges that the Southeast Asian state continues to face.\n\nAs I have noted before, Brunei\u2019s defense budget has come under growing strain over the past few years due to broader economic challenges. The tiny, oil-rich sultanate is highly dependent on the energy sector \u2013 with oil and gas accounting for over 70 percent of the country\u2019s nominal GDP and almost all of its exports, by one estimate. Declining energy prices have put pressure on government finances, resulting in rising deficits and multiple years of negative growth. The defense budget has been significantly affected, with more modest increases and some large double-digit cuts.\n\nLast week, Brunei\u2019s defense ministry confirmed that the country\u2019s defense budget had been set at just over 492.75 million Brunei dollars (US$375 million). The new figure constitutes an increase of about 12.9 percent over the previous year. And in his remarks to Brunei\u2019s 14th Legislative Council, Brunei\u2019s Minister of Defense II, Pehin Datu Lailaraja Major General (Rtd) Dato Paduka Seri Haji Awang Halbi bin Haji Mohd Yussof, eloquently reiterated the importance of defense in terms of the country\u2019s broader goals, including preserving the country\u2019s security and achieving its much-ballyhooed Wawasan 2035 vision.\n\nYet the hike ought to be kept in perspective. The BN$492.75 million figure is an increase from the previous year but still remains far below the BN$719.15 million figure from 2014 before a couple of drastic cuts. A major cut in 2015 of around 25 percent was followed by a modest increase and then another drastic 20 percent cut the following year. And as I hinted at above, the increasing pressures on the defense budget were also not all visible in terms of an observed decrease in numbers, thanks to shifts in components of the budget and other workarounds.\n\nDiplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter\n\nOf course, this is not to suggest that this year\u2019s modest increase does not represent a gain or sorts, or that we are seeing a complete overhaul of Brunei\u2019s defense priorities. Indeed, the seven areas that the minister mentioned in his remarks \u2013 protecting its territorial integrity; preserving a high level of preparedness and readiness; supporting a \u201cwhole of nation\u201d approach; conducting effective defense diplomacy; involvement in international missions; sustaining high standards in terms of human resource capacity; and maintaining a respectable and credible image for the country\u2019s defense organization \u2013 were quite familiar.\n\nEnjoying this article? Click here to subscribe for full access. Just $5 a month.\n\nBut it is to reinforce the point that the real question, as ever, remains the extent to which Brunei is able to attain these priorities and what tradeoffs it will need to make to ensure that this occurs. The answers to that question have more to do with individual decisions Brunei makes on its own and with its partners, rather than just a statistic about the rises and falls in its defense budgets."
+  },
+  {
+    "filename": "20180222_DAILY_Missile defence ",
+    "labels": [],
+    "text": "While China has opposed the recently announced US Nuclear Posture Review of 2018 it has not been remiss in developing its nuclear arsenal both quantitatively and qualitatively. Towards the end of January China tested a DF-5C intercontinental ballistic missile equipped with 10 multiple independently targetable reentry vehicles (MIRVs). This was a quantum jump from the three warheads of the earlier version DF-5B missile.Earlier in November China conducted two flight tests of a new missile DF-17 that was attached to a hypersonic glide vehicle (HGV). China has been the first to conduct such tests even though the US and Russia have been working on the same. The HGV can reach a speed of Mach 5 plus speeds thus capable of delivering nuclear warheads at the target in a matter of minutes.While this has implications for the US it would also impact India\u2019s evolving nuclear deterrence capabilities that are being built around boosting its missile defence and strike capabilities.Towards the end of 2017 India conducted its third interceptor missile test to enhance its Ballistic Missile Defence (BMD) capabilities. On January 18, this was further supplemented by India successfully conducting a pre-induction test of Agni-V intercontinental ballistic missile which has a range of 5000 kilometers. Both tests were designed to develop and strengthen the credibility of India\u2019s nuclear deterrent.The BMD test was part of phase two of the ongoing development of India\u2019s two layered BMD system wherein Advanced Air Defence interceptor missile takes on the incoming ballistic missiles in the endo-atmosphere up to low altitudes of 20 to 40 kilometers. The phase one included testing and development of Prithvi Air Defence Missile (PAD) Interceptor and Prithvi Defence Vehicle (PDV) designed for intercepting enemy missiles at exo-atmospheric high altitudes of 50\u2013150 kilometers. Phase 2 is intended to give India capabilities in the class of the US Terminal High Altitude Area Defence (THAAD).The second phase was to be completed by 2016 giving India the technical capability to take on ICBMs with ranges over 5000 kilometers. Apparently, the programme has been somewhat delayed.There has been considerable debate on the value and worth of BMD systems given that such systems can be penetrated by attacking missiles by a variety of means. The missiles are armed with MIRVed warheads enhances the quality of the attack. Similarly, HGVs would be able to confound the BMD systems. Further, low flying Cruise missiles can also penetrate the missile defences though they have limitations of having short ranges.India\u2019s No First Use Doctrine is also a compelling factor to strengthen missile defence capabilities in order to enhance the survivability of its nuclear arsenal. Though there has been some debate on the question of India jettisoning its NFU to overcome the nuclear challenges from Pakistan.China\u2019s evolving BMD capabilities as also technological upgradation of its offensive missiles degrade the value of India\u2019s strategic deterrent against China. While Beijing might avow that their BMD is meant for the U.S. arsenal yet, equally it erodes the value of New Delhi\u2019s nuclear deterrent.If India has to maintain the credibility of minimal nuclear deterrent vis-\u00e0-vis China or for that matter Pakistan then besides strengthening the missile defence India needs to upgrade its strike capabilities. Developing ICBM like AGNI VI with MIRVed warheads is inescapable. While DRDO has been working on developing hypersonic vehicle there have been reports that it may take ten years to conduct a test. Other qualitative improvements of our missiles to beat the adversary\u2019s BMD systems is also an imperative."
   },
   {
     "filename": "20170626_OTH_Russia will finish_A_RUS_B_UKR",
@@ -14388,6 +15049,11 @@
     "text": "MELLS: BAAINBw Procures Additional Guided Missile Systems\n\n(Source: Bundeswehr; issued April 21, 2017)\n\nOn 31 March the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) signed two contracts with EuroSpike GmbH to procure an additional 1,000 guided missiles and 97 launcher units of the MELLS light multi-role guided missile system. MELLS is the German name for the variant of SPIKE missiles and launchers used by the Bundeswehr.\n\n\n\n\u201cMELLS has been used successfully by the units and we are pleased that the supplementary procurement recently ordered will allow us to take the equipment of our servicemen and -women another step forward,\u201d said Michael Engelmann, who signed the contracts on behalf of the government agency in his capacity as Director of Central Affairs at BAAINBw. Managing Directors Uwe Fahrenholz and G\u00fcnter Lauer were present to sign the contracts on behalf of EuroSpike GmbH.\n\n\n\nThe order for supplementary equipment consists of 1,000 guided missiles and 97 launcher units, including support equipment. The order volume of the two contracts amounts to approximately 137 million euros. Standards laid down in the BAAINBw Contract Management Handbook were incorporated into the contracts to minimize the contractual risks for the public purchaser.\n\n\n\nAbout 1,500 guided missiles and 16 MELLS launcher units have already been delivered to the armed forces on the basis of previous contracts. Most of the additional MELLS systems currently ordered are to be delivered to the infantry from the second half of 2018 onwards.\n\n\n\nThe company EuroSpike GmbH based in R\u00f6thenbach acts as the contractor. The system was developed by the Israeli company Rafael Advanced Defense Systems Ltd., which is also involved in the deal as a subcontractor, together with the companies Diehl Defence GmbH & Co. KG and Rheinmetall Defence Electronics GmbH.\n\n\n\nMELLS is a versatile weapon system. The MELLS guided missile can be used against armored ground targets such as main battle tanks at ranges of up to 4,000 meters. Apart from the Bundeswehr, the system is already in service in six other NATO countries and with the Israel Defense Forces.\n\n\n\n-ends-\n\n"
   },
   {
+    "filename": "20190400_SCRAM_Ethiopia Mi-17V-_A_ETH_B_RUS",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20180331_OTH_Myanmar GDF Type-9_A_MYA_B_CHI",
     "labels": [],
     "text": "as u know , our eastern neighbour, Thailand dont have subs till now and just in order. another one is the host for this ex.just kidding. Most likely is that India want to promote their sonar suite and other electronics which are installed in our ships ( in both F14 and OPV ) during this exercise. and also want to show our strong relationship and friend indeed in our hard time. even if this exercise is meant for BD's subs , it would be a very small part in the purpose of this exercise."
@@ -16996,6 +17662,11 @@
     "filename": "20181000_SCRAM_L-410 Russia_A_RUS_B_CZR",
     "labels": [],
     "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
+    "filename": "20180213_OTH_bigger fish to fry",
+    "labels": [],
+    "text": "Background Triangle\n\nHD\u2019s involvement in the South China Sea came about as a result of the claimants acknowledging the immediate need for a parallel framework to minimise recourse to armed violence at sea whilst discussions about resolving the dispute at official fora continued. In 2014, for instance, tensions between Vietnam and China soared due to an incident involving an oil rig in disputed waters, despite the fact that both countries had signed the 2002 Declaration on the Conduct of Parties which committed them to \u201cresolve their territorial and jurisdictional disputes by peaceful means.\u201d Although no lives were lost, one ship was sunk. After consultations in the four capitals, HD secured a mandate and agreed to facilitate informal multilateral dialogues aimed at promoting predictability and reducing tensions in the region, beginning with the first Experts\u2019 Meeting in Singapore, held in June 2015.\n\nSince then, a number of factors have contributed to the increased complexity of the disputes in the South China Sea, not least the Permanent Court of Arbitration\u2019s 2016 ruling in favour of the Philippines against China\u2019s continued developments on land and at sea in the disputed waters."
   },
   {
     "filename": "20180602_OTH_Draken Wins USAF U_A_USA",
