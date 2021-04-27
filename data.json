@@ -4643,6 +4643,294 @@
     "text": "WASHINGTON \u2013 General Dynamics has completed a roughly $9.7 billion acquisition of IT services giant CSRA.\n\nCSRA, the 39th largest defense contractor on the annual Defense News Top 100 list, will now become part of General Dynamics Information Technology. GD came in sixth on the Defense News Top 100, and is now positioned as the prime competitor to Leidos in the government IT services area.\n\n\u201cThe combined CSRA and GDIT offers innovative, competitive and compelling solutions to our customers, and provides attractive free cash flow coupled with good incremental return on capital for investors,\u201d Phebe Novakovic, chairman and chief executive officer of General Dynamics, said in a statement.\n\n\u201cGDIT is positioned to deliver cost-effective, next-generation IT solutions and services to the Department of Defense, the intelligence community and federal civilian agencies as they modernize their information systems.\u201d"
   },
   {
+    "filename": "20180619_DEFWEB_IND refits MAU ",
+    "labels": [
+      {
+        "end": 109,
+        "start": 0,
+        "tag": "Answer",
+        "text": "The Indian Navy has completed the refit of the 32 year old Mauritius Coast Guard service vessel MCGS Guardian"
+      },
+      {
+        "end": 15,
+        "start": 0,
+        "tag": "Seller",
+        "text": "The Indian Navy"
+      },
+      {
+        "end": 10,
+        "start": 4,
+        "tag": "Seller Country",
+        "text": "Indian"
+      },
+      {
+        "end": 80,
+        "start": 59,
+        "tag": "Buyer",
+        "text": "Mauritius Coast Guard"
+      },
+      {
+        "end": 68,
+        "start": 59,
+        "tag": "Buyer Country",
+        "text": "Mauritius"
+      },
+      {
+        "end": 605,
+        "start": 525,
+        "tag": "Answer",
+        "text": "The Guardian was donated to the Mauritius Coast Guard by the Indian Navy in 1993"
+      },
+      {
+        "end": 537,
+        "start": 525,
+        "tag": "Weapon",
+        "text": "The Guardian"
+      },
+      {
+        "end": 578,
+        "start": 553,
+        "tag": "Buyer",
+        "text": "the Mauritius Coast Guard"
+      },
+      {
+        "end": 566,
+        "start": 557,
+        "tag": "Buyer Country",
+        "text": "Mauritius"
+      },
+      {
+        "end": 597,
+        "start": 582,
+        "tag": "Seller",
+        "text": "the Indian Navy"
+      },
+      {
+        "end": 592,
+        "start": 586,
+        "tag": "Seller Country",
+        "text": "Indian"
+      },
+      {
+        "end": 605,
+        "start": 601,
+        "tag": "Date",
+        "text": "1993"
+      },
+      {
+        "end": 109,
+        "start": 81,
+        "tag": "Weapon",
+        "text": "service vessel MCGS Guardian"
+      },
+      {
+        "end": 839,
+        "start": 764,
+        "tag": "Answer",
+        "text": "Mauritius has received two serviceable 3670 HP MTU main engines from Indian"
+      },
+      {
+        "end": 773,
+        "start": 764,
+        "tag": "Buyer",
+        "text": "Mauritius"
+      },
+      {
+        "end": 773,
+        "start": 764,
+        "tag": "Buyer Country",
+        "text": "Mauritius"
+      },
+      {
+        "end": 790,
+        "start": 787,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 827,
+        "start": 803,
+        "tag": "Weapon",
+        "text": "3670 HP MTU main engines"
+      },
+      {
+        "end": 839,
+        "start": 833,
+        "tag": "Seller",
+        "text": "Indian"
+      },
+      {
+        "end": 839,
+        "start": 833,
+        "tag": "Seller Country",
+        "text": "Indian"
+      },
+      {
+        "end": 1708,
+        "start": 1627,
+        "tag": "Answer",
+        "text": "Mauritius will use the money to acquire another offshore patrol vessel from India"
+      },
+      {
+        "end": 1636,
+        "start": 1627,
+        "tag": "Buyer",
+        "text": "Mauritius"
+      },
+      {
+        "end": 1636,
+        "start": 1627,
+        "tag": "Buyer Country",
+        "text": "Mauritius"
+      },
+      {
+        "end": 1697,
+        "start": 1675,
+        "tag": "Weapon",
+        "text": "offshore patrol vessel"
+      },
+      {
+        "end": 1708,
+        "start": 1703,
+        "tag": "Seller Country",
+        "text": "India"
+      },
+      {
+        "end": 1708,
+        "start": 1703,
+        "tag": "Seller",
+        "text": "India"
+      },
+      {
+        "end": 1967,
+        "start": 1803,
+        "tag": "Answer",
+        "text": "the Mauritius Coast Guard\u2019s procurement of 10 fast interceptor boats (FIBs) and two fast attack craft from state-owned Indian shipbuilder Goa Shipyard Limited (GSL)"
+      },
+      {
+        "end": 1828,
+        "start": 1803,
+        "tag": "Buyer",
+        "text": "the Mauritius Coast Guard"
+      },
+      {
+        "end": 1816,
+        "start": 1807,
+        "tag": "Buyer Country",
+        "text": "Mauritius"
+      },
+      {
+        "end": 1848,
+        "start": 1846,
+        "tag": "Quantity",
+        "text": "10"
+      },
+      {
+        "end": 1878,
+        "start": 1849,
+        "tag": "Weapon",
+        "text": "fast interceptor boats (FIBs)"
+      },
+      {
+        "end": 1886,
+        "start": 1883,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 1904,
+        "start": 1887,
+        "tag": "Weapon",
+        "text": "fast attack craft"
+      },
+      {
+        "end": 1928,
+        "start": 1922,
+        "tag": "Seller Country",
+        "text": "Indian"
+      },
+      {
+        "end": 1967,
+        "start": 1941,
+        "tag": "Seller",
+        "text": "Goa Shipyard Limited (GSL)"
+      },
+      {
+        "end": 2321,
+        "start": 2054,
+        "tag": "Answer",
+        "text": "India is a critical supporter of the Mauritian security forces and coast guard. Not only does it play a central role in Mauritian capability-building \u2013 in 2015 it donated an offshore patrol vessel, the Barracuda, and provided it with two surveillance aircraft in 2012"
+      },
+      {
+        "end": 2059,
+        "start": 2054,
+        "tag": "Seller",
+        "text": "India"
+      },
+      {
+        "end": 2059,
+        "start": 2054,
+        "tag": "Seller Country",
+        "text": "India"
+      },
+      {
+        "end": 2116,
+        "start": 2087,
+        "tag": "Buyer",
+        "text": "the Mauritian security forces"
+      },
+      {
+        "end": 2100,
+        "start": 2091,
+        "tag": "Buyer Country",
+        "text": "Mauritian"
+      },
+      {
+        "end": 2183,
+        "start": 2174,
+        "tag": "Buyer",
+        "text": "Mauritian"
+      },
+      {
+        "end": 2183,
+        "start": 2174,
+        "tag": "Buyer Country",
+        "text": "Mauritian"
+      },
+      {
+        "end": 2213,
+        "start": 2209,
+        "tag": "Date",
+        "text": "2015"
+      },
+      {
+        "end": 2250,
+        "start": 2228,
+        "tag": "Weapon",
+        "text": "offshore patrol vessel"
+      },
+      {
+        "end": 2291,
+        "start": 2288,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 2313,
+        "start": 2292,
+        "tag": "Weapon",
+        "text": "surveillance aircraft"
+      },
+      {
+        "end": 2321,
+        "start": 2317,
+        "tag": "Date",
+        "text": "2012"
+      }
+    ],
+    "text": "The Indian Navy has completed the refit of the 32 year old Mauritius Coast Guard service vessel MCGS Guardian.\n\nIn a statement, the Indian Navy said the refurbishment, which began in December 2017, was done at the Naval Dockyard in Mumbai. Major works involved upgrades to the hull, engineering, electrical and weapons systems.\n\nThe Indian Navy said Rear Admiral Superintendent Sandeep Naithani of the dockyard in Mumbai reported that the Guardian has completed all sea trials. It is now due to sail back home to Mauritius.\n\nThe Guardian was donated to the Mauritius Coast Guard by the Indian Navy in 1993. Since then, India has supplied the spares to keep the vessel afloat.\n\nThe boat underwent its first refit carried out by the Indian Navy in 2006. Since then, Mauritius has received two serviceable 3670 HP MTU main engines from Indian to mitigate mechanical problems arising from the ageing of the Guardian.\n\nIn Mauritius, the CGS Guardian primarily works on search and rescue missions as well as surveillance operations over the Exclusive Economic Zone (EEZ). India and Mauritius have a long-standing defence and security relationships that includes Indian training, arming and logistical equipment of the security forces.\n\nIndia is strengthening the naval capabilities of Mauritius and after an official visit by Indian President Ramnath Kovind to Mauritius on 12 March, it was announced that India would provide the island state with an extra $100 million credit line toward military capability-building, as part of the Indian Ocean Region Outreach, which focuses on maritime security, amongst others.\n\nUnder this deal Mauritius will use the money to acquire another offshore patrol vessel from India. This is an extension of a previous $46 million credit line granted in 2014, which had funded the Mauritius Coast Guard\u2019s procurement of 10 fast interceptor boats (FIBs) and two fast attack craft from state-owned Indian shipbuilder Goa Shipyard Limited (GSL).\n\n\n\n\n\n\n\nDefense and naval cooperation is central in the Indian-Mauritian partnership. India is a critical supporter of the Mauritian security forces and coast guard. Not only does it play a central role in Mauritian capability-building \u2013 in 2015 it donated an offshore patrol vessel, the Barracuda, and provided it with two surveillance aircraft in 2012 \u2013 it\u2019s also directly involved in Mauritian defence: it provides military training to Mauritian forces, patrol services in Mauritian waters , and takes part in the command of Mauritian forces."
+  },
+  {
     "filename": "20190401_MOD-USA_Contracts 1 Ap_A_SAU_B_USA",
     "labels": [],
     "text": "Choose which Defense.gov products you want delivered to your inbox."
@@ -6125,6 +6413,144 @@
       }
     ],
     "text": "The German Ministry of Defense is looking to reviving a multi-billion dollar deal for leasing Israel-built unmanned aerial vehicles (UAV), after the Budget Committee in the German Parliament decided to postpone the acquisition in June 2017.\n\nThe ministry is soon expected to request for a 1-billion-euro ($1.11 billion) funding package for the military, including a deal to lease five Heron-PT UAVs made by Israel Aerospace Industries Ltd. (IAI).\n\nThe contract \u201cis likely to be signed in the coming weeks,\u201d German parliament member Fritz Felgentreu, responsible for defense affairs in the German Social Democratic Party, told Globes.\n\nThe sources in Berlin told Defense News that the German Ministry of Defense's request for approval of the UAV deal could be approved soon. Government sources who favor the deal are stressing the argument that Germany's friendship with Israel should guide the decision-making process, and this consideration carries weight in the Bundestag.\n\nUnder the program, the UAVs will be stationed in Israel under the management of the military wing of Airbus, at least in the first stage. The UAVs are initially designated for intelligence missions, such as aerial photography and surveillance of enemy forces. At a later stage, they are also likely to be used to attack ground targets, including targeted killings.\n\nThe UAVs are due to become available to the German army starting at the end of 2019."
+  },
+  {
+    "filename": "20180924_DN_Germany looking to _A_FRG_B_USA",
+    "labels": [
+      {
+        "end": 146,
+        "start": 9,
+        "tag": "Answer",
+        "text": "Germany is looking to sell a secondhand surveillance drone that has cost the country more than 700 million euros ($823 million) to Canada"
+      },
+      {
+        "end": 16,
+        "start": 9,
+        "tag": "Seller",
+        "text": "Germany"
+      },
+      {
+        "end": 16,
+        "start": 9,
+        "tag": "Seller Country",
+        "text": "Germany"
+      },
+      {
+        "end": 67,
+        "start": 49,
+        "tag": "Weapon",
+        "text": "surveillance drone"
+      },
+      {
+        "end": 121,
+        "start": 104,
+        "tag": "Price",
+        "text": "700 million euros"
+      },
+      {
+        "end": 135,
+        "start": 123,
+        "tag": "Price",
+        "text": "$823 million"
+      },
+      {
+        "end": 146,
+        "start": 140,
+        "tag": "Buyer",
+        "text": "Canada"
+      },
+      {
+        "end": 146,
+        "start": 140,
+        "tag": "Buyer Country",
+        "text": "Canada"
+      },
+      {
+        "end": 433,
+        "start": 277,
+        "tag": "Answer",
+        "text": "Germany has decided to \"begin concrete negotiations with Canada for the sale of the Euro Hawk aircraft, two ground stations and possibly certain spare parts"
+      },
+      {
+        "end": 284,
+        "start": 277,
+        "tag": "Seller",
+        "text": "Germany"
+      },
+      {
+        "end": 284,
+        "start": 277,
+        "tag": "Seller Country",
+        "text": "Germany"
+      },
+      {
+        "end": 340,
+        "start": 334,
+        "tag": "Buyer",
+        "text": "Canada"
+      },
+      {
+        "end": 340,
+        "start": 334,
+        "tag": "Buyer Country",
+        "text": "Canada"
+      },
+      {
+        "end": 379,
+        "start": 361,
+        "tag": "Weapon",
+        "text": "Euro Hawk aircraft"
+      },
+      {
+        "end": 400,
+        "start": 385,
+        "tag": "Weapon",
+        "text": "ground stations"
+      },
+      {
+        "end": 384,
+        "start": 381,
+        "tag": "Price",
+        "text": "two"
+      },
+      {
+        "end": 924,
+        "start": 860,
+        "tag": "Answer",
+        "text": "Germany ordered the Northrop Grumman Global Hawk variant in 2000"
+      },
+      {
+        "end": 867,
+        "start": 860,
+        "tag": "Buyer",
+        "text": "Germany"
+      },
+      {
+        "end": 867,
+        "start": 860,
+        "tag": "Buyer Country",
+        "text": "Germany"
+      },
+      {
+        "end": 896,
+        "start": 880,
+        "tag": "Seller",
+        "text": "Northrop Grumman"
+      },
+      {
+        "end": 916,
+        "start": 897,
+        "tag": "Weapon",
+        "text": "Global Hawk variant"
+      },
+      {
+        "end": 924,
+        "start": 920,
+        "tag": "Date",
+        "text": "2000"
+      }
+    ],
+    "text": "BERLIN \u2014 Germany is looking to sell a secondhand surveillance drone that has cost the country more than 700 million euros ($823 million) to Canada \u2014 without many core components it needs to fly.\n\nA defense ministry reply to lawmakers from the opposition Left Party states that Germany has decided to \"begin concrete negotiations with Canada for the sale of the Euro Hawk aircraft, two ground stations and possibly certain spare parts.\"\n\nThe government response, dated Sept. 19 and obtained by The Associated Press, adds that Germany isn't currently in talks with any other country or organization about the sale of the drone.\n\nIn a statement Monday, Germany's defense ministry confirmed talks with Canada were planned, but declined to comment on a possible sales price or date. Officials at the Canadian Embassy in Berlin weren't immediately able to comment.\n\nGermany ordered the Northrop Grumman Global Hawk variant in 2000 to use for long-distance reconnaissance, but later canceled the order because of skyrocketing costs and revelations that the prototype wouldn't be certified to fly in Europe. Then-Defense Minister Thomas de Maiziere acknowledged in 2013 that the drone was a write-off, telling lawmakers it was better to have a \"horrible end than a horror without end.\"\n\nLast year, the government acknowledged that the development and procurement of the prototype, a signals-intelligence sensor called \"ISIS\" and spare parts, and the completion of seven test flights had cost about 681 million euros since 2007. A further 24 million euros were spent on preparing for a resumption of temporary test flights.\n\nAccording to the government's latest response to Left Party lawmakers, which hasn't been published yet, the drone has already been \"demilitarized.\" This entailed the removal of American-made radio equipment, the GPS receiver and aerials, as well as all encryption and the flight control system. Rather than laboriously delete individual software components, technicians chose to perform a \"hardware uninstallation\" \u2014 removing all hard drives containing sensitive U.S.-made software.\n\n\"The question is what a buyer would do with such a gutted aircraft,\" said Thomas Wiegold, a German journalist who runs the defense website Augen Geradeaus . \"Without GPS navigation and in particular without flight control systems, the drone would hardly be able to fly.\"\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nAndrej Hunko, one of the Left Party lawmakers who submitted questions to the government, said the drone now only has \"scrap value.\"\n\n\"The sale will therefore recoup at best a small portion of the tax money spent,\" he said. \"I expect the loss will amount to several hundred million euros (dollars).\""
   },
   {
     "filename": "20180627_OTH_Airbus have sold 2_A_UKR_B_FRG",
@@ -8502,6 +8928,11 @@
     "text": "WASHINGTON \u2014 White House officials are planning to increase military spending for fiscal 2020 by using temporary war funding accounts to get around federal budget caps, a controversial move that could undermine negotiations with lawmakers.\n\nIn an essay for Real Clear Politics on Monday, acting Office of Management and Budget Director Russ Vought wrote that the move is needed because \u201cDemocrats insist on demanding more social spending in exchange for continuing to fund defense spending,\u201d while President Donald Trump has called for cuts.\n\n\u201cExpanding the use of (overseas contingency) funds remains the administration\u2019s only fiscally responsible option in meeting national security needs while avoiding yet another increase to the spending caps,\u201d he wrote.\n\nHe acknowledged that the move is likely to make fiscal conservatives \u201cuncomfortable\u201d but called it necessary given political opposition to Trump\u2019s past fiscal plans.\n\nTrump changes his mind again on military spending, now wants a big boost next year The president is expected this week to announce plans for $750 billion in fiscal 2020 military spending, a huge jump from previous targets.\n\nThe move comes as several lawmakers and budget analysts have pushed for reductions in the temporary war funding accounts, designed to cover only the ongoing operations overseas.\n\nCritics say that because the accounts aren\u2019t affected by congressionally mandated spending caps, they have become a hiding place for a host of desired program resets and expansions by the Pentagon.\n\nThe size of the war accounts has shrunk in recent years, from more than $100 billion in fiscal 2017 to less than $69 billion this fiscal year. Vought did not specify how large the president\u2019s request for fiscal 2020 will be, but Politico reported the fund could top $174 billion.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief - a daily roundup of military and defense news stories from around the globe. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nIn the last few months, Trump has discussed a 5 percent cut for all federal agencies next fiscal year, as well as a $750 billion defense budget, an increase of more than 4 percent. The president and conservative defense lawmakers have argued the money is needed to rebuild military might after more than 17 years of war.\n\nBut congressional Democrats have already panned the military proposal as too high and said that adequate appropriations for the Departments of State and Homeland Security are as critical to national security as Pentagon spending. They have promised to make funding parity a key point of upcoming budget negotiations.\n\nHouse Armed Services Committee Chairman Adam Smith, D-Wash., and House Budget Committee Chairman John Yarmuth, D-Ky., blasted the war funding reports as \u201ca gimmick to prop up defense spending\u201d by the Trump administration.\n\n\u201cThis is nothing more than a blatant attempt to make a mockery of the federal budget process, obscure the true cost of military operations, and severely shortchange other investments vital to our national and economic security,\u201d they said in a statement.\n\nIn the last two fiscal years, lawmakers reached a compromise on defense and non-defense spending levels to avoid spending caps put in place in 2011. But those caps return again next fiscal year and limit defense spending to $576 billion and nondefense spending to $542 billion.\n\nVought said raising the cap for defense spending is necessary but lifting it for the other programs \u201cwould be a bad deal for taxpayers.\u201d He called the national debt a looming crisis for the country.\n\n\u201cIt is time for Congress to join the president in his commitment to cutting spending, reducing bloated deficits, and getting our national debt under control,\u201d he said. \u201cAmerica\u2019s future generations are depending on them.\u201d"
   },
   {
+    "filename": "20150227_DEFWEB_US confirms Eth_A_ETH_B_USA",
+    "labels": [],
+    "text": "A question on a lot of lips is have we managed to achieve the goal of Arresting the Decline of critical defence capabilities as..."
+  },
+  {
     "filename": "20180201_OTH_Defence Budget 201",
     "labels": [],
     "text": "Union Budget for the financial year 2018-19, present by the Finance Minister in the Parliament today, envisaged a total outlay of 24,42,213 crore. Out of this, Rs. 2,95,511.41 crore has been earmarked for Defence. This accounts for 12.10% of the total Central Government expenditure for the year 2018-19.\n\nThe allocation of Rs. 2,95,511.41 crore represents a growth of 7.81% over Budget Estimates (Rs.2,74,114.12 crores) and 5.91% over Revised Estimates (Rs.2,79,003.85 crore), respectively for the financial year 2017-18.\n\nOut of Rs. 2,95,511.41 crore allocated for the financial year 2018-19, Rs. 1,95,947.55 store has been allocated for Revenue (Net) expenditure and Rs. 99,563.86 crore for Capital expenditure. The amount of Rs. 99,563.86 crore, allocated for Capital expenditure , includes modernization related expenditure.\n\nFor Defence Pension which is over and above the outlay mention above , an amount of Rs. 1,08,853.30 crone has been provided in BE 2008-19. This is 26.60% above the BE 17-18 of Rs. 85,740 crone and 14.26% over RE 17-18 of Rs. 95,000 crore."
@@ -9432,6 +9863,11 @@
     "text": "Airbus strives to provide the most efficient helicopter solutions to its customers who serve, protect, save lives and safely carry passengers in demanding environments. Its helicopters are in service across more than 150 countries worldwide, performing nearly every type of vertical flight task imaginable. The company\u2019s product line offers the full spectrum of rotary-wing aircraft solutions for civil, government, military, law enforcement and parapublic uses.\n\nIts civilian helicopters range from the light single-engine H125 to the 11-tonne twin-turbine H225 rotorcraft. Military versions are mission-proven in the most demanding front-line conditions, and are trusted by more than 100 armed forces worldwide.\n\nSafety is at the core of all Airbus\u2019 activities. From design, engineering and production, to maintenance, training and partnerships, Airbus is focused on meeting and exceeding industry safety standards and supporting the flight safety for the thousands of men and women around the world who are transported in its aircraft every day.\n\n"
   },
   {
+    "filename": "20181023_OTH_Azerbaijan to incr",
+    "labels": [],
+    "text": "By Trend\n\nAzerbaijan\u2019s draft state budget for 2019 envisages an increase in the funds allocated for defense purposes.\n\nIn total, it is planned to allocate 3.037 billion manats for military spending.\n\nOut of these funds, it is planned to allocate 1.494 billion manats for defense forces and 156.989 million manats for national security.\n\nThere are plans to allocate 2.8 million manats for carrying out applied research in the field of defense and security, and it is also envisaged to allocate approximately 1.4 billion manats for expenses not related to other categories.\n\nDefense expenditures amount to 2.9 billion manats in 2018.\n\n(1.7 manats = 1 USD on Oct. 23)\n\n---\n\nFollow us on Twitter @AzerNewsAz"
+  },
+  {
     "filename": "20190210_OTH_First CH-47F for t_A_IND_B_USA",
     "labels": [],
     "text": "By: Rajiv Malhotra | Issue: Net Edition | Date: 04 Mar , 2021\n\nWhen I arrived in the United States in the early 1970s, to pursue a PhD in Physics and then shifted to Computer Science, one of the remarkable experiences I had was the extent to which my...\n\nMore"
@@ -9825,6 +10261,84 @@
       }
     ],
     "text": "VICTORIA, British Columbia \u2014 Raytheon Canada Limited has received a contact from the Canadian government worth CN$704 million (U.S. $570 million) to maintain and upgrade the Phalanx Close-In Weapon Systems operated by the Royal Canadian Navy.\n\nThe contract covers 21 such systems.\n\nThe rapid-fire, radar-guided gun system was described by Canadian Defence Minister Harjit Sajjan, in announcing the contract, as the most effective naval self-defense system available against close-in threats such as missiles, small ships and aircraft.\n\n\u201cIt is the last line of defense for the backbone of the Royal Canadian Navy \u2014 the Halifax-class frigate,\u201d he said.\n\nThe CIWS in-service support contract will be valid until late 2037.\n\nThe contract will update all 21 Phalanx CIWS and provide engineering services, project management, support and disposal services, as well as the procurement of spares and test equipment, according to Canada\u2019s Department of National Defence.\n\nA number of the upgrades will center on improvements to the gun\u2019s radar system, a Department of National Defence official said.\n\nThe previous contract to maintain the systems was also with Raytheon Canada and lasted 10 years. The value of that was deal was CN$189 million.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nThe increase in value represents the planned improvements with the radar, the need for more maintenance because of the older nature of the system and the longer period for the maintenance, the department official said.\n\nEach of the 12 Royal Canadian Navy Halifax-class frigates carry a Phalanx CIWS. Others are used for training."
+  },
+  {
+    "filename": "20180927_COMP_Boeing Wins T-X P_A_USA_B_SWE",
+    "labels": [
+      {
+        "end": 62,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Boeing Wins U.S. Air Force T-X Pilot Training Program Contract"
+      },
+      {
+        "end": 6,
+        "start": -1,
+        "tag": "Seller",
+        "text": ""
+      },
+      {
+        "end": 26,
+        "start": 12,
+        "tag": "Buyer",
+        "text": "U.S. Air Force"
+      },
+      {
+        "end": 16,
+        "start": 12,
+        "tag": "Buyer Country",
+        "text": "U.S."
+      },
+      {
+        "end": 53,
+        "start": 27,
+        "tag": "Weapon",
+        "text": "T-X Pilot Training Program"
+      },
+      {
+        "end": 327,
+        "start": 146,
+        "tag": "Answer",
+        "text": "The U.S. Air Force has selected the Boeing T-X advanced pilot training system which features an all-new aircraft designed, developed and flight-tested by the team of Boeing and Saab"
+      },
+      {
+        "end": 318,
+        "start": 312,
+        "tag": "Seller",
+        "text": "Boeing"
+      },
+      {
+        "end": 327,
+        "start": 323,
+        "tag": "Seller",
+        "text": "Saab"
+      },
+      {
+        "end": 188,
+        "start": 182,
+        "tag": "Seller",
+        "text": "Boeing"
+      },
+      {
+        "end": 223,
+        "start": 189,
+        "tag": "Weapon",
+        "text": "T-X advanced pilot training system"
+      },
+      {
+        "end": 164,
+        "start": 146,
+        "tag": "Buyer",
+        "text": "The U.S. Air Force"
+      },
+      {
+        "end": 154,
+        "start": 150,
+        "tag": "Buyer Country",
+        "text": "U.S."
+      }
+    ],
+    "text": "Boeing Wins U.S. Air Force T-X Pilot Training Program Contract\n\n$9.2 billion award funds 351 jets, 46 simulators and associated ground equipment\n\nThe U.S. Air Force has selected the Boeing T-X advanced pilot training system which features an all-new aircraft designed, developed and flight-tested by the team of Boeing and Saab. (Photo: John Parker, Boeing)\n\nST. LOUIS, Sept. 27, 2018 \u2013 U.S. Air Force pilots will soon train for combat with T-X jets and simulators from Boeing [NYSE: BA].\n\n\u201cToday\u2019s announcement is the culmination of years of unwavering focus by the Boeing and Saab team,\u201d said Leanne Caret, president and CEO, Boeing Defense, Space & Security. \u201cIt is a direct result of our joint investment in developing a system centered on the unique requirements of the U.S. Air Force. We expect T-X to be a franchise program for much of this century.\u201d\n\nBoeing and its risk-sharing partner Saab designed, developed, and flight tested two all-new, purpose-built jets \u2015 proving out the system\u2019s design, repeatability in manufacturing and training capability.\n\n\u201cThis selection allows our two companies to deliver on a commitment we jointly made nearly five years ago,\u201d said H\u00e5kan Buskhe, president and CEO of Saab. \u201cIt is a major accomplishment for our partnership with Boeing and our joint team, and I look forward to delivering the first trainer aircraft to the Air Force.\u201d\n\nBoeing is now clear to begin placing orders with its suppliers, including Saab. More than 90 percent of Boeing\u2019s offering will be made in America, supporting more than 17,000 jobs in 34 states.\n\nSaab serves the global market with world-leading products, services and solutions within military defense and civil security. Saab has operations and employees on all continents around the world. Through innovative, collaborative and pragmatic thinking, Saab develops, adopts and improves new technology to meet customers\u2019 changing needs.\n\nFor more information on Defense, Space & Security, visit www.boeing.com. Follow us on Twitter: @BoeingDefense and @BoeingSpace.\n\n# # #\n\nContact:\n\nRachelle Lockhart\n\nDefense, Space & Security\n\nOffice: +1 314-232-4170\n\nMobile: +1 314-420-8374\n\nrachelle.lockhart@boeing.com\n\nKelly Kaplan\n\nDefense, Space & Security\n\nOffice: +1 703-414-6158\n\nMobile: +1 832-284-2188\n\nkelly.g.kaplan@boeing.com\n\nAnn Wolgers\n\nSaab Press Officer\n\nPress Centre: +46 (0)734 180 018\n\nMobile: +46 (0) 73 418 70 52\n\npresscentre@saabgroup.com"
   },
   {
     "filename": "20171107_DAILY_China supports D_A_PAP_B_CHI",
@@ -11889,6 +12403,11 @@
     "text": "LONDON \u2015 Britain\u2019s defense secretary has put at least a \u00a33 billion-a-year (U.S. $4 billion) price tag on the value of the country\u2019s close military relationship with the US, but conceded that the arrangement was priceless to the government.\n\n\u201cWe benefit massively from our relationship with the U.S. I said you couldn\u2019t actually put a price on it, but when you look at [it] in terms of the benefits we get on a yearly basis I think we would benefit to the tune of a very minimum of \u00a33 billion, and that is taking a very conservative approach,\u201d Gavin Williamson told the parliamentary Defence Committee on Tuesday.\n\nWilliamson said the benefits came in \u201cterms of technology, in terms of joint programs working together. Quite frankly we would always struggle to put that level of investment into a program if we wanted to bring it to fruition, so we are a massive beneficiary of this relationship.\u201d\n\nThe remarks come as the committee concluded an inquiry into British relations with the U.S. and NATO. The findings of the report are expected to be published in the next few months.\n\nThe defense secretary earlier in the day announced the Ministry of Defence had on May 21 hosted a meeting with the U.S. Defense Innovation Board in London aimed at sharing, among other things, innovation priorities.\n\nBritain\u2019s relationship with the U.S. could take a serious hit, however, should media reports from last week prove true \u2015 that London is considering cutting its pledge to buy 138 Lockheed Martin F-35 fighter jets and instead purchase more of the cheaper Eurofighter Typhoons as part of its defense review, officially known as the Defence Modernisation Programme.\n\nOne British newspaper described the possible move as \u201can epic snub\u201d to Washington.\n\nWilliamson also announced Britain\u2019s investment in the creation of what will be called the AI Lab \u2015 a defense center for artificial intelligence, machine learning and data science based at the MoD\u2019s Defence Science and Technology Laboratory facility in Porton Down, southwest England.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nWith the cash-strapped MoD expected to publish the defense review ahead of the NATO summit in Brussels scheduled for July 11, lawmakers wanted to know whether Washington had voiced an opinion about British defense spending.\n\nWilliamson said the U.S. Defense Department and others in the states had contributed to the defense review, but the subject of money hadn\u2019t been on the agenda formally or informally.\n\n\u201cWhat they have asked is to make sure we have the right capabilities. But we have not had a discussion about defense spending. ... They have put a very high value on the capabilities we have, and they would be very concerned to see that capability eroded,\u201d Williamson told the committee.\n\nThe defense secretary specifically noted \u201cmassive ticket items that the U.S. sees as pivotal for the defense and security of NATO members\u201d:\n\nRapid deployment of troops as part of NATO.\n\nSpecial forces.\n\nThe new Queen Elizabeth-class aircraft carrier battle group.\n\n\n\nThe nuclear deterrent.\n\n\n\nCountering the uptick in Russian submarine activity in the North Atlantic.\n\n\n\nWilliamson also mentioned the Royal Navy\u2019s mine-hunting capabilities and said Britain is a world leader in terms of technological development done in partnership with the U.S., asserting that in some cases the U.S. is further behind Britain.\n\nUnder the Obama administration, senior U.S. military and diplomatic figures voiced concern over Britain\u2019s declining defense capabilities as spending slipped close to falling below the NATO-set spending target of 2 percent of gross domestic product.\n\n\u201cThey [the U.S. administration] recognize that our commitment to 2 percent is something to be praised and is an important signal to other European nations to be spending at that same level,\u201d Williamson said.\n\nEarlier this month, Woody Johnson, the U.S. ambassador in London, urged Britain to increase its defense spending.\n\n\n\nThe Defence Modernisation Programme is meant to prioritize British capabilities and programs, in part to reflect the rapidly changing threat posed by Russia and others since the Strategic Defence and Security Review was published in 2015.\n\nThe MoD, which is facing a multibillion pound black hole in the defense equipment and other budgets over the next few years, will have to find significant cuts from efficiency gains and other measures to balance the books. The department is also fighting for more money from the Treasury to stave off cuts.\n\nDefense funding problems took a new knock Tuesday when the National Audit Office, a government-spending watchdog, warned that the program to design, build and support nuclear submarines over the next 10 years faces a \u00a36 billion funding gap."
   },
   {
+    "filename": "20170517_OTH_Modi Strategic For",
+    "labels": [],
+    "text": "Advertisement\n\nOn May 26, the BJP government led by Prime Minister Narendra Modi will complete three years in office in India. This is a good time to evaluate the performance of the government including its foreign policy \u2013 just after it has completed half its tenure, and just before it starts gearing up for the next general election.\n\nThe Modi government\u2019s achievements need to be seen in light of the fact that traditionally New Delhi has never publicly asserted \u2013 and arguably, never set for itself \u2013 the hierarchy of long-, medium-, and short-term goals of foreign policy and the instruments to achieve these. Occasionally, some governments have laid down strategy \u2013 for example, PV Narsimha Rao\u2019s \u201cLook East\u201d Policy, IK Gujral\u2019s \u201cGujral Doctrine,\u201d or AB Vajpayee\u2019s vision on nuclear policy \u2013 but an Indian \u201cgrand strategy\u201d has remained conspicuous for its absence. Consequently, Indian foreign policy has often been reactive.\n\nEven the Modi government\u2019s foreign policy was not always proactive during its first year in office. Over time, however, the Modi government has captured the imperatives of geoeconomics and begun laying down a strategic geoeconomic vision for India. While any clear statement of goals and instruments is still absent, the strategic vision can be discerned from some of the Modi government\u2019s policy initiatives. This vision is rooted in India\u2019s concerns over trade, energy security, and the \u201cMake in India\u201d initiative.\n\nOne important pillar of Modi\u2019s foreign policy geoeconomics is the policy of \u201cneighborhood first.\u201d Since the unprecedented invitation by Modi for leaders from South Asia and Mauritius to attend his swearing in ceremony in May 2014, India has strengthened and continued to build its ties with South Asian Association for Regional Cooperation (SAARC) nations. This year on May 5, India launched the \u201cSouth Asia Satellite\u201d with an aim to boost communication services and disaster support in the region. Except for Pakistan, which refused to participate in the project, the launch was cheered by all South Asian nations. The Modi government\u2019s emphasis on regional connectivity is also manifest through a trilateral agreement with Iran and Afghanistan for the development of Chabahar port, as well as the launch of the Bangladesh-Bhutan-India-Nepal (BBIN) Transport Network.\n\nDiplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter\n\nIndia\u2019s relations with Bangladesh are better today than any time in the past; relations with Bhutan and Sri Lanka are also extremely good. The Modi government has made an agreement with Bangladesh for better connectivity between the northeastern states and the Indian mainland. Thus, bus routes linking Kolkata to Agartala and Shilong via Dhaka have started. Again with the exception of Pakistan, relations with which remain strained due to political and security reasons, India\u2019s proactive diplomacy in the immediate neighborhood has been by and large successful.\n\nEnjoying this article? Click here to subscribe for full access. Just $5 a month.\n\nThe Look East Policy, which has been an important facet of India\u2019s foreign policy since the 1990s, was upgraded by the Modi government to Act East in 2014. This second pillar of Modi\u2019s strategic geoeconomic vision is quite closely related to the first. Act East focuses on strengthening ties with the extended neighborhood, particularly in the Asia-Pacific region. Under the Modi government, India has strengthened strategic partnerships with countries like Vietnam, Malaysia, Japan, South Korea, Australia, and Singapore. The share of India\u2019s bilateral trade with ASEAN countries is now almost 10 percent of India\u2019s total trade.\n\nConnectivity is an important facet of Act East, just as it is for India\u2019s neighborhood policy. The northeastern states are the gateways of land connectivity to Southeast Asia. However, poor infrastructure and insurgency have been hindrances to road connectivity in the region. Despite this, India\u2019s trade with Myanmar through the northeast corridor has increased by 86 percent between 2013-14 and 2015-16.\n\nA third important pillar of the Modi government\u2019s strategic geoeconomic vision \u2013 again, closely related to the first two \u2013 is the emphasis on India\u2019s maritime role. Thus, the government has launched Sagarmala, a project that envisages developing a series of ports on both sides of India\u2019s coast. The region has gained importance because of India\u2019s location at the center of global maritime trade routes. India\u2019s foreign policy in the Indian Ocean Region (IOR) received renewed impetus with the setting up of a separate IOR Division under the Ministry of External Affairs in January 2016. The Modi government has strengthened relations with Seychelles and Maldives and launched Project Mausam, a project with soft influence in the region.\n\nAdvertisement\n\nThus, for the first time, a clear geoeconomic strategy is evolving in New Delhi that emphasizes the primacy of the IOR and India\u2019s role as an Indian Ocean regional power. However, the glass is only half full, because the geoeconomic strategy needs to be supplemented by a clear strategic geopolitical vision. The Modi government has yet to do that.\n\nIn the third year of its tenure, the Modi government faces some tough challenges: an unpredictable United States and an aggressive China, volatile U.S.-Russia relations, and closer Russia-China ties. In the 21st century, Indian policy has taken turns between bandwagoning with the United States and maintaining a balance between Washington and Beijing. It is time to assert India\u2019s own role as a major player in international politics, and to lead rather than being led. To achieve this, it is very important to lay down a clear geopolitical strategy. It is also time for India to take a firm position on the political-military implications of China\u2019s Belt and Road Initiative.\n\nWhen foreign policy is driven by the bureaucracy, it tends to be reactive. During the last couple of years, the Modi government has shown it has the political will to drive foreign policy. This has been reflected in India\u2019s geoeconomic endeavors. If the government goes a step further, it can also reflect it its own vision for geopolitics.\n\nUttara Sahasrabuddhe is Professor of International Relations in the University of Mumbai. Chaitanya Mallapur is a Mumbai-based foreign policy analyst."
+  },
+  {
     "filename": "20190111_OTH_Ankara wont buy Pa_A_TUR_B_USA",
     "labels": [
       {
@@ -13476,6 +13995,11 @@
     "text": "Money Minute: How to decide whether to take advantage of a balance transfer\n\nPlay Video"
   },
   {
+    "filename": "20181000_SCRAM_AW-139 deliverie_A_BAN_B_ITA",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20180416_DEFWEB_SEN and IVO buy_A_IVO_B_INS",
     "labels": [
       {
@@ -14137,6 +14661,11 @@
     "text": "Download any size at one price\n\nCredits are good for up to one year"
   },
   {
+    "filename": "20180529_ARMREC_Zala Aero begin_B_RUS",
+    "labels": [],
+    "text": "Zala Aero of Kalashnikov Concern launched the serial production of a new unmanned aerial vehicle, ZALA 421-16Ev2, the Kalashnikov said.\n\n\n\n\" The ZALA 421-16Ev2 has upgraded characteristics. The range of video and data transmission-reception now comprises 120 km and the engagement altitude is 5 km. The new vehicle will replace Zala 421-16E produced since 2014,\" Zala Aero CEO Konstantin Abashkin said.\" (Picture source: Zala Aero)\n\n\"The design of the drone took into account new technological solutions for the use of over 20 types of payload and additional functional capabilities for a drone of the future. The ZALA 421-16Ev2 has upgraded characteristics. The range of video and data transmission-reception now comprises 120 km and the engagement altitude is 5 km. The new vehicle will replace Zala 421-16E produced since 2014,\" Zala Aero CEO Konstantin Abashkin said.\n\nZala 421-16Ev2 has a new type of payload: 60-zoom video optical highly-sensitive camera, heat imager with Isothermal regime, and combined cameras on electromagnetic suspension which allowed increasing the altitude of effective monitoring to 2500 meters.\n\nThe drone integrates super-precision satellite positioning RTK Ready system without adjustment of onboard systems, and a 24-megapixel photo camera with replaceable lenses. New radio channels make ZALA capable of video or infrared real-time shooting along with super-precise positioning which increases operation effectiveness. ZALA 421-16Ev2 has a new type of battery which increased flight duration to 5 hours. Previous ZALA 421-16E payload, catapults and batteries are fully compatible with the new drone.\n\nThe first Zala 421-16Ev2 have been already supplied to the customers. The new drone will be displayed to the public at Russian and foreign shows in summer."
+  },
+  {
     "filename": "20181000_SCRAM_Panama DHC-3_A_PAN",
     "labels": [],
     "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
@@ -14504,6 +15033,11 @@
       }
     ],
     "text": "PARIS \u2014 Naval Group, a French shipbuilder, sought to play down media reports of a potential collapse of talks for a major contract with Australia for 12 ocean-going submarines, with elections looming next year in the Commonwealth nation.\n\n\u201cWe are in the process of pursuing the strategic partnering agreement,\u201d a Naval Group spokesman told Defense News. That agreement covers some 30 years and is an extremely close commitment, he added.\n\n\u201cIt is plain logic that that takes time,\u201d he said. \u201cWe are not particularly worried. We remain confident.\"\n\nNaval Group is working under a 2016 design and mobilization contract on the Australian future submarine program, while negotiating the strategic partnering agreement. The latter is a critical contract which moves the French company closer to building the diesel-electric boats in Adelaide under an Australian $50 billion (U.S. $36 billion) deal.\n\nAustralia officially announces $26B frigate contract. Here are the build details Who's building and contributing what for Australia's Future Frigate, and what technology is involved in the Type 26 design?\n\nThere is concern that failure to reach consensus on intellectual property and warranty conditions have held up a signing of the strategic partnering agreement, with time running out, Australian Broadcasting Corporation reported.\n\n\u201cNegotiations on that document have stalled and it is feared they may not be resolved before next year\u2019s federal election,\u201d ABC reported. Signing the strategic partnering agreement by the end of this year is needed to allow detailed design contracts to be finalized and building of the boats, the broadcaster reported.\n\nIn Australia, Defense Minister Christopher Pyne sought to calm the waters with an Oct. 1 reply on social media.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\n\u201cThere is no delay to the delivery of 12 Future Submarines. Negotiation of strategic partnering agreement is continuing & we will ensure we end up with an equitable & enduring agreement to deliver the capability our servicemen & women need, and get the best deal for Australian taxpayer.\u201d"
+  },
+  {
+    "filename": "20180614_BBC_Why landlocked Eth",
+    "labels": [],
+    "text": "When Eritrea gained independence in 1993, Ethiopia suddenly found itself without a coastline and so it took the logical step of disbanding its navy. Now, it is reconsidering its decision and its latest manoeuvres in the region suggest it could be shopping around its neighbourhood to find a naval base it can use."
   },
   {
     "filename": "20161103_DAILY_Slovak company w_A_SLK_B_AFG",
@@ -15022,6 +15556,84 @@
     "text": "The United States Department of Defence (DoD) has awarded Chemring Sensors and Electronic Systems a $92 million contract for the procurement of Husky mine detection vehicles, which are manufactured in South Africa by DCD Protected Mobility.\n\nOn 15 August the DoD said Chemring Sensors and Electronic Systems Inc of Dulles, Virginia, was awarded a $92 556 056 firm-fixed-price contract to procure Husky Mounted Detection System systems, spare and repair parts. One bid was solicited with one bid received.\n\nThe estimated completion date is 15 August 2022.\n\nThe United States has ordered more than 1 500 Husky vehicles from DCD Protected Mobility and its partners, which include Critical Solutions International (CSI) of Charleston, South Carolina. On 30 March 2017, Critical Solutions International was awarded a $131 946 942 firm-fixed-price, foreign military sales contract for the production of commercial Husky second generation systems as well as spares, equipment and training.\n\nThe vehicles are destined for Egypt, Jordan and Saudi Arabia, and will be delivered by 30 March 2021. DCD said over 20 vehicles are involved in the contract.\n\nOther contracts have since followed \u2013 on 22 March this year Critical Solutions International was awarded a $9 201 176 firm-fixed-price contract for the acquisition of non-commercial Husky M20 interrogation arms to support the Husky 2G vehicle. Estimated completion date is 20 March 2022.\n\nThen on 23 July, Chemring Sensors & Electronic Systems Inc was awarded a $14 339 127 firm-fixed-price contract for engineering changes to the Husky Mounted Detection systems. Work will be performed in Dulles, Virginia, with an estimated completion date of 23 November 2020.\n\nAccording to the Department of Defence National Guard and Reserve Equipment Report for Fiscal Year 2019, published in March 2018, the US Department of Defence will spend $22 920 000 on Huksy Mounted Detection Systems in FY2019.\n\n\n\n\n\n\n\nThe Husky is DCD\u2019s flagship route clearance vehicle, and is able to detect mines at 5km/h-35km/h. It uses metal detectors for metallic mines and ground-penetrating radar for non-metal mines, but can be fitted with various sensors and interrogation arms. The Husky comes in several variants, including the single seat Husky Mk III, second generation two seat Husky 2G and optionally unmanned Autonomous Husky. The vehicle can be fitted with a wide variety of sensors and optional extras, including cameras, mine roller system, cyclone blower, remote weapons station, 360-degree camera system, gunshot detection system and RPG protection nets."
   },
   {
+    "filename": "20180507_DN_France orders anoth",
+    "labels": [
+      {
+        "end": 129,
+        "start": 8,
+        "tag": "Answer",
+        "text": "France is to acquire a fifth Barracuda nuclear attack submarine, the Armed Forces Ministry confirmed in a May 7 statement"
+      },
+      {
+        "end": 14,
+        "start": 8,
+        "tag": "Buyer",
+        "text": "France"
+      },
+      {
+        "end": 14,
+        "start": 8,
+        "tag": "Buyer Country",
+        "text": "France"
+      },
+      {
+        "end": 71,
+        "start": 37,
+        "tag": "Weapon",
+        "text": "Barracuda nuclear attack submarine"
+      },
+      {
+        "end": 119,
+        "start": 114,
+        "tag": "Date",
+        "text": "May 7"
+      },
+      {
+        "end": 554,
+        "start": 407,
+        "tag": "Answer",
+        "text": "The draft 2019-2025 multiyear budget law includes funding for six Barracuda boats, of which four are due to be delivered by 2025, the ministry said"
+      },
+      {
+        "end": 472,
+        "start": 469,
+        "tag": "Quantity",
+        "text": "six"
+      },
+      {
+        "end": 98,
+        "start": 73,
+        "tag": "Buyer",
+        "text": "the Armed Forces Ministry"
+      },
+      {
+        "end": 549,
+        "start": 537,
+        "tag": "Buyer",
+        "text": "the ministry"
+      },
+      {
+        "end": 535,
+        "start": 531,
+        "tag": "Date",
+        "text": "2025"
+      },
+      {
+        "end": 482,
+        "start": 473,
+        "tag": "Weapon",
+        "text": "Barracuda"
+      },
+      {
+        "end": 503,
+        "start": 499,
+        "tag": "Quantity",
+        "text": "four"
+      }
+    ],
+    "text": "PARIS \u2015 France is to acquire a fifth Barracuda nuclear attack submarine, the Armed Forces Ministry confirmed in a May 7 statement.\n\nThe decision was made during a May 2 ministerial investment meeting held by Armed Forces Minister Florence Parly.\n\nAdm. Christophe Prazuck, the French Navy chief of staff, told the parliamentary defense committee in October he expected the fifth boat to be ordered in 2018.\n\nThe draft 2019-2025 multiyear budget law includes funding for six Barracuda boats, of which four are due to be delivered by 2025, the ministry said.\n\nThe Barracuda will be armed with naval cruise missiles and be capable of deploying special forces while underwater."
+  },
+  {
     "filename": "20180221_OTH_Finland Getting Ic",
     "labels": [
       {
@@ -15472,6 +16084,11 @@
       }
     ],
     "text": "Austal today delivered the first Guardian Class Patrol Boat (GCPB) to the Australian Department of Defence and then in a handover ceremony, presented the vessel to the Papua New Guinea (PNG) Government. The \u201cTed Diro\u201d is the first of 21 GCPBs to be gifted to 12 Pacific Island Nations and Timor-Leste under the Commonwealths Pacific Maritime Security Program.\n\nThe Guardian Class Patrol Boat was designed and constructed by Austal Australia for the Commonwealth of Australia's Pacific Patrol Boat Replacement Project, comprising 21 vessels to be delivered to 12 Pacific Island nations and Timor Leste. Image: Austal.\n\n\u201cAustal are proud to deliver this program for the Commonwealth of Australia. The Guardian Class has brought together the industry-leading skills of over 200 Austal employees, and estimated to have employed an additional 200 people indirectly through the design, construction and sustainment process.\n\nThe Guardian Class is the latest evolution of Austal\u2019s proven patrol boat platform that was first introduced some 20 years ago, commencing with the Bay Class Patrol Boat developed for the Australian Customs Service. Since 1998, Austal has delivered 32 patrol boats to the Commonwealth \u2013 representing Australia\u2019s entire border patrol capability. Indeed Austal has delivered or has orders for a total of 97 patrol boats for Australia and around the world.\n\nOver the past six weeks, we have had the Ted Diro crew from the PNG Navy at Austal training on how to use and maintain the new vessels. Their positive feedback on the greater capability, amenity and operability of the Guardian Class has been fantastic. We look forward to show casing the new vessels to the other Pacific Island nations over the life of the 21vessel program through to 2023\u201d. Austal CEO, David Singleton said.\n\n\u201cThis is Austal\u2019s first major ship building program in steel. It is a reflection of the skills, experience and management of the Austal team that, since May 2016 they have developed a brand new production facility at Naval Base in Western Australia, designed a production line process, completed the detailed vessel design and are now delivering the first vessel 30 months later.\u201d\n\n\u201cThe program is now in a full rate of production, with the second vessel, which is destined for Tuvalu, successfully launched on Monday with an additional three vessels in various stages of construction. Austal are already looking at export opportunities for the GCPB\u201d Mr Singleton said.\n\nThe Pacific Patrol Boat contract was awarded to Austal in May 2016 with a contract option in April 2018 taking the program to 21 vessels valued at AU$335 million. The program supports more than 200 direct jobs at Austal and more than a further 200 indirect jobs through the Australian industry involved in the program. Austal has around 1000 employees in Australia directly contributing to delivering a strong domestic and export shipbuilding industry."
+  },
+  {
+    "filename": "20180517_OTH_Houthi Missiles Th_A_YEM-Rebels_B_IRA",
+    "labels": [],
+    "text": "Figure 1: Launch of a Yemeni Burkan 2-H missile on December 19th 2017.\n\nDEN HELDER, Netherlands: The Saudi and US governments have accused Iran of manufacturing ballistic missile used in attacks by Houthis against targets in Saudi Arabia.\n\nThe longest-ranged flights reached Riyadh, a distance of roughly 950 km, with a missile called the Burkan 2-H (Figure 1 above).\n\nIn terms of the physical damage they can cause, these missiles with their 500 kg payload make for a relatively poor weapon. However, their speed makes them difficult to intercept (the flight time is only about nine minutes). The fact the launches are continuing a few years after the start of the conflict, shows that the Saudi-led coalition has not succeeded in interdicting Houthi missiles or destroying them on the ground. Consequently, Saudi civilians as far away from the conflict as Riyadh are not completely safe from Houthi attacks. In a broader context, it is a disturbing development that this sort of weapon is in the hands of a rebel movement fighting a war in the Middle East and aligned with Iran. The Scud is not dead yet.\n\nBut are the Iranians really behind these, or are they modified missiles from North Korean in origin? Visually, the similarities between the Burkan 2-H and the Iranian Qiam-1, which is a development of the Soviet Scud missile, are hard to deny. The missiles have the same configuration with a so-called triconic warhead and without the large stabilizing fins common to other Scud versions. In a briefing on December 14 last year, standing in a DC warehouse in front of debris of a missile recovered in Saudi Arabia, Nikki Haley, the US ambassador to the United Nations, pointed at other similarities such as the location of valves and vents in the tanks. Furthermore, the logo of an Iranian manufacturer was visible on some of the debris.\n\nThe most common version of the Scud, known as the SS-1C Scud-B, had a much shorter range of roughly 300 km with a 990 kg payload. It first flew roughly 70 years ago. It seems surprising that a variant of such an old missile would have the range to reach Riyadh. There has also been speculation that the missiles used against Riyadh are indigenous Yemeni developments of missiles delivered from North Korea.\n\nIn this article I take a closer look at the Burkan 2-H and how its increased performance was achieved. I do this using computer simulations of ballistic missile trajectories, with missile parameters based on properties of the Scud from open sources and an analysis of photographs and a launch video. The simulations confirm the similarities with the Iranian missile: a Scud-variant with the size and initial acceleration of the Burkan 2-H can only fly from Northwest Yemen to Riyadh if it carries as much propellant as the Qiam-1. Other versions of the Scud do not fit the data.\n\nScud missiles were widely exported and formed the starting point for the ballistic missile programs of North Korea and Iran. North-Korean variants include the Hwasong-5, similar to the Scud-B, and the Hwasong-6/Scud-C. The range of the latter has been increased to 500 km, thanks to more propellant, a lighter airframe with a shared bulkhead between the fuel and oxidizer tanks, and a payload reduced to roughly 750 kg. North Korea has built other longer-range Scud versions. A drawing of a missile usually referred to as the Scud-D was uncovered in 1999, when Indian Customs officials inspected the North Korean freighter Kowulsan, believed to be heading for Libya. The drawing shows a longer and heavier missile. In September of 2016, the DPRK launched several Scud-like missiles towards the Sea of Japan. These missiles, known as the Scud-ER, appeared to have a larger diameter than other versions and covered a distance of roughly 1,000 km. Variants of the Hwasong-5 and Hwasong-6 are in service in Iran, where they are known as the Shahab-1 and Shahab-2, respectively. The Qiam-1 is a more advanced version first unveiled in Iran in 2010.\n\nBefore the current civil war, Yemen also received Hwasong-5 and Hwasong-6 missiles from North Korea. Fifteen of these were uncovered in 2002 aboard another North-Korean freighter, the So San. This was intercepted in the Gulf of Aden by the Spanish Navy, but ultimately allowed to continue its journey because there was insufficient legal ground to detain it. Some of the ballistic missiles used by the Houthis likely are of North-Korean origin, but the Hwasong-5 and Hwasong-6 lack the range to reach Riyadh. In 2016 the Yemeni Houthi Ministry of Defense unveiled the Burkan-1, described as being 12.5 m long, with a mass of 8 tons and a range of 800 km with a 500 kg payload. These numbers match the rumored Scud-D.\n\nThe first confirmed attack against Riyadh took place on November fourth last year, when a missile was launched against King Khalid Airport, north of the Saudi capital. On December 19th there was another attack against the city with the missile shown in Figure 1. The next attack, involving multiple missiles, occurred on March 25.\n\nSaudi Arabia has claimed successful intercepts of the incoming missiles using Patriot surface-to-air missiles. Video footage of the March engagement on social media, however, shows one interceptor exploding shortly after launch and another spectacularly veering of course before impacting the ground. Falling debris from the interceptors or the Yemeni missiles, caused at least one fatality. Further missile attacks followed on April 11 and on May 9.\n\nFigure 2 shows a comparison between a Shahab-1, Shahab-2 and the Qiam-1 and Yemeni Burkan 2-H, with estimated tank sizes and lengths. The lengths were found by scaling with the 0.88 m diameter typical for most Scud variants.\n\nExternally the versions can be distinguished by comparing the lengths of the cable raceways that guide wiring past the propellant tanks. The wiring connects the guidance equipment, located near the top of the booster, to actuators for thrust-vectoring vanes in the exhaust nozzle used for steering. The lengths indicate that the Qiam-1 uses a different airframe than the Hwasong-6/ Shahab-2, with longer tanks. The dimensions of the Qiam-1 and Burkan 2-H are practically identical, within the error margins of the measurements, and in the simulations they are treated as the same.\n\nFinding the Missiles\u2019 Parameters\n\nThe Houthi group Ansar Allah released video of the December 2017 launch. By measuring the missile position in the image as a function of time and scaling this with the missile length, we can measure the initial acceleration of the missile.\n\nFigure 3: Acceleration measurement of the Burkan 2-H launch based on a launch video, with one per five frames shown. (Original video: Ansar Allah.)\n\nEvents in the video match the accompanying sound, which makes it unlikely that the video framerate has been manipulated. The measured acceleration is 12.2 m/s2 with an uncertainty of roughly 5 percent. This gives a take-off thrust-to-weight ratio of 2.25. The mass flow rate, propellant specific impulse, burn time and thrust for the basic Scud-B are known. The total weight of the Qiam-1/ Burkan 2-H can now be matched to the thrust of the Scud engine and the measured thrust-to-weight ratio. The volume of the propellant tanks can be found using the locations of visible welds in the body and the length of the cable raceways.\n\nThere is some uncertainty in the exact shape of the tanks, in how much of the tanks is filled with propellant (there usually is some empty space to allow the propellant to expand and the pipe that connects the fuel tank to the engine takes up volume inside the oxidizer tank) and in how much propellant is left at burnout, but using the densities of the fuel (kerosene) and oxidizer (inhibited fuming red nitric acid) and their mixing ratio, the propellant mass can be estimated. With the weight of the missile known, this fixes the sum of the missile empty mass and payload. Parameters for the Scud-B and for the Qiam-1/ Burkan 2-H are listed in Table 1.\n\nTable 1: missile parameters used in the simulations.\n\nBased on the estimated tank volume, the Qiam-1 and Burkan 2-H can carry almost 25 percent more propellant than the basic Scud-B. Since the engine propellant burn rate is fixed, the burn time is increased proportionally. The thrust-to-weight ratio from the video indicates that the overall mass of the Qiam-1 is only marginally larger than that of the Scud-B, which means that the sum total of the payload and the burnout mass of the booster has to be smaller. The analysis does not allow making a distinction between the two. The booster burnout mass can be expressed in the deadweight mass fraction: the mass of the booster at burnout including leftover propellant as a percentage of the mass of the booster on take-off. For the Scud-B, which is a relatively heavy design, it is 26.2%.\n\nWith a 500 kg payload, as claimed for the Burkan-1, the corresponding value for the computer model of the Qiam-1 and Burkan 2-H is 16.1%. This requires a significantly lighter missile airframe and probably less leftover propellant at burnout than on the Scud-B. Removing the stabilizing fins and introducing a shared bulkhead between the tanks can account for some of the weight reduction. Replacing the relatively heavy steel used in the Scud-B airframe with a lighter aluminum construction and a smaller and lighter guidance package can account for the rest. The 16.1 % is comparable to values achieved in other liquid-propelled Iranian missiles such as the Shahab-3. The simulations include a model for aerodynamic drag, with a slightly lower drag coefficient for the missile without fins.\n\nIf the parameter set is representative for the Burkan 2-H, the resulting missile should have sufficient range to reach Riyadh from Northwest Yemen. Results of computer simulations of maximum-range trajectories for these missiles can be seen in Figure 4. It shows graphs of the maximum range of the missile as a function of the payload.\n\nFigure 4: Range as a function of the payload for the Scud-B and Qiam-1/ Burkan 2-H.\n\nThe listed range for the Scud-B, 300 km with a 990 kg payload, is matched by the simulation. With its 500 kg payload the Qiam-1 missile range is 918 km, which is just short of the distance to the Saudi capital. However, this is the range when launched from sea level and without Earth background rotation. The December missile launch took place in a mountainous region in Northwest Yemen at a fairly high altitude. This geometry alone is enough to increase the range by a few kilometers, but the higher altitude also increases the engine thrust due to reduced atmospheric backpressure and the lower atmospheric density reduces aerodynamic drag. Furthermore, to reach Riyadh the missile has to fly towards the north-east, which means that Earth rotation further increases the range.\n\nFigure 5: Maximum range for the Burkan 2-H when launched in Northwest Yemen with a 500 kg payload (purple) and a trajectory towards Riyadh (red).\n\nFigure 5 shows a visualization of a simulated missile trajectory to Riyadh, with a launch site at an elevation of 1.8 km and with the effect of Earth rotation included. The initial trust-to-weight ratio in this simulation is 2.26, which is a near-perfect match with the acceleration measured from the launch video. Figure 5 also shows the maximum range the missile can fly when launched from the same location with a 500 kg payload, with Riyadh just in reach. Launching from a location slightly further to the Northwest puts the Muslim holy city of Medina in range. Given the territory under control of the Houthis, reaching Dubai or Abu Dhabi in the United Arab Emirates, allied with Saudi Arabia in the Yemen conflict, is only possible with this missile by reducing the payload, as they are too far east.\n\nThere is some uncertainty associated with all of the parameters and measurements, but the computer simulations of the Qiam-1 and the Burkan 2-H are consistent. Using properties of the Scud-B engine and the acceleration measured from the launch video, the computer model can reproduce trajectories that reach all the way from Northwest Yemen to Riyadh with a propellant volume that matches the tank sizes from photographs of the Qiam-1. This range is possible by using a far larger proportion of the missile take-off weight for propellant than on the basic Scud-B, with a lighter warhead and airframe construction. The required missile deadweight fraction is similar to that of other Iranian missiles.\n\nIt has been speculated that the Burkan-2H may be an indigenous Yemeni development using a North-Korean Hwasong-6 as its booster. The computer modeling indicates this is unlikely. The Hwasong-6 carries less propellant than the simulated missile. For the initial acceleration to remain the same, the deadweight fraction has to be higher. However, in that case the missile can no longer achieve the required range. The missile data does not fit the rumored Scud-D or Scud-ER either. These are usually described as longer and heavier. Scaling the vertical position in the acceleration measurements, shown in Figure 3, with a longer missile would give a larger acceleration, while a heavier missile with the same engine would actually have a smaller acceleration.\n\nOf course, it is theoretically possible that the Burkan 2-H airframe was produced in Yemen rather than in Iran. However, this would be far beyond anything previously seen from Yemen\u2019s limited industry. That also applies to the more advanced flight control system required for a missile without stabilizing fins. It is also possible that the Qiam-1 and Burkan 2-H both originate in North Korea, although there are no known North-Korean Scud variants without stabilizing fins. All in all, even without a detailed forensic investigation of the wreckage, it seems unlikely these missiles originate from anywhere other than Iran.\n\nRalph Savelsberg is an associate professor at the Netherlands Defense Academy in Den Helder, specializing in missile defense. The author would like to thank James Kiessling for his valuable comments. This work does not reflect any official position or policy of the Netherlands Government."
   },
   {
     "filename": "20190309_OTH_Ukroboronprom asks_A_UKR",
@@ -16319,6 +16936,53 @@
     "text": "A question on a lot of lips is have we managed to achieve the goal of Arresting the Decline of critical defence capabilities as..."
   },
   {
+    "filename": "20181016_CNN_Ukraine and Russia",
+    "labels": [
+      {
+        "end": 4032,
+        "start": 3923,
+        "tag": "Answer",
+        "text": "And the US further riled the Kremlin earlier this year, when it delivered Javelin antitank weapons to Ukraine"
+      },
+      {
+        "end": 3933,
+        "start": 3927,
+        "tag": "Seller",
+        "text": "the US"
+      },
+      {
+        "end": 3933,
+        "start": 3931,
+        "tag": "Seller Country",
+        "text": "US"
+      },
+      {
+        "end": 4021,
+        "start": 3997,
+        "tag": "Weapon",
+        "text": "Javelin antitank weapons"
+      },
+      {
+        "end": 4032,
+        "start": 4025,
+        "tag": "Buyer",
+        "text": "Ukraine"
+      },
+      {
+        "end": 4032,
+        "start": 4025,
+        "tag": "Buyer Country",
+        "text": "Ukraine"
+      }
+    ],
+    "text": "Moscow (CNN) In Europe, a shadow conflict is capturing headlines: The Salisbury poisonings and the unmasking of alleged Russian agents in the Netherlands suggest a return to Cold War-style spy games between Russia and the West.\n\nIn Ukraine, the picture is more stark. A hot war is continuing in the eastern Donbas region, and the conflict between Moscow and Kiev appears set to escalate.\n\nThe latest flashpoint? Ukraine's bid for greater spiritual independence from Russia.\n\nOn Monday, the Russian Orthodox Church broke ties with the Ecumenical Patriarch of Constantinople, the titular head of Orthodox Christianity, after Ukraine secured approval last week to establish an independent Orthodox church.\n\nThat move drew immediate condemnation from Russia, which said the decision set the stage for a potential split within the global Orthodox community.\n\nOn Friday, Russian President Vladimir Putin presided over a meeting of his Security Council on the matter.\n\nPolicemen stand guard in front of the central entrance of the Kiev Pechersk Lavra monastery on October 11.\n\nDmitry Peskov, Putin's spokesperson, said the Kremlin was \"extremely concerned,\" adding: \"If the current situation leans into the realm of illegal actions, then, of course, just like Russia protects the interests of Russian speakers, then likewise -- and Putin has said this many times -- Russia will protect the interests of Orthodox Christians.\"\n\nSuch words carry weight. In 2014, Putin justified the Crimea intervention as defending the interests of ethnic Russians. The occupation of Crimea set in motion the war in eastern Ukraine, which has claimed the lives of more than 10,000 people. And Washington is not a bystander in that conflict.\n\nFor starters, the US maintains that Russia is the aggressor. Speaking Friday with reporters in Rome, Kurt Volker, the Trump administration's point man on Ukraine, said the separatist forces in eastern Ukraine were \"100% under Russia's command and control,\" despite Moscow's insistence that the war in Donbas is a local uprising.\n\n'All from Russia'\n\n\"There shouldn't be any ambiguity about that,\" Volker said, according to a transcript. \"You have military forces that are led by active duty Russian military personnel. Russian officers are embedded through the chain of command down to the company level. Russia pays for contract soldiers to then fill out the whole military force and this goes to a Russian firm -- that then hires the soldiers and provides them to the Donbas. The training, the equipment, the troop rotations, the supplies -- all of this comes directly from Russia.\"\n\nAnd Washington has matched strong words with a deepening military partnership with Kiev.\n\nLast week, the US Air Force kicked off a military exercise in Ukraine, primarily at Ukraine's Starokostiantyniv Air Base. The so-called Clear Sky exercise will include F-15C Eagle fighters, KC-135 aerial refueling tankers and MQ-9 Reaper drones operating from Miroslawiec Air Base in Poland.\n\nUS servicemen stand in front of F-15 fighter jets during air force exercises at Starokostiantyniv Air Base.\n\nUkraine may not be a NATO member, but the Ukrainian government aspires to NATO membership. Ukrainian President Petro Poroshenko said such exercises would bring Ukraine's military into closer cooperation with the transatlantic alliance.\n\n\"The purpose of the exercises is to increase the level of interoperability of our combat aircraft with the air forces of the United States and other member states of the alliance,\" he said . \"Five years ago, our planes rusted on the ground and military pilots forgot about the sky. But today, each of you has an opportunity to see the professional skills of our pilots \u2014 soldiers, who carry out difficult tasks on an equal footing with their foreign counterparts.\"\n\nNATO membership for Ukraine is a red line for Putin, who has said he considers expansion of the alliance a form of aggression. And the US further riled the Kremlin earlier this year, when it delivered Javelin antitank weapons to Ukraine to step up the country's military capability.\n\nThe Trump administration's support for Ukraine has undergone something of an evolution, however. Senior officials have consistently stated that the US government does not see Russia's annexation of the peninsula as legitimate, and the US government and its European allies have maintained sanctions on Russia since the annexation of Crimea.\n\nPolish F-16 fighter jets during air force exercises.\n\nBut both before and after taking office, President Donald Trump made statements that appeared to cast doubt on his commitment to Ukraine's claims over the peninsula, both blaming the Obama administration for losing the peninsula and suggesting the people of Crimea would rather be in Russia.\n\nThe issue of arming Ukraine has also not been clear-cut. While the Republican presidential platform was being drafted in 2016, Trump campaign officials watered down language about supplying lethal aid to Ukraine. Speculation immediately fell to the possible role of Paul Manafort, then the chairman of the Trump presidential campaign: He had done years of lobbying work for the pro-Russian political party of Ukraine's then-president, Viktor Yanukovych.\n\nYanukovych fled Ukraine for Russia in February 2014 after street demonstrations toppled his government. Manafort was convicted in August on tax fraud and bank fraud charges, and his legal ordeal is not over\n\nHarder line\n\nAgainst that background, Trump administration officials have been maintaining a harder line on Russia's role in Ukraine.\n\nOn Friday, the US Embassy in Kiev posted a link to images taken with a drone over eastern Ukraine by monitors from the Organization for Security and Co-operation in Europe's special monitoring mission to Ukraine, an unarmed, civilian mission that monitors the conflict. The drone observed vehicles, including a truck carrying an armored personnel carrier, going in and out of Ukrainian territory through an unpaved road in a rebel-held area near the border with Russia.\n\nIn a non-government controlled area of Donetsk region near the border with the Russian Federation, an SMM UAV again spotted convoys of trucks along a dirt road where there is no border crossing facility in the middle of the night. One of the trucks carried an anti-aircraft gun. pic.twitter.com/sJ6HUmdSSr \u2014 OSCE SMM Ukraine (@OSCE_SMM) October 12, 2018\n\n\"Russia must stop providing deadly weapons under cover of night to its proxies in eastern Ukraine,\" the US embassy said on Twitter. \"These weapons, including those @OSCE_SMM spotted by UAV, kill soldiers & civilians alike. Only Russia can bring an end to bloodshed in Ukraine.\"\n\nIn Minsk on Monday, Moscow Patriarch Kirill, the head of the Russian Orthodox Church, convened a synod to respond to the latest developments over Ukraine's move to distance itself from the Russian church.\n\nAhead of the meeting, Kirill met with Belarusian President Alexander Lukashenko, a close ally of Russia."
+  },
+  {
+    "filename": "20171004_OTH_Slovakia Defence B",
+    "labels": [],
+    "text": "Bratislava, October 4 (TASR) \u2013 The Defence Ministry\u2019s budget in 2018 should reach \u20ac1.08 billion, up by 9.29 percent year-on-year, reaching 1.22 percent of Slovakia\u2019s GDP, according to the state budget draft released by the Finance Ministry on Wednesday.\n\nAt the same time more than \u20ac325 million (up by 15.3 y-o-y) was allocated for development in defence, including equipment and special materials, infrastructure, communication and information systems, transport vehicles, modernisation of aircraft and the purchase of helicopters."
+  },
+  {
     "filename": "20150923_DAILY_Burkina Faso Pre_A_BF_B_FRA",
     "labels": [],
     "text": "Leaders of Burkina Faso's military coup have handed power back to interim President Michel Kafando Wednesday, after they overtook the presidential palace and detained the president last week.\n\n\u201cI have returned to work. The transition is back and at this very minute is exercising the power of the state,\u201d said Kafando, reported local media.\n\nBurkina Faso's government has been in a precarious state since last week when the presidential guard took over the palace and detained the interim President Michel Kafando and Prime Minister Yacouba Isaac Zida. The following day, Gen. Gilbert Diendere, the head of the presidential guard, declared himself the country's new leader.\n\nThe move was met with resistance by citizens, which led to violent protests in the street. It was also condemned by the Burkina Faso military and other government loyalists, as well as the international community, including the African Union.\n\nArmy loyalists gave Diendere an ultimatum Monday, telling him to step down or face a military attack.\n\nA deal was signed late Tuesday between the two sides. Diendere agreed to stand down from the positions the rebels had taken in the capital Ouagadougou, while the army also agreed to withdraw its troops and guarantee the safety of the rebel presidential guard members and their families, according to reports by Mail & Guardian Africa.\n\nThe attempted military coup comes just weeks before national elections were to take place on Oct. 11. The elections were seen as a means to stabilize the country, since they will be the first to take place since former President Blaise Compaore was toppled last October.\n\nRELATED: Reflecting on the Burkina Faso Uprising"
@@ -16498,6 +17162,90 @@
       }
     ],
     "text": "Kazspetsexport Enterprise and Irkut Corporation Have Signed the Contract for Delivery of Another Batch of Su-30SM to the Republic of Kazakhstan\n\n(Source: Irkut Corporation; issued May 24, 2018)\n\nA Kazakh Air Force Su-30SM fighter exhibited at the Kadex 2018 show in Astana, where a new contract was signed today for a follow-on batch of fighters, whose number was not released. (Irkut photo)\n\nOn 24 May 2018, Republic State Enterprise Kazspetsexport of Ministry of Defense and Aerospace Industry of the Republic of Kazakhstan and Irkut Corporation (an affiliate of UAC) signed the contract for delivery of another batch of Su-30SM multirole fighters.\n\n\n\nThe contract was signed by the General Director of Kazspetsexport, Arman Ramazanov and the First Vice-President and General Designer of Irkut Corporation, Oleg Demchenko.\n\n\n\nThe ceremony was attended by the Deputy Minister of Defense of the Republic of Kazakhstan, Lieutenant-General Talgat Zhanzhumenov.\n\n\n\nThe event took place during the International Exhibition of Weapons Systems and Military Equipment - KADEX-2018 held in Astana.\n\n\n\nAccording to the contract, Irkut Corporation will deliver a batch of Su-30SM fighters to the Republic of Kazakhstan. The contract will be completed in 2020. These aircraft will be added to the fleet of the same combat aircraft, which are successfully operated by Air Force of the Republic of Kazakhstan.\n\n\n\nGeneral director of Kazspetsexport Arman Ramazanov said: \u201cMilitary and technical cooperation between Kazakhstan and Russia serves the interests of both states and is based on a solid legal framework established within the framework of the Collective Security Treaty Organization.\u201d\n\n\n\nThe President of PJSC UAC and Irkut Corporation Yuri Slyusar mentioned: \u201cWe highly appreciate good relations with our partners in the Republic of Kazakhstan. I am sure, that the new contract for delivery of Russian-made Su-30SM fighters will contribute to further development of cooperation of our two countries.\u201d\n\n\n\n-ends-\n\n"
+  },
+  {
+    "filename": "20170223_OTH_Super Tucanos To A_A_NIG_B_BRA",
+    "labels": [
+      {
+        "end": 130,
+        "start": 0,
+        "tag": "Answer",
+        "text": "The Nigerian Air Force (NAF) is expected to procure three Embraer EMB-314 Super Tucano turboprop light strike aircraft from Brazil"
+      },
+      {
+        "end": 28,
+        "start": 0,
+        "tag": "Buyer",
+        "text": "The Nigerian Air Force (NAF)"
+      },
+      {
+        "end": 12,
+        "start": 4,
+        "tag": "Buyer Country",
+        "text": "Nigerian"
+      },
+      {
+        "end": 57,
+        "start": 52,
+        "tag": "Quantity",
+        "text": "three"
+      },
+      {
+        "end": 118,
+        "start": 58,
+        "tag": "Weapon",
+        "text": "Embraer EMB-314 Super Tucano turboprop light strike aircraft"
+      },
+      {
+        "end": 130,
+        "start": 124,
+        "tag": "Seller",
+        "text": "Brazil"
+      },
+      {
+        "end": 130,
+        "start": 124,
+        "tag": "Seller Country",
+        "text": "Brazil"
+      },
+      {
+        "end": 491,
+        "start": 390,
+        "tag": "Answer",
+        "text": "the NAF is seeking twelve additional EMB-314 (local designation A-29) aircraft from the United States"
+      },
+      {
+        "end": 397,
+        "start": 390,
+        "tag": "Buyer",
+        "text": "the NAF"
+      },
+      {
+        "end": 415,
+        "start": 409,
+        "tag": "Quantity",
+        "text": "twelve"
+      },
+      {
+        "end": 468,
+        "start": 427,
+        "tag": "Weapon",
+        "text": "EMB-314 (local designation A-29) aircraft"
+      },
+      {
+        "end": 491,
+        "start": 474,
+        "tag": "Seller",
+        "text": "the United States"
+      },
+      {
+        "end": 491,
+        "start": 478,
+        "tag": "Seller Country",
+        "text": "United States"
+      }
+    ],
+    "text": "The Nigerian Air Force (NAF) is expected to procure three Embraer EMB-314 Super Tucano turboprop light strike aircraft from Brazil, following an announcement to this effect on 9th February.\n\nThese aircraft are expected to be transferred from the current inventory of the Brazilian Air Force, sources inform armadainternational.com, by the end of March. In addition to these three aircraft, the NAF is seeking twelve additional EMB-314 (local designation A-29) aircraft from the United States, in a request which is still awaiting political approval.\n\nThe aircraft are seen as a critical element in Nigeria\u2019s ongoing battle against the Boko Haram Islamist organisation. The NAF has shown interest in the EMB-314 since 2015, and in June 2016 it was reported that the US Government would support a purchase to this effect."
   },
   {
     "filename": "20190607_CRS_Emergency arms sal_A_YEN_B_USA",
@@ -17658,6 +18406,11 @@
     "text": "The Pentagon is \u201cvery concerned\u201d over the possible implications of Russian sanctions on defence ties between India and the US, a top defence department official has said.\n\nIndia could face sanctions for purchasing high value military defence items, in particular state-of-the-art S-400 missile defence system, from Russia under the Countering America\u2019s Adversaries Through Sanctions Act (CAATSA).\n\nSection 231 of CAATSA mandates secondary sanctions on those who conduct significant transactions with the Russian defence and intelligence sectors.\n\n\u201cWe understand India\u2019s concern about this and we are very concerned as well. These sanctions are intended to target Russia - not India,\u201d Joe Felter, Deputy Assistant Secretary of Defence for South and Southeast Asia, told PTI.\n\nIndia is currently in advance stage of negotiations with Russia for five S-400 system worth an estimate $4.5 billion. The air defence system includes radar, missile launchers and command center technology.\n\nAccording to some lawmakers, the latest Indian move to purchase S-400 air defence missile from Russia could be considered as a sanctionable activity.\n\nForeign Secretary Vijay Gokhale and Defence Secretary G Mohan Kumar also expressed their concerns over this during their US visit last month.\n\n\u201cWe totally appreciate Indians concerns. It was raised in discussions during senior level meetings last month. We also are very concerned because we very much hope to maintain the momentum and the trajectory of this relationship. We want to deepen our cooperation and not to reduce it,\u201d Felter said.\n\nCAATSA was signed into law in August 2017 and went into effect in January this year. The law mandates the Trump administration to punish entities engaging in significant transaction with the defence or intelligence sectors of Russia.\n\n\u201cWe are concerned about anything that\u2019s going to make it more difficult for us to cooperate. But it\u2019s just out of our hands this legislation. I can\u2019t anticipate what will actually happen. Any decision to impose sanctions is made outside of DoD,\u201d Felter said.\n\n\u201cWe are committed to building our relationship and keeping it on the current trajectory. We appreciate that that defence trade is a key activity to build this partnership. We will continue to work diligently to maintain the positive trajectory we are on with this relationship and ideally deepen and expand our defence trade,\u201d he said.\n\nReferring to the growth in India US bilateral defence trade from almost zero to $15 billion, Felter said there was tremendous growth potential for the bilateral ties.\n\nAtman Trivedi, a former State Department official under the previous Obama Administration said that triggering of sanctions on India because of S-400 deal would \u201cundermine serious American interests\u201d.\n\n\u201cToo much is at stake to allow individual defence transactions to damage a budding relationship with a promising partner like India. Before it\u2019s too late, the two countries should quietly work together to find other arrangements to address India\u2019s defence requirements,\u201d he added.\n\n\u201cIf that is not feasible, Congress should provide India a sanctions waiver or consider a larger legislative fix that allows important US allies and partners, like India, to be exempted,\u201d Trivedi said.\n\nCara Abercrombie, a visiting scholar in the South Asia Program at the Carnegie Endowment for International Peace, also argued in favour of exemption for India last week.\n\n\u201cIndia warrants an exemption from these secondary sanctions, as does any country with which the US is forging new and strategically important defence relations,\u201d Abercrombie wrote in Axios, an online publication.\n\nWhile the US has become its second largest defence supplier, mainly of aircraft and artillery, India still relies heavily on Russian equipment, such as submarines and missiles, that the US has been unwilling to provide, she wrote.\n\n\u201cThese sanctions, like penalties the US imposed after India\u2019s nuclear tests in the 1990s, would sour relations. At worst, they could stoke domestic backlash and close off US defence sales to India for the foreseeable future.\n\n\u201cGiven bipartisan support for the US\u2013India defence relationship, Congress should grant India waiver authority under CAATSA. Without waivers, other important regional partners, like Vietnam and Indonesia, are also likely to trigger sanctions,\u201d Abercrombie said.\n\n\u201cSeventy per cent of their military hardware is Russian in origin. You can\u2019t expect India to go cold turkey on that. We ought to look at ways to have a glide path, so that we can continue to trade in arms within India,\u201d Admiral Harry Harris, Commander of US Pacific Command, told a Congressional committee last month."
   },
   {
+    "filename": "20181100_SCRAM_Equatorial Guine_A_KAZ_B_RUS",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20181128_DN_Will the Thai Air F_A_THA_B_SWE",
     "labels": [],
     "text": "Money Minute: How to decide whether to take advantage of a balance transfer\n\nPlay Video"
@@ -18133,6 +18886,11 @@
       }
     ],
     "text": "China has donated a patrol boat to the Ivory Coast to combat maritime crime and piracy in the Gulf of Guinea.\n\nThe vessel was handed over by Chinese Ambassador to Cote d\u2019Ivoire Tang Weibin on 14 July, and accepted by Cote d\u2019Ivoire\u2019s defence minister Alain Donwahi. \u201cThis donation will allow the Navy of Cote d\u2019Ivoire to take off. This is a major step in Sino-Ivorian cooperation,\u201d Donwahi is reported by Xinhua as saying.\n\n\u201cThis is a true example of South-South cooperation,\u201d Weibin said, adding that China is willing to strengthen Cote d\u2019Ivoire\u2019s army as well.\n\nThe vessel, which appears to be a 27 metre long Predator class vessel, was launched on 19 May and donated to Cote d\u2019Ivoire along with naval repair equipment worth a total of CNY30 million ($4.4 million), according to the Chinese embassy in Cote d\u2019Ivoire. The embassy said that to assist with naval repair, 13 Chinese experts were in May dispatched to the West African country.\n\n\n\n\n\n\n\nCote d\u2019Ivoire is adding around 40 new vessels to its fleet as it confronts a growing threat from pirates in the Gulf of Guinea. Recent acquisitions include three RPB 33 patrol vessels from France\u2019s Raidco Marine (delivered between 2014 and 2016), three 8 metre long Defender rigid hulled inflatable boats, around 30 inflatable speed launches and several 9- to 12-metre craft, mostly from Raidco."
+  },
+  {
+    "filename": "20180600_SCRAM_Sudan Tunisia Ug_A_BAN_B_UK",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
   },
   {
     "filename": "20170417_OTH_Turkish Navy commi_A_TUR",
@@ -18738,6 +19496,47 @@
     "filename": "20190501_COMP_SIPRI Defence sal",
     "labels": [],
     "text": "Policy reactions and ways forward in Central Mali\n\nSIPRI launches a new Reflection film, capturing the reactions of key international and Malian actors to the research findings in SIPRI\u2019s latest report on Mali, \u2018The Challenges of Governance, Development and Security in the Central Regions of Mali\u2019. The film is accompanied by a series of short Spotlight interviews presenting the distinct voices of the policymakers and practitioners onsite in Mali who feature in the film.\n\nWatch the SIPRI Reflection film and Spotlight interviews on SIPRI\u2019s YouTube channel and on Facebook."
+  },
+  {
+    "filename": "20171129_OTH_UK Japan Push Ahea",
+    "labels": [
+      {
+        "end": 904,
+        "start": 801,
+        "tag": "Answer",
+        "text": "Japan is currently in the process of inducting 42 F-35A Lightning II Joint Strike Fighters into service"
+      },
+      {
+        "end": 806,
+        "start": 801,
+        "tag": "Buyer",
+        "text": "Japan"
+      },
+      {
+        "end": 806,
+        "start": 801,
+        "tag": "Buyer Country",
+        "text": "Japan"
+      },
+      {
+        "end": 850,
+        "start": 848,
+        "tag": "Quantity",
+        "text": "42"
+      },
+      {
+        "end": 891,
+        "start": 851,
+        "tag": "Weapon",
+        "text": "F-35A Lightning II Joint Strike Fighters"
+      }
+    ],
+    "text": "The project which has been continuing since 2014 is moving to a prototype stage next year.\n\nAdvertisement\n\nJapan and the United Kingdom are pushing ahead with the co-development of a Joint New Air-to-Air Missile (JNAAM) with a prototype expected to be built next year, Japanese Defense Minister Itsunori Onodera confirmed on November 24.\n\n\u201cWe will manufacture the prototype and evaluate its performance,\u201d the minister said during a November 24 press briefing. The new missile will reportedly incorporate advanced Japanese radar technology into the ramjet-powered, beyond-visual-range Meteor missile currently under development by European defense contractor MBDA.\n\nWhat makes the Meteor missile attractive to Japan\u2019s Ministry of Defense is that it can be fitted into the F-35\u2019s internal weapons bay. (Japan is currently in the process of inducting 42 F-35A Lightning II Joint Strike Fighters into service.) It is the first time that Japan is partnering with a country other than the U.S. on a joint defense technology project.\n\n\u201cAt the moment, Japan and the United Kingdom are conducting joint research on the feasibility of a new air-to-air missile before starting research on a future middle-range air to air missile,\u201d Onodera said. \u201cThe research planned for fiscal 2018 is (\u2026) intended to (\u2026) realize a middle-range air to air missile with (..) increased speed and (\u2026) extended range (\u2026) [small enough] to be integrated into fighter aircraft,\u201d the minister said.\n\nDiplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter\n\nThe intention is to combine the active electronically scanned array seeker of the Mitsubishi Electric AAM-4B medium-range air-to-air missile with the Meteor as the AAM-4B is too bulky to fit into the F-35 A\u2019s internal weapons bay.\n\nEnjoying this article? Click here to subscribe for full access. Just $5 a month.\n\n\u201cSpecifically, Japan aims to establish a small, high-performance seeker technology adapted to future threats, and to that end, we will examine the performance of an actual model based on the combination of Japanese technology and the United Kingdom\u2019s long-range propulsion technology,\u201d Onodera added.\n\nLive fire testing of the new missile is expected to begin in 2018 with a possible deployment date set for the late 2020s.\n\nIn March of this year, Japan and the UK also agreed to explore options for co-developing an advanced fighter jet. \u201cThe agreement stipulates that both countries will exchange information about advanced aviation technology and also conduct a joint study on the feasibility of co-developing a new fighter aircraft in the coming years,\u201d I explained.\n\nAdvertisement\n\nFurthermore in 2016, the UK Royal Air Force (RAF) and the Japan Air Self-Defense Force (JASDF) conducted their first-ever joint aerial combat drill, dubbed Guardian North 16, in Japan. The exercise involved four RAF Eurofighter Typhoon fighter jets, as well as a number of JASDF Boeing F-15J all-weather air superiority fighters and Mitsubishi F-2s."
+  },
+  {
+    "filename": "20190620_COMP_Elbit Systems Sta_A_EU_B_ISR",
+    "labels": [],
+    "text": "Elbit Systems has started operating the maritime UAS patrol service available to countries in the European Union (EU) under a contract between the European Maritime Safety Agency (EMSA) and the Portuguese company CEiiA. Iceland is the first EU country to use this particular long-range UAS patrol service.\n\nThe Icelandic maritime authorities based the Hermes 900 Maritime Patrol operation at the Egilssta\u00f0ir airport in the East of the island, from which maritime UAS patrol has the capability of covering more than half of the Icelandic Exclusive Economic Zone (EEZ).\n\nThe Hermes 900 Maritime Patrol is a persistent long-range unmanned maritime surveillance system tailored for littoral and blue water operations, featuring maritime radar, an Electro Optic payload, Satellite Communication, an Automatic Identification System (AIS) receiver and an Emergency Position-indicating Radio Beacon (EPIRB) receiver.\n\nThus configured, the Hermes 900 Maritime Patrol enables persistent monitoring of vast swathes of sea and long coastlines and effective identification of suspicious activities and potential hazards. The particular Hermes 900 Maritime Patrol in use is adapted to withstand the strong winds and icy conditions common to the North Atlantic Ocean.\n\nElad Aharonson, General Manager of Elbit Systems ISTAR Division, commented:\n\n\u201cWe are pleased to have been able to commence operation only a few months after the contract was awarded to CEiiA. Providing maritime UAS services to European Union authorities is a vote of confidence in the Hermes 900. Extensively deployed, the Hermes 900 family of UAS is continuously extending its capabilities, introducing the capability to operate in civilian airspace and integrating self-protection suites and stronger payloads.\u201d\n\nSource: Press Release"
   },
   {
     "filename": "20181118_DN_With F-16 buy Slova_A_SLK_B_RUS",

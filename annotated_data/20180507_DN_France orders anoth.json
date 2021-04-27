@@ -1,0 +1,78 @@
+{
+  "filename": "20180507_DN_France orders anoth",
+  "labels": [
+    {
+      "end": 129,
+      "start": 8,
+      "tag": "Answer",
+      "text": "France is to acquire a fifth Barracuda nuclear attack submarine, the Armed Forces Ministry confirmed in a May 7 statement"
+    },
+    {
+      "end": 14,
+      "start": 8,
+      "tag": "Buyer",
+      "text": "France"
+    },
+    {
+      "end": 14,
+      "start": 8,
+      "tag": "Buyer Country",
+      "text": "France"
+    },
+    {
+      "end": 71,
+      "start": 37,
+      "tag": "Weapon",
+      "text": "Barracuda nuclear attack submarine"
+    },
+    {
+      "end": 119,
+      "start": 114,
+      "tag": "Date",
+      "text": "May 7"
+    },
+    {
+      "end": 554,
+      "start": 407,
+      "tag": "Answer",
+      "text": "The draft 2019-2025 multiyear budget law includes funding for six Barracuda boats, of which four are due to be delivered by 2025, the ministry said"
+    },
+    {
+      "end": 472,
+      "start": 469,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 98,
+      "start": 73,
+      "tag": "Buyer",
+      "text": "the Armed Forces Ministry"
+    },
+    {
+      "end": 549,
+      "start": 537,
+      "tag": "Buyer",
+      "text": "the ministry"
+    },
+    {
+      "end": 535,
+      "start": 531,
+      "tag": "Date",
+      "text": "2025"
+    },
+    {
+      "end": 482,
+      "start": 473,
+      "tag": "Weapon",
+      "text": "Barracuda"
+    },
+    {
+      "end": 503,
+      "start": 499,
+      "tag": "Quantity",
+      "text": "four"
+    }
+  ],
+  "text": "PARIS \u2015 France is to acquire a fifth Barracuda nuclear attack submarine, the Armed Forces Ministry confirmed in a May 7 statement.\n\nThe decision was made during a May 2 ministerial investment meeting held by Armed Forces Minister Florence Parly.\n\nAdm. Christophe Prazuck, the French Navy chief of staff, told the parliamentary defense committee in October he expected the fifth boat to be ordered in 2018.\n\nThe draft 2019-2025 multiyear budget law includes funding for six Barracuda boats, of which four are due to be delivered by 2025, the ministry said.\n\nThe Barracuda will be armed with naval cruise missiles and be capable of deploying special forces while underwater."
+}
