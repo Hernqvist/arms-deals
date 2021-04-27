@@ -28,8 +28,6 @@ def preprocess_dataset(dataset):
   texts, labels = [], []
 
   for text in dataset.texts:
-    if not text.positive_sample:
-      continue
     x, y = preprocessor.labels_multiple(text, labels_considered)
     texts.append(x)
     labels.append(y)

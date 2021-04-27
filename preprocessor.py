@@ -68,6 +68,7 @@ class Preprocessor:
                     start_, end_ = label_.start, label_.end
                     if self.has_overlap(start, end, start_, end_):
                         y[i] = 1
+        y[0] = 1 if text.positive_sample else 0
         return y
 
     def labels(self, text, label="Buyer"):
