@@ -4,6 +4,8 @@ from torch.nn import CrossEntropyLoss
 from transformers.modeling_outputs import TokenClassifierOutput
 from transformers import BertPreTrainedModel, BertModel
 
+LABELS = ("Weapon", "Buyer", "Buyer Country", "Seller", "Seller Country", "Quantity", "Price", "Date")
+
 class LinearRepeat(nn.Module):
 
     def __init__(self, in_features, out_features, repeats):
@@ -23,7 +25,7 @@ class BertForParallelTokenClassification(BertPreTrainedModel):
     def __init__(self, config):
         super().__init__(config)
         self.num_labels = config.num_labels
-        self.num_label_types = 4
+        self.num_label_types = len(LABELS)
 
         self.bert = BertModel(config, add_pooling_layer=False)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)

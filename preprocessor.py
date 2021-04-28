@@ -93,6 +93,14 @@ class Preprocessor:
         NEGATIVE = "\033[7m"
         END = "\033[0m"
         decoded = [self.tokenizer.decode(z) for z in x]
+        try:
+            index = decoded.index("[PAD]")
+            decoded = decoded[:index]
+            y = y[:index]
+            y_actual = y_actual[:index]
+        except ValueError:
+            pass
+
         output = []
         for token, predicted, actual in zip(decoded, y, y_actual):
             rep = token
