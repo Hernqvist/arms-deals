@@ -1,0 +1,78 @@
+{
+  "filename": "20190210_OTH_S Korea to launch _A_SPA_B_KOS",
+  "labels": [
+    {
+      "end": 51,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Spain has reportedly ordered 27 A-400Ms from Airbus"
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 31,
+      "start": 29,
+      "tag": "Quantity",
+      "text": "27"
+    },
+    {
+      "end": 39,
+      "start": 32,
+      "tag": "Weapon",
+      "text": "A-400Ms"
+    },
+    {
+      "end": 51,
+      "start": 45,
+      "tag": "Seller",
+      "text": "Airbus"
+    },
+    {
+      "end": 193,
+      "start": 121,
+      "tag": "Answer",
+      "text": "The country is reportedly hoping to deliver four to six A-400Ms to Korea"
+    },
+    {
+      "end": 132,
+      "start": 121,
+      "tag": "Seller",
+      "text": "The country"
+    },
+    {
+      "end": 176,
+      "start": 165,
+      "tag": "Quantity",
+      "text": "four to six"
+    },
+    {
+      "end": 184,
+      "start": 177,
+      "tag": "Weapon",
+      "text": "A-400Ms"
+    },
+    {
+      "end": 193,
+      "start": 188,
+      "tag": "Buyer",
+      "text": "Korea"
+    },
+    {
+      "end": 193,
+      "start": 188,
+      "tag": "Buyer Country",
+      "text": "Korea"
+    }
+  ],
+  "text": "Spain has reportedly ordered 27 A-400Ms from Airbus but has decided to sell 13 of them and received consent from Airbus. The country is reportedly hoping to deliver four to six A-400Ms to Korea in return for 30 KT-1s and 20 T-50s."
+}

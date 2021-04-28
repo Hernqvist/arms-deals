@@ -3674,6 +3674,84 @@
     "text": "Please Enable Cookies\n\nwww.intelligent-aerospace.com is using a security service for protection against online attacks. The service requires full cookie support in order to view this website.\n\nPlease enable cookies on your browser and try again."
   },
   {
+    "filename": "20190210_OTH_S Korea to launch _A_SPA_B_KOS",
+    "labels": [
+      {
+        "end": 51,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Spain has reportedly ordered 27 A-400Ms from Airbus"
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Buyer",
+        "text": ""
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Buyer Country",
+        "text": ""
+      },
+      {
+        "end": 31,
+        "start": 29,
+        "tag": "Quantity",
+        "text": "27"
+      },
+      {
+        "end": 39,
+        "start": 32,
+        "tag": "Weapon",
+        "text": "A-400Ms"
+      },
+      {
+        "end": 51,
+        "start": 45,
+        "tag": "Seller",
+        "text": "Airbus"
+      },
+      {
+        "end": 193,
+        "start": 121,
+        "tag": "Answer",
+        "text": "The country is reportedly hoping to deliver four to six A-400Ms to Korea"
+      },
+      {
+        "end": 132,
+        "start": 121,
+        "tag": "Seller",
+        "text": "The country"
+      },
+      {
+        "end": 176,
+        "start": 165,
+        "tag": "Quantity",
+        "text": "four to six"
+      },
+      {
+        "end": 184,
+        "start": 177,
+        "tag": "Weapon",
+        "text": "A-400Ms"
+      },
+      {
+        "end": 193,
+        "start": 188,
+        "tag": "Buyer",
+        "text": "Korea"
+      },
+      {
+        "end": 193,
+        "start": 188,
+        "tag": "Buyer Country",
+        "text": "Korea"
+      }
+    ],
+    "text": "Spain has reportedly ordered 27 A-400Ms from Airbus but has decided to sell 13 of them and received consent from Airbus. The country is reportedly hoping to deliver four to six A-400Ms to Korea in return for 30 KT-1s and 20 T-50s."
+  },
+  {
     "filename": "20180819_OTH_China Defense Blog_A_KUW_B_CHI",
     "labels": [],
     "text": "This is the blog of China defense, where professional analysts and serious defense enthusiasts share findings on a rising military power."
@@ -4001,6 +4079,48 @@
       }
     ],
     "text": "In a bid to substantially enhance India\u2019s so-called stand-off weapon capabilities, the Trump administration in the United States has agreed to supply long endurance high-altitude surveillance armed unmanned aerial vehicles (UAV), which are capable of hunting and destroying targets across seas and over land borders.\n\nIndian and US diplomatic officials confirmed to Hindustan Times that the Pentagon\u2019s decision to supply Predator-B drones to Indian military has been conveyed through official channels and that it is now up to the Narendra Modi government to take the final call based on the overall cost of India\u2019s drone programme. The matter was taken up during official level meetings attended by National Security Advisor Ajit Doval, foreign secretary Vijay Gokhale and defence secretary in Washington last month, they added.\n\nManufactured by General Atomics, Predator-B has both land and naval versions and can be armed with air-to-land missiles, anti-ship missiles and laser guided bombs.\n\nStand-off capabilities refer to the ability to strike without fear of the defensive capabilities of the target.\n\nAlthough the Pentagon had cleared the sale of 22 Guardian naval surveillance drones to India, New Delhi was insistent that given the costs involved, it was in favour of acquiring an armed drone which operates over both land and sea. \u201cPurchase of the Guardian drone through government to government route did not make sense as even if the unarmed drone identifies a hostile target over Indian Ocean, Bay of Bengal or Arabian Sea, it will have to request for Boeing P- 8I Neptune (aircraft) to destroy the target. The time lag and effort is not worth the while. The Indian need is an armed drone which not only locates but hunts down the target,\u201d said a senior Indian government official who asked not to be identified.\n\nThe other Indian worry is about encryption keys to weaponised drone. Essentially, Indian national security planners are worried whether the US will also have control of the armed drones and could theoretically jam them . e US defence manufacturers have dismissed this concern by saying that India will have all the encryption keys for the armed drone.\n\nThis question, and the issue of the sale of the drones will come up before the technical team of Office of Secretary of Defence (OSD) policy arrives in the Capital on May 3-4, 2018 to discuss the Communications Compatibility and Security Agreement (COMCASA) with Defence Ministry officials. India needs to sign COMCASA and Basic Exchange and Cooperation Agreement (BECA) for operating highly advanced US defence platforms requiring secured communication and spatial equipment.\n\nThe Indian and US officials said the sale of armed drones could also come up during the two-plus-two dialogue between external affairs minister Sushma Swaraj and defence minister Nirmala Sitharaman with newly-appointed US Secretary of State Mike Pompeo and Secretary of Defence Jim Mattis in Washington later this month.\n\nWhile Indian national security planners are pleased over the US nod to armed drones, the cost, logistics and maintenance of the UAVs is prohibitive due to separate command and control centres and requirement of round the clock combat vigil."
+  },
+  {
+    "filename": "20181129_DN_With nod to Paris_M",
+    "labels": [
+      {
+        "end": 2889,
+        "start": 2808,
+        "tag": "Answer",
+        "text": "Brussels plans to buy a new fleet of armored combat vehicles from France\u2019s Nexter"
+      },
+      {
+        "end": 2816,
+        "start": 2808,
+        "tag": "Buyer",
+        "text": "Brussels"
+      },
+      {
+        "end": 2816,
+        "start": 2808,
+        "tag": "Buyer Country",
+        "text": "Brussels"
+      },
+      {
+        "end": 2868,
+        "start": 2845,
+        "tag": "Weapon",
+        "text": "armored combat vehicles"
+      },
+      {
+        "end": 2880,
+        "start": 2874,
+        "tag": "Seller Country",
+        "text": "France"
+      },
+      {
+        "end": 2889,
+        "start": 2883,
+        "tag": "Seller",
+        "text": "Nexter"
+      }
+    ],
+    "text": "COLOGNE, Germany \u2014 Missile-maker MBDA is banking on a new European Union project to help boost wider adoption of its Missile Moyenne Port\u00e9e anti-tank weapon on the continent.\n\nThe confidence by executives stems from last week\u2019s European Council approval of a Beyond-Line-of-Sight Land Battlefield Missile System. The project is one of 34 efforts under the union\u2019s new Permanent Structured Cooperation scheme, or PESCO. The framework is meant to unify military capabilities of the member nations with an eye toward establishing the EU as a military player on the world stage.\n\nThe new missile project offers an glimpse into PESCO\u2019s nascent process for turning political ambitions into actual hardware made by national vendors. Such is the case here, says MBDA, which released a statement saying its MMP anti-tank weapon had been \u201cendorsed\u201d by the EU even though the official, one-paragraph project description makes no mention of a specific weapon.\n\nFrom cyber to military mobility: EU members endorse new defense objectives EU member states adopt 17 new cooperative projects under the fledgling PESCO pact, an initiative meant to sharpen Europe's military edge.\n\nCompany executives told Defense News that the MMP is what defense officials in France \u2014 which has the project lead together with Belgium and Cyprus \u2014 had in mind from the start when offering the project under an EU umbrella.\n\nThe weapon, they argue, is the natural choice because it is already in service with French forces and because it is the sole wholly European option available. (MBDA is a joint venture of Airbus, BAE Systems and Leonardo.)\n\nA spokeswoman for the French delegation to the EU in Brussels did not respond to multiple requests for comment.\n\nThe guided MMP, which boasts a range of 4 kilometers, can be fired by dismounted soldiers or from vehicles. Its competitors include the American-made Javelin and variants of the Spike, designed by Israel\u2019s Rafael. The Israelis market their offering through the Germany-based company Eurospike, and the missiles are produced in that country.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nBut MBDA argues the \u201cdesign authority\u201d for both competitors lies outside of Europe, which means the joint venture would be ineligible for a role \u2014 and funding \u2014 under PESCO or its associated funding stream, the proposed \u20ac13 billion (U.S. $15 billion) European Defence Fund.\n\nIt remains to be seen whether the apparent PESCO blessing can help propel the MMP weapon to greater popularity in European armies. There is already lower-hanging fruit included in the partnership with project co-sponsor Belgium: Brussels plans to buy a new fleet of armored combat vehicles from France\u2019s Nexter, a portion of which stands to be equipped with an anti-tank weapon.\n\nThat\u2019s where EU funding support could come into play. Players of any PESCO project can get EU co-financing for the modification work required to make one weapon interoperable for several partner forces.\n\nOn paper, the EU missile project has ambitious goals. The weapon eventually chosen \u2014 presumably the MMP \u2014 \u201cis intended to be integrated on an extensive variety of platforms,\u201d a PESCO project overview states. \u201cThe project includes joint training and formation aspects. A dedicated \u2018users club\u2019 is envisioned develop a common European doctrine on BLOS firing.\u201d\n\nIndustry officials expect an initial kickoff meeting of the partner nations to hammer out a way ahead, though the timing is unclear. At that point, there could be a formal commitment to the MMP weapon."
   },
   {
     "filename": "20180500_SCRAM_Greece Germany n_A_GRE_B_ISR",
@@ -5554,6 +5674,11 @@
     "text": "According to the report, Russia cut military spending by 20% in 2017 to $66.3 billion. Russia reduced its military spending last year for the first time since 1998, it said.\n\nSOCHI, May 3. /TASS/. The figures in the report of the Stockholm International Peace Research Institute (SIPRI) on Russia\u2019s military spending in 2017 are inaccurate, although the tendency of the falling spending is right, Kremlin Spokesman Dmitry Peskov said.\n\n\"The figures do not really correspond to reality, but the tendency is right,\" Peskov said.\n\nRussian President Vladimir Putin earlier noted that a large-scale effort in the Russian army on technical and technological renovation had been carried out. This process was completed and therefore the peak of military spending on armaments was over, Peskov noted.\n\n\"So, there is a tendency of a small step-by-step decrease in spending,\" Peskov said. He stressed that the Russian military and industrial sector is working in full and high-tech developments are made."
   },
   {
+    "filename": "20180400_SCRAM_Montenegro Bell-_A_MTG_B_CAN",
+    "labels": [],
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20171106_DAILY_Austal set to bo_A_ET_B_AUS",
     "labels": [
       {
@@ -7028,6 +7153,102 @@
       }
     ],
     "text": "MALYSHEV PLANT: BATCHES OF \u201cOPLOT\u201d and \u201cBULAT\u201d TANKS TRANSFERRED, SALES VOLUME TOTALED RECORD 3 BLN UAH\n\nUKROBORONPROM SE \u201cMalyshev Plant\u201d closed 2017 with a record for the enterprise sum of products sold, exceeding 3 billion UAH. For comparison: in 2014 the sales volume was 20 times less, amounting to UAH 150 million only.\n\nThis result was achieved due to 100% fulfillment of all tasks, including scheduled shipments of \"Oplot\" tanks to the Kingdom of Thailand in 2017.\n\nThe final for the year 2017 batch of combat vehicles passed stationary and field tests, all products were verified by the customer, received certificates and shipped on December 27.\n\nUnder the contract with Thailand, only a few military vehicles left to be delivered to the customer by Malyshev Plant. The enterprise plans to complete the implementation of the agreements in the first quarter of 2018.\n\nCurrently, Malyshev Plant is ready to begin implementation of the State Defense Order for the manufacture of tanks \"Oplot\" for the Armed Forces of Ukraine.\n\nBesides, Malyshev Plant shipped the next batch of motor-transmission facilities for the Republic of Pakistan.\n\nMotor-transmission units are kits, including engine, transmission, engine maintenance systems, air purification system, armored roof. Subsequently, all of these kits will be installed in Pakistani Al-Khalid-1 military vehicles.\n\nThese export contracts were fulfilled in the framework of the enterprise reloading, after all the commitments to the Ministry of Defense of Ukraine were fulfilled: BULAT tanks were repaired and transferred to the tank brigades of the Armed Forces of Ukraine.\n\nSuch positive changes were achieved, first of all, thanks to UOP personnel policy, according to which four directors were fired since 2014."
+  },
+  {
+    "filename": "20190507_DN_Romania eyes new ma_A_ROM",
+    "labels": [
+      {
+        "end": 76,
+        "start": 18,
+        "tag": "Answer",
+        "text": "The Romanian Navy is exploring the purchase of a new drone"
+      },
+      {
+        "end": 35,
+        "start": 18,
+        "tag": "Buyer",
+        "text": "The Romanian Navy"
+      },
+      {
+        "end": 30,
+        "start": 22,
+        "tag": "Buyer Country",
+        "text": "Romanian"
+      },
+      {
+        "end": 76,
+        "start": 71,
+        "tag": "Weapon",
+        "text": "drone"
+      },
+      {
+        "end": 686,
+        "start": 596,
+        "tag": "Answer",
+        "text": "Plans are underway to buy four new multipurpose corvettes as the core of the Romanian navy"
+      },
+      {
+        "end": 686,
+        "start": 669,
+        "tag": "Buyer",
+        "text": "the Romanian navy"
+      },
+      {
+        "end": 681,
+        "start": 673,
+        "tag": "Buyer Country",
+        "text": "Romanian"
+      },
+      {
+        "end": 653,
+        "start": 631,
+        "tag": "Weapon",
+        "text": "multipurpose corvettes"
+      },
+      {
+        "end": 626,
+        "start": 622,
+        "tag": "Quantity",
+        "text": "four"
+      },
+      {
+        "end": 930,
+        "start": 727,
+        "tag": "Answer",
+        "text": "Also expected are purchases of new coastal missile batteries and three new submarines \u2014 all part of Romania\u2019s commitment to spending 2 percent of its gross domestic product on defense for the next decade"
+      },
+      {
+        "end": 787,
+        "start": 762,
+        "tag": "Weapon",
+        "text": "coastal missile batteries"
+      },
+      {
+        "end": 797,
+        "start": 792,
+        "tag": "Quantity",
+        "text": "three"
+      },
+      {
+        "end": 812,
+        "start": 802,
+        "tag": "Weapon",
+        "text": "submarines"
+      },
+      {
+        "end": 834,
+        "start": 827,
+        "tag": "Buyer",
+        "text": "Romania"
+      },
+      {
+        "end": 834,
+        "start": 827,
+        "tag": "Buyer Country",
+        "text": "Romania"
+      }
+    ],
+    "text": "NATIONAL HARBOR \u2014 The Romanian Navy is exploring the purchase of a new drone for its expansion and modernization plans, the chief of the Romanian Naval Forces said Monday.\n\nAmid growing tensions with Russia on the Black Sea, the service is looking at a \u201ctotally new\u201d unmanned aerial system for the maritime and riverine domain, Vice Adm. Alexandru Mirsu said at the Sea-Air-Space forum here.\n\nThe capability would be used by Romania's Danube flotilla and for coastal surveillance, operated from the shoreline, Mirsu said. He did not provide a timeframe or a budget for the possible acquisition.\n\nPlans are underway to buy four new multipurpose corvettes as the core of the Romanian navy, and to modernize its Type 22 frigates. Also expected are purchases of new coastal missile batteries and three new submarines \u2014 all part of Romania\u2019s commitment to spending 2 percent of its gross domestic product on defense for the next decade.\n\nThe idea is to expand Romania\u2019s presence in the Black Sea, the Mediterranean and elswhere as needed by allies, and to maintain a submarine program beyond 2030.\n\nMirsu has previously said the submarines are needed to ensure Romania\u2019s operational capacities in the Black Sea, as the one Kilo-class submarine does not meet that need. Its Delfinul submarine was reportedly withdrawn from service and was being used for training purposes.\n\nMirsu also pointed to \u201ca new iron curtain\u201d of Russian anti access/area denial (A2/AD) hubs in Kaliningrad, Sevastopol and Syria.\n\nHe lauded major multinational exercises and NATO operations on the Black Sea for sending a message that the Black Sea is open, and an international body of water.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief."
   },
   {
     "filename": "20180424_OTH_Poland Struggles W_A_POL_B_USA",
@@ -8517,6 +8738,114 @@
       }
     ],
     "text": "Dubai-based Minerva Special Purpose Vehicles (MSPV) is building large numbers of Panthera T6 light armoured vehicles for Egypt\u2019s military.\n\nThis was revealed at the IDEX 2017 defence show earlier this week. IHS Jane\u2019s Defence Weekly quoted Mohamed Emad el-Kabbany, MSPV\u2019s assistant manager for sales and business development, as saying that Egypt is receiving between 2 000 and 3 000 Panthera T6s for its police and army.\n\nHe added that Egyptian company Eagles Defence International Systems (EDIS) is the company\u2019s Egyptian agent \u2013 in 2014 it was reported that EDIS was producing the Panthera T6, as well as the larger S10 and K10CMD.\n\nThe Panthera T6 was first seen in May 2014 during an Egyptian military parade and subsequently seen in the Sinai Peninsula. At least some have been fitted with electronic warfare equipment for use in the Sinai.\n\nThe Stockholm International Peace Research Institute (SIPRI) in its Arms Transfers Database, lists 50 Panthera T6s being ordered from the UAE in 2013, with deliveries from 2014-2015.\n\nAccordign to MSPV, the Panthera T6 is powered by a 4 litre V6 petrol engine driving all four wheels through a five speed manual transmission. It seats two plus six, although other seating arrangements are available. Features include air conditioning, a remote controlled roof mounted search light and camera, optional gun ports and hatches.\n\nThe Panthera T6 is based on the Toyota Land Cruiser 79-series chassis. An optional mount on the roof can accommodate a machinegun.\n\n\n\n\n\n\n\nLibya has apparently taken delivery of Panthera T6s donated by the United Arab Emirates. They were delivered in April 2016. The Panthera T6 was seen several times in March 2015 in use by the Libyan National Army. In September last year Indian security forces introduced the vehicle into service, particularly for security in Jammu and Kashmir."
+  },
+  {
+    "filename": "20190220_DN_US delivers laser-g_A_LEB_B_USA",
+    "labels": [
+      {
+        "end": 178,
+        "start": 9,
+        "tag": "Answer",
+        "text": "The United States delivered a shipment of laser-guided rockets to the Lebanese Air Force on the Feb. 13 \u2013 part of a military aid package to Lebanon valued at $16 million"
+      },
+      {
+        "end": 26,
+        "start": 9,
+        "tag": "Seller",
+        "text": "The United States"
+      },
+      {
+        "end": 26,
+        "start": 13,
+        "tag": "Seller Country",
+        "text": "United States"
+      },
+      {
+        "end": 71,
+        "start": 51,
+        "tag": "Weapon",
+        "text": "laser-guided rockets"
+      },
+      {
+        "end": 97,
+        "start": 75,
+        "tag": "Buyer",
+        "text": "the Lebanese Air Force"
+      },
+      {
+        "end": 87,
+        "start": 79,
+        "tag": "Buyer Country",
+        "text": "Lebanese"
+      },
+      {
+        "end": 112,
+        "start": 105,
+        "tag": "Date",
+        "text": "Feb. 13"
+      },
+      {
+        "end": 156,
+        "start": 149,
+        "tag": "Buyer",
+        "text": "Lebanon"
+      },
+      {
+        "end": 156,
+        "start": 149,
+        "tag": "Buyer Country",
+        "text": "Lebanon"
+      },
+      {
+        "end": 178,
+        "start": 167,
+        "tag": "Price",
+        "text": "$16 million"
+      },
+      {
+        "end": 1299,
+        "start": 1179,
+        "tag": "Answer",
+        "text": "the U.S. military aid program to Lebanon, which is the framework used for delivery of the six A-29 Super Tucano aircraft"
+      },
+      {
+        "end": 1196,
+        "start": 1183,
+        "tag": "Seller",
+        "text": "U.S. military"
+      },
+      {
+        "end": 1187,
+        "start": 1183,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 1219,
+        "start": 1212,
+        "tag": "Buyer",
+        "text": "Lebanon"
+      },
+      {
+        "end": 1219,
+        "start": 1212,
+        "tag": "Buyer Country",
+        "text": "Lebanon"
+      },
+      {
+        "end": 1272,
+        "start": 1269,
+        "tag": "Quantity",
+        "text": "six"
+      },
+      {
+        "end": 1299,
+        "start": 1273,
+        "tag": "Weapon",
+        "text": "A-29 Super Tucano aircraft"
+      }
+    ],
+    "text": "BEIRUT \u2014 The United States delivered a shipment of laser-guided rockets to the Lebanese Air Force on the Feb. 13 \u2013 part of a military aid package to Lebanon valued at $16 million.\n\nThe advanced precision kill weapon system, manufactured by BAE Systems, will add aerial fire capabilities to the Lebanese army. This also marks the first time these rockets will be used on the A-29 Super Tucano light attack aircraft or similar turboprop platforms.\n\nAccording to the Lebanese army official website, \u201cthis is the first batch of the rockets that will be delivered successively to the LAF.\u201d\n\nIn a previous interview during the Manama Air Power Symposium last November, Commander of the Lebanese Air Force Brigadier General Ziad Haykal said the close air support jets give an additive value to the LAF capabilities not previously found in the national air force.\n\n\u201cThe biggest challenge is the complementarity between the A-29 Super Tucano aircraft and other air force operational arms,\u201d Haykal said. \u201cWe are facing a new integration rule and operational paths, especially because these aircrafts will not operate alone but alongside other aircraft.\u201d\n\nHaykal stressed the importance of the U.S. military aid program to Lebanon, which is the framework used for delivery of the six A-29 Super Tucano aircraft.\n\n\u201cThe U.S. is the primary supplier of military equipment to Lebanon,\u201d he said. \u201cThe aid has made the difference in our battle against terrorists.\u201d\n\nIn a Feb. 13 statement, the U.S. embassy in Lebanon said the delivery demonstrates the U.S. government\u2019s firm and steady commitment of support to the Lebanese Armed Forces in their capacity as the sole, legitimate defender of Lebanon.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief."
   },
   {
     "filename": "20180510_DEFWEB_ANG confirmed a_A_ANG_B_ISR",
@@ -18507,6 +18836,108 @@
     "text": "Download any size at one price\n\nCredits are good for up to one year"
   },
   {
+    "filename": "20180511_REU_Russia after Netan_A_SYR_B_RUS",
+    "labels": [
+      {
+        "end": 122,
+        "start": 19,
+        "tag": "Answer",
+        "text": "Russia is not in talks with the Syrian government about supplying advanced S-300 ground-to-air missiles"
+      },
+      {
+        "end": 25,
+        "start": 19,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 25,
+        "start": 19,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 68,
+        "start": 47,
+        "tag": "Buyer",
+        "text": "the Syrian government"
+      },
+      {
+        "end": 57,
+        "start": 51,
+        "tag": "Buyer Country",
+        "text": "Syrian"
+      },
+      {
+        "end": 122,
+        "start": 94,
+        "tag": "Weapon",
+        "text": "S-300 ground-to-air missiles"
+      },
+      {
+        "end": 865,
+        "start": 784,
+        "tag": "Answer",
+        "text": "Russia last month hinted it would supply the weapons to President Bashar al-Assad"
+      },
+      {
+        "end": 790,
+        "start": 784,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 790,
+        "start": 784,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 836,
+        "start": 829,
+        "tag": "Weapon",
+        "text": "weapons"
+      },
+      {
+        "end": 865,
+        "start": 840,
+        "tag": "Buyer",
+        "text": "President Bashar al-Assad"
+      },
+      {
+        "end": 2384,
+        "start": 2346,
+        "tag": "Answer",
+        "text": "Moscow not to sell the S-300s to Syria"
+      },
+      {
+        "end": 2352,
+        "start": 2346,
+        "tag": "Seller",
+        "text": "Moscow"
+      },
+      {
+        "end": 2375,
+        "start": 2369,
+        "tag": "Weapon",
+        "text": "S-300s"
+      },
+      {
+        "end": 2384,
+        "start": 2379,
+        "tag": "Buyer",
+        "text": "Syria"
+      },
+      {
+        "end": 2384,
+        "start": 2379,
+        "tag": "Buyer Country",
+        "text": "Syria"
+      }
+    ],
+    "text": "MOSCOW (Reuters) - Russia is not in talks with the Syrian government about supplying advanced S-300 ground-to-air missiles and does not think they are needed, the Izvestia daily cited a top Kremlin aide as saying on Friday, in an apparent U-turn by Moscow.\n\nFILE PHOTO: An S-300 air defense missile system launches a missile during the Keys to the Sky competition at the International Army Games 2017 at the Ashuluk shooting range outside Astrakhan, Russia August 5, 2017. REUTERS/Maxim Shemetov/File Photo\n\nThe comments, by Vladimir Kozhin, an aide to President Vladimir Putin who oversees Russian military assistance to other countries, follow a visit to Moscow by Israeli Prime Minister Benjamin Netanyahu this week, who has been lobbying Putin hard not to transfer the missiles.\n\nRussia last month hinted it would supply the weapons to President Bashar al-Assad, over Israeli objections, after Western military strikes on Syria. Foreign Minister Sergei Lavrov said the strikes had removed any moral obligation Russia had to withhold the missiles and Russia\u2019s Kommersant daily cited unnamed military sources as saying deliveries might begin imminently.\n\nBut Kozhin\u2019s comments, released so soon after Netanyahu\u2019s Moscow talks with Putin, suggest the Israeli leader\u2019s lobbying efforts have, for the time being, paid off.\n\n\u201cFor now, we\u2019re not talking about any deliveries of new modern (air defense) systems,\u201d Izvestia cited Kozhin as saying when asked about the possibility of supplying Syria with S-300s.\n\nThe Syrian military already had \u201ceverything it needed,\u201d Kozhin added.\n\nThe Kremlin played down the idea that it had performed a U-turn on the missile question or that any decision was linked to Netanyahu\u2019s visit.\n\nSlideshow ( 2 images )\n\n\u201cDeliveries (of the S-300s) were never announced as such,\u201d Kremlin spokesman Dmitry Peskov told reporters on a conference call, when asked about the matter.\n\n\u201cBut we did say after the (Western) strikes (on Syria) that of course Russia reserved the right to do anything it considered necessary.\u201d\n\nThe possibility of missile supplies to Assad along with its military foray into Syria itself has helped Moscow boost its Middle East clout. with Putin hosting everyone from Netanyahu to the presidents of Turkey and Iran and the Saudi king.\n\nISRAELI LOBBYING\n\nIsrael has made repeated efforts to persuade Moscow not to sell the S-300s to Syria, as it fears this would hinder its aerial capabilities against arms shipments to Iranian-backed Lebanese group Hezbollah. Israel has carried out scores of air strikes against suspected shipments.\n\nOn Thursday, Israel said it had attacked nearly all of Iran\u2019s military infrastructure in Syria after Iranian forces fired rockets at Israeli-held territory. S-300s could have significantly complicated the Israeli strikes.\n\nThe missile system, originally developed by the Soviet military, but since modernized and available in several versions with significantly different capabilities, fires missiles from trucks and is designed to shoot down military aircraft and short and medium-range ballistic missiles.\n\nThough since been superseded by the more modern S-400 system, the S-300s are still regarded as highly potent and outstrip anything that the Syrian government currently has.\n\nSyria currently relies on a mixture of less advanced Russian-made anti-aircraft systems to defend its air space.\n\nRussian media on Friday were actively circulating a video released by the Israeli military which showed an Israeli missile destroying one such system -- a Russian-made Pantsir S-1 air defense battery -- on Thursday in Syria."
+  },
+  {
     "filename": "20171003_DEFWEB_ALG commission _A_ALG_B_ITA",
     "labels": [
       {
@@ -20049,6 +20480,179 @@
     "filename": "20180615_DN_Germany bolsters pr_B_FRG",
     "labels": [],
     "text": "PARIS \u2014 The outlook for German foreign arms sales has strengthened, with the government coalition led by Chancellor Angela Merkel pushing to focus on allies in Europe.\n\n\u201cGermany clearly in their coalition paper indicated they wanted a more European approach,\u201d said Frank Haun, co-chairman of KNDS, the joint venture between KMW and Nexter. Haun spoke to Defense News at the Eurosatory trade show for land weapons.\n\n\u201cThis is the right path. This means they will find a solution.\u201d Haun is also CEO of Krauss-Maffei Wegmann. Stephane Mayer, CEO of Nexter, is the co-chairman at KNDS.\n\n\u201cThe principle is Germany is on the move,\u201d Haun said. \u201cIt is not a block. It is a process and it takes time.\u201d\n\nArms export is a highly sensitive topic in Germany, with strong debate over the use of German weapons by client nations such as Turkey and Saudi Arabia, respectively heavily engaged in Syria and Yemen. A sought-after alignment of French and German arm export policy is key to KNDS. The partner companies, Krauss-Maffei Wegmann and Nexter, have long competed with each other, but now they seek to work cooperatively to snag opportunities in the world market.\n\nThere is little public controversy in France on arms export, on which successive governments publish an annual report to parliament, giving details of the deals won in the previous year. French media have asked the Armed Forces Ministry when this year\u2019s report will be released. Clearance of foreign arms deals lies in political hands and once policy is set, then companies can pursue their target markets.\n\n\u201cWe are not in charge of external policy of our two countries,\u201d said Mayer. \u201cHowever we wish that they find an agreement, to make things clear from the beginning on how to export the systems.\u201d\n\nIf there is political clearance for sales limited to the European market, then KNDS could focus its efforts. That includes building new factories in Europe, Mayer said. The European market for main battle tanks is worth an estimated \u20ac80 billion (U.S. $93 billion) based on an estimated park of 8,000 tanks, worth \u20ac10 million per unit, Haun said.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\n\u201cThis is a huge market,\u201d he said, of which KNDS aims to win more than half. \u201cWe want at least 50 percent, we want to be market leader.\u201d\n\nThe German Leopard tank accounts for 40 percent of the European market, while the French Leclerc holds 3 percent, so KNDS already controls 43 percent. With an operational life of some 40 years, the sale of service and spares for the tanks would be extensive.\n\nEast European nations will likely seek to replace Russian tanks, or tanks built on Russian design, so the market potential is seen to be there. KNDS unveiled at Eurosatory its European Main Battle Tank, built by fitting the Leopard 2 chassis with a Leclerc turret and 120 mm gun. That display outside the KNDS outdoor chalet marked the market launch of a cooperative effort aimed solely for foreign armies."
+  },
+  {
+    "filename": "20170328_OTH_Japan and UK to Co",
+    "labels": [
+      {
+        "end": 2134,
+        "start": 1992,
+        "tag": "Answer",
+        "text": "The Eurofighter consortium, which includes the United Kingdom, unsuccessfully tried to pitch the Eurofighter Typhoon aircraft to Japan in 2011"
+      },
+      {
+        "end": 2018,
+        "start": 1992,
+        "tag": "Seller",
+        "text": "The Eurofighter consortium"
+      },
+      {
+        "end": 2053,
+        "start": 2035,
+        "tag": "Seller",
+        "text": "the United Kingdom"
+      },
+      {
+        "end": 2053,
+        "start": 2039,
+        "tag": "Seller Country",
+        "text": "United Kingdom"
+      },
+      {
+        "end": 2117,
+        "start": 2089,
+        "tag": "Weapon",
+        "text": "Eurofighter Typhoon aircraft"
+      },
+      {
+        "end": 2126,
+        "start": 2121,
+        "tag": "Buyer",
+        "text": "Japan"
+      },
+      {
+        "end": 2126,
+        "start": 2121,
+        "tag": "Buyer Country",
+        "text": "Japan"
+      },
+      {
+        "end": 2134,
+        "start": 2130,
+        "tag": "Date",
+        "text": "2011"
+      },
+      {
+        "end": 2226,
+        "start": 2136,
+        "tag": "Answer",
+        "text": "The JASDF, however, opted for the U.S.-made F-35A Lightning II stealth fighter jet instead"
+      },
+      {
+        "end": 2145,
+        "start": 2140,
+        "tag": "Buyer",
+        "text": "JASDF"
+      },
+      {
+        "end": 2174,
+        "start": 2170,
+        "tag": "Seller",
+        "text": "U.S."
+      },
+      {
+        "end": 2173,
+        "start": 2170,
+        "tag": "Seller Country",
+        "text": "U.S"
+      },
+      {
+        "end": 2218,
+        "start": 2180,
+        "tag": "Weapon",
+        "text": "F-35A Lightning II stealth fighter jet"
+      },
+      {
+        "end": 2317,
+        "start": 2228,
+        "tag": "Answer",
+        "text": "Japan placed an order for 42 F-35 through the U.S. Foreign Military Sales Program in 2011"
+      },
+      {
+        "end": 2233,
+        "start": 2228,
+        "tag": "Buyer",
+        "text": "Japan"
+      },
+      {
+        "end": 2233,
+        "start": 2228,
+        "tag": "Buyer Country",
+        "text": "Japan"
+      },
+      {
+        "end": 2256,
+        "start": 2254,
+        "tag": "Quantity",
+        "text": "42"
+      },
+      {
+        "end": 2261,
+        "start": 2257,
+        "tag": "Weapon",
+        "text": "F-35"
+      },
+      {
+        "end": 2309,
+        "start": 2274,
+        "tag": "Seller",
+        "text": "U.S. Foreign Military Sales Program"
+      },
+      {
+        "end": 2278,
+        "start": 2274,
+        "tag": "Seller Country",
+        "text": "U.S."
+      },
+      {
+        "end": 2317,
+        "start": 2313,
+        "tag": "Date",
+        "text": "2011"
+      },
+      {
+        "end": 2537,
+        "start": 2442,
+        "tag": "Answer",
+        "text": "Japan is slated to procure up to 100 new fifth-generation air superiority fighters by the 2030s"
+      },
+      {
+        "end": 2447,
+        "start": 2442,
+        "tag": "Buyer",
+        "text": "Japan"
+      },
+      {
+        "end": 2447,
+        "start": 2442,
+        "tag": "Buyer Country",
+        "text": "Japan"
+      },
+      {
+        "end": 2478,
+        "start": 2475,
+        "tag": "Quantity",
+        "text": "100"
+      },
+      {
+        "end": 2525,
+        "start": 2483,
+        "tag": "Weapon",
+        "text": "fifth-generation air superiority fighters "
+      },
+      {
+        "end": 2537,
+        "start": 2532,
+        "tag": "Date",
+        "text": "2030s"
+      }
+    ],
+    "text": "Japan and the United Kingdom have agreed to explore options to jointly develop a new fighter aircraft.\n\nAdvertisement\n\nJapan\u2019s Acquisition, Technology, and Logistics Agency and the United Kingdom\u2019s Ministry of Defense have concluded an agreement to explore options for co-developing an advanced fighter jet, according to a March 16 press release by the Japanese Ministry of Defense.\n\nThe agreement stipulates that both countries will exchange information about advanced aviation technology and also conduct a joint study on the feasibility of co-developing a new fighter aircraft in the coming years.\n\nThe press release further notes that Japan will continue to explore fighter jet co-development options with other countries. \u201cRegarding the possibility of international joint development on fighter aircraft in the future, we will continue to exchange views with other countries,\u201d the MoD statement reads.\n\nWhile the next-generation fighter jet project would be the biggest Japan-UK collaboration on sensitive defense technology so far, both countries are also a working on jointly developing a new ramjet-powered, beyond a visual range air-to-air missile.\n\nDiplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter\n\nDuring a January 2016 visit, the UK defense minister and his Japanese counterpart agreed to move discussions on the project to the next stage. The aim of the project is to integrate Japanese seeker technologies into the European Meteor Beyond Visual Range Air-to-Air Missile.\n\nEnjoying this article? Click here to subscribe for full access. Just $5 a month.\n\nIn October 2016, the UK Royal Air Force (RAF) and the Japan Air Self-Defense Force (JASDF) also held their first-ever joint aerial combat drill, dubbed Guardian North 16, in Japan. The exercise involved four RAF Eurofighter Typhoon fighter jets, JASDF Boeing F-15J all-weather air superiority fighters and Mitsubishi F-2s.\n\nThe Eurofighter consortium, which includes the United Kingdom, unsuccessfully tried to pitch the Eurofighter Typhoon aircraft to Japan in 2011. The JASDF, however, opted for the U.S.-made F-35A Lightning II stealth fighter jet instead. Japan placed an order for 42 F-35 through the U.S. Foreign Military Sales Program in 2011. The first aircraft was handed over to the JASDF in December 2016.\n\nNevertheless, the F-35 order is an interim solution and Japan is slated to procure up to 100 new fifth-generation air superiority fighters by the 2030s. An estimated $20 billion contract is expected to be awarded in the summer of 2018 (See: \u201cJapan\u2019s Air Force to Receive 100 New Stealth Fighter Jets\u201d).\n\nAdvertisement\n\nAs I explained in July 2016, Japan has three options for procuring for the new aircraft: \u201cFirst, develop an indigenous air superiority fighter. Second, partner with a foreign defense contractor and license-produce a new aircraft. Third, import or upgrade an existing platform.\u201d The UK-Japan joint study falls into the second option of partnering with a foreign aircraft maker.\n\nHowever, U.S. aircraft makers will remain Japan\u2019s top choice for any future fighter jet co-development projects. Last year, Japan unveiled an experimental fifth-generation fighter technology demonstrator, dubbed X-2 \u201cShinshin\u201d (formerly the ATD-X), which will be the basis for the JASDF\u2019s so-called (F-3) Future Fighter Program. As I reported last year, U.S. defense contractor Lockheed-Martin is purportedly already involved with the project in some capacity."
+  },
+  {
+    "filename": "20180216_OTH_PH committed to pe",
+    "labels": [],
+    "text": "Their meeting comes 3 months after Duterte formally terminated the government's peace negotiation with communists, following the death of a 4-month old baby in an ambush by the communist New People's Army (NPA) in Bukidnon."
   },
   {
     "filename": "20180206_JPOST_Germany extends _A_FRG_B_ISR",
