@@ -1,0 +1,312 @@
+{
+  "filename": "20180514_OTH_Implications of CA_A_IND_B_USA",
+  "labels": [
+    {
+      "end": 8665,
+      "start": 8429,
+      "tag": "Answer",
+      "text": "US has bagged more than $15 billion in arms deals including for the C-17 Globemaster and C-130J transport planes, P-8 (I) maritime reconnaissance aircraft, M777 light-weight howitzer, Harpoon missiles, and Apache and Chinook helicopters"
+    },
+    {
+      "end": 8431,
+      "start": 8429,
+      "tag": "Seller",
+      "text": "US"
+    },
+    {
+      "end": 8431,
+      "start": 8429,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 8464,
+      "start": 8453,
+      "tag": "Price",
+      "text": "$15 billion"
+    },
+    {
+      "end": 8513,
+      "start": 8497,
+      "tag": "Weapon",
+      "text": "C-17 Globemaster"
+    },
+    {
+      "end": 8541,
+      "start": 8518,
+      "tag": "Weapon",
+      "text": "C-130J transport planes"
+    },
+    {
+      "end": 8583,
+      "start": 8543,
+      "tag": "Weapon",
+      "text": "P-8 (I) maritime reconnaissance aircraft"
+    },
+    {
+      "end": 8611,
+      "start": 8585,
+      "tag": "Weapon",
+      "text": "M777 light-weight howitzer"
+    },
+    {
+      "end": 8629,
+      "start": 8613,
+      "tag": "Weapon",
+      "text": "Harpoon missiles"
+    },
+    {
+      "end": 8665,
+      "start": 8635,
+      "tag": "Weapon",
+      "text": "Apache and Chinook helicopters"
+    },
+    {
+      "end": 84,
+      "start": 37,
+      "tag": "Answer",
+      "text": "India\u2019s planned defence procurement from Russia"
+    },
+    {
+      "end": 42,
+      "start": 37,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 42,
+      "start": 37,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 84,
+      "start": 78,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 84,
+      "start": 78,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 7709,
+      "start": 7695,
+      "tag": "Weapon",
+      "text": "MiG-21 fighter"
+    },
+    {
+      "end": 7666,
+      "start": 7661,
+      "tag": "Date",
+      "text": "1960s"
+    },
+    {
+      "end": 7677,
+      "start": 7672,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 7677,
+      "start": 7672,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 7714,
+      "start": 7553,
+      "tag": "Answer",
+      "text": "Nonetheless, the Soviet Union (and later Russia) has been the main source of India\u2019s arms imports since the 1960s when India first signed the MiG-21 fighter deal"
+    },
+    {
+      "end": 7582,
+      "start": 7566,
+      "tag": "Seller",
+      "text": "the Soviet Union"
+    },
+    {
+      "end": 7600,
+      "start": 7594,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 7600,
+      "start": 7594,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 8781,
+      "start": 8716,
+      "tag": "Answer",
+      "text": "the US likely accepting an Indian request for Sea Guardian drones"
+    },
+    {
+      "end": 8722,
+      "start": 8716,
+      "tag": "Seller",
+      "text": "the US"
+    },
+    {
+      "end": 8722,
+      "start": 8720,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 8749,
+      "start": 8743,
+      "tag": "Buyer",
+      "text": "Indian"
+    },
+    {
+      "end": 8749,
+      "start": 8743,
+      "tag": "Buyer Country",
+      "text": "Indian"
+    },
+    {
+      "end": 8781,
+      "start": 8762,
+      "tag": "Weapon",
+      "text": "Sea Guardian drones"
+    },
+    {
+      "end": 9127,
+      "start": 8830,
+      "tag": "Answer",
+      "text": "Lockheed Martin and Boeing, are also strong contenders for a number of high-profile arms deals, including the recently floated tender notices for 110 fighter planes for the Indian Air Force, 57 Multi-Role Carrier Borne Fighters for the Indian Navy, and 234 naval utility and multi-role helicopters"
+    },
+    {
+      "end": 8845,
+      "start": 8830,
+      "tag": "Seller",
+      "text": "Lockheed Martin"
+    },
+    {
+      "end": 8856,
+      "start": 8850,
+      "tag": "Seller",
+      "text": "Boeing"
+    },
+    {
+      "end": 8979,
+      "start": 8976,
+      "tag": "Quantity",
+      "text": "110"
+    },
+    {
+      "end": 8994,
+      "start": 8980,
+      "tag": "Weapon",
+      "text": "fighter planes"
+    },
+    {
+      "end": 9019,
+      "start": 8999,
+      "tag": "Buyer",
+      "text": "the Indian Air Force"
+    },
+    {
+      "end": 9009,
+      "start": 9003,
+      "tag": "Buyer Country",
+      "text": "Indian"
+    },
+    {
+      "end": 9023,
+      "start": 9021,
+      "tag": "Quantity",
+      "text": "57"
+    },
+    {
+      "end": 9057,
+      "start": 9024,
+      "tag": "Weapon",
+      "text": "Multi-Role Carrier Borne Fighters"
+    },
+    {
+      "end": 9077,
+      "start": 9062,
+      "tag": "Buyer",
+      "text": "the Indian Navy"
+    },
+    {
+      "end": 9072,
+      "start": 9066,
+      "tag": "Buyer Country",
+      "text": "Indian"
+    },
+    {
+      "end": 9086,
+      "start": 9083,
+      "tag": "Quantity",
+      "text": "234"
+    },
+    {
+      "end": 9100,
+      "start": 9087,
+      "tag": "Weapon",
+      "text": "naval utility"
+    },
+    {
+      "end": 9127,
+      "start": 9105,
+      "tag": "Weapon",
+      "text": "multi-role helicopters"
+    },
+    {
+      "end": 11606,
+      "start": 11476,
+      "tag": "Answer",
+      "text": "India\u2019s planned procurement from Russia, particularly the S-400 air defence system, Project 1135.6 frigates and Ka226T helicopters"
+    },
+    {
+      "end": 11481,
+      "start": 11476,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 11481,
+      "start": 11476,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 11515,
+      "start": 11509,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 11515,
+      "start": 11509,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 11558,
+      "start": 11534,
+      "tag": "Weapon",
+      "text": "S-400 air defence system"
+    },
+    {
+      "end": 11583,
+      "start": 11560,
+      "tag": "Weapon",
+      "text": "Project 1135.6 frigates"
+    },
+    {
+      "end": 11606,
+      "start": 11588,
+      "tag": "Weapon",
+      "text": "Ka226T helicopters"
+    }
+  ],
+  "text": "Recent reports have highlighted that India\u2019s planned defence procurement from Russia could potentially come under US sanctions under a newly enacted law, Countering America\u2019s Adversaries through Sanctions Act (CAATSA).1 The Act, if implemented in its extreme form, has the potential to adversely affect India\u2019s defence purchases from its traditional partner, Russia, besides putting to test India\u2019s growing defence and security relations with the United States. This Brief examines CAATSA and its likely implications for India\u2019s defence and security cooperation with two of its main arms suppliers, Russia and the United States.\n\nUnderstanding CAATSA\n\nCAATSA was passed overwhelmingly by the US Congress and signed reluctantly by President Donald Trump.2 Enacted on August 2, 2017, it aims to counter the aggression by Iran, Russia and North Korea through punitive measures.3 Title II of the Act primarily deals with sanctions on Russian interests such as its oil and gas industry, defence and security sector, and financial institutions, in the backdrop of its military intervention in Ukraine and its alleged meddling in the 2016 US Presidential elections. Section 231 of the Act empowers the US President to impose at least five of the 12 listed sanctions \u2014 enumerated in Section 235 of the Act \u2014 on persons engaged in a \u201csignificant transaction\u201d with Russian defence and intelligence sectors. Two of the most stringent of these sanctions are the export licence restriction by which the US President is authorised to suspend export licences related to munitions, dual-use and nuclear related items; and the ban on American investment in equity/debt of the sanctioned person. Some other sanctions, which are of not much relevance to India, include restriction on US Export Import Bank assistance; prohibition on loans from international financial institutions; exclusion from participation in US government procurement; and visa restrictions on corporate officers of the sanctioned entities.\n\nSubsequent to the enactment of the Act, the US President has delegated his powers to the Secretary of State to implement Section 231 in consultation with the Treasury Secretary. As part of Section 231 of the Act, the Department of State has notified 39 Russian entities, dealings with which could make third parties liable to sanctions. These include almost all of the major Russian companies/entities such as Rosoboronexport, Almaz-Antey, Sukhoi Aviation, Russian Aircraft Corporation MiG, and United Shipbuilding Corporation which are active in manufacturing defence items and/or their exports. The list also includes a few entities from the intelligence sector (Table 1).\n\nIt is important to mention that among the 39 entities, Rosoboronexport, the Russian state-controlled intermediary for export/import of arms, also figures in the list notified on April 6, 2018 by the Office of Foreign Asset Control (OFAC) of the Department of Treasury, in pursuance of various Executive Orders, besides CAATSA.4 The significance of Rosoboronexport finding its name in the OFAC\u2019s list is that, apart from all of its assets subject to US jurisdiction being frozen, any non-American person facilitating significant transactions with it will also be liable to face sanctions by the United States.5\n\nIt is to be noted, however, that the mere naming of 39 Russian entities by the US authorities or dealings by any country with these entities does not automatically lead to the imposition of sanctions under the CAATSA provisions. The key determinant for imposing sanctions is \u201csignificant transaction\u201d between the named Russian entity and an outside agency. It is also important to note that the determination of what is a significant transaction is not based purely on the monetary value. As explained by the Public Guidance/Frequently Asked Questions (FAQ) issued by the State Department:\n\nThe factors considered in the determination may include, but are not limited to, the significance of the transaction to US national security and foreign policy interests, in particular whether it has a significant adverse impact on such interests; the nature and magnitude of the transactions; and the relation and significance of the transaction to the defence or intelligence sector of the Russian government.6\n\nIt is significant to note that no sanctions have yet been imposed on any country, though US officials claim that they have been quite successful in persuading a few potential buyers from buying Russian arms. In a special briefing on January 30, 2018, senior State Department officials boasted that their global outreach on Section 231 has \u201cturn[ed] off potential deals that equal several billion dollars. And that is real success, it\u2019s real money, and it\u2019s real revenue that is not going to Russia as part of this law.\u201d7 Despite CAATSA having been enacted in August 2017, Rosoboronexport officials noted that, in 2017, the geographical spread of Russian arms export agreements expanded to cover 53 countries, earning the country revenues totalling US$15 billion.8\n\nIndia\u2019s Arms Procurement: Role of Russia and other Major Suppliers\n\nIndia faces one of the most complex security environments in the word that spans the full spectrum of conflict from nuclear to sub-conventional war, and the possibility of a two front war. Apart from cross-border terrorism and growing radicalisation in its immediate and extended neighbourhood, India\u2019s security landscape is challenged by the unresolved border disputes with Pakistan and its \u2018all-weather friend\u2019, China. Between these two traditional rivals, it is China which is increasingly becoming unpredictable for India\u2019s security calculus. China\u2019s increasing military activism under its life-time president, supported by an unpreceded increase in military spending \u2014 which has made it the second largest military spender in the world \u2014 is of particular concern to India. Its military assertion, including recently in Doklam, and growing military encirclement of India through land- and sea-based infrastructure networks in the Indian Ocean Region, pose a grave challenge to India in the foreseeable future.\n\nIn order to meet the myriad security challenges, it has been a constant endeavour of India to strengthen its defence preparedness, by equipping its armed forces with state-of-the-art arms. Towards this end, India has spent a great deal of resources, with the defence budget for 2018-19 amounting to Rs 2,79,305 crore (US$43.4 billion). By virtue of the size of the defence budget, India has a significant arms procurement spend (Rs 74,116 crore or $11.3 billion in 2018-19), which is funded through the allocation for capital expenditure in the defence budget. In 2018-19, the defence capital expenditure amounts to Rs 93,982 crore ($14.3 billion), which represents 34 per cent of the defence budget and 31 per cent of total central government capital expenditure. Much of the procurement budget is, however, spent on importing arms, indicating the deficiency in India\u2019s defence R&D and manufacturing capability. Heavy dependence on foreign arms has earned India the dubious distinction of being one of the largest arms importers in the world. According to the US Congressional Research Service, during the period 2008-2015, India was the second biggest recipient of arms among the developing countries, with deliveries received totalling $26.4 billion.9\n\nWhile importing arms, India has, since independence, followed a policy of diversification, which has led it to source weapons from more than two dozen countries. Nonetheless, the Soviet Union (and later Russia) has been the main source of India\u2019s arms imports since the 1960s when India first signed the MiG-21 fighter deal. Other significant suppliers of arms include the UK, France, Israel and the United States. Among these, the US has, in particular, been quite successful in bagging multi-billion dollar arms contracts in recent years, thanks to the 2005 India-US nuclear deal, in which US defence contractors \u201cplayed a part\u201d in passing a key legislation in the US Congress.10 Between 2013-14 and 2015-16, the US has won 13 contracts worth Rs 28,895 crore ($4.4 billion). Both in term of the number and value of contracts, the US is way ahead of other major suppliers (Table 2). In percentage terms, the US share of Indian arms imports total 23 per cent in terms of the number of contracts and 54 per cent by value.\n\nSince 2008, the US has bagged more than $15 billion in arms deals including for the C-17 Globemaster and C-130J transport planes, P-8 (I) maritime reconnaissance aircraft, M777 light-weight howitzer, Harpoon missiles, and Apache and Chinook helicopters.11 This value is all set to increase further with the US likely accepting an Indian request for Sea Guardian drones. In addition, US defence contractors, including Lockheed Martin and Boeing, are also strong contenders for a number of high-profile arms deals, including the recently floated tender notices for 110 fighter planes for the Indian Air Force, 57 Multi-Role Carrier Borne Fighters for the Indian Navy, and 234 naval utility and multi-role helicopters.\n\nThe success of the US, and also Israel to a large extent, in the Indian arms market has its effect on Russian supplies, though Moscow still remains India\u2019s predominant defence supplier. As per the Stockholm International Peace Research Institute (SIPRI) Arms Transfer Database, during the period 2010-17, Russia was the top arms supplier to India, with total deliveries amounting to 19.8 billion Trend Indicator Values (TIV),12 followed by the US (3.05 billion TIV), and Israel (2.5 billion TIV). In percentage terms, however, the Russian share in India\u2019s arms imports during the same period has declined to 68 per cent, from an all-time high of 74 per cent during the 2000s, whereas the combined share of the US and Israel has increased from nine to 19 per cent. Between 2013 and 2017, Russia\u2019s share declined further to 62 per cent, whereas the combined share of US and Israel increased to 26 per cent.13 Accounting for about 15 per cent, the United States is the second biggest supplier of arms to India during the five year period ending 2017. Between 2000-2009 and 2010-17, US arms deliveries to India have increased by a whopping 1470 per cent. Figures 1 and 2 portray the summary of India\u2019s main arms suppliers and their share since the 1950s.\n\nBehind the curtain of Russian dominance also lies the criticality of India\u2019s defence preparedness and indigenous manufacturing. It is needless to say that the bulk of the potent weapons in India\u2019s arsenal are of Soviet/Russian origin and that some of these are not available for purchase from any other source, even for love of money.\n\nThe nuclear submarine INS Chakra, the Kilo-class conventional submarine, the supersonic Brahmos cruise missile, the MiG 21/27/29 and Su-30 MKI fighters, IL-76/78 transport planes, T-72 and T-90 tanks, Mi-series of helicopters, and Vikramaditya aircraft carrier are all sourced from India\u2019s traditional Cold War partner.\n\nSimilarly, from the point of view of indigenisation and self-reliance efforts, which are being reinvigorated through the present government\u2019s Make in India programme, Russian technologies constitute the mainstay of India\u2019s licence-based manufacturing.\n\nImplication on India\u2019s Arms Procurement from Russia\n\nCAATSA, if implemented in its stringent form, is likely to affect India\u2019s arms procurement from Russia in a number of ways. First, India\u2019s planned procurement from Russia, particularly the S-400 air defence system, Project 1135.6 frigates and Ka226T helicopters, will come under the immediate scanner of US authorities, as they are mandated to deter exports of key Russian defence entities. In all likelihood, US authorities will try to influence their Indian counterparts to ignore the Russian platforms, though it is entirely up to New Delhi to make its own judgement. Second, CAATSA is likely to affect all the joint ventures (JVs) \u2013 existing or planned \u2014 between Indian and Russian defence companies. Some of the existing JVs that may come under the scanner are: Indo Russian Aviation Ltd, Multi-Role Transport Aircraft Ltd and Brahmos Aerospace. Third, the Act will also affect India\u2019s purchase of spare parts, components, raw materials and other assistance for which Indian entities are dependent on Russia for domestic licence manufacturing and maintenance of existing equipment.\n\nCAATSA and India-US Defence Cooperation\n\nCAATSA has the potential to heighten India\u2019s traditional insecurity about the United States as a reliable partner, and sour New Delhi\u2019s defence and security cooperation with Washington at a time when the US is projecting India as a key partner in its Indo-Pacific strategy, with the US National Security Strategy 2017 explicitly supporting New Delhi\u2019s vital role in this regard.14 The biggest question therefore is how and to what extent CAATSA is going to affect India-US defence and security cooperation. It all depends on how lightly or stringently CAATSA provisions are imposed. Apart from the standard waivers that the US President enjoys on the grounds of national security interests, there are plenty of conciliatory remarks from higher American authorities, which indicate that Washington may take a lenient view of CAATSA in regard to India\u2019s defence cooperation with Russia. For instance, Admiral Harry Harris, Commander of the US Pacific Command, referred to a classified letter written by Secretary of Defense James Mattis to the concerned members of the Senate Committee on Armed Services, wherein Secretary Mattis has requested for \u201csome relief from CAATSA\u201d for countries like India.15 In his argument, Admiral Harris has also favoured relief citing the \u201cstrategic opportunity\u201d that India presents to the US and also the opportunity \u201cto trade in arms with India.\u201d Other senior US defence department officials have also made similar statements favouring the adoption of a lenient view for India\u2019s defence procurement from Russia.\n\nThe conciliatory remarks from high US officials are not surprising given that the sanctions on India or any of its entities and persons will bring bilateral defence cooperation to a halt, as the Indian Ministry of Defence will not be able to engage its US counterpart, including on arms trade that Admiral Harris was referring to. That, in turn, would force India to reverse its declining arms dependence on Russia, while arresting the upward trend in India-US defence trade. More importantly, any US sanctions on India will be counterproductive to America\u2019s own strategic interests vis-\u00e0-vis China. Needless to say that an adversely affected Indian defence posture will end up tilting the military balance in favour of China, whose military assertion in the Indo-Pacific region bothers both Washington and New Delhi.\n\nThe extent to which CAATSA would affect Indo-US defence relations will depend on what sanctions, if any, Washington decides to impose on New Delhi in view of India\u2019s continued defence cooperation with Russia. As mentioned earlier, the President, through the State Department, is required to impose a minimum of five out of the 12 listed sanctions as and when he takes such a decision. It may, however, be noted that of the 12 listed sanctions, only two \u2014suspension of export licence and ban on American equity/debt investment in Indian entities \u2014have some relevance for India, with others having little practical impact. The suspension of the licences will bar American companies from participating in Indian defence contracts, apart from forcing them to stop providing maintenance support for the defence equipment that India has already bought from the US. The latter will jeopardise India\u2019s defence preparedness in respect to existing inventory of US equipment. It is however to be noted that US companies reneging on on-going contractual obligations citing the US government\u2019s action is not liable to be excused under existing Force Majeure provisions stipulated in the Defence Procurement Procedures.16 On the other hand, as per the MoD\u2019s existing Guidelines on Penalties in Business Dealings with Entities, such reneging of contractual obligations will attract either suspension or ban of the concerned companies.17\n\nThe ban on equity/debt investment will place in jeopardy the Joint Ventures that American defence companies have formed with Indian companies in recent years. Moreover, American companies will be barred in the future from forming any Joint Ventures with their Indian counterparts to take part in several mega procurement contracts that the MoD is aggressively pushing through its newly announced Strategic Partnership (SP) model as part of its Make in India and diversification policies. In other words, the US has much to lose if it imposes CAATSA on India. Besides, it will be a huge set back to the emerging defence and security cooperation that has led to India signing a logistics pact with the US, American arms deals with India booming from near zero to over $15 billion in a matter of less than a decade, the US designating India as a Major Defence Partner, and both countries actively cooperating in various security forums including in the newly formed Quad. Given this, and the fact that Russian weapons in Indian hands do not threaten American national security interests directly, it will be extremely unwise on the part of the US to impose any CAATSA-related sanctions, least of all its two most stringent ones related to export control and equity/debt investment, on India.\n\nConclusion\n\nWhile CAATSA is unlikely to be imposed on India anytime soon, it is nonetheless a dampener on an otherwise booming defence relationship between India and the United States. As a sovereign country, India cannot be dictated to go slow or suspend its existing or future defence cooperation with Russia. It is also practically impossible for India to ignore Russia in view of the latter\u2019s importance in meeting some of the critical defence hardware requirements of the Indian armed forces and also because of the overwhelming share of Russian weaponry in the Indian arms inventory, the upkeep of which necessitates New Delhi\u2019s continued dependence on Moscow for the foreseeable future. Indian defence decision makers may like to impress this critical aspect upon their American interlocutors and find suitable mitigation. At the same time, India also needs to be prepared for any eventual CAATSA-related sanctions, which, though unlikely in the immediate future, may surface in the long run. India may safeguard its interests by expanding the scope of its existing guidelines for penalties in business dealings to include a provision for banning defence companies of countries which resort to banning entities of other countries for foreign policy purposes. Moreover, India may also like to be cautious while issuing multi-billion dollar arms tenders to countries that are perceived to be unreliable."
+}
