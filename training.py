@@ -8,13 +8,14 @@ from transformers import BertTokenizerFast
 from ignite.engine import Engine, Events
 from ignite.metrics import Accuracy, Loss, Precision, Recall
 from ignite.contrib.handlers import ProgressBar
+from ignite.handlers import ModelCheckpoint, Checkpoint
 import torch.nn as nn
 from parallel_token_classification import BertForParallelTokenClassification, LABELS
 
 parser = argparse.ArgumentParser(description='Train a network to identify arms deals.')
 parser.add_argument('data', type=str, help="The dataset directory.")
-parser.add_argument('-o', '--output', type=str, help="Where to output the model between epochs.")
-parser.add_argument('-i', '--input', type=str, help="What model to load.")
+parser.add_argument('-l', '--load', default=None, type=str, help="Load the model from a file.")
+parser.add_argument('-s', '--save', default=None, type=str, help="Save the model under this name between epochs.")
 args = parser.parse_args()
 
 class BERT(nn.Module):
@@ -49,7 +50,7 @@ def avoid_zero_predicts(y_pred, y):
     y[0][0][0] = 0
 
 model = BERT()
-optimizer = optim.Adam(model.parameters(), lr=2e-5)
+optimizer = optim.Adam(model.parameters(), lr=5e-5)
 texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts[:16]
 tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
 preprocessor = Preprocessor(tokenizer, BERT.max_length)
@@ -121,12 +122,19 @@ def log_training_results(trainer):
   evaluator.run(eval_loader)
   print_metrics(trainer, evaluator.state.metrics, "Validation")
 
+
+save_prefix = 'default' if args.save == None else args.save
+checkpoint_handler = ModelCheckpoint('checkpoints', save_prefix, n_saved=None, create_dir=True, require_empty=False)
+saved_data = {"weights": model, "optimizer": optimizer, "trainer": trainer}
+if args.save != None:
+  trainer.add_event_handler(Events.EPOCH_COMPLETED(every=1), checkpoint_handler, saved_data)
+if args.load != None:
+  loaded_checkpoint = torch.load(args.load)
+  Checkpoint.load_objects(to_load=saved_data, checkpoint=loaded_checkpoint)
+
+
 @trainer.on(Events.STARTED)
 def on_start(trainer):
   log_training_results(trainer)
 
 trainer.run(train_loader, max_epochs=100)
-
-print(len(train_texts), "Train")
-print(len(eval_texts), "Eval")
-
