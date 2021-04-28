@@ -16,10 +16,12 @@ parser = argparse.ArgumentParser(description='Train a network to identify arms d
 parser.add_argument('data', type=str, help="The dataset directory.")
 parser.add_argument('-l', '--load', default=None, type=str, help="Load the model from a file.")
 parser.add_argument('-s', '--save', default=None, type=str, help="Save the model under this name between epochs.")
+parser.add_argument('--print_evals', action='store_true', help="Print classifications of evaluation set.")
+parser.add_argument('--eval_on_start', action='store_true', help="Evaluate before any training.")
 args = parser.parse_args()
 
 class BERT(nn.Module):
-  max_length = 128
+  max_length = 512
   options_name = "bert-base-cased"
 
   def __init__(self):
@@ -51,14 +53,15 @@ def avoid_zero_predicts(y_pred, y):
 
 model = BERT()
 optimizer = optim.Adam(model.parameters(), lr=5e-5)
-texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts[:16]
+texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts
 tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
 preprocessor = Preprocessor(tokenizer, BERT.max_length)
 dataset = TextDataset(texts, preprocessor)
 
+batch_size = 16
 split_index = (len(dataset)*2)//3
-train_loader = DataLoader(dataset, batch_size=2, sampler=SubsetRandomSampler(range(0, split_index)))
-eval_loader = DataLoader(dataset, batch_size=2, sampler=SubsetRandomSampler(range(split_index, len(dataset))))
+train_loader = DataLoader(dataset, batch_size=batch_size, sampler=SubsetRandomSampler(range(0, split_index)))
+eval_loader = DataLoader(dataset, batch_size=batch_size, sampler=SubsetRandomSampler(range(split_index, len(dataset))))
 
 def train_step(engine, batch):
   model.train()
@@ -114,13 +117,6 @@ def print_metrics(trainer, metrics, headline):
       f" Precision: {metrics['precision']:.4f}"
       f" Recall: {metrics['recall']:.4f}"))
 
-@trainer.on(Events.EPOCH_COMPLETED)
-def log_training_results(trainer):
-  printer.run(eval_loader)
-  evaluator.run(train_loader)
-  print_metrics(trainer, evaluator.state.metrics, "Training")
-  evaluator.run(eval_loader)
-  print_metrics(trainer, evaluator.state.metrics, "Validation")
 
 
 save_prefix = 'default' if args.save == None else args.save
@@ -133,8 +129,19 @@ if args.load != None:
   Checkpoint.load_objects(to_load=saved_data, checkpoint=loaded_checkpoint)
 
 
+@trainer.on(Events.EPOCH_COMPLETED)
+def log_training_results(trainer):
+  if args.print_evals:
+    printer.run(eval_loader)
+  evaluator.run(train_loader)
+  print_metrics(trainer, evaluator.state.metrics, "Training")
+  evaluator.run(eval_loader)
+  print_metrics(trainer, evaluator.state.metrics, "Validation")
+
+
 @trainer.on(Events.STARTED)
 def on_start(trainer):
-  log_training_results(trainer)
+  if args.eval_on_start:
+    log_training_results(trainer)
 
 trainer.run(train_loader, max_epochs=100)
