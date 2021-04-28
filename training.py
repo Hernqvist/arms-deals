@@ -13,6 +13,8 @@ from parallel_token_classification import BertForParallelTokenClassification, LA
 
 parser = argparse.ArgumentParser(description='Train a network to identify arms deals.')
 parser.add_argument('data', type=str, help="The dataset directory.")
+parser.add_argument('-o', '--output', type=str, help="Where to output the model between epochs.")
+parser.add_argument('-i', '--input', type=str, help="What model to load.")
 args = parser.parse_args()
 
 class BERT(nn.Module):
@@ -93,7 +95,6 @@ def print_step(engine, batch):
     probabilities = model(x, y)[1]
     y_pred = torch.argmax(probabilities, dim=3)
 
-    
     for x_text, y_text, y_pred_text in zip(x, y, y_pred):
       print()
       for label, y_label, y_pred_label in zip(LABELS, 
