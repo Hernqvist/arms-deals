@@ -41,7 +41,6 @@ class TextDataset(Dataset):
   def __getitem__(self, idx):
     return self.datapoints[idx]
 
-
 model = BERT()
 optimizer = optim.Adam(model.parameters(), lr=2e-5)
 texts = data_loader.DataSet.load_json2(sys.argv[1]).split_chunks().texts[:4]
@@ -67,13 +66,17 @@ def validation_step(engine, batch):
     x, y = batch
     probabilities = model(x, y)[1]
     y_pred = torch.argmax(probabilities, dim=3)
+    # Guard against case with no positive predictions, in which precision is undefined.
+    if y_pred.sum() == 0:
+      y_pred[0][0][0] = 1
+      y[0][0][0] = 0
     return y_pred, y
 evaluator = Engine(validation_step)
 Accuracy().attach(evaluator, "accuracy")
 precision = Precision()
 recall = Recall()
-#F1 = (precision * recall * 2 / (precision + recall)).mean()
-#F1.attach(evaluator, "F1")
+F1 = (precision * recall * 2 / (precision + recall)).mean()
+F1.attach(evaluator, "F1")
 precision.attach(evaluator, "precision")
 recall.attach(evaluator, "recall")
 
@@ -85,7 +88,7 @@ def log_training_loss(trainer):
 def log_training_results(trainer):
   evaluator.run(train_loader)
   metrics = evaluator.state.metrics
-  print(f"Training Results - Epoch: {trainer.state.epoch}  Accuracy: {metrics['accuracy']:.4f} F1: {metrics['accuracy']:.4f} precision: {metrics['precision']:.4f} recall: {metrics['recall']:.4f}")
+  print(f"Training Results - Epoch: {trainer.state.epoch}  Accuracy: {metrics['accuracy']:.4f} F1: {metrics['F1']:.4f} precision: {metrics['precision']:.4f} recall: {metrics['recall']:.4f}")
 
 trainer.run(train_loader, max_epochs=100)
 
