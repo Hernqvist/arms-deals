@@ -1,0 +1,234 @@
+{
+  "filename": "20180510_MOD-USA_Contracts 10 M_A_USA_B_USA",
+  "labels": [
+    {
+      "end": 498,
+      "start": 226,
+      "tag": "Answer",
+      "text": "Raytheon Missile Systems, Tucson, Arizona, is awarded a $242,090,000 firm-fixed-price contract for fiscal 2018 Navy and foreign military sales (FMS) to Qatar for the Rolling Airframe Missile (RAM) Block 2 guided missile round pack, missile ordnance alterations, and spares"
+    },
+    {
+      "end": 250,
+      "start": 226,
+      "tag": "Seller",
+      "text": "Raytheon Missile Systems"
+    },
+    {
+      "end": 294,
+      "start": 282,
+      "tag": "Price",
+      "text": "$242,090,000"
+    },
+    {
+      "end": 336,
+      "start": 332,
+      "tag": "Date",
+      "text": "2018"
+    },
+    {
+      "end": 383,
+      "start": 378,
+      "tag": "Buyer",
+      "text": "Qatar"
+    },
+    {
+      "end": 456,
+      "start": 392,
+      "tag": "Weapon",
+      "text": "Rolling Airframe Missile (RAM) Block 2 guided missile round pack"
+    },
+    {
+      "end": 486,
+      "start": 458,
+      "tag": "Weapon",
+      "text": "missile ordnance alterations"
+    },
+    {
+      "end": 498,
+      "start": 492,
+      "tag": "Weapon",
+      "text": "spares"
+    },
+    {
+      "end": 3181,
+      "start": 3014,
+      "tag": "Answer",
+      "text": "Vigor Marine LLC, Portland, Oregon, is awarded a $42,232,222 firm-fixed-price contract to prepare for and accomplish repair and alteration requirements for USS Sampson"
+    },
+    {
+      "end": 3030,
+      "start": 3014,
+      "tag": "Seller",
+      "text": "Vigor Marine LLC"
+    },
+    {
+      "end": 3074,
+      "start": 3063,
+      "tag": "Price",
+      "text": "$42,232,222"
+    },
+    {
+      "end": 3181,
+      "start": 3131,
+      "tag": "Weapon",
+      "text": "repair and alteration requirements for USS Sampson"
+    },
+    {
+      "end": 2112,
+      "start": 2005,
+      "tag": "Answer",
+      "text": "Airborne Tactical Advantage Co. LLC, Newport News, Virginia, is awarded $54,466,888 for modification P00016"
+    },
+    {
+      "end": 2040,
+      "start": 2005,
+      "tag": "Seller",
+      "text": "Airborne Tactical Advantage Co. LLC"
+    },
+    {
+      "end": 2088,
+      "start": 2077,
+      "tag": "Price",
+      "text": "$54,466,888"
+    },
+    {
+      "end": 2112,
+      "start": 2093,
+      "tag": "Weapon",
+      "text": "modification P00016"
+    },
+    {
+      "end": 9048,
+      "start": 8906,
+      "tag": "Answer",
+      "text": "The Boeing Co., Boeing Guidance Repair Center, Heath, Ohio, has been awarded not-to-exceed $14,059,563 definitive contract for fuse assemblies"
+    },
+    {
+      "end": 8920,
+      "start": 8906,
+      "tag": "Seller",
+      "text": "The Boeing Co."
+    },
+    {
+      "end": 9008,
+      "start": 8997,
+      "tag": "Price",
+      "text": "$14,059,563"
+    },
+    {
+      "end": 9048,
+      "start": 9033,
+      "tag": "Weapon",
+      "text": "fuse assemblies"
+    },
+    {
+      "end": 8199,
+      "start": 8027,
+      "tag": "Answer",
+      "text": "L3 Technologies Inc., Link Training and Simulation Division, Arlington, Texas, has been awarded a $20,251,157 cost-plus-fixed-fee and firm-fixed-price modification (P00181)"
+    },
+    {
+      "end": 8047,
+      "start": 8027,
+      "tag": "Seller",
+      "text": "L3 Technologies Inc."
+    },
+    {
+      "end": 8136,
+      "start": 8125,
+      "tag": "Price",
+      "text": "$20,251,157"
+    },
+    {
+      "end": 8199,
+      "start": 8178,
+      "tag": "Weapon",
+      "text": "modification (P00181)"
+    },
+    {
+      "end": 7351,
+      "start": 7089,
+      "tag": "Answer",
+      "text": "Raytheon Co., Intelligence, Information & Services, Richardson, Texas, has been awarded $37,366,000 ceiling indefinite-delivery/indefinite-quantity contact for the sustainment of services to the Cross Domain Enterprise All Source User Repository (CENTAUR) system"
+    },
+    {
+      "end": 7351,
+      "start": 7284,
+      "tag": "Weapon",
+      "text": "Cross Domain Enterprise All Source User Repository (CENTAUR) system"
+    },
+    {
+      "end": 7115,
+      "start": 7089,
+      "tag": "Seller",
+      "text": "Raytheon Co., Intelligence"
+    },
+    {
+      "end": 7188,
+      "start": 7177,
+      "tag": "Price",
+      "text": "$37,366,000"
+    },
+    {
+      "end": 5472,
+      "start": 5223,
+      "tag": "Answer",
+      "text": "Raytheon Missile Systems, Tucson, Arizona, is awarded a $7,471,077 cost-plus-fixed-fee modification to a previously awarded contract (N00024-15-C-5410) for design agent and engineering support services for the Rolling Airframe Missile upgraded MK-31"
+    },
+    {
+      "end": 5247,
+      "start": 5223,
+      "tag": "Seller",
+      "text": "Raytheon Missile Systems"
+    },
+    {
+      "end": 5289,
+      "start": 5279,
+      "tag": "Price",
+      "text": "$7,471,077"
+    },
+    {
+      "end": 5472,
+      "start": 5433,
+      "tag": "Weapon",
+      "text": "Rolling Airframe Missile upgraded MK-31"
+    },
+    {
+      "end": 4545,
+      "start": 4335,
+      "tag": "Answer",
+      "text": "Alpha Marine Services LLC, Galliano, Louisiana, is awarded an $11,678,540 firm-fixed-price contract for a U.S. flagged Maritime Support Vessel M/V Kellie Chouest in support of U.S. Naval Special Warfare Command"
+    },
+    {
+      "end": 4360,
+      "start": 4335,
+      "tag": "Seller",
+      "text": "Alpha Marine Services LLC"
+    },
+    {
+      "end": 4408,
+      "start": 4397,
+      "tag": "Price",
+      "text": "$11,678,540"
+    },
+    {
+      "end": 4545,
+      "start": 4511,
+      "tag": "Buyer",
+      "text": "U.S. Naval Special Warfare Command"
+    },
+    {
+      "end": 4515,
+      "start": 4511,
+      "tag": "Buyer Country",
+      "text": "U.S."
+    },
+    {
+      "end": 4496,
+      "start": 4454,
+      "tag": "Weapon",
+      "text": "Maritime Support Vessel M/V Kellie Chouest"
+    }
+  ],
+  "text": "This information is provided for historical purposes only. It may contain outdated information and links may no longer function. Please contact the DoD Webmaster if you have any questions about this archive.\n\nCONTRACTS\n\nNAVY\n\nRaytheon Missile Systems, Tucson, Arizona, is awarded a $242,090,000 firm-fixed-price contract for fiscal 2018 Navy and foreign military sales (FMS) to Qatar for the Rolling Airframe Missile (RAM) Block 2 guided missile round pack, missile ordnance alterations, and spares. RAM is a missile system designed to provide anti-ship missile defense for multiple ship platforms. This contract includes options which, if exercised, would bring the cumulative value of this contract to $529,774,921. This contract combines purchases for the Navy (43.5 percent), and the governments of Qatar, Egypt, and Turkey (56.5 percent), under the FMS program. Work will be performed in Ottobrunn, Germany (43.8 percent); Tucson, Arizona (34.7 percent); Rocket Center, West Virginia (8.8 percent); Dallas Texas (1.7 percent); Mason, Ohio (1.6 percent); Glenrothes, Scotland (1.6 percent); Cincinnati, Ohio (1.4 percent); Andover, Massachusetts (1.2 percent); and other U.S. locations (5.2 percent), and is expected to be completed by September 2023. If exercised, the options will deliver before September 2023. Foreign military sales funds in the amount of $136,738,957; and fiscal 2018 weapons procurement (Navy) funds in the amount of $100,351,043 is obligated at time of award and will not expire at the end of the current fiscal year. Fiscal 2018 operations and maintenance (Navy) in the amount of $5,000,000 is obligated at time of award and will expire at the end of the current fiscal year. This contract was not competitively procured under the exception 10 U.S. Code 2304(c)(4), International Agreement. The synopsis was posted to the Federal Business Opportunities website. The Naval Sea Systems Command, Washington, District of Columbia, is the contracting activity. (N00024-18-C-5425)\n\nAirborne Tactical Advantage Co. LLC, Newport News, Virginia, is awarded $54,466,888 for modification P00016 to a previously awarded firm-fixed-price, cost-reimbursement, indefinite-delivery/indefinite-quantity contract (N00019-15-D-0026) to exercise an option in support of the Contracted Air Services (CAS) program. The CAS Program provides contractor owned and operated Type III high subsonic and Type IV supersonic aircraft to Navy Fleet customers for a wide variety of airborne threat simulation capabilities. Work will be performed in Newport News, Virginia (44 percent); Point Mugu, California (37 percent); and various locations outside the continental U.S. (19 percent), and is expected to be completed in May 2019. Fiscal 2018 operations and maintenance (Navy) funds in the amount of $6,127,793 will be obligated at time of award, all of which will expire at the end of the current fiscal year. The Naval Air Warfare Center, Aircraft Division, Patuxent River, Maryland, is the contracting activity.\n\nVigor Marine LLC, Portland, Oregon, is awarded a $42,232,222 firm-fixed-price contract to prepare for and accomplish repair and alteration requirements for USS Sampson (DDG 102) CNO-Scheduled Dry-Docking Selected Restricted Availability (DSRA) in support of the DDG 51-class destroyer ship repair program. For Navy surface combatants, typical repair and maintenance work to be performed in a DSRA includes modernization ship alterations; blasting, painting and surface preparation for complete or touch-up preservation; work on freeboard, struts, rudders, running gear, ground tackle and sea chest; hull, mechanical and electrical work and work on various interior tanks. Work will be performed in Seattle, Washington (90 percent); and Everett, Washington (10 percent), and is expected to be completed by April 2019. Fiscal 2018 operations and maintenance (Navy) funding; and fiscal 2018 Department of Defense working capital funds in the amount of $42,232,222 are obligated at time of award, of which $40,983,811 will expire at the end of the current fiscal year. This contract was competitively procured via the Federal Business Opportunities website, with one offer received. The Puget Sound Naval Shipyard and Intermediate Maintenance Facility, Bremerton, Washington, is the contracting activity (N4523A-18-C-0551).\n\nAlpha Marine Services LLC, Galliano, Louisiana, is awarded an $11,678,540 firm-fixed-price contract for a U.S. flagged Maritime Support Vessel M/V Kellie Chouest in support of U.S. Naval Special Warfare Command. This contract includes options, which if exercised, would bring the cumulative value of this contract to $57,464,816. Work will be performed at sea, starting June 1, 2018 and work is expected to be completed June 2019. If all options are exercised, work will continue through March 31, 2023. Fiscal 2018 operations and maintenance funds in the amount of $5,395,388 are obligated at time of award and will not expire at the end of the current fiscal year. The contract was competitively procured via the Federal Business Opportunities website, with two offers received. The U.S. Navy\u2019s Military Sealift Command, Norfolk, Virginia, is the contracting activity. (N3220518C3520)\n\nRaytheon Missile Systems, Tucson, Arizona, is awarded a $7,471,077 cost-plus-fixed-fee modification to a previously awarded contract (N00024-15-C-5410) for design agent and engineering support services for the Rolling Airframe Missile upgraded MK-31 Guided Missile Weapon System Improvement program. The support is required to maintain current weapon system capability as well as resolve issues through design, systems, software maintenance, reliability, maintainability, quality assurance and logistics engineering services. The MK-31 Rolling Airframe Missile Guided Missile Weapon system is a cooperative development and production program conducted jointly by the U.S.; and the Federal Republic of Germany under memoranda of understanding. Work will be performed in Tucson, Arizona, and is expected to be completed by September 2019. Fiscal 2018 research, development, testing and evaluation funding in the amount of $7,471,077 is obligated at time of award and will not expire at the end of the current fiscal year. The Naval Sea Systems Command, Washington, District of Columbia, is the contracting activity.\n\nAIR FORCE\n\nJohns Hopkins University Applied Physics Laboratory, Laurel, Maryland, has been awarded a $93,000,000 ceiling cost-plus-fixed-fee, indefinite-delivery/indefinite-quantity contract for space systems engineering. This contract provides for systems engineering, technical support tasks, and specialized research and development. Work will be performed in Laurel, Maryland, and is expected to be complete by May 2025. This award is the result of a sole-source acquisition. Fiscal 2018 research and development funds in the amount of $7,500 are being obligated at the time of award. Space and Missile Systems Center, Space Superiority Systems Directorate, Los Angeles Air Force Base, California, is the contracting activity (FA8819-18-D-0009).\n\nRaytheon Co., Intelligence, Information & Services, Richardson, Texas, has been awarded $37,366,000 ceiling indefinite-delivery/indefinite-quantity contact for the sustainment of services to the Cross Domain Enterprise All Source User Repository (CENTAUR) system. This contract provides for the continued sustainment of the CENTAUR architecture that services as a coalition cross domain solution, as well as continued development of the NGA Coalition Data Broker. Work will be performed in Richardson, Texas; Fort Gordon, Georgia; Darmstadt, Germany; Hanscom Air Force Base, Massachusetts; and any additional sites as directed by the government. Work is expected to be complete by May 9, 2023. Fiscal 2018 Army operations and maintenance funds in the amount of $5,000 are being obligated at the time of award. Air Force Life Cycle Management Center, Hanscom Air Force Base, Massachusetts, is the contracting activity (FA8730-18-D-0001).\n\nL3 Technologies Inc., Link Training and Simulation Division, Arlington, Texas, has been awarded a $20,251,157 cost-plus-fixed-fee and firm-fixed-price modification (P00181) to previously awarded contract FA8621-09-C-6292 for the F-16 Mission Training Center (MTC) M7.2+ Operational Flight Program (OFP) upgrade. This modification provides for incorporation of the F-16 M7.2+ OFP capability into the Air Force's F-16 MTC, and brings the total cumulative face value of the contract to $541,560,128. Work will be performed in Arlington, Texas, and is expected to be complete by February 16, 2020. Fiscal 2017 research and development funds in the amount of $6,153,500; and fiscal 2018 procurement funds in the amount of $1,497,569 are being obligated at the time of award. Air Force Life Cycle Management Center, Wright-Patterson Air Force Base, Ohio, is the contracting activity.\n\nThe Boeing Co., Boeing Guidance Repair Center, Heath, Ohio, has been awarded not-to-exceed $14,059,563 definitive contract for fuse assemblies. This contract provides for the production of 266 fuse assemblies for the air launched missiles. Work will be performed in Heath, Ohio, and is expected to be complete by May 2022. This award is the result of a sole-source acquisition. Fiscal 2018 missiles procurement funds in the full amount are being obligated at the time of award by Air Force Nuclear Weapons Center, Tinker Air Force Base, Oklahoma, is the contracting activity (FA8128-18-C-0002).\n\nARMY\n\nBullock Tice Associates Inc.,* Pensacola, Florida (W91278-18-D-0032); Merrick-Atkins JV LLP, Greenwood Village, Colorado (W91278-18-D-0033); Raymond Pond Solution 8A II JV LLC,* Conyers, Georgia (W91278-18-D-0037); Sherlock, Smith & Adams/Clark Nexsen JV,* Montgomery, Alabama (W91278-18-D-0038); Benham Design LLC, Oklahoma City, Oklahoma (W91278-18-D-0039); Burns & McDonnell Engineering Co., Kansas City, Missouri (W91278-18-D-0040); CEMS Apogee JV LLC, Cary, North Carolina (W91278-18-D-0041); Guidon-MES SB JV LLC,* Indianapolis, Indiana (W91278-18-D-0042); Perigee Prime AE SB JV LLC,* West Jordan, Utah (W91278-18-D-0043); and G.M. Hill Engineering Inc.,* Jacksonville, Florida (W91278-18-D-0045), will compete for each order of the $49,000,000 firm-fixed-price contract for architect and engineering services. Bids were solicited via the Internet with 67 received. Work locations and funding will be determined with each order, with an estimated completion date of May 9, 2023. U.S. Army Corps of Engineers, Mobile, Alabama, is the contracting activity.\n\nMaloney Construction,* Novato, California, was awarded a $10,353,077 firm-fixed-price contract for American River Watershed Common Features Project. Bids were solicited via the Internet with three received. Work will be performed in Sutter, California, with an estimated completion date of June 6, 2019. Fiscal 2016 and 2017 civil works funds in the amount of $10,353,077 were obligated at the time of the award. U.S. Army Corps of Engineers, Sacramento, California, is the contracting activity (W91238-18-C-0014).\n\nG & G Steel,* Russellville, Alabama (W912QR-18-D-0022); Kentucky Machine & Tool Co.,* Louisville, Kentucky (W912QR-18-D-0023); Chesapeake Machining and Fabrication Inc.,* Baltimore, Maryland (W912QR-18-D-0024); and C&C Fabrication and Piping LLC,* Mount Sterling, Kentucky (W912QR-18-D-0025), will compete for each order of the $10,000,000 firm-fixed-price contract to provide varying types of fabrication parts and refurbishment services. Bids were solicited via the Internet with six received. Work locations and funding will be determined with each order, with an estimated completion date of May 9, 2023. U.S. Army Corps of Engineers, Louisville, Kentucky, is the contracting activity.\n\n*Small business"
+}
