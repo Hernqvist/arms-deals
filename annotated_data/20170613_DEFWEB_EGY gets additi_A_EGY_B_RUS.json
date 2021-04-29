@@ -1,0 +1,222 @@
+{
+  "filename": "20170613_DEFWEB_EGY gets additi_A_EGY_B_RUS",
+  "labels": [
+    {
+      "end": 167,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The Egyptian military will receive Ka-52K Katran helicopters for its Mistral class landing helicopter dock vessels, in addition to the Ka-52 Alligators it is receiving"
+    },
+    {
+      "end": 21,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The Egyptian military"
+    },
+    {
+      "end": 12,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "Egyptian"
+    },
+    {
+      "end": 60,
+      "start": 35,
+      "tag": "Weapon",
+      "text": "Ka-52K Katran helicopters"
+    },
+    {
+      "end": 151,
+      "start": 135,
+      "tag": "Weapon",
+      "text": "Ka-52 Alligators"
+    },
+    {
+      "end": 387,
+      "start": 170,
+      "tag": "Answer",
+      "text": "According to International Cooperation Department Chief of Russia\u2019s Rostec state corporation, Viktor Kladov, as reported by TASS, Egypt has agreed to acquire Ka-52K attack helicopters but has not yet signed a contract"
+    },
+    {
+      "end": 305,
+      "start": 300,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 305,
+      "start": 300,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 262,
+      "start": 238,
+      "tag": "Seller",
+      "text": "Rostec state corporation"
+    },
+    {
+      "end": 235,
+      "start": 229,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 353,
+      "start": 328,
+      "tag": "Weapon",
+      "text": "Ka-52K attack helicopters"
+    },
+    {
+      "end": 727,
+      "start": 663,
+      "tag": "Answer",
+      "text": "In 2015 Egypt agreed to acquire 46 conventional Ka-52 Alligators"
+    },
+    {
+      "end": 670,
+      "start": 666,
+      "tag": "Date",
+      "text": "2015"
+    },
+    {
+      "end": 697,
+      "start": 695,
+      "tag": "Quantity",
+      "text": "46"
+    },
+    {
+      "end": 727,
+      "start": 711,
+      "tag": "Weapon",
+      "text": "Ka-52 Alligators"
+    },
+    {
+      "end": 676,
+      "start": 671,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 676,
+      "start": 671,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1180,
+      "start": 1037,
+      "tag": "Answer",
+      "text": "The Ka-52 is in service with the Russian Air Force, which has ordered 146 Ka-52s while Russian naval aviation will receive 32 navalised Ka-52Ks"
+    },
+    {
+      "end": 1046,
+      "start": 1041,
+      "tag": "Weapon",
+      "text": "Ka-52"
+    },
+    {
+      "end": 1087,
+      "start": 1066,
+      "tag": "Buyer",
+      "text": "the Russian Air Force"
+    },
+    {
+      "end": 1077,
+      "start": 1070,
+      "tag": "Buyer Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1110,
+      "start": 1107,
+      "tag": "Quantity",
+      "text": "146"
+    },
+    {
+      "end": 1117,
+      "start": 1111,
+      "tag": "Weapon",
+      "text": "Ka-52s"
+    },
+    {
+      "end": 1146,
+      "start": 1124,
+      "tag": "Buyer",
+      "text": "Russian naval aviation"
+    },
+    {
+      "end": 1131,
+      "start": 1124,
+      "tag": "Buyer Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1162,
+      "start": 1160,
+      "tag": "Quantity",
+      "text": "32"
+    },
+    {
+      "end": 1180,
+      "start": 1173,
+      "tag": "Weapon",
+      "text": "Ka-52Ks"
+    },
+    {
+      "end": 1880,
+      "start": 1702,
+      "tag": "Answer",
+      "text": "Originally designed for Russia, each Mistral class vessel was designed to accommodate 16 of the helicopters. The two Mistrals were handed over to Egypt in June and September 2016"
+    },
+    {
+      "end": 1818,
+      "start": 1815,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1827,
+      "start": 1819,
+      "tag": "Weapon",
+      "text": "Mistrals"
+    },
+    {
+      "end": 1732,
+      "start": 1726,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1732,
+      "start": 1726,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1853,
+      "start": 1848,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1853,
+      "start": 1848,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1861,
+      "start": 1857,
+      "tag": "Date",
+      "text": "June"
+    },
+    {
+      "end": 1880,
+      "start": 1866,
+      "tag": "Date",
+      "text": "September 2016"
+    }
+  ],
+  "text": "The Egyptian military will receive Ka-52K Katran helicopters for its Mistral class landing helicopter dock vessels, in addition to the Ka-52 Alligators it is receiving.\n\nAccording to International Cooperation Department Chief of Russia\u2019s Rostec state corporation, Viktor Kladov, as reported by TASS, Egypt has agreed to acquire Ka-52K attack helicopters but has not yet signed a contract.\n\n\u201cI believe that a fundamental decision has been made, the procedure of signing a contract is only a technical issue,\u201d he said.\n\nRussian Helicopters Group CEO Andrei Boginsky last month said a decision was expected around May, with the tender procedure at the final stage.\n\nIn 2015 Egypt agreed to acquire 46 conventional Ka-52 Alligators. The first, seen in desert camouflage, was spotted at the Progress engine factory in Arsenyev, Russia, last week. Deliveries are set to take place between 2017 and 2019.\n\nThe Ka-52 Alligator is a development of the Ka-50 Black Shark, featuring two crew side-by-side in a new nose housing additional avionics. The Ka-52 is in service with the Russian Air Force, which has ordered 146 Ka-52s while Russian naval aviation will receive 32 navalised Ka-52Ks. Production began in 2008.\n\nThe helicopter is fitted with four underwing hardpoints capable of carrying 80/120 mm air-to-surface rockets, 9A4172 Vikhr-M (AT-12) laser-guided air-to-surface missiles, Igla or R-73 (AA-11 \u2018Archer\u2019) air-to-air missiles, Kh-25MP (AS-12 \u2018Kegler\u2019) anti-radiation missiles and FAB-500 bombs. Fixed armament comprises a 30 mm 2A42 gun with up to 240 rounds of ammunition.\n\n\n\n\n\n\n\nThe navalised Ka-52K Katran features folding stub wings and folding main rotor blades that allow for easier stowage. Originally designed for Russia, each Mistral class vessel was designed to accommodate 16 of the helicopters. The two Mistrals were handed over to Egypt in June and September 2016."
+}
