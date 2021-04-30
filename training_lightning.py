@@ -6,6 +6,7 @@ from torch.utils.data import DataLoader, Dataset, SubsetRandomSampler
 from preprocessor import Preprocessor
 from transformers import BertTokenizerFast
 import pytorch_lightning as pl
+from pytorch_lightning.callbacks import ModelCheckpoint
 import torch.nn as nn
 import torch.nn.functional as F
 from parallel_token_classification import BertForParallelTokenClassification, LABELS
@@ -13,7 +14,7 @@ from parallel_token_classification import BertForParallelTokenClassification, LA
 parser = argparse.ArgumentParser(description='Train a network to identify arms deals.')
 parser.add_argument('data', type=str, help="The dataset directory.")
 parser.add_argument('-l', '--load', default=None, type=str, help="Load the model from a file.")
-parser.add_argument('-s', '--save', default=None, type=str, help="Save the model under this name between epochs.")
+parser.add_argument('-s', '--save', action='store_true', help="Save the model between epochs.")
 parser.add_argument('--print_evals', action='store_true', help="Print classifications of evaluation set.")
 parser.add_argument('--eval_on_start', action='store_true', help="Evaluate before any training.")
 args = parser.parse_args()
@@ -50,7 +51,7 @@ class TextDataset(Dataset):
   def __getitem__(self, idx):
     return self.datapoints[idx]
 
-class LightningModel(pl.LightningModule):
+class LitModule(pl.LightningModule):
 
   def __init__(self, config):
     super().__init__()
@@ -141,6 +142,26 @@ val_sampler = SubsetRandomSampler(range(split_index, len(dataset)))
 batch_size = 2
 num_workers = 0
 
-lightning_model = LightningModel({'lr':5e-5, 'batch_size':2})
-trainer = pl.Trainer(default_root_dir="lightning")
-trainer.fit(lightning_model)
+kwargs = {}
+callbacks = []
+
+if args.load:
+  lit_module = LitModule.load_from_checkpoint(args.load)
+  kwargs['resume_from_checkpoint'] = args.load
+else:
+  lit_module = LitModule({'lr':5e-5, 'batch_size':2})
+
+if args.save:
+  callbacks.append(ModelCheckpoint(
+        monitor='hp_metric',
+        filename='save-{epoch:02d}-{hp_metric:.3f}',
+        save_top_k=1,
+        save_last=True,
+        mode='min',
+    )
+  )
+
+trainer = pl.Trainer(default_root_dir="lightning", callbacks=callbacks, **kwargs)
+
+
+trainer.fit(lit_module)
