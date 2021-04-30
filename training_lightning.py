@@ -55,7 +55,6 @@ class LightningModel(pl.LightningModule):
   def __init__(self, config):
     super().__init__()
     self.model = BERT()
-    self.config = config
     self.save_hyperparameters(config)
     self.best_hp_metric = -1
     metrics = pl.metrics.MetricCollection([
@@ -94,7 +93,7 @@ class LightningModel(pl.LightningModule):
     self.save_hp_metric(metrics['F1'])
 
   def configure_optimizers(self):
-    optimizer = torch.optim.Adam(self.parameters(), lr=self.config['lr'])
+    optimizer = torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
     return optimizer
 
   def train_dataloader(self):
@@ -102,7 +101,7 @@ class LightningModel(pl.LightningModule):
     return DataLoader(
         dataset,
         num_workers=num_workers, 
-        batch_size=self.config['batch_size'], 
+        batch_size=self.hparams.batch_size, 
         sampler=train_sampler)
   
   def val_dataloader(self):
@@ -110,7 +109,7 @@ class LightningModel(pl.LightningModule):
     return DataLoader(
         dataset,
         num_workers=num_workers, 
-        batch_size=self.config['batch_size'], 
+        batch_size=self.hparams.batch_size, 
         sampler=train_sampler)
 
   def probs_to_preds(self, probabilities):
@@ -143,5 +142,5 @@ batch_size = 2
 num_workers = 0
 
 lightning_model = LightningModel({'lr':5e-5, 'batch_size':2})
-trainer = pl.Trainer()
+trainer = pl.Trainer(default_root_dir="lightning")
 trainer.fit(lightning_model)
