@@ -29,7 +29,7 @@ class BERT(nn.Module):
   def forward(self, text, labels=None):
     output = self.encoder(text, labels=labels)
     if labels != None:
-      # Output loss and probabilities
+      # Output lo ss and probabilities
       loss, probs = output[:2]
       return loss, probs
     # Output only probabilities
@@ -52,61 +52,96 @@ class TextDataset(Dataset):
 
 class LightningModel(pl.LightningModule):
 
-  def probs_to_preds(self, probabilities):
-    return torch.argmax(probabilities, dim=3)
-
-  def __init__(self):
+  def __init__(self, config):
     super().__init__()
     self.model = BERT()
+    self.config = config
+    self.save_hyperparameters(config)
+    self.best_hp_metric = -1
     metrics = pl.metrics.MetricCollection([
         pl.metrics.Accuracy(),
-        pl.metrics.Precision(num_classes=2, ignore_index=0, mdmc_average='global')
+        pl.metrics.Precision(num_classes=2, ignore_index=0, mdmc_average='global'),
+        pl.metrics.Recall(num_classes=2, ignore_index=0, mdmc_average='global')
     ])
-    self.train_metrics = pl.metrics.Precision(num_classes=2, ignore_index=0, mdmc_average='global')
-    self.valid_metrics = pl.metrics.Precision(num_classes=2, ignore_index=0, mdmc_average='global')
+    self.training_metrics = metrics.clone()
+    self.validation_metrics = metrics.clone()
 
   def forward(self, x):
     # in lightning, forward defines the prediction/inference actions
-    return self.probs_to_preds(model(x))
+    return self.probs_to_preds(self.model(x))
 
   def training_step(self, batch, batch_idx):
     # training_step defines the train loop. It is independent of forward
     x, y = batch
     loss, probs = self.model(x, y)
     preds = self.probs_to_preds(probs)
-    self.train_metrics(preds, y)
-    self.log('train_metrics', self.train_metrics)
+    self.training_metrics(preds, y)
     return loss
   
   def training_epoch_end(self, outputs):
-    self.log('train_acc_epoch', self.train_metrics.compute())
+    metrics = self.extend_metrics(self.training_metrics.compute())
+    metrics["Loss"] = torch.mean(torch.Tensor([output['loss'].item() for output in outputs]))
+    self.log_metrics("Training", metrics)
   
   def validation_step(self, batch, batch_idx):
     x, y = batch
-    y_hat = self.model(x)
-    y_hat = torch.argmax(y_hat, dim=3)
-    #loss = F.cross_entropy(y_hat, y)
-    #self.log('val_loss', loss)
+    preds = self.forward(x)
+    self.validation_metrics(preds, y)
   
   def validation_epoch_end(self, outputs):
-    pass
+    metrics = self.extend_metrics(self.validation_metrics.compute())
+    self.log_metrics("Validation", metrics)
+    self.save_hp_metric(metrics['F1'])
 
   def configure_optimizers(self):
-    optimizer = torch.optim.Adam(self.parameters(), lr=5e-5)
+    optimizer = torch.optim.Adam(self.parameters(), lr=self.config['lr'])
     return optimizer
 
+  def train_dataloader(self):
+    global num_workers
+    return DataLoader(
+        dataset,
+        num_workers=num_workers, 
+        batch_size=self.config['batch_size'], 
+        sampler=train_sampler)
+  
+  def val_dataloader(self):
+    global num_workers
+    return DataLoader(
+        dataset,
+        num_workers=num_workers, 
+        batch_size=self.config['batch_size'], 
+        sampler=train_sampler)
 
-texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts[:10]
+  def probs_to_preds(self, probabilities):
+    return torch.argmax(probabilities, dim=3)
+  
+  def log_metrics(self, headline, metrics):
+    for metric in metrics:
+      name = "{}{}".format(headline, metric)
+      self.log(name, metrics[metric], logger=True)
+  
+  def extend_metrics(self, metrics):
+    precision, recall = metrics['Precision'], metrics['Recall']
+    metrics['F1'] = 2*(precision*recall)/(precision + recall)
+    return metrics
+  
+  def save_hp_metric(self, metric):
+    self.log("hp_metric", metric)
+    self.best_hp_metric = max(self.best_hp_metric, metric)
+
+
+texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts[:6]
 tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
 preprocessor = Preprocessor(tokenizer, BERT.max_length)
 dataset = TextDataset(texts, preprocessor)
+split_index = (len(dataset)*2)//3
+train_sampler = SubsetRandomSampler(range(0, split_index))
+val_sampler = SubsetRandomSampler(range(split_index, len(dataset)))
 
 batch_size = 2
 num_workers = 0
-split_index = (len(dataset)*2)//3
-train_loader = DataLoader(dataset, num_workers=num_workers, batch_size=batch_size, sampler=SubsetRandomSampler(range(0, split_index)))
-eval_loader = DataLoader(dataset, num_workers=num_workers, batch_size=batch_size, sampler=SubsetRandomSampler(range(split_index, len(dataset))))
 
-lightning_model = LightningModel()
+lightning_model = LightningModel({'lr':5e-5, 'batch_size':2})
 trainer = pl.Trainer()
-trainer.fit(lightning_model, train_loader, eval_loader)
+trainer.fit(lightning_model)
