@@ -80,6 +80,7 @@ class LitModule(pl.LightningModule):
   
   def training_epoch_end(self, outputs):
     metrics = self.extend_metrics(self.training_metrics.compute())
+    self.training_metrics.reset()
     metrics["Loss"] = torch.mean(torch.Tensor([output['loss'].item() for output in outputs]))
     self.log_metrics("Training", metrics)
   
@@ -90,6 +91,7 @@ class LitModule(pl.LightningModule):
   
   def validation_epoch_end(self, outputs):
     metrics = self.extend_metrics(self.validation_metrics.compute())
+    self.validation_metrics.reset()
     self.log_metrics("Validation", metrics)
     self.save_hp_metric(metrics['F1'])
 
