@@ -1,0 +1,126 @@
+{
+  "filename": "20181121_DN_Czech Republic to b",
+  "labels": [
+    {
+      "end": 248,
+      "start": 17,
+      "tag": "Answer",
+      "text": "Czech Defence Minister Lubomir Metnar has announced the ministry\u2019s acquisition plans for 2019. Next year, the country aims to purchase 210 infantry fighting vehicles, multi-purpose helicopters, and mobile air defense radars (MADRs)"
+    },
+    {
+      "end": 134,
+      "start": 123,
+      "tag": "Buyer",
+      "text": "the country"
+    },
+    {
+      "end": 22,
+      "start": 17,
+      "tag": "Buyer Country",
+      "text": "Czech"
+    },
+    {
+      "end": 155,
+      "start": 152,
+      "tag": "Quantity",
+      "text": "210"
+    },
+    {
+      "end": 182,
+      "start": 156,
+      "tag": "Weapon",
+      "text": "infantry fighting vehicles"
+    },
+    {
+      "end": 209,
+      "start": 184,
+      "tag": "Weapon",
+      "text": "multi-purpose helicopters"
+    },
+    {
+      "end": 248,
+      "start": 215,
+      "tag": "Weapon",
+      "text": "mobile air defense radars (MADRs)"
+    },
+    {
+      "end": 432,
+      "start": 289,
+      "tag": "Answer",
+      "text": "in 2018 the ministry managed to conclude deals to purchase weapons and military equipment worth more than 14.5 billion koruna (US $635 million)"
+    },
+    {
+      "end": 296,
+      "start": 292,
+      "tag": "Date",
+      "text": "2018"
+    },
+    {
+      "end": 309,
+      "start": 297,
+      "tag": "Buyer",
+      "text": "the ministry"
+    },
+    {
+      "end": 355,
+      "start": 348,
+      "tag": "Weapon",
+      "text": "weapons"
+    },
+    {
+      "end": 378,
+      "start": 360,
+      "tag": "Weapon",
+      "text": "military equipment"
+    },
+    {
+      "end": 414,
+      "start": 395,
+      "tag": "Price",
+      "text": "14.5 billion koruna"
+    },
+    {
+      "end": 431,
+      "start": 416,
+      "tag": "Price",
+      "text": "US $635 million"
+    },
+    {
+      "end": 765,
+      "start": 699,
+      "tag": "Answer",
+      "text": "Slovakia is on track to purchase 14 Lockheed Martin F-16V fighters"
+    },
+    {
+      "end": 707,
+      "start": 699,
+      "tag": "Buyer",
+      "text": "Slovakia"
+    },
+    {
+      "end": 707,
+      "start": 699,
+      "tag": "Buyer Country",
+      "text": "Slovakia"
+    },
+    {
+      "end": 734,
+      "start": 732,
+      "tag": "Quantity",
+      "text": "14"
+    },
+    {
+      "end": 765,
+      "start": 751,
+      "tag": "Weapon",
+      "text": "F-16V fighters"
+    },
+    {
+      "end": 750,
+      "start": 735,
+      "tag": "Seller",
+      "text": "Lockheed Martin"
+    }
+  ],
+  "text": "WARSAW, Poland \u2014 Czech Defence Minister Lubomir Metnar has announced the ministry\u2019s acquisition plans for 2019. Next year, the country aims to purchase 210 infantry fighting vehicles, multi-purpose helicopters, and mobile air defense radars (MADRs), among other systems.\n\nMetnar said that in 2018 the ministry managed to conclude deals to purchase weapons and military equipment worth more than 14.5 billion koruna (US $635 million). There is a consensus across the country\u2019s political spectrum that the country\u2019s defense spending must be further increased in the coming years, the minister said, as reported by local daily Denik.\n\nWith F-16 buy, Slovakia \u2018cutting off\u2019 Russian hardware NATO member Slovakia is on track to purchase 14 Lockheed Martin F-16V fighters to replace its MiG-29 jets in a wider effort to break from Russia, a defence ministry official said Saturday.\n\nThe planned acquisitions are largely focused on replacing the military\u2019s Soviet-designed gear with new equipment made by Western allies and Czech manufacturers. The region-wide trend has accelerated following Russia's military intervention in eastern Ukraine and its annexation of the Crimean peninsula in 2014.\n\nMeanwhile, Lt. Gen. Ales Opata, the Chief of the General Staff of the Czech Armed Forces, said at a joint press conference with Metnar that the key to military modernization was the upgrade of the country\u2019s land forces."
+}

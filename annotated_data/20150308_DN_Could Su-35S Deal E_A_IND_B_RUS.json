@@ -1,0 +1,240 @@
+{
+  "filename": "20150308_DN_Could Su-35S Deal E_A_IND_B_RUS",
+  "labels": [
+    {
+      "end": 217,
+      "start": 12,
+      "tag": "Answer",
+      "text": "Moscow and New Delhi have agreed to perform design work in India on what Russia claims would be a \"fifth generation\" version of the Su-35, an agreement that may lead to an Indian variant of the fighter jet"
+    },
+    {
+      "end": 18,
+      "start": 12,
+      "tag": "Seller",
+      "text": "Moscow"
+    },
+    {
+      "end": 32,
+      "start": 23,
+      "tag": "Buyer",
+      "text": "New Delhi"
+    },
+    {
+      "end": 76,
+      "start": 71,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 91,
+      "start": 85,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 149,
+      "start": 144,
+      "tag": "Weapon",
+      "text": "Su-35"
+    },
+    {
+      "end": 190,
+      "start": 184,
+      "tag": "Buyer Country",
+      "text": "Indian"
+    },
+    {
+      "end": 1260,
+      "start": 1138,
+      "tag": "Answer",
+      "text": "In India, however, no source in the Defence Ministry could confirm that any deal had been signed with Russia on the Su-35S"
+    },
+    {
+      "end": 1146,
+      "start": 1141,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1146,
+      "start": 1141,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1246,
+      "start": 1240,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1246,
+      "start": 1240,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1260,
+      "start": 1254,
+      "tag": "Weapon",
+      "text": "Su-35S"
+    },
+    {
+      "end": 1710,
+      "start": 1574,
+      "tag": "Answer",
+      "text": "That could make it competitive with Dassault Aviation's Rafale, and could have implications for India's proposed purchase of 126 Rafales"
+    },
+    {
+      "end": 1627,
+      "start": 1610,
+      "tag": "Seller",
+      "text": "Dassault Aviation"
+    },
+    {
+      "end": 1675,
+      "start": 1670,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1675,
+      "start": 1670,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1702,
+      "start": 1699,
+      "tag": "Quantity",
+      "text": "126"
+    },
+    {
+      "end": 1710,
+      "start": 1703,
+      "tag": "Weapon",
+      "text": "Rafales"
+    },
+    {
+      "end": 5500,
+      "start": 5289,
+      "tag": "Answer",
+      "text": "China is also considering a purchase of Su-35s. A February report by Zvezda, a television network run by the Russian military, said that long-running talks might conclude with a deal to buy 24 fighters on May 19"
+    },
+    {
+      "end": 5294,
+      "start": 5289,
+      "tag": "Buyer",
+      "text": "China"
+    },
+    {
+      "end": 5294,
+      "start": 5289,
+      "tag": "Buyer Country",
+      "text": "China"
+    },
+    {
+      "end": 5335,
+      "start": 5329,
+      "tag": "Weapon",
+      "text": "Su-35s"
+    },
+    {
+      "end": 5414,
+      "start": 5394,
+      "tag": "Seller",
+      "text": "the Russian military"
+    },
+    {
+      "end": 5405,
+      "start": 5398,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 5481,
+      "start": 5479,
+      "tag": "Quantity",
+      "text": "24"
+    },
+    {
+      "end": 5500,
+      "start": 5494,
+      "tag": "Date",
+      "text": "May 19"
+    },
+    {
+      "end": 5490,
+      "start": 5482,
+      "tag": "Weapon",
+      "text": "fighters"
+    },
+    {
+      "end": 5599,
+      "start": 5522,
+      "tag": "Answer",
+      "text": "the contract, if signed, would provide China with the fourth-generation Su-35"
+    },
+    {
+      "end": 5566,
+      "start": 5561,
+      "tag": "Buyer",
+      "text": "China"
+    },
+    {
+      "end": 5566,
+      "start": 5561,
+      "tag": "Buyer Country",
+      "text": "China"
+    },
+    {
+      "end": 5599,
+      "start": 5576,
+      "tag": "Weapon",
+      "text": "fourth-generation Su-35"
+    },
+    {
+      "end": 6218,
+      "start": 6023,
+      "tag": "Answer",
+      "text": "Last fall, Russian President Vladimir Putin and Egyptian President Abdel Fattah el-Sisi signed an arms deal reportedly worth $3.5 billion. Egyptian media reported that the package included Su-35s"
+    },
+    {
+      "end": 6066,
+      "start": 6034,
+      "tag": "Seller",
+      "text": "Russian President Vladimir Putin"
+    },
+    {
+      "end": 6110,
+      "start": 6071,
+      "tag": "Buyer",
+      "text": "Egyptian President Abdel Fattah el-Sisi"
+    },
+    {
+      "end": 6079,
+      "start": 6071,
+      "tag": "Buyer Country",
+      "text": "Egyptian"
+    },
+    {
+      "end": 6041,
+      "start": 6034,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 6160,
+      "start": 6148,
+      "tag": "Price",
+      "text": "$3.5 billion"
+    },
+    {
+      "end": 6218,
+      "start": 6212,
+      "tag": "Weapon",
+      "text": "Su-35s"
+    }
+  ],
+  "text": "ABU DHABI \u2014 Moscow and New Delhi have agreed to perform design work in India on what Russia claims would be a \"fifth generation\" version of the Su-35, an agreement that may lead to an Indian variant of the fighter jet, the Russian Military Complex chief said.\n\nThe announcement makes India the first country to sign a contract, however preliminary, for the S version of the Su-35 .\n\n\"We have been negotiating and have signed the intention protocol for the Su-35,\" Rostec CEO Sergey Chemezov said during the IDEX show in Abu Dhabi last month. \"Now we are working on designing ideas for this contract and on creating a manufacturing platform for the aircraft of the fifth generation.\"\n\nRostec is Russia's state-run corporation that oversees export of high-tech products.\n\nChemezov said the jet would be developed to meet the Indian Air Force's requirements . He did not say how many of the jets India might plan to buy.\n\nRussia claims the Su-35S would be a fifth generation fighter, as opposed to the legacy fourth generation Su-35. That implies stealth, but it's unclear whether the jet would be on par with an F-35 joint strike fighter.\n\nIn India, however, no source in the Defence Ministry could confirm that any deal had been signed with Russia on the Su-35S. An Air Force official did say that the Russians have made one or two Su-35S presentations in the past six months on how it can help replace India's MiG-21 and MiG-27 fighter aircraft, which are due for retirement in seven or eight years.\n\nRussian industry sources said the fighter will be priced at $85 million. That could make it competitive with Dassault Aviation's Rafale, and could have implications for India's proposed purchase of 126 Rafales. New Delhi selected the Rafale as the preferred bidder in a protracted competition in 2012, but has yet to make a final decision on the purchase.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nIndian and French defense ministers discussed the Rafale deal during Jean-Yves Le Drian's recent visit to India, an Indian MoD source said. But Indian Defense Minister Manohar Parrikar did not provide a time commitment to Le Drian on when the deal will be signed.\n\nParrikar told Le Drian that state-owned Hindustan Aeronautics Ltd. (HAL) has been asked to complete cost estimates for the Rafales it will build under license.\n\nThe French defense minister's spokesman was not available for comment.\n\nA Dassault Aviation spokesman, asked about the Indian agreement for design work on the Su-35S, said the Indian Air Force chief has said a Sukhoi cannot replace a Rafale.\n\nIn India, the Economic Times, reported on Feb. 19 that Indian Air Force chief Arup Raha ruled out a purchase of additional Su-30s as the Russian fighter and the Rafale complemented each other rather than the former replacing the latter.\n\nIndian Prime Minister Narendra Modi is due to visit Paris in April, which could be an opportunity for some clarification on the potential Rafale deal, Agence-France Presse has reported.\n\nRussian aircraft makers have been eagerly proclaiming their willingness to step in if India ultimately rejects the French jet. Many believe Russia wants to undercut France as punishment for Paris refusing to deliver two Mistral helicopters carriers to Russia amid deepening tensions with Ukraine.\n\n\"If [India] needs additional Su-30MKI fighters, then we are ready to work out such an agreement,\" Sergei Goreslavsky, deputy director of Russia's arms export agency Rosoboronexport, told the RIA Novosti news agency on Feb. 16. India operates a large fleet of Sukhoi Su-30 fighters, some of which have been locally produced by HAL.\n\nAnd Russia's RSK MiG says it would offer an upgraded version of its developmental MiG-35 if India reopens the tender.\n\n\"We have every chance to compete [for the contract],\" MiG chief Sergei Korotkov said at Aero India on Feb. 18, according to the RIA Novosti new agency. \"We have not lost hope that a future tender or competition will be announced.\"\n\nIndia remains dependent on Russia to supply weaponry and the two countries have been successful in conducting joint development programs involving advanced technologies, including the co-production of the supersonic BrahMos cruise missile.\n\n\"Efforts will be made to modernize the Indian defense forces with emphasis on Make-in-India defense programs,\" an Indian MoD official said. \"India remains committed to buy advanced technologies.\"\n\nIndia's dependence on Russia for the bulk of its weapons systems, said defense analyst Nitin Mehta.\n\n\"India wants to buy advanced systems like the Rafale, even at a higher cost,\" he said. \"[But] dependence on Russians will remain ... and it would be difficult to find the resources to replace these with advanced systems immediately.\"\n\nRussian Defense Minister Sergei Shoigu said the Su-35S would enter Russian service this year as part of the expansion of the Air Force and Naval Aviation branch.\n\n\"Currently, we're testing a new Su-35S multifunctional fighter jet. This year, the new aircraft should enter service. This is the main task for this year,\" Shoigu said in February.\n\nChina is also considering a purchase of Su-35s. A February report by Zvezda, a television network run by the Russian military, said that long-running talks might conclude with a deal to buy 24 fighters on May 19.\n\nChemezov said that the contract, if signed, would provide China with the fourth-generation Su-35, not India's fifth-generation S model.\n\n\"This aircraft is called Su-35-4 plus PAK-FA generation and we are negotiating with China and we are in progress and I hope it will be over soon. I wouldn't like to discuss contracts that have still not been signed,\" he said. \"The important point is that this is a very unique aircraft that has not been delivered to any country.\"\n\nAnother potential customer for the Su-35 is Egypt. Last fall, Russian President Vladimir Putin and Egyptian President Abdel Fattah el-Sisi signed an arms deal reportedly worth $3.5 billion. Egyptian media reported that the package included Su-35s.\n\nBut Chemezov said no firm purchase deal had been settled.\n\n\"We have not signed anything with Egypt; we signed an intention protocol and we are negotiating it. I hope soon we will sign a contract,\" he said.\n\nExperts have suggested that Egypt, long a customer of US arms makers, would have trouble integrating Russian hardware.\n\n\"This would require a significant investment and both sides have been in negotiations for years without results,\" said Ruslan Aliev, of Moscow's Centre for Analysis of Strategies and Technologies.\n\nBut Chemezov said the two countries have already agreed on training protocols in case the purchase goes through.\n\n\"As a matter of fact, the terms and conditions of the contract that have been signed maintain not only the delivery and other terms but also the training,\" he said. \"First the pilot will be trained in Russia and later in Egypt, as an example when we supplied the helicopters to the Pentagon, which were then delivered to Afghanistan the pilots took their training to Russia.\""
+}

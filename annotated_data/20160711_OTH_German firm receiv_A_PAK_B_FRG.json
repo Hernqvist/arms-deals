@@ -1,0 +1,126 @@
+{
+  "filename": "20160711_OTH_German firm receiv_A_PAK_B_FRG",
+  "labels": [
+    {
+      "end": 60,
+      "start": 0,
+      "tag": "Answer",
+      "text": "German firm receives contract to configure Pakistani ATR-72s"
+    },
+    {
+      "end": 11,
+      "start": 0,
+      "tag": "Seller",
+      "text": "German firm"
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Seller Country",
+      "text": ""
+    },
+    {
+      "end": 52,
+      "start": 43,
+      "tag": "Buyer",
+      "text": "Pakistani"
+    },
+    {
+      "end": 52,
+      "start": 43,
+      "tag": "Buyer Country",
+      "text": "Pakistani"
+    },
+    {
+      "end": 60,
+      "start": 53,
+      "tag": "Weapon",
+      "text": "ATR-72s"
+    },
+    {
+      "end": 308,
+      "start": 62,
+      "tag": "Answer",
+      "text": "Rheinland Air Service (RAS), a German firm specializing in airliner maintenance, repair and overhaul (MRO) as well as other support tasks, was awarded a contract by the Pakistan Navy to convert two ATR-72 aircraft for anti-submarine warfare (ASW)"
+    },
+    {
+      "end": 259,
+      "start": 256,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 275,
+      "start": 260,
+      "tag": "Weapon",
+      "text": "ATR-72 aircraft"
+    },
+    {
+      "end": 89,
+      "start": 62,
+      "tag": "Seller",
+      "text": "Rheinland Air Service (RAS)"
+    },
+    {
+      "end": 99,
+      "start": 93,
+      "tag": "Seller Country",
+      "text": "German"
+    },
+    {
+      "end": 244,
+      "start": 227,
+      "tag": "Buyer",
+      "text": "the Pakistan Navy"
+    },
+    {
+      "end": 239,
+      "start": 231,
+      "tag": "Buyer Country",
+      "text": "Pakistan"
+    },
+    {
+      "end": 584,
+      "start": 472,
+      "tag": "Answer",
+      "text": "RAS was contracted to re-configure two Pakistani ATR-72s, with the first slotted for delivery by the end of 2017"
+    },
+    {
+      "end": 475,
+      "start": 472,
+      "tag": "Seller",
+      "text": "RAS"
+    },
+    {
+      "end": 510,
+      "start": 507,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 520,
+      "start": 511,
+      "tag": "Buyer",
+      "text": "Pakistani"
+    },
+    {
+      "end": 520,
+      "start": 511,
+      "tag": "Buyer Country",
+      "text": "Pakistani"
+    },
+    {
+      "end": 528,
+      "start": 521,
+      "tag": "Weapon",
+      "text": "ATR-72s"
+    },
+    {
+      "end": 584,
+      "start": 580,
+      "tag": "Date",
+      "text": "2017"
+    }
+  ],
+  "text": "German firm receives contract to configure Pakistani ATR-72s\n\nRheinland Air Service (RAS), a German firm specializing in airliner maintenance, repair and overhaul (MRO) as well as other support tasks, was awarded a contract by the Pakistan Navy to convert two ATR-72 aircraft for anti-submarine warfare (ASW).\n\nAlthough the company did not explicitly note that the ATR-72 would be converted, Pakistan Navy ATRs were spotted at RAS\u2019s facilities in Germany in recent weeks. RAS was contracted to re-configure two Pakistani ATR-72s, with the first slotted for delivery by the end of 2017.\n\nRAS expects additional Pakistani orders in the coming years.\n\nComment and Analysis\n\nThe current iteration of the ATR-72 ASW \u2013 currently on offer by Italian vendor Leonardo-Finmeccanica \u2013 uses the ATR-72-600 as its base platform. This aircraft is capable of ASW operations through the use of a fitted sono-buoy launcher (for underwater acoustic detection) and pylons for lightweight ASW torpedoes.\n\nThe Pakistan Navy operates the slighter smaller ATR-72-500, but this should not impact its likelihood of being an ATR-72 ASW. RAS made very explicit mention of the aircraft\u2019s use as a ASW platform, and it is worth noting that Turkey did intend to use the ATR-72-500 as the basis for its program, before shifting to the ATR-72-600 (which is currently serving as the basis for the Turkish Maritime Patrol Aircraft or TMPA).\n\nATR-72 ASWs will be a welcome addition to the Pakistan Navy\u2019s maritime patrol aircraft (MPA) fleet, which has yet to fully recover from the loss of two Lockheed Martin P-3C Orion in 2011 (from an insurgent attack on the naval base PNS Mehran). It currently has seven P-3Cs in service.\n\nDerived from a widely used commercial platform, the ATR-72 ASW is a relatively feasible and accessible platform for building a sizable MPA fleet. In fact, while Alenia Aermacchi (now Leonardo) was the first to offer the ATR-72 ASW, it is not the only available avenue. Rather, the Pakistan Navy could (and likely did) select subsystems from a variety of vendors (with RAS being selected to undertake the integration work).\n\nIf Pakistan\u2019s ATR-72 ASWs are similar in their general configuration to Turkey\u2019s ATR-72 TMPA, then it is likely the following subsystems are being integrated: a search radar, electro-optical sensors, electronic support measures (ESM), magnetic anomaly detector (MAD), integrated self-protection suite, sono-buoy launcher, and hardpoints for the fuselage sides (for lightweight ASW torpedoes)."
+}
