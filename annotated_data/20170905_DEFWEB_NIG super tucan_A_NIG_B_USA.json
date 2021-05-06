@@ -1,0 +1,216 @@
+{
+  "filename": "20170905_DEFWEB_NIG super tucan_A_NIG_B_USA",
+  "labels": [
+    {
+      "end": 177,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Nigeria\u2019s Super Tucano contract includes Paveway II guided bombs, laser-guided rockets and infrared sensors in addition to 12 aircraft, the United States government has revealed"
+    },
+    {
+      "end": 7,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 7,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 22,
+      "start": 10,
+      "tag": "Weapon",
+      "text": "Super Tucano"
+    },
+    {
+      "end": 64,
+      "start": 42,
+      "tag": "Weapon",
+      "text": "aveway II guided bombs"
+    },
+    {
+      "end": 86,
+      "start": 66,
+      "tag": "Weapon",
+      "text": "laser-guided rockets"
+    },
+    {
+      "end": 107,
+      "start": 91,
+      "tag": "Weapon",
+      "text": "infrared sensors"
+    },
+    {
+      "end": 125,
+      "start": 123,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 134,
+      "start": 126,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 164,
+      "start": 136,
+      "tag": "Seller",
+      "text": "the United States government"
+    },
+    {
+      "end": 153,
+      "start": 140,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 419,
+      "start": 180,
+      "tag": "Answer",
+      "text": "The US Defence Security Cooperation Agency (DSCA) on 3 August announced the possible Foreign Military Sale of 12 A-29 Super Tucano aircraft, along with weapons, spares and training, to Nigeria in a contract that could be worth $593 million"
+    },
+    {
+      "end": 229,
+      "start": 180,
+      "tag": "Seller",
+      "text": "The US Defence Security Cooperation Agency (DSCA)"
+    },
+    {
+      "end": 186,
+      "start": 184,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 241,
+      "start": 233,
+      "tag": "Date",
+      "text": "3 August"
+    },
+    {
+      "end": 292,
+      "start": 290,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 319,
+      "start": 293,
+      "tag": "Weapon",
+      "text": "A-29 Super Tucano aircraft"
+    },
+    {
+      "end": 339,
+      "start": 332,
+      "tag": "Weapon",
+      "text": "weapons"
+    },
+    {
+      "end": 372,
+      "start": 365,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 372,
+      "start": 365,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 419,
+      "start": 407,
+      "tag": "Price",
+      "text": "$593 million"
+    },
+    {
+      "end": 3462,
+      "start": 3368,
+      "tag": "Answer",
+      "text": "the Super Tucano has been ordered by Angola, Burkina Faso, Mauritania, Mali, Ghana and Senegal"
+    },
+    {
+      "end": 3384,
+      "start": 3372,
+      "tag": "Weapon",
+      "text": "Super Tucano"
+    },
+    {
+      "end": 3411,
+      "start": 3405,
+      "tag": "Buyer",
+      "text": "Angola"
+    },
+    {
+      "end": 3425,
+      "start": 3413,
+      "tag": "Buyer",
+      "text": "Burkina Faso"
+    },
+    {
+      "end": 3437,
+      "start": 3427,
+      "tag": "Buyer",
+      "text": "Mauritania"
+    },
+    {
+      "end": 3443,
+      "start": 3439,
+      "tag": "Buyer",
+      "text": "Mali"
+    },
+    {
+      "end": 3450,
+      "start": 3445,
+      "tag": "Buyer",
+      "text": "Ghana"
+    },
+    {
+      "end": 3462,
+      "start": 3455,
+      "tag": "Buyer",
+      "text": "Senegal"
+    },
+    {
+      "end": 3411,
+      "start": 3405,
+      "tag": "Buyer Country",
+      "text": "Angola"
+    },
+    {
+      "end": 3425,
+      "start": 3413,
+      "tag": "Buyer Country",
+      "text": "Burkina Faso"
+    },
+    {
+      "end": 3437,
+      "start": 3427,
+      "tag": "Buyer Country",
+      "text": "Mauritania"
+    },
+    {
+      "end": 3443,
+      "start": 3439,
+      "tag": "Buyer Country",
+      "text": "Mali"
+    },
+    {
+      "end": 3450,
+      "start": 3445,
+      "tag": "Buyer Country",
+      "text": "Ghana"
+    },
+    {
+      "end": 3462,
+      "start": 3455,
+      "tag": "Buyer Country",
+      "text": "Senegal"
+    }
+  ],
+  "text": "Nigeria\u2019s Super Tucano contract includes Paveway II guided bombs, laser-guided rockets and infrared sensors in addition to 12 aircraft, the United States government has revealed.\n\nThe US Defence Security Cooperation Agency (DSCA) on 3 August announced the possible Foreign Military Sale of 12 A-29 Super Tucano aircraft, along with weapons, spares and training, to Nigeria in a contract that could be worth $593 million. Congress was notified on 2 August, but more details emerged in the US Federal Register on 28 August.\n\nIn publishing the unclassified text of the arms sales notification, the Federal Register revealed Nigeria has requested Paveway II and Advanced Precision Kill Weapon System (APKWS) laser-guidance kits and ammunition. It lists these items as \u201cmajor defence equipment\u201d valued at $29 million, while the \u201cother\u201d component of the deal, for the Super Tucanos, sensors, training and support, is valued at $564 million.\n\nThe weapons and ammunition includes 100 GBU-12 (500 lb) Paveway II Tailkits; 100 GBU-58 (250 lb) Paveway II Tailkits; 400 Laser Guided Rockets including Advanced Precision Kill Weapon System (APKWS) rounds; 2 000 MK-81 (250 lb) bombs; 5 000 2.75 inch (70 mm) Hydra 70 unguided rockets; 1 000 2.75 inch Hydra 70 unguided rockets (practice); and 20 000 rounds of .50 calibre machinegun ammunition.\n\nThe APKWS is a low cost semi-active laser guidance kit developed by BAE Systems which is added to unguided 70 mm rockets, turning them into precision strike weapons. Similarly, the Paveway II, developed by Raytheon and Lockheed Martin, uses semi-active laser guidance to turn Mk 81 and Mk 82 general purpose bombs into guided weapons. The DSCA said the sale includes the tailkits to transform Nigeria\u2019s existing 500-lb and 250-lb bomb bodies into GBU-12s and GBU-58s respectively, and that Nigeria is also buying additional GBU-58s/Mk 81 bombs.\n\nThe proposed sale also includes seven AN/AAQ-22F electro-optical/infrared (EO/IR) sensor and laser designator turrets, spares, support equipment, facilities infrastructure and hangar construction, night vision devices, simulators, and software. Training will cover pilot and maintenance instruction and human rights and international humanitarian law. FLIR\u2019s Brite Star system comprises a large format thermal imager and colour daylight camera with laser designator for terminal guidance of laser-guided bombs and rockets.\n\nThe DSCA notice said the 12 Super Tucanos \u201cwill support Nigerian military operations against terrorist organization Boko Haram and to counter illicit trafficking in Nigeria and the Gulf of Guinea. The Super Tucano is a sustainable platform for counterterrorism, counter insurgency, border surveillance, and illicit trade interdiction operations. The proposed sale will support U.S. foreign policy objectives by helping Nigeria to meet shared counterterrorism objectives for the region. This proposed sale will strengthen the U.S. security relationship with Africa\u2019s largest democracy.\u201d\n\nThe prime contractor is the Sierra Nevada Corporation, headquartered in Centennial, Colorado. The company is building Super Tucanos for the Afghan Air Force and Lebanon at its US facility.\n\nEmbraer has recorded a number of orders for its Super Tucano from African countries, which see it as a low cost light attack aircraft that can also be used as a trainer. On the continent, the Super Tucano has been ordered by Angola, Burkina Faso, Mauritania, Mali, Ghana and Senegal.\n\n\n\n\n\n\n\nThe Nigerian Air Force may also get second hand Super Tucanos \u2013 in February the Nigerian Air Force announced that Brazilian government had approved the sale of three second hand Super Tucano aircraft to Nigeria."
+}

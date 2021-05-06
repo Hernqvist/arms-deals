@@ -1,0 +1,378 @@
+{
+  "filename": "20180309_DN_Missile sale from F_A_EGY_B_USA",
+  "labels": [
+    {
+      "end": 136,
+      "start": 8,
+      "tag": "Answer",
+      "text": "The French government must seek U.S. authorization before selling French Scalp cruise missiles with American components to Egypt"
+    },
+    {
+      "end": 29,
+      "start": 8,
+      "tag": "Seller",
+      "text": "The French government"
+    },
+    {
+      "end": 18,
+      "start": 12,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 102,
+      "start": 81,
+      "tag": "Weapon",
+      "text": "Scalp cruise missiles"
+    },
+    {
+      "end": 136,
+      "start": 131,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 136,
+      "start": 131,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 362,
+      "start": 282,
+      "tag": "Answer",
+      "text": "Egypt is in talks with France on exercising an option for 12 Rafale fighter jets"
+    },
+    {
+      "end": 287,
+      "start": 282,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 287,
+      "start": 282,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 311,
+      "start": 305,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 311,
+      "start": 305,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 342,
+      "start": 340,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 362,
+      "start": 343,
+      "tag": "Weapon",
+      "text": "Rafale fighter jets"
+    },
+    {
+      "end": 832,
+      "start": 767,
+      "tag": "Answer",
+      "text": "Dassault has delivered 14 of Egypt\u2019s order for 24 Rafale aircraft"
+    },
+    {
+      "end": 775,
+      "start": 767,
+      "tag": "Seller",
+      "text": "Dassault"
+    },
+    {
+      "end": 792,
+      "start": 790,
+      "tag": "Quantity",
+      "text": "14"
+    },
+    {
+      "end": 801,
+      "start": 796,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 801,
+      "start": 796,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 816,
+      "start": 814,
+      "tag": "Quantity",
+      "text": "24"
+    },
+    {
+      "end": 832,
+      "start": 817,
+      "tag": "Weapon",
+      "text": "Rafale aircraft"
+    },
+    {
+      "end": 1309,
+      "start": 1148,
+      "tag": "Answer",
+      "text": "Egypt was the first export client for the Rafale, which was part of a French arms deal that included a Naval Group multimission frigate and four Gowind corvettes"
+    },
+    {
+      "end": 1153,
+      "start": 1148,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1153,
+      "start": 1148,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1196,
+      "start": 1190,
+      "tag": "Weapon",
+      "text": "Rafale"
+    },
+    {
+      "end": 1224,
+      "start": 1218,
+      "tag": "Seller",
+      "text": "French"
+    },
+    {
+      "end": 1224,
+      "start": 1218,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 1283,
+      "start": 1251,
+      "tag": "Weapon",
+      "text": "Naval Group multimission frigate"
+    },
+    {
+      "end": 1292,
+      "start": 1288,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1309,
+      "start": 1293,
+      "tag": "Weapon",
+      "text": "Gowind corvettes"
+    },
+    {
+      "end": 1432,
+      "start": 1338,
+      "tag": "Answer",
+      "text": "Egypt went on to buy two Mistral helicopter carriers, which France had bought back from Russia"
+    },
+    {
+      "end": 1343,
+      "start": 1338,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1343,
+      "start": 1338,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1362,
+      "start": 1359,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1803,
+      "start": 1684,
+      "tag": "Answer",
+      "text": "France ran into U.S. authorization problems on a 2013 sale of two Falcon Eye spy satellites to the United Arab Emirates"
+    },
+    {
+      "end": 1690,
+      "start": 1684,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 1690,
+      "start": 1684,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1737,
+      "start": 1733,
+      "tag": "Date",
+      "text": "2013"
+    },
+    {
+      "end": 1749,
+      "start": 1746,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1775,
+      "start": 1750,
+      "tag": "Weapon",
+      "text": "Falcon Eye spy satellites"
+    },
+    {
+      "end": 1803,
+      "start": 1783,
+      "tag": "Buyer",
+      "text": "United Arab Emirates"
+    },
+    {
+      "end": 1803,
+      "start": 1783,
+      "tag": "Buyer Country",
+      "text": "United Arab Emirates"
+    },
+    {
+      "end": 2374,
+      "start": 2149,
+      "tag": "Answer",
+      "text": "Dassault expects a down payment from Qatar \u201cshortly\u201d after exercising an option in December for 12 more Rafale fighters, Trappier said. That adds to an initial order for 24 units. Doha also asked for options for 36 more units"
+    },
+    {
+      "end": 2157,
+      "start": 2149,
+      "tag": "Seller",
+      "text": "Dassault"
+    },
+    {
+      "end": 2191,
+      "start": 2186,
+      "tag": "Buyer",
+      "text": "Qatar"
+    },
+    {
+      "end": 2191,
+      "start": 2186,
+      "tag": "Buyer Country",
+      "text": "Qatar"
+    },
+    {
+      "end": 2247,
+      "start": 2245,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 2268,
+      "start": 2253,
+      "tag": "Weapon",
+      "text": "Rafale fighters"
+    },
+    {
+      "end": 2321,
+      "start": 2319,
+      "tag": "Quantity",
+      "text": "24"
+    },
+    {
+      "end": 2333,
+      "start": 2329,
+      "tag": "Buyer",
+      "text": "Doha"
+    },
+    {
+      "end": 2363,
+      "start": 2361,
+      "tag": "Quantity",
+      "text": "36"
+    },
+    {
+      "end": 2472,
+      "start": 2410,
+      "tag": "Answer",
+      "text": "French government-to-government offer of the Rafale to Belgium"
+    },
+    {
+      "end": 2416,
+      "start": 2410,
+      "tag": "Seller",
+      "text": "French"
+    },
+    {
+      "end": 2416,
+      "start": 2410,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 2461,
+      "start": 2455,
+      "tag": "Weapon",
+      "text": "Rafale"
+    },
+    {
+      "end": 2472,
+      "start": 2465,
+      "tag": "Buyer",
+      "text": "Belgium"
+    },
+    {
+      "end": 2472,
+      "start": 2465,
+      "tag": "Buyer Country",
+      "text": "Belgium"
+    },
+    {
+      "end": 3577,
+      "start": 3489,
+      "tag": "Answer",
+      "text": "Dassault expects the French government to sign a contract soon for three new Falcon jets"
+    },
+    {
+      "end": 3497,
+      "start": 3489,
+      "tag": "Seller",
+      "text": "Dassault"
+    },
+    {
+      "end": 3527,
+      "start": 3506,
+      "tag": "Buyer",
+      "text": "the French government"
+    },
+    {
+      "end": 3516,
+      "start": 3510,
+      "tag": "Buyer Country",
+      "text": "French"
+    },
+    {
+      "end": 3561,
+      "start": 3556,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 3577,
+      "start": 3566,
+      "tag": "Weapon",
+      "text": "Falcon jets"
+    }
+  ],
+  "text": "PARIS \u2014 The French government must seek U.S. authorization before selling French Scalp cruise missiles with American components to Egypt, said Eric Trappier, chairman and CEO of Dassault Aviation.\n\nThose U.S. parts on the long-range weapon are critical to its ability to function.\n\nEgypt is in talks with France on exercising an option for 12 Rafale fighter jets, business website La Tribune reported. That option was included in a 2015 contract for 24 twin-jet fighters and weapons from Safran and MBDA.\n\n\u201cThis is very sensitive,\u201d Trappier said March 8 at a media conference on 2017 financial results. \u201cThis is a government-to-government contract. If there are authorizations, then it is up to the government for the component and the government for the aircraft.\u201d\n\nDassault has delivered 14 of Egypt\u2019s order for 24 Rafale aircraft.\n\nThe French Armed Forces Ministry and MBDA declined to comment.\n\nA U.S. State Department official said that \u201cas a matter of policy, we do not comment on private diplomatic exchanges, and we are restricted under federal law from commenting on issues related to specific commercial defense export licensing cases.\u201d\n\nEgypt was the first export client for the Rafale, which was part of a French arms deal that included a Naval Group multimission frigate and four Gowind corvettes, with options for two more. Egypt went on to buy two Mistral helicopter carriers, which France had bought back from Russia.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nPreviously, France ran into U.S. authorization problems on a 2013 sale of two Falcon Eye spy satellites to the United Arab Emirates. That contract lapsed, as U.S. authorization under the International Traffic in Arms Regulations for two key components was slow. France eventually closed that deal with the UAE in 2014, but only after then-French President Fran\u00e7ois Hollande and then-U.S. President Barack Obama met at the White House and agreed to speed up the authorization.\n\nDassault expects a down payment from Qatar \u201cshortly\u201d after exercising an option in December for 12 more Rafale fighters, Trappier said. That adds to an initial order for 24 units. Doha also asked for options for 36 more units.\n\nAsked about legal doubt over the French government-to-government offer of the Rafale to Belgium, Trappier said it was simply up to the Belgian government to exercise its national sovereignty, and decide whether to opt out of its fighter competition and pick the Rafale.\n\nThe U.S. and Britain have pitched respectively the F-35 and Eurofighter Typhoon in the Belgian tender.\n\nMalaysia is due to hold general elections soon, and Dassault expects to continue talks with the new administration on its offer of the Rafale.\n\n\u201cThe discussions will resume with the arrival of the next government,\u201d he said, addressing doubts over Malaysia\u2019s interest in the French fighter following the European Union\u2019s move to curb imports of palm oil. With Britain leaving the EU, Malaysia has signaled a change in interest to the Eurofighter, Reuters reported.\n\nDassault expects Switzerland to launch a competition soon to replace the F-5 and F-18. The firm has high hopes for the Rafale, the executive said.\n\nA previous Swiss tender picked the Saab Gripen to replace the F-5, but that selection was canceled in a public referendum.\n\nDassault expects the French government to sign a contract soon for three new Falcon jets for its Epicure airborne universal electronic warfare program, replacing an aging fleet of two Transall Gabriel aircraft. The selection likely will be the 7X or 8X versions of the Falcon twin-engine jets, Trappier said, and the deal will be will be shared with Thales."
+}

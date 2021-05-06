@@ -1,0 +1,36 @@
+{
+  "filename": "20190513_OTH_US cannot use S-30_A_USA_B_UKR",
+  "labels": [
+    {
+      "end": 444,
+      "start": 352,
+      "tag": "Answer",
+      "text": "Washington may have gotten the older soviet model of the missile defense system from Ukraine"
+    },
+    {
+      "end": 362,
+      "start": 352,
+      "tag": "Buyer",
+      "text": "Washington"
+    },
+    {
+      "end": 431,
+      "start": 409,
+      "tag": "Weapon",
+      "text": "missile defense system"
+    },
+    {
+      "end": 444,
+      "start": 437,
+      "tag": "Seller",
+      "text": "Ukraine"
+    },
+    {
+      "end": 444,
+      "start": 437,
+      "tag": "Seller Country",
+      "text": "Ukraine"
+    }
+  ],
+  "text": "A Russian military expert said the U.S. will be unable to use the Soviet-era S-300 missile system under its possession to study the advanced S-400 model, after a series of satellite images appeared to show the Soviet-made model deployed inside an American military base.\n\nAccording to the head of the World Arms Trade Analysis Center \u0130gor Korotchenko, Washington may have gotten the older soviet model of the missile defense system from Ukraine for \u201cmilitary training purposes,\u201d and noted that it won\u2019t be able to use any of the data from the S-300PT model, produced 30 years ago, to counter the state-of-the-art system.\n\nS-300 missiles can strike targets up to 250 kilometers (155 miles) away and destroy multiple targets simultaneously.\n\nThe S-400 is Russia's most advanced long-range anti-aircraft missile system, with the ability to carry three types of missiles capable of destroying targets, including ballistic and cruise missiles."
+}
