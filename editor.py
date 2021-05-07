@@ -167,7 +167,7 @@ class Editor(ScrolledText):
 
     self.config(state='disabled')
     if goto != None:
-      self.see(goto)
+      root.after(50, self.see(goto))
 
   def add_label(self, label):
     goto = self.n_chars(label.start)

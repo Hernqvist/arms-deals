@@ -1,0 +1,264 @@
+{
+  "filename": "20180218_DAILY_US hindering com_A_EGY_B_USA",
+  "labels": [
+    {
+      "end": 153,
+      "start": 73,
+      "tag": "Answer",
+      "text": "a deal between Cairo and France over the sale of 12 Rafale jet fighters to Egypt"
+    },
+    {
+      "end": 93,
+      "start": 88,
+      "tag": "Buyer",
+      "text": "Cairo"
+    },
+    {
+      "end": 104,
+      "start": 98,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 104,
+      "start": 98,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 153,
+      "start": 148,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 153,
+      "start": 148,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 124,
+      "start": 122,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 144,
+      "start": 125,
+      "tag": "Weapon",
+      "text": "Rafale jet fighters"
+    },
+    {
+      "end": 2009,
+      "start": 1867,
+      "tag": "Answer",
+      "text": "In November 2017, La Tribune said that Egypt is going to sign a military deal with France which will see Egypt buy 12 Rafale fighter aircrafts"
+    },
+    {
+      "end": 1883,
+      "start": 1870,
+      "tag": "Date",
+      "text": "November 2017"
+    },
+    {
+      "end": 1911,
+      "start": 1906,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1911,
+      "start": 1906,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1956,
+      "start": 1950,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 1956,
+      "start": 1950,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1977,
+      "start": 1972,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 1977,
+      "start": 1972,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 1984,
+      "start": 1982,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 2009,
+      "start": 1985,
+      "tag": "Weapon",
+      "text": "Rafale fighter aircrafts"
+    },
+    {
+      "end": 2359,
+      "start": 2258,
+      "tag": "Answer",
+      "text": "In February 2015, France agreed to deliver 24 Rafale fighter jets to Egypt at a cost of \u20ac 5.2 billion"
+    },
+    {
+      "end": 2274,
+      "start": 2261,
+      "tag": "Date",
+      "text": "February 2015"
+    },
+    {
+      "end": 2282,
+      "start": 2276,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 2282,
+      "start": 2276,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 2303,
+      "start": 2301,
+      "tag": "Quantity",
+      "text": "24"
+    },
+    {
+      "end": 2323,
+      "start": 2304,
+      "tag": "Weapon",
+      "text": "Rafale fighter jets"
+    },
+    {
+      "end": 2332,
+      "start": 2327,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 2332,
+      "start": 2327,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 2359,
+      "start": 2346,
+      "tag": "Price",
+      "text": "\u20ac 5.2 billion"
+    },
+    {
+      "end": 2492,
+      "start": 2362,
+      "tag": "Answer",
+      "text": "The French Rafael manufacturer Dassault Aviation disclosed in March that it would deliver to Egypt eight Rafale fighters this year"
+    },
+    {
+      "end": 2410,
+      "start": 2393,
+      "tag": "Seller",
+      "text": "Dassault Aviation"
+    },
+    {
+      "end": 2372,
+      "start": 2366,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 2482,
+      "start": 2467,
+      "tag": "Weapon",
+      "text": "Rafale fighters"
+    },
+    {
+      "end": 2429,
+      "start": 2424,
+      "tag": "Date",
+      "text": "March"
+    },
+    {
+      "end": 2460,
+      "start": 2455,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 2460,
+      "start": 2455,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 2466,
+      "start": 2461,
+      "tag": "Quantity",
+      "text": "eight"
+    },
+    {
+      "end": 2735,
+      "start": 2642,
+      "tag": "Answer",
+      "text": "Egypt has finalized several arms deals with a number of countries including France and Russia"
+    },
+    {
+      "end": 2647,
+      "start": 2642,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 2647,
+      "start": 2642,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 2674,
+      "start": 2670,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 2724,
+      "start": 2718,
+      "tag": "Seller",
+      "text": "France"
+    },
+    {
+      "end": 2724,
+      "start": 2718,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 2735,
+      "start": 2729,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2735,
+      "start": 2729,
+      "tag": "Seller Country",
+      "text": "Russia"
+    }
+  ],
+  "text": "The French weekly financial newspaper La Tribune reported on Friday that a deal between Cairo and France over the sale of 12 Rafale jet fighters to Egypt has been blocked because the US is refusing to export a component of a cruise missile that is part of the plane.\n\nFrench sources quoted in the report asserted that the delay in the deal is due to the shortage of the American component of the scalp missiles and not a funding issue as in the past.\n\nLa Tribune noted that Dassault Aviation and MBDA declined to confirm reports about the Scalp cruise missile, a low observable air-launched cruise missile.\n\nIn response to the report, the Egyptian army\u2019s official spokesperson Tamer El-Refa\u2019ai told Egypt Independent on Sunday that the issue of the missing American component of the Scalp cruise missile is considered as French \u201cinternal affairs.\u201d\n\nThe newspaper added that France has previously approved the export of the Scalp cruise missiles to Egypt, though the US\u2019s refusal to provide the manufacturer with the American component obstructed this step.\n\nThis refusal triggered outrage among Egyptians who are insisting on receiving the Scalp cruise missiles before completing the Rafale deal.\n\nIt explained that the Egyptian outrage will push France to seek alternatives to the American components through resorting to another missiles\u2019 manufacturer away from MBDA, or to open high-level communication with the US administration, saying that such communications may take place during the upcoming visit of the French President Emmanuel Macron to US in April.\n\nThe French newspaper highlighted that there is a conflict between the US and France regarding French weapons\u2019 deals to Middle East countries including Egypt and United Arab of Emirates [UAE], asserting that the US previously refused to sell French components used to manufacture spy satellites to UAE.\n\nIn November 2017, La Tribune said that Egypt is going to sign a military deal with France which will see Egypt buy 12 Rafale fighter aircrafts.\n\nAt the time, the newspaper quoted anonymous sources as saying that the French Foreign Minister Jean-Yves Le Drian negotiated the deal with President Abdel-Fattah al-Sisi while attending the World Youth Forum in Sharm El-Sheikh in November 2017.\n\nIn February 2015, France agreed to deliver 24 Rafale fighter jets to Egypt at a cost of \u20ac 5.2 billion.\n\nThe French Rafael manufacturer Dassault Aviation disclosed in March that it would deliver to Egypt eight Rafale fighters this year.\n\nIn December 2016, Egypt ranked first among developing nations that imports arms, according to a US congressional report.\n\nOver the past few years, Egypt has finalized several arms deals with a number of countries including France and Russia."
+}

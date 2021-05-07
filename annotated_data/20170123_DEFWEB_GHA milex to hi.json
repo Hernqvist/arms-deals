@@ -1,0 +1,366 @@
+{
+  "filename": "20170123_DEFWEB_GHA milex to hi",
+  "labels": [
+    {
+      "end": 1326,
+      "start": 1212,
+      "tag": "Answer",
+      "text": "the defence equipment the country operates is also donated by friendly countries such as China, Germany and Canada"
+    },
+    {
+      "end": 1233,
+      "start": 1216,
+      "tag": "Weapon",
+      "text": "defence equipment"
+    },
+    {
+      "end": 1245,
+      "start": 1234,
+      "tag": "Buyer",
+      "text": "the country"
+    },
+    {
+      "end": 1306,
+      "start": 1301,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1306,
+      "start": 1301,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 1315,
+      "start": 1308,
+      "tag": "Seller",
+      "text": "Germany"
+    },
+    {
+      "end": 1315,
+      "start": 1308,
+      "tag": "Seller Country",
+      "text": "Germany"
+    },
+    {
+      "end": 1326,
+      "start": 1320,
+      "tag": "Seller",
+      "text": "Canada"
+    },
+    {
+      "end": 1326,
+      "start": 1320,
+      "tag": "Seller Country",
+      "text": "Canada"
+    },
+    {
+      "end": 2356,
+      "start": 2090,
+      "tag": "Answer",
+      "text": "Although Ghana continues to procure it military equipment from multiple sources, the report said China would take full advantage of the limited and relatively under-developed domestic defence production capabilities to supply nearly 44% of defence imports up to 2021"
+    },
+    {
+      "end": 2345,
+      "start": 2330,
+      "tag": "Weapon",
+      "text": "defence imports"
+    },
+    {
+      "end": 2192,
+      "start": 2187,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 2192,
+      "start": 2187,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 2104,
+      "start": 2099,
+      "tag": "Buyer",
+      "text": "Ghana"
+    },
+    {
+      "end": 2104,
+      "start": 2099,
+      "tag": "Buyer Country",
+      "text": "Ghana"
+    },
+    {
+      "end": 2475,
+      "start": 2359,
+      "tag": "Answer",
+      "text": "The rest of Ghana\u2019s equipment needs would come from Russia (19.8%), Germany (11.8%), Spain (11.6%) and Canada (6.3%)"
+    },
+    {
+      "end": 2376,
+      "start": 2371,
+      "tag": "Buyer",
+      "text": "Ghana"
+    },
+    {
+      "end": 2376,
+      "start": 2371,
+      "tag": "Buyer Country",
+      "text": "Ghana"
+    },
+    {
+      "end": 2417,
+      "start": 2411,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2417,
+      "start": 2411,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 2434,
+      "start": 2427,
+      "tag": "Seller",
+      "text": "Germany"
+    },
+    {
+      "end": 2434,
+      "start": 2427,
+      "tag": "Seller Country",
+      "text": "Germany"
+    },
+    {
+      "end": 2449,
+      "start": 2444,
+      "tag": "Seller",
+      "text": "Spain"
+    },
+    {
+      "end": 2449,
+      "start": 2444,
+      "tag": "Seller Country",
+      "text": "Spain"
+    },
+    {
+      "end": 2468,
+      "start": 2462,
+      "tag": "Seller",
+      "text": "Canada"
+    },
+    {
+      "end": 2468,
+      "start": 2462,
+      "tag": "Seller Country",
+      "text": "Canada"
+    },
+    {
+      "end": 2751,
+      "start": 2477,
+      "tag": "Answer",
+      "text": "Some of its recent aircraft imports include Chinese-made Harbin Z-9EH utility helicopters, Brazilian-made Super Tucano light attack/trainer aircraft, Russian-made Mi-35 attack helicopters as well as Spanish CASA C295M tactical airlifters and C-27J Spartan transport aircraft"
+    },
+    {
+      "end": 2504,
+      "start": 2496,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 2528,
+      "start": 2521,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 2528,
+      "start": 2521,
+      "tag": "Seller Country",
+      "text": "Chinese"
+    },
+    {
+      "end": 2577,
+      "start": 2568,
+      "tag": "Seller",
+      "text": "Brazilian"
+    },
+    {
+      "end": 2577,
+      "start": 2568,
+      "tag": "Seller Country",
+      "text": "Brazilian"
+    },
+    {
+      "end": 2634,
+      "start": 2627,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 2634,
+      "start": 2627,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 2683,
+      "start": 2676,
+      "tag": "Seller",
+      "text": "Spanish"
+    },
+    {
+      "end": 2683,
+      "start": 2676,
+      "tag": "Seller Country",
+      "text": "Spanish"
+    },
+    {
+      "end": 2566,
+      "start": 2534,
+      "tag": "Weapon",
+      "text": "Harbin Z-9EH utility helicopters"
+    },
+    {
+      "end": 2625,
+      "start": 2583,
+      "tag": "Weapon",
+      "text": "Super Tucano light attack/trainer aircraft"
+    },
+    {
+      "end": 2664,
+      "start": 2640,
+      "tag": "Weapon",
+      "text": "Mi-35 attack helicopters"
+    },
+    {
+      "end": 2714,
+      "start": 2684,
+      "tag": "Weapon",
+      "text": "CASA C295M tactical airlifters"
+    },
+    {
+      "end": 2751,
+      "start": 2719,
+      "tag": "Weapon",
+      "text": "C-27J Spartan transport aircraft"
+    },
+    {
+      "end": 2885,
+      "start": 2754,
+      "tag": "Answer",
+      "text": "In November 2016, China donated $3 million worth of equipment including four naval patrol boats machine guns, rifles and ammunition"
+    },
+    {
+      "end": 2770,
+      "start": 2757,
+      "tag": "Date",
+      "text": "November 2016"
+    },
+    {
+      "end": 2777,
+      "start": 2772,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 2777,
+      "start": 2772,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 2796,
+      "start": 2786,
+      "tag": "Price",
+      "text": "$3 million"
+    },
+    {
+      "end": 2830,
+      "start": 2826,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 2849,
+      "start": 2831,
+      "tag": "Weapon",
+      "text": "naval patrol boats"
+    },
+    {
+      "end": 2862,
+      "start": 2850,
+      "tag": "Weapon",
+      "text": "machine guns"
+    },
+    {
+      "end": 2870,
+      "start": 2864,
+      "tag": "Weapon",
+      "text": "rifles"
+    },
+    {
+      "end": 2885,
+      "start": 2875,
+      "tag": "Weapon",
+      "text": "ammunition"
+    },
+    {
+      "end": 2894,
+      "start": 2890,
+      "tag": "Date",
+      "text": "2012"
+    },
+    {
+      "end": 2901,
+      "start": 2896,
+      "tag": "Buyer",
+      "text": "Ghana"
+    },
+    {
+      "end": 2901,
+      "start": 2896,
+      "tag": "Buyer Country",
+      "text": "Ghana"
+    },
+    {
+      "end": 2924,
+      "start": 2920,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 2932,
+      "start": 2925,
+      "tag": "Seller",
+      "text": "Chinese"
+    },
+    {
+      "end": 2932,
+      "start": 2925,
+      "tag": "Seller Country",
+      "text": "Chinese"
+    },
+    {
+      "end": 2982,
+      "start": 2938,
+      "tag": "Weapon",
+      "text": "\u2018Snake Class\u2019 Offshore Patrol Vessels (OPVs)"
+    },
+    {
+      "end": 3007,
+      "start": 2996,
+      "tag": "Price",
+      "text": "$68 million"
+    },
+    {
+      "end": 3007,
+      "start": 2887,
+      "tag": "Answer",
+      "text": "In 2012, Ghana received acquired four Chinese-made \u2018Snake Class\u2019 Offshore Patrol Vessels (OPVs) at a cost of $68 million"
+    }
+  ],
+  "text": "Ghanaian defence spending will rise by 2.56% annually from the $177 million allocated in 2016 to hit $213.8 million by 2021 spurred by a need to equip the armed forces to counter regional terrorist threats, peacekeeping operations and the fight against maritime piracy and drug trafficking.\n\nIn a new report entitled \u2018Future of the Ghanaian Defense Industry \u2013 Market Attractiveness, Competitive Landscape and Forecasts to 2021\u2032, the Strategic Defence Intelligence (SDI) group said a significant presence of Islamic State and al Qaeda-allied militia groups in Chad, Nigeria and Niger and Mali pose security threats which justified increased Ghanaian defence spending over the next five years.\n\nAmong its key findings, the report said Ghana\u2019s military expenditure would rise at a compound annual growth rate (CAGR) of 2.56% from $177.1 million in 2016 to a peak of $213.8 million by 2021. Cumulative armed forces expenditure is estimated to rise to $1.1 billion in the forecast period.\n\n\u201cGhana has some small arms production capabilities, but it imports most of its advanced weapon systems from external suppliers. Its imports principally comprise naval vessels, aircraft and armoured vehicles. A major portion of the defence equipment the country operates is also donated by friendly countries such as China, Germany and Canada.\n\n\u201cThe army is expected to account for the majority of the military capital expenditure, which is estimated to average 23.9% of the total defence budget during the forecast period. Per-capita defence expenditure is expected to increase marginally to $6.8 by the end of the forecast period, compared to $6.4 in 2016, due to slow population growth,\u201d the report said.\n\nFurther, the report noted that the Ghanaian market will offer numerous opportunities for suppliers of defence equipment such as fighter jets, multi-role aircraft, surveillance aircraft as well as attack and transport helicopters.\n\nDue to legal prohibitions to Foreign Direct Investment (FDI), foreign defence equipment manufacturers are only allowed to enter the Ghanaian by making direct sales.\n\nAlthough Ghana continues to procure it military equipment from multiple sources, the report said China would take full advantage of the limited and relatively under-developed domestic defence production capabilities to supply nearly 44% of defence imports up to 2021.\n\nThe rest of Ghana\u2019s equipment needs would come from Russia (19.8%), Germany (11.8%), Spain (11.6%) and Canada (6.3%). Some of its recent aircraft imports include Chinese-made Harbin Z-9EH utility helicopters, Brazilian-made Super Tucano light attack/trainer aircraft, Russian-made Mi-35 attack helicopters as well as Spanish CASA C295M tactical airlifters and C-27J Spartan transport aircraft.\n\nIn November 2016, China donated $3 million worth of equipment including four naval patrol boats machine guns, rifles and ammunition. In 2012, Ghana received acquired four Chinese-made \u2018Snake Class\u2019 Offshore Patrol Vessels (OPVs) at a cost of $68 million as part of the ongoing naval forces modernisation programme.\n\n\n\n\n\n\n\nEarlier in 2007, the West African country acquired four Chinese-made Hongdu Aviation Industry Group (HAIC) K-8G advanced trainer/light attack jets. The four Harbin Z9EH utility helicopters delivered from China in October 2015 were deployed to coastal surveillance and maritime search and rescue (SAR) duties."
+}
