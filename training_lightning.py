@@ -65,6 +65,7 @@ class LitModule(pl.LightningModule):
     ])
     self.training_metrics = metrics.clone()
     self.validation_metrics = metrics.clone()
+    self.test_metrics = metrics.clone()
 
   def forward(self, x):
     # in lightning, forward defines the prediction/inference actions
@@ -94,56 +95,76 @@ class LitModule(pl.LightningModule):
     self.validation_metrics.reset()
     self.log_metrics("Validation", metrics)
     self.save_hp_metric(metrics['F1'])
+  
+  def test_step(self, batch, batch_idx):
+    x, y = batch
+    preds = self.forward(x)
+    self.validation_metrics(preds, y)
+  
+  def test_epoch_end(self, outputs):
+    metrics = self.extend_metrics(self.test_metrics.compute())
+    self.test_metrics.reset()
+    self.log_metrics("Test", metrics)
 
   def configure_optimizers(self):
     optimizer = torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
     return optimizer
+  
+  def prepare_data(self):
+    texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts[:10]
+    tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
+    preprocessor = Preprocessor(tokenizer, BERT.max_length)
+    self.dataset = TextDataset(texts, preprocessor)
+
+    data_split_weights = [3, 1, 1]
+    eval_start = int(len(self.dataset)*sum(data_split_weights[:1])/sum(data_split_weights))
+    test_start = int(len(self.dataset)*sum(data_split_weights[:2])/sum(data_split_weights))
+    self.train_sampler = SubsetRandomSampler(range(0, eval_start))
+    self.val_sampler = SubsetRandomSampler(range(eval_start, test_start))
+    self.test_sampler = SubsetRandomSampler(range(test_start, len(self.dataset)))
 
   def train_dataloader(self):
     global num_workers
     return DataLoader(
-        dataset,
+        self.dataset,
         num_workers=num_workers, 
         batch_size=self.hparams.batch_size, 
-        sampler=train_sampler)
+        sampler=self.train_sampler)
   
   def val_dataloader(self):
     global num_workers
     return DataLoader(
-        dataset,
+        self.dataset,
         num_workers=num_workers, 
         batch_size=self.hparams.batch_size, 
-        sampler=train_sampler)
+        sampler=self.train_sampler)
+  
+  def test_dataloader(self):
+    global num_workers
+    return DataLoader(
+        self.dataset,
+        num_workers=num_workers, 
+        batch_size=self.hparams.batch_size, 
+        sampler=self.test_sampler)
 
   def probs_to_preds(self, probabilities):
     return torch.argmax(probabilities, dim=3)
   
-  def log_metrics(self, headline, metrics):
+  def log_metrics(self, headline, metrics, logger=True):
     for metric in metrics:
       name = "{}{}".format(headline, metric)
-      self.log(name, metrics[metric], logger=True)
+      self.log(name, metrics[metric], logger=logger)
   
   def extend_metrics(self, metrics):
     precision, recall = metrics['Precision'], metrics['Recall']
-    metrics['F1'] = 2*(precision*recall)/(precision + recall)
+    metrics['F1'] = 2*(precision*recall)/(precision + recall) if precision + recall else 0
     return metrics
   
   def save_hp_metric(self, metric):
     self.log("hp_metric", metric)
     self.best_hp_metric = max(self.best_hp_metric, metric)
 
-
-texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts[:6]
-tokenizer = BertTokenizerFast.from_pretrained(BERT.options_name)
-preprocessor = Preprocessor(tokenizer, BERT.max_length)
-dataset = TextDataset(texts, preprocessor)
-split_index = (len(dataset)*2)//3
-train_sampler = SubsetRandomSampler(range(0, split_index))
-val_sampler = SubsetRandomSampler(range(split_index, len(dataset)))
-
-batch_size = 2
 num_workers = 0
-
 kwargs = {}
 callbacks = []
 
@@ -163,7 +184,12 @@ if args.save:
     )
   )
 
-trainer = pl.Trainer(default_root_dir="lightning", callbacks=callbacks, **kwargs)
+trainer = pl.Trainer(
+    default_root_dir="lightning",
+    callbacks=callbacks,
+    max_epochs=2,
+    **kwargs)
 
 
 trainer.fit(lit_module)
+trainer.test(lit_module)
