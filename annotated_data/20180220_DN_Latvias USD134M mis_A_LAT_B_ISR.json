@@ -1,0 +1,84 @@
+{
+  "filename": "20180220_DN_Latvias USD134M mis_A_LAT_B_ISR",
+  "labels": [
+    {
+      "end": 149,
+      "start": 17,
+      "tag": "Answer",
+      "text": "Latvia\u2019s Ministry of Defence has signed a deal worth \u20ac108 million (U.S. $134 million) to purchase Spike missiles from EuroSpike GmbH"
+    },
+    {
+      "end": 45,
+      "start": 17,
+      "tag": "Buyer",
+      "text": "Latvia\u2019s Ministry of Defence"
+    },
+    {
+      "end": 23,
+      "start": 17,
+      "tag": "Buyer Country",
+      "text": "Latvia"
+    },
+    {
+      "end": 82,
+      "start": 70,
+      "tag": "Price",
+      "text": "\u20ac108 million"
+    },
+    {
+      "end": 101,
+      "start": 84,
+      "tag": "Price",
+      "text": "U.S. $134 million"
+    },
+    {
+      "end": 129,
+      "start": 115,
+      "tag": "Weapon",
+      "text": "Spike missiles"
+    },
+    {
+      "end": 149,
+      "start": 135,
+      "tag": "Seller",
+      "text": "EuroSpike GmbH"
+    },
+    {
+      "end": 765,
+      "start": 625,
+      "tag": "Answer",
+      "text": "The missiles will also be installed on the secondhand CVR(T) vehicles the country purchased from the U.K., according to the Latvian ministry"
+    },
+    {
+      "end": 694,
+      "start": 679,
+      "tag": "Weapon",
+      "text": "CVR(T) vehicles"
+    },
+    {
+      "end": 706,
+      "start": 695,
+      "tag": "Buyer",
+      "text": "the country"
+    },
+    {
+      "end": 756,
+      "start": 749,
+      "tag": "Buyer Country",
+      "text": "Latvian"
+    },
+    {
+      "end": 730,
+      "start": 722,
+      "tag": "Seller",
+      "text": "the U.K."
+    },
+    {
+      "end": 730,
+      "start": 726,
+      "tag": "Seller Country",
+      "text": "U.K."
+    }
+  ],
+  "text": "WARSAW, Poland \u2014 Latvia\u2019s Ministry of Defence has signed a deal worth \u20ac108 million (U.S. $134 million) to purchase Spike missiles from EuroSpike GmbH.\n\n\u201cThe Spike family consists of 4th and 5th generation electro-optical missile systems, providing high precision and high lethality against various targets, including advanced [main battle tanks],\u201d Guy Shilo, a spokesperson for Rafael Advanced Defense Systems, said in a statement.\n\nEuroSpike is a joint venture between Germany\u2019s Diehl BGT Defence, and Rheinmetall Defence Electronics and Israel\u2019s Rafael.\n\nThe acquisition is expected to boost Latvia\u2019s anti-tank capability. The missiles will also be installed on the secondhand CVR(T) vehicles the country purchased from the U.K., according to the Latvian ministry.\n\nUnder the plan, the missile systems will be gradually integrated with Latvia\u2019s military units by 2023.\n\nRussia\u2019s military intervention in Ukraine and the subsequent annexation of Ukraine\u2019s Crimean Peninsula by Russia in 2014 has pushed the Baltic states to intensify their efforts in expandiing combat capacities."
+}
