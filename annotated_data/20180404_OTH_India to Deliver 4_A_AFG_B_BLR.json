@@ -1,0 +1,288 @@
+{
+  "filename": "20180404_OTH_India to Deliver 4_A_AFG_B_BLR",
+  "labels": [
+    {
+      "end": 69,
+      "start": 62,
+      "tag": "Seller",
+      "text": "Belarus"
+    },
+    {
+      "end": 69,
+      "start": 62,
+      "tag": "Seller Country",
+      "text": "Belarus"
+    },
+    {
+      "end": 84,
+      "start": 73,
+      "tag": "Buyer",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 84,
+      "start": 73,
+      "tag": "Buyer Country",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 39,
+      "start": 35,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 58,
+      "start": 40,
+      "tag": "Weapon",
+      "text": "attack helicopters"
+    },
+    {
+      "end": 218,
+      "start": 208,
+      "tag": "Date",
+      "text": "last month"
+    },
+    {
+      "end": 149,
+      "start": 145,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 179,
+      "start": 162,
+      "tag": "Weapon",
+      "text": "Mi-24 helicopters"
+    },
+    {
+      "end": 192,
+      "start": 185,
+      "tag": "Seller",
+      "text": "Belarus"
+    },
+    {
+      "end": 192,
+      "start": 185,
+      "tag": "Seller Country",
+      "text": "Belarus"
+    },
+    {
+      "end": 207,
+      "start": 196,
+      "tag": "Buyer",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 207,
+      "start": 196,
+      "tag": "Buyer Country",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 84,
+      "start": 0,
+      "tag": "Answer",
+      "text": "India will finance the delivery of four attack helicopters by Belarus to Afghanistan"
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Seller",
+      "text": ""
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Seller Country",
+      "text": ""
+    },
+    {
+      "end": 218,
+      "start": 102,
+      "tag": "Answer",
+      "text": "India has agreed to underwrite the sale of four refurbished Mi-24 helicopters from Belarus to Afghanistan last month"
+    },
+    {
+      "end": 107,
+      "start": 102,
+      "tag": "Seller",
+      "text": "India"
+    },
+    {
+      "end": 107,
+      "start": 102,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 812,
+      "start": 711,
+      "tag": "Answer",
+      "text": "This marks the second time that India has agreed to transfer lethal military equipment to Afghanistan"
+    },
+    {
+      "end": 748,
+      "start": 743,
+      "tag": "Seller",
+      "text": "India"
+    },
+    {
+      "end": 748,
+      "start": 743,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 797,
+      "start": 772,
+      "tag": "Weapon",
+      "text": "lethal military equipment"
+    },
+    {
+      "end": 812,
+      "start": 801,
+      "tag": "Buyer",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 812,
+      "start": 801,
+      "tag": "Buyer Country",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 823,
+      "start": 814,
+      "tag": "Seller",
+      "text": "New Delhi"
+    },
+    {
+      "end": 854,
+      "start": 850,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 881,
+      "start": 855,
+      "tag": "Weapon",
+      "text": "Mi-25 (Mi-24D) helicopters"
+    },
+    {
+      "end": 891,
+      "start": 886,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 929,
+      "start": 892,
+      "tag": "Weapon",
+      "text": "HAL Cheetah light utility helicopters"
+    },
+    {
+      "end": 959,
+      "start": 933,
+      "tag": "Buyer",
+      "text": "the Afghan Air Force (AAF)"
+    },
+    {
+      "end": 976,
+      "start": 963,
+      "tag": "Date",
+      "text": "December 2016"
+    },
+    {
+      "end": 976,
+      "start": 814,
+      "tag": "Answer",
+      "text": "New Delhi completed the delivery of four Mi-25 (Mi-24D) helicopters and three HAL Cheetah light utility helicopters to the Afghan Air Force (AAF) in December 2016"
+    },
+    {
+      "end": 2495,
+      "start": 2371,
+      "tag": "Answer",
+      "text": "Russia might also supply Afghanistan with an unknown number of Mi-35 (possibly the M or \u201cHind E\u201d variant) attack helicopters"
+    },
+    {
+      "end": 2377,
+      "start": 2371,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2377,
+      "start": 2371,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 2407,
+      "start": 2396,
+      "tag": "Buyer",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 2407,
+      "start": 2396,
+      "tag": "Buyer Country",
+      "text": "Afghanistan"
+    },
+    {
+      "end": 2439,
+      "start": 2434,
+      "tag": "Weapon",
+      "text": "Mi-35"
+    },
+    {
+      "end": 2495,
+      "start": 2477,
+      "tag": "Weapon",
+      "text": "attack helicopters"
+    },
+    {
+      "end": 2369,
+      "start": 2246,
+      "tag": "Answer",
+      "text": "Russia has purportedly already agreed to take over maintenance of the Indian-supplied Mi-25s and M-17 transport helicopters"
+    },
+    {
+      "end": 2252,
+      "start": 2246,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2252,
+      "start": 2246,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 2322,
+      "start": 2316,
+      "tag": "Seller",
+      "text": "Indian"
+    },
+    {
+      "end": 2322,
+      "start": 2316,
+      "tag": "Seller Country",
+      "text": "Indian"
+    },
+    {
+      "end": 2338,
+      "start": 2332,
+      "tag": "Weapon",
+      "text": "Mi-25s"
+    },
+    {
+      "end": 2369,
+      "start": 2343,
+      "tag": "Weapon",
+      "text": "M-17 transport helicopters"
+    }
+  ],
+  "text": "India will finance the delivery of four attack helicopters by Belarus to Afghanistan.\n\nAdvertisement\n\nIndia has agreed to underwrite the sale of four refurbished Mi-24 helicopters from Belarus to Afghanistan last month, the Afghan Ambassador to India, Shaida Mohammed Abdali, said in an interview with Hindustan Times in late March.\n\n\u201cWe recently were able to sign a trilateral MoU\u2026India will be paying for the four Mi-24s (which will be delivered) in the next few months,\u201d the ambassador said. \u201cAll the four helicopters (will be) paid (for) by India,\u201d he said. \u201cAfghanistan will have ready helicopters that will be used in the coming season.\u201d\n\nThe helicopters are expected to be delivered in the coming weeks. This marks the second time that India has agreed to transfer lethal military equipment to Afghanistan. New Delhi completed the delivery of four Mi-25 (Mi-24D) helicopters and three HAL Cheetah light utility helicopters to the Afghan Air Force (AAF) in December 2016.\n\nYet, as I noted in January, the seven Indian-supplied helicopters, in addition to five Mi-35 helicopter gunships, supplied by the Czech Republic in 2008, have been grounded due to a lack of spare parts for the last couple of months.\n\nDiplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter\n\nThe United States and other NATO member countries are prohibited from purchasing Russian-made military hardware\u2013including the parts needed to repair the Mi-24s\u2013given the Western-imposed sanctions on Russia following the illegal seizure of Crimea and the Russian military intervention in Ukraine.\n\nEnjoying this article? Click here to subscribe for full access. Just $5 a month.\n\nConsequently, the U.S. government has repeatedly requested Indian military assistance to the AAF since 2014. As a result, Indian Ministry of Defense \u201cdispatched a team of aviation experts to Kabul in 2016 to assess the needs of the AAF. The experts concluded that it would cost about $50 million to procure spare parts and make repairs on 11 grounded Mi-35 helicopters and seven military transport aircraft.\u201d\n\nAs I noted in January, Russia has also been offering assistance to the government in Kabul :\n\nRussia has purportedly already agreed to take over maintenance of the Indian-supplied Mi-25s and M-17 transport helicopters. Russia might also supply Afghanistan with an unknown number of Mi-35 (possibly the M or \u201cHind E\u201d variant) attack helicopters (See: \u201cRussia to Sell Modern Attack Helicopters to Afghanistan\u201d).\n\nAdvertisement\n\nHowever, it goes without saying that United States remains the AAFs most important partner when it comes to boosting the service\u2019s combat power and overall capability:\n\nThe AAF is in the process of inducting 159 UH-60 Black Hawk helicopters. It will also take delivery of 150 new MD530 F Cayuse Warrior light attack helicopters by 2022 bringing the total number of MD530 Fs operated by the ANSDF to almost 180.\n\nThe U.S. Air Force has also spent $427 million under its so-called Light Air Support/A-29 Afghanistan Program to supply the AAF with 20 Embraer/Sierra Nevada Corporation A-29 Super Tucano light attack aircraft by the end of 2018.\n\n\u201cA Pentagon plan calls for an increase of the AAF from currently 124 aircraft up to 259, and from 8,000 personnel to 12,000,\u201d I reported in September 2017. \u201cThe AAF is expected to receive $7 billion in support over the next four years, according to a senior U.S. military officer.\u201d"
+}
