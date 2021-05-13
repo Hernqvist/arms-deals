@@ -112,3 +112,29 @@ class Preprocessor:
                 rep = Colors.RED + rep + Colors.END
             output.append(rep)
         print(" ".join(output))
+    
+    def print_sequence(self, x, y_actual, y=None):
+        if y == None:
+            y = y_actual
+        BOLD = "\033[1m"
+        UNDERLINE = "\033[4m"
+        NEGATIVE = "\033[7m"
+        END = "\033[0m"
+        decoded = [self.tokenizer.decode(z) for z in x]
+        try:
+            index = decoded.index("[PAD]")
+            decoded = decoded[:index]
+            y = y[:index]
+            y_actual = y_actual[:index]
+        except ValueError:
+            pass
+
+        header = ''
+        if y_actual == 1 and y == 1:
+            header = Colors.GREEN
+        if y_actual == 1 and y == 0:
+            header = Colors.YELLOW
+        if y_actual == 0 and y == 1:
+            header = Colors.RED
+        output = [header] + decoded + [Colors.END]
+        print(" ".join(output))

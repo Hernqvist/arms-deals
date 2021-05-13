@@ -1,0 +1,198 @@
+{
+  "filename": "20181207_REU_Philippines to buy_A_PHI_B_RUS",
+  "labels": [
+    {
+      "end": 118,
+      "start": 19,
+      "tag": "Answer",
+      "text": "The Philippines will buy 16 Black Hawk helicopters from the Sikorsky Aircraft Corp for $240 million"
+    },
+    {
+      "end": 34,
+      "start": 19,
+      "tag": "Buyer",
+      "text": "The Philippines"
+    },
+    {
+      "end": 69,
+      "start": 47,
+      "tag": "Weapon",
+      "text": "Black Hawk helicopters"
+    },
+    {
+      "end": 118,
+      "start": 106,
+      "tag": "Price",
+      "text": "$240 million"
+    },
+    {
+      "end": 101,
+      "start": 75,
+      "tag": "Seller",
+      "text": "the Sikorsky Aircraft Corp"
+    },
+    {
+      "end": 46,
+      "start": 44,
+      "tag": "Quantity",
+      "text": "16"
+    },
+    {
+      "end": 331,
+      "start": 252,
+      "tag": "Answer",
+      "text": "The Philippines had initially agreed to buy 16 Bell 412 helicopters from Canada"
+    },
+    {
+      "end": 267,
+      "start": 252,
+      "tag": "Buyer",
+      "text": "The Philippines"
+    },
+    {
+      "end": 34,
+      "start": 23,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 267,
+      "start": 256,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 298,
+      "start": 296,
+      "tag": "Quantity",
+      "text": "16"
+    },
+    {
+      "end": 319,
+      "start": 299,
+      "tag": "Weapon",
+      "text": "Bell 412 helicopters"
+    },
+    {
+      "end": 331,
+      "start": 325,
+      "tag": "Seller",
+      "text": "Canada"
+    },
+    {
+      "end": 331,
+      "start": 325,
+      "tag": "Seller Country",
+      "text": "Canada"
+    },
+    {
+      "end": 1494,
+      "start": 1405,
+      "tag": "Answer",
+      "text": "The Philippine air force is also seeking to acquire up to 10 attack helicopters next year"
+    },
+    {
+      "end": 1429,
+      "start": 1405,
+      "tag": "Buyer",
+      "text": "The Philippine air force"
+    },
+    {
+      "end": 1419,
+      "start": 1409,
+      "tag": "Buyer Country",
+      "text": "Philippine"
+    },
+    {
+      "end": 1465,
+      "start": 1463,
+      "tag": "Quantity",
+      "text": "10"
+    },
+    {
+      "end": 1484,
+      "start": 1466,
+      "tag": "Weapon",
+      "text": "attack helicopters"
+    },
+    {
+      "end": 1851,
+      "start": 1706,
+      "tag": "Answer",
+      "text": "It recently acquired 12 light fighters from South Korea, logistics ships from Indonesia, and armored vehicles and ship-borne missiles from Israel"
+    },
+    {
+      "end": 1729,
+      "start": 1727,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 1744,
+      "start": 1730,
+      "tag": "Weapon",
+      "text": "light fighters"
+    },
+    {
+      "end": 1761,
+      "start": 1750,
+      "tag": "Seller",
+      "text": "South Korea"
+    },
+    {
+      "end": 1761,
+      "start": 1750,
+      "tag": "Seller Country",
+      "text": "South Korea"
+    },
+    {
+      "end": 1708,
+      "start": 1706,
+      "tag": "Buyer",
+      "text": "It"
+    },
+    {
+      "end": 1778,
+      "start": 1763,
+      "tag": "Weapon",
+      "text": "logistics ships"
+    },
+    {
+      "end": 1793,
+      "start": 1784,
+      "tag": "Seller",
+      "text": "Indonesia"
+    },
+    {
+      "end": 1793,
+      "start": 1784,
+      "tag": "Seller Country",
+      "text": "Indonesia"
+    },
+    {
+      "end": 1815,
+      "start": 1799,
+      "tag": "Weapon",
+      "text": "armored vehicles"
+    },
+    {
+      "end": 1839,
+      "start": 1820,
+      "tag": "Weapon",
+      "text": "ship-borne missiles"
+    },
+    {
+      "end": 1851,
+      "start": 1845,
+      "tag": "Seller",
+      "text": "Israel"
+    },
+    {
+      "end": 1851,
+      "start": 1845,
+      "tag": "Seller Country",
+      "text": "Israel"
+    }
+  ],
+  "text": "MANILA (Reuters) - The Philippines will buy 16 Black Hawk helicopters from the Sikorsky Aircraft Corp for $240 million, shunning cheaper Russian equipment due to U.S. sanctions on Russian military exports, the Philippine defense chief said on Friday.\n\nThe Philippines had initially agreed to buy 16 Bell 412 helicopters from Canada but the deal was scrapped in February after Canada expressed concern they could be used to fight rebels.\n\nThe Philippines then considered several other helicopters including Sikorsky Aircraft\u2019s S-70 Black Hawk, Russia\u2019s Mi-171, South Korea\u2019s Surion and Agusta Westland\u2019s AW139.\n\nDefense Secretary Delfin Lorenzana said the air force would sign a contract early next year for the 16 Black Hawks, even though the Russians offered the second lowest price.\n\n\u201cBut it is very difficult to pay them because of the U.S. sanctions,\u201d Lorenzana told reporters at a security forum.\n\nU.S. President Donald Trump signed a law last year punishing Russia for its 2014 annexation of Crimea from Ukraine, its support for Syria\u2019s government and its suspected meddling in the 2016 U.S. presidential election, an accusation the Kremlin has denied.\n\nU.S. allies, like the Philippines, buying weapons and equipment from Russia, the world\u2019s second largest arms exporter, would also be penalized and could see the transfer of those arms disrupted.\n\nThe S-70 is classified as a utility helicopter.\n\nThe Philippine air force is also seeking to acquire up to 10 attack helicopters next year.\n\nThe Philippines is spending 300 billion pesos ($5.6 billion) over the next five years to upgrade its defense capability, replacing World War Two-era warships and Vietnam War-vintage fighters and helicopters.\n\nIt recently acquired 12 light fighters from South Korea, logistics ships from Indonesia, and armored vehicles and ship-borne missiles from Israel."
+}
