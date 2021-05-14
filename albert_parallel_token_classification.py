@@ -2,23 +2,10 @@ import torch.nn as nn
 import torch
 from torch.nn import CrossEntropyLoss
 from transformers.modeling_outputs import TokenClassifierOutput
-from transformers import BertPreTrainedModel, BertModel
+from transformers import AlbertPreTrainedModel, AlbertModel
+from linear_repeat import LinearRepeat, LABELS
 
-LABELS = ("Weapon", "Buyer", "Buyer Country", "Seller", "Seller Country", "Quantity", "Price", "Date")
-
-class LinearRepeat(nn.Module):
-
-    def __init__(self, in_features, out_features, repeats):
-        super(LinearRepeat, self).__init__()
-        self.repeats = repeats
-        self.out_features = out_features
-        self.linear = nn.Linear(in_features, repeats*out_features)
-
-    def forward(self, x):
-        y = self.linear(x)
-        return torch.reshape(y, (*(y.size()[:-1]), self.repeats, self.out_features))
-
-class BertForParallelTokenClassification(BertPreTrainedModel):
+class AlbertForParallelTokenClassification(AlbertPreTrainedModel):
 
     _keys_to_ignore_on_load_unexpected = [r"pooler"]
 
@@ -27,7 +14,7 @@ class BertForParallelTokenClassification(BertPreTrainedModel):
         self.num_labels = config.num_labels
         self.num_label_types = len(LABELS)
 
-        self.bert = BertModel(config, add_pooling_layer=False)
+        self.albert = AlbertModel(config, add_pooling_layer=False)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.classifier = LinearRepeat(config.hidden_size, config.num_labels, self.num_label_types)
 
@@ -53,7 +40,7 @@ class BertForParallelTokenClassification(BertPreTrainedModel):
         """
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
 
-        outputs = self.bert(
+        outputs = self.albert(
             input_ids,
             attention_mask=attention_mask,
             token_type_ids=token_type_ids,
@@ -94,7 +81,3 @@ class BertForParallelTokenClassification(BertPreTrainedModel):
             hidden_states=outputs.hidden_states,
             attentions=outputs.attentions,
         )
-
-if __name__ == "__main__":
-    test = BertForParallelTokenClassification.from_pretrained("bert-base-cased")
-    print(test)

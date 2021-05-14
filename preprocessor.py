@@ -85,6 +85,13 @@ class Preprocessor:
         y = torch.stack([self.token_has_label(text, label, offsets) for label in labels])
         return x, torch.transpose(y, 0, 1)
     
+    def pad_index(self, decoded):
+        index = -1
+        for pad in ("[PAD]", "<pad>"):
+            if pad in decoded:
+                index = max(index, decoded.index(pad))
+        return index
+
     def print_labels(self, x, y_actual, y=None):
         if y == None:
             y = y_actual
@@ -93,13 +100,12 @@ class Preprocessor:
         NEGATIVE = "\033[7m"
         END = "\033[0m"
         decoded = [self.tokenizer.decode(z) for z in x]
-        try:
-            index = decoded.index("[PAD]")
+
+        index = self.pad_index(decoded)
+        if index != -1:
             decoded = decoded[:index]
             y = y[:index]
             y_actual = y_actual[:index]
-        except ValueError:
-            pass
 
         output = []
         for token, predicted, actual in zip(decoded, y, y_actual):
@@ -121,13 +127,10 @@ class Preprocessor:
         NEGATIVE = "\033[7m"
         END = "\033[0m"
         decoded = [self.tokenizer.decode(z) for z in x]
-        try:
-            index = decoded.index("[PAD]")
+
+        index = self.pad_index(decoded)
+        if index != -1:
             decoded = decoded[:index]
-            y = y[:index]
-            y_actual = y_actual[:index]
-        except ValueError:
-            pass
 
         header = ''
         if y_actual == 1 and y == 1:
