@@ -12,10 +12,10 @@ Training is done using `training_lightning.py`. It has a bunch of arguments whic
 
 To run a basic example, run
 ```
-python3 training_lightning.py data.json --max_epochs 5 --print
+python3 training_lightning.py data.json --max_epochs 5 --small_data --print
 ```
 
-This will train the BERT model for 5 epochs and print the classification of the trained model. To view the metrics (this can be done live during training), run  ```tensorboard --logdir lightning/lightning_logs/``` and open [http://localhost:6006/](http://localhost:6006/) in the browser.
+This will train the BERT model for 5 epochs and print the classification of the trained model. The `--small_data` argument crops the entire dataset to 20 texts. To view the metrics (this can be done live during training), run  ```tensorboard --logdir lightning/lightning_logs/``` and open [http://localhost:6006/](http://localhost:6006/) in the browser.
 
 We can also change the arguments to use ALBERT instead of BERT using the `--classifier` argument.
 

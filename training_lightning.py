@@ -12,6 +12,7 @@ import torch.nn as nn
 from linear_repeat import LABELS
 from bert_parallel_token_classification import BertForParallelTokenClassification
 from albert_parallel_token_classification import AlbertForParallelTokenClassification
+import os
 
 parser = argparse.ArgumentParser(description='Train a network to identify arms deals.')
 parser.add_argument('data', type=str, help="The dataset directory.")
@@ -21,80 +22,54 @@ parser.add_argument('--task', type=str, default="token", help="The thing to clas
 parser.add_argument('--classifier', type=str, default="bert", help="Classify with bert or albert.")
 parser.add_argument('--max_epochs', type=int, default=100, help="Max epochs.")
 parser.add_argument('--print', action='store_true', help="Print classifications after training.")
+parser.add_argument('--print_train', action='store_true', help="Print classifications of training data after training.")
 parser.add_argument('--gpu', action='store_true', help="Use GPU for training.")
+parser.add_argument('--small_data', action='store_true', help="Only use a small part of the dataset for debugging.")
+parser.add_argument('--max_tokens', type=int, default=128, help="Max length of a tokenization")
+parser.add_argument('--dataloader_workers', type=int, default=16, help="Number of dataloader workers")
 args = parser.parse_args()
+
+def forward_wrapper(encoder, text, labels):
+  output = encoder(text, labels=labels)
+  if labels != None:
+    # Output loss and probabilities
+    loss, probs = output[:2]
+    return loss, probs
+  # Output only probabilities
+  probs = output[0]
+  return probs
 
 class BERT_token(nn.Module):
   options_name = "bert-base-cased"
-  max_length = 128
-
   def __init__(self):
     super(BERT_token, self).__init__()
     self.encoder = BertForParallelTokenClassification.from_pretrained(self.options_name)
-
   def forward(self, text, labels=None):
-    output = self.encoder(text, labels=labels)
-    if labels != None:
-      # Output loss and probabilities
-      loss, probs = output[:2]
-      return loss, probs
-    # Output only probabilities
-    probs = output[0]
-    return probs
+    return forward_wrapper(self.encoder, text, labels)
 
 class BERT_sequence(nn.Module):
   options_name = "bert-base-cased"
-  max_length = 128
-
   def __init__(self):
     super(BERT_sequence, self).__init__()
     self.encoder = BertForSequenceClassification.from_pretrained(self.options_name)
-
   def forward(self, text, labels=None):
-    output = self.encoder(text, labels=labels)
-    if labels != None:
-      # Output loss and probabilities
-      loss, probs = output[:2]
-      return loss, probs
-    # Output only probabilities
-    probs = output[0]
-    return probs
+    return forward_wrapper(self.encoder, text, labels)
 
 class ALBERT_token(nn.Module):
   options_name = "albert-base-v2"
-  max_length = 128
-
   def __init__(self):
     super(ALBERT_token, self).__init__()
     self.encoder = AlbertForParallelTokenClassification.from_pretrained(self.options_name)
-
   def forward(self, text, labels=None):
-    output = self.encoder(text, labels=labels)
-    if labels != None:
-      # Output loss and probabilities
-      loss, probs = output[:2]
-      return loss, probs
-    # Output only probabilities
-    probs = output[0]
-    return probs
+    return forward_wrapper(self.encoder, text, labels)
 
 class ALBERT_sequence(nn.Module):
   options_name = "albert-base-v2"
-  max_length = 128
-
   def __init__(self):
     super(ALBERT_sequence, self).__init__()
     self.encoder = AlbertForSequenceClassification.from_pretrained(self.options_name)
-
   def forward(self, text, labels=None):
-    output = self.encoder(text, labels=labels)
-    if labels != None:
-      # Output loss and probabilities
-      loss, probs = output[:2]
-      return loss, probs
-    # Output only probabilities
-    probs = output[0]
-    return probs
+    return forward_wrapper(self.encoder, text, labels)
 
 class TextDataset(Dataset):
 
@@ -182,12 +157,15 @@ class LitModule(pl.LightningModule):
     return optimizer
   
   def prepare_data(self):
-    texts = data_loader.DataSet.load_json2(args.data).split_chunks().texts[:20]
+    texts = data_loader.DataSet.load_json2(args.data).split_chunks(shuffle=False).texts
+    if self.hparams.small_data:
+      texts = texts[:20]
+    os.environ['TOKENIZERS_PARALLELISM'] = 'false'
     if self.hparams.classifier == 'bert':
       tokenizer = BertTokenizerFast.from_pretrained(self.model.options_name)
     else:
       tokenizer = AlbertTokenizerFast.from_pretrained(self.model.options_name)
-    self.preprocessor = Preprocessor(tokenizer, self.model.max_length)
+    self.preprocessor = Preprocessor(tokenizer, self.hparams.max_tokens)
     self.dataset = TextDataset(texts, self.preprocessor, self.hparams.task)
 
     eval_start = int(len(self.dataset)*0.7)
@@ -253,7 +231,7 @@ class LitModule(pl.LightningModule):
           print()
       print()
 
-num_workers = 0
+num_workers = args.dataloader_workers
 kwargs = {}
 callbacks = []
 
@@ -261,7 +239,13 @@ if args.load:
   lit_module = LitModule.load_from_checkpoint(args.load)
   kwargs['resume_from_checkpoint'] = args.load
 else:
-  lit_module = LitModule({'lr':1e-4, 'batch_size':8, 'task':args.task, 'classifier':args.classifier})
+  lit_module = LitModule({
+      'lr':1e-5, 
+      'batch_size':8,
+      'task':args.task, 
+      'classifier':args.classifier,
+      'small_data':args.small_data,
+      'max_tokens':args.max_tokens})
 
 if args.save:
   callbacks.append(ModelCheckpoint(
@@ -283,5 +267,8 @@ trainer = pl.Trainer(
 
 trainer.fit(lit_module)
 if args.print:
+  for batch in lit_module.val_dataloader():
+    lit_module.print_batch(batch)
+if args.print_train:
   for batch in lit_module.train_dataloader():
     lit_module.print_batch(batch)
