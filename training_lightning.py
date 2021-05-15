@@ -21,6 +21,7 @@ parser.add_argument('--task', type=str, default="token", help="The thing to clas
 parser.add_argument('--classifier', type=str, default="bert", help="Classify with bert or albert.")
 parser.add_argument('--max_epochs', type=int, default=100, help="Max epochs.")
 parser.add_argument('--print', action='store_true', help="Print classifications after training.")
+parser.add_argument('--gpu', action='store_true', help="Use GPU for training.")
 args = parser.parse_args()
 
 class BERT_token(nn.Module):
@@ -273,6 +274,7 @@ if args.save:
   )
 
 trainer = pl.Trainer(
+    gpus=1 if args.gpu else 0,
     default_root_dir="lightning",
     callbacks=callbacks,
     max_epochs=args.max_epochs,
