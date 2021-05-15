@@ -186,7 +186,7 @@ class LitModule(pl.LightningModule):
         self.dataset,
         num_workers=num_workers, 
         batch_size=self.hparams.batch_size, 
-        sampler=self.train_sampler)
+        sampler=self.val_sampler)
   
   def test_dataloader(self):
     global num_workers
