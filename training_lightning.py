@@ -25,8 +25,9 @@ parser.add_argument('--print', action='store_true', help="Print classifications 
 parser.add_argument('--print_train', action='store_true', help="Print classifications of training data after training.")
 parser.add_argument('--gpu', action='store_true', help="Use GPU for training.")
 parser.add_argument('--small_data', action='store_true', help="Only use a small part of the dataset for debugging.")
-parser.add_argument('--max_tokens', type=int, default=128, help="Max length of a tokenization")
-parser.add_argument('--dataloader_workers', type=int, default=16, help="Number of dataloader workers")
+parser.add_argument('--max_tokens', type=int, default=128, help="Max length of a tokenization.")
+parser.add_argument('--dataloader_workers', type=int, default=16, help="Number of dataloader workers.")
+parser.add_argument('--tune', action='store_true', help="Run fine-tuning algorithm.")
 args = parser.parse_args()
 
 def forward_wrapper(encoder, text, labels):
@@ -157,7 +158,7 @@ class LitModule(pl.LightningModule):
     return optimizer
   
   def prepare_data(self):
-    texts = data_loader.DataSet.load_json2(args.data).split_chunks(shuffle=False).texts
+    texts = data_loader.DataSet.load_json2(args.data).split_fixed(shuffle=True).texts
     if self.hparams.small_data:
       texts = texts[:20]
     os.environ['TOKENIZERS_PARALLELISM'] = 'false'
@@ -232,6 +233,11 @@ class LitModule(pl.LightningModule):
       print()
 
 num_workers = args.dataloader_workers
+
+
+if args.tune:
+
+
 kwargs = {}
 callbacks = []
 
@@ -240,7 +246,7 @@ if args.load:
   kwargs['resume_from_checkpoint'] = args.load
 else:
   lit_module = LitModule({
-      'lr':1e-5, 
+      'lr':5e-6, 
       'batch_size':8,
       'task':args.task, 
       'classifier':args.classifier,

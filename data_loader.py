@@ -173,6 +173,54 @@ class Text:
       return [self]
     text1, text2 = self.split(index)
     return text1.split_chunks(min_length) + text2.split_chunks(min_length)
+  
+  def split_fixed(self, length):
+    if len(self.text) <= length:
+      return []
+
+    def overlaps(x1, x2, y1, y2):
+      return (y1 <= x1 and x1 < y2) or \
+            (y1 <= x2 and x2 < y2) or \
+            (x1 <= y1 and y1 < x2) or \
+            (x1 <= y2 and y2 < x2)
+
+    def has_overlap(x1, x2):
+      if x2 >= len(self.text):
+        return True
+      for deal in self.deals:
+        if (deal.start <= x1 and x1 < deal.end) or (deal.start <= x2 and x2 < deal.end):
+          return True
+      for y1, y2 in intervals:
+        if overlaps(x1, x2, y1, y2):
+          return True
+      return False
+
+    ATTEMPTS_DEAL = 10
+    ATTEMPTS_TEXT = 100
+    intervals = []
+    for deal in self.deals:
+      deal_length = deal.end - deal.start
+      if deal_length > length:
+        continue
+      for _ in range(ATTEMPTS_DEAL):
+        if deal_length > length:
+          continue
+        x1 = deal.start - random.randint(0, min(length - deal_length, deal.start))
+        x2 = x1 + length
+        if not has_overlap(x1, x2):
+          intervals.append((x1, x2))
+          break
+    for _ in range(ATTEMPTS_TEXT):
+      x1 = random.randint(0, len(self.text) - length)
+      x2 = x1 + length
+      if not has_overlap(x1, x2):
+        intervals.append((x1, x2))
+        break
+    
+    texts = []
+    for x1, x2 in intervals:
+      texts.append(self.split(x2)[0].split(x1)[1])
+    return texts
 
   # Splits the text between deals so that each text contains at most one deal
   def split_deals(self):
@@ -255,6 +303,14 @@ class DataSet:
     if shuffle:
       random.Random(0).shuffle(texts)
     return DataSet(texts, "Split of {} into chunks of at least {}".format(self.name, min_length))
+  
+  def split_fixed(self, length=400, shuffle=True):
+    texts = []
+    for text in self.texts:
+      texts.extend(text.split_fixed(length))
+    if shuffle:
+      random.Random(0).shuffle(texts)
+    return DataSet(texts, "Split of {} into chunks of exactly {}".format(self.name, length))
 
   def print_data(self):
     print("Dataset:", self.name)
@@ -269,5 +325,5 @@ class DataSet:
 
 if __name__ == "__main__":
   dataset = DataSet.load_json2(sys.argv[1])
-  split = dataset.split_chunks()
+  split = dataset.split_fixed()
   split.print_data()
