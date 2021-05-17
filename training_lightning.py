@@ -277,11 +277,13 @@ if args.tune:
     })
     del lit_module
     del trainer
+    torch.cuda.empty_cache()
     filename = args.tune + ".json"
     sleep_time = 3
     with open(filename, 'w') as file:
       json.dump(results, file, indent=2)
     print("Test complete, saving results to {}. Sleeping for {} seconds.".format(filename, sleep_time))
+    print("Last results:", results[-1])
     time.sleep(sleep_time) # Sleep to allow time for garbage collection
   exit()
 
