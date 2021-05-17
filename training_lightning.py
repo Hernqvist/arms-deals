@@ -1,11 +1,11 @@
 from transformers.integrations import hp_params
 import data_loader
 import torch
-import torch.optim as optim
 import argparse
 from torch.utils.data import DataLoader, Dataset, SubsetRandomSampler
 from preprocessor import Preprocessor
 from transformers import BertTokenizerFast, BertForSequenceClassification, AlbertTokenizerFast, AlbertForSequenceClassification
+from transformers import logging as hf_logging
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import ModelCheckpoint
 import torch.nn as nn
@@ -13,13 +13,15 @@ from linear_repeat import LABELS
 from bert_parallel_token_classification import BertForParallelTokenClassification
 from albert_parallel_token_classification import AlbertForParallelTokenClassification
 import os
+import time
+import json
 
 parser = argparse.ArgumentParser(description='Train a network to identify arms deals.')
 parser.add_argument('data', type=str, help="The dataset directory.")
 parser.add_argument('-l', '--load', default=None, type=str, help="Load the model from a file.")
 parser.add_argument('-s', '--save', action='store_true', help="Save the model between epochs.")
 parser.add_argument('--task', type=str, default="token", help="The thing to classify.")
-parser.add_argument('--classifier', type=str, default="bert", help="Classify with bert or albert.")
+parser.add_argument('--classifier', type=str, default="albert", help="Classify with bert or albert.")
 parser.add_argument('--max_epochs', type=int, default=100, help="Max epochs.")
 parser.add_argument('--print', action='store_true', help="Print classifications after training.")
 parser.add_argument('--print_train', action='store_true', help="Print classifications of training data after training.")
@@ -27,7 +29,7 @@ parser.add_argument('--gpu', action='store_true', help="Use GPU for training.")
 parser.add_argument('--small_data', action='store_true', help="Only use a small part of the dataset for debugging.")
 parser.add_argument('--max_tokens', type=int, default=128, help="Max length of a tokenization.")
 parser.add_argument('--dataloader_workers', type=int, default=16, help="Number of dataloader workers.")
-parser.add_argument('--tune', action='store_true', help="Run fine-tuning algorithm.")
+parser.add_argument('--tune', type=str, help="Run fine-tuning algorithm and save to a file with filename.")
 args = parser.parse_args()
 
 def forward_wrapper(encoder, text, labels):
@@ -102,7 +104,9 @@ class LitModule(pl.LightningModule):
     self.save_hyperparameters(config)
     assert self.hparams.task in ('token', 'sequence')
     assert self.hparams.classifier in ('bert', 'albert')
+    hf_logging.set_verbosity_error()
     self.model = self.get_model()
+    hf_logging.set_verbosity_warning()
 
     self.best_hp_metric = -1
     metrics = pl.metrics.MetricCollection([
@@ -234,8 +238,53 @@ class LitModule(pl.LightningModule):
 
 num_workers = args.dataloader_workers
 
+default_config = {
+    'lr':5e-6, 
+    'batch_size':8,
+    'task':args.task, 
+    'classifier':args.classifier,
+    'small_data':args.small_data,
+    'max_tokens':args.max_tokens}
 
 if args.tune:
+  lr_values = (1e-4, 1e-5, 1e-6)
+  bs_values = (2, 4, 8)
+  all_configs = [(lr, bs) for lr in lr_values for bs in bs_values]
+  results = []
+  for lr, bs in all_configs:
+    print("Trying learning rate {}, batch size {}.".format(lr, bs))
+
+    trainer = pl.Trainer(
+      gpus=1 if args.gpu else 0,
+      default_root_dir="lightning",
+      max_epochs=args.max_epochs)
+
+    config = default_config.copy()
+    config['lr'] = lr
+    config['batch_size'] = bs
+    lit_module = LitModule(config)
+
+    start = time.time()
+    trainer.fit(lit_module)
+    end = time.time()
+
+    results.append({
+      'lr': lr,
+      'bs': bs,
+      'hp_metric': float(lit_module.best_hp_metric),
+      'time': end - start,
+      'version': lit_module.logger.version
+    })
+    del lit_module
+    del trainer
+    filename = args.tune + ".json"
+    sleep_time = 3
+    with open(filename, 'w') as file:
+      json.dump(results, file, indent=2)
+    print("Test complete, saving results to {}. Sleeping for {} seconds.".format(filename, sleep_time))
+    time.sleep(sleep_time) # Sleep to allow time for garbage collection
+  exit()
+
 
 
 kwargs = {}
@@ -245,13 +294,7 @@ if args.load:
   lit_module = LitModule.load_from_checkpoint(args.load)
   kwargs['resume_from_checkpoint'] = args.load
 else:
-  lit_module = LitModule({
-      'lr':5e-6, 
-      'batch_size':8,
-      'task':args.task, 
-      'classifier':args.classifier,
-      'small_data':args.small_data,
-      'max_tokens':args.max_tokens})
+  lit_module = LitModule(default_config)
 
 if args.save:
   callbacks.append(ModelCheckpoint(
