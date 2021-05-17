@@ -30,6 +30,7 @@ parser.add_argument('--small_data', action='store_true', help="Only use a small 
 parser.add_argument('--max_tokens', type=int, default=128, help="Max length of a tokenization.")
 parser.add_argument('--dataloader_workers', type=int, default=16, help="Number of dataloader workers.")
 parser.add_argument('--tune', type=str, help="Run fine-tuning algorithm and save to a file with filename.")
+parser.add_argument('--resume', type=int, default=0, help="Starting point for fine tuning.")
 args = parser.parse_args()
 
 def forward_wrapper(encoder, text, labels):
@@ -256,7 +257,7 @@ if args.tune:
     'max_epochs':args.max_epochs
   }
   results = []
-  for lr, bs in all_configs:
+  for lr, bs in all_configs[args.resume:]:
     print("Trying learning rate {}, batch size {}.".format(lr, bs))
 
     trainer = pl.Trainer(
