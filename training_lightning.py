@@ -250,6 +250,11 @@ if args.tune:
   lr_values = (1e-4, 1e-5, 1e-6)
   bs_values = (2, 4, 8)
   all_configs = [(lr, bs) for lr in lr_values for bs in bs_values]
+  output = {
+    'results':[],
+    'default_config':default_config,
+    'max_epochs':args.max_epochs
+  }
   results = []
   for lr, bs in all_configs:
     print("Trying learning rate {}, batch size {}.".format(lr, bs))
@@ -268,7 +273,7 @@ if args.tune:
     trainer.fit(lit_module)
     end = time.time()
 
-    results.append({
+    output['results'].append({
       'lr': lr,
       'bs': bs,
       'hp_metric': float(lit_module.best_hp_metric),
@@ -281,9 +286,9 @@ if args.tune:
     filename = args.tune + ".json"
     sleep_time = 3
     with open(filename, 'w') as file:
-      json.dump(results, file, indent=2)
+      json.dump(output, file, indent=2)
     print("Test complete, saving results to {}. Sleeping for {} seconds.".format(filename, sleep_time))
-    print("Last results:", results[-1])
+    print("Last results:", output['results'][-1])
     time.sleep(sleep_time) # Sleep to allow time for garbage collection
   exit()
 
