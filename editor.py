@@ -3,6 +3,7 @@ from tkinter.filedialog import askopenfilename
 from tkinter.font import Font
 from tkinter.messagebox import askquestion
 from tkinter.scrolledtext import ScrolledText
+from tkinter import ttk
 from collections import defaultdict
 import os
 import glob
@@ -252,6 +253,11 @@ class Legend(tk.Frame):
     self.next_button = tk.Button(self, text="New text")
     self.next_button.pack(side='left', padx=5, pady=5)
 
+    self.test_sample = ttk.Checkbutton(self, text="Test Sample")
+    self.test_sample.state(['!alternate'])
+    self.test_sample.state(['selected'])
+    self.test_sample.pack(side='left', padx=5, pady=5)
+
     for tag in label_by_tag:
       LegendTag(self, tag).pack(side='left', padx=5)
 
@@ -294,6 +300,8 @@ class Application(tk.Frame):
     self.legend.next_button["state"] = "normal"
     as_json = self.editor.get_json()
     as_json['filename'] = self.filename
+    if 'selected' in self.legend.test_sample.state():
+      as_json['test'] = True
     path = self.output_path(self.filename)
     with open(path, 'w') as file:
       json.dump(as_json, file, indent=2, sort_keys=True)
@@ -358,11 +366,18 @@ class Application(tk.Frame):
   
   def merge_files(self):
     json_output = []
+    json_output_test = []
     for path in glob.glob(OUTPUT_DIR + "/*"):
       with open(path) as file:
-        json_output.append(json.load(file))
+        as_json = json.load(file)
+        if 'test' in as_json and as_json['test']:
+          json_output_test.append(as_json)
+        else:
+          json_output.append(as_json)
     with open(FINAL_OUTPUT, 'w') as file:
       json.dump(json_output, file, indent=2, sort_keys=True)
+    with open('test_' + FINAL_OUTPUT, 'w') as file:
+      json.dump(json_output_test, file, indent=2, sort_keys=True)
   
   def get_progress(self):
     total = len(glob.glob(INPUT_DIR + "/*"))

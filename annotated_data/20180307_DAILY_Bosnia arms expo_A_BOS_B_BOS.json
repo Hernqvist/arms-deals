@@ -1,0 +1,181 @@
+{
+  "filename": "20180307_DAILY_Bosnia arms expo_A_BOS_B_BOS",
+  "labels": [
+    {
+      "end": 77,
+      "start": 55,
+      "tag": "Seller",
+      "text": "Bosnia and Herzegovina"
+    },
+    {
+      "end": 77,
+      "start": 55,
+      "tag": "Seller Country",
+      "text": "Bosnia and Herzegovina"
+    },
+    {
+      "end": 91,
+      "start": 87,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 106,
+      "start": 96,
+      "tag": "Weapon",
+      "text": "ammunition"
+    },
+    {
+      "end": 132,
+      "start": 113,
+      "tag": "Price",
+      "text": "193.9 million marka"
+    },
+    {
+      "end": 148,
+      "start": 134,
+      "tag": "Price",
+      "text": "$123.2 million"
+    },
+    {
+      "end": 166,
+      "start": 149,
+      "tag": "Price",
+      "text": "99.1 million euro"
+    },
+    {
+      "end": 248,
+      "start": 242,
+      "tag": "Seller",
+      "text": "Bosnia"
+    },
+    {
+      "end": 248,
+      "start": 242,
+      "tag": "Seller Country",
+      "text": "Bosnia"
+    },
+    {
+      "end": 281,
+      "start": 277,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 296,
+      "start": 286,
+      "tag": "Weapon",
+      "text": "ammunition"
+    },
+    {
+      "end": 304,
+      "start": 300,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 321,
+      "start": 309,
+      "tag": "Buyer",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 366,
+      "start": 348,
+      "tag": "Price",
+      "text": "45.6 million marka"
+    },
+    {
+      "end": 321,
+      "start": 309,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 388,
+      "start": 376,
+      "tag": "Price",
+      "text": "33.7 million"
+    },
+    {
+      "end": 402,
+      "start": 242,
+      "tag": "Answer",
+      "text": "Bosnia's biggest export market for arms and ammunition in 2017 was Saudi Arabia with sales there reaching 45.6 million marka, up from 33.7 million marka in 2016"
+    },
+    {
+      "end": 402,
+      "start": 398,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 175,
+      "start": 55,
+      "tag": "Answer",
+      "text": "Bosnia and Herzegovina exported arms and ammunition worth 193.9 million marka ($123.2 million/99.1 million euro) in 2017"
+    },
+    {
+      "end": 175,
+      "start": 171,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 954,
+      "start": 845,
+      "tag": "Answer",
+      "text": "Bosnia also imported arms and ammunition valued at 14.1 million marka in 2017, most of which came from Serbia"
+    },
+    {
+      "end": 851,
+      "start": 845,
+      "tag": "Buyer",
+      "text": "Bosnia"
+    },
+    {
+      "end": 851,
+      "start": 845,
+      "tag": "Buyer Country",
+      "text": "Bosnia"
+    },
+    {
+      "end": 870,
+      "start": 866,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 885,
+      "start": 875,
+      "tag": "Weapon",
+      "text": "ammunition"
+    },
+    {
+      "end": 914,
+      "start": 896,
+      "tag": "Price",
+      "text": "14.1 million marka"
+    },
+    {
+      "end": 922,
+      "start": 918,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 954,
+      "start": 948,
+      "tag": "Seller",
+      "text": "Serbia"
+    },
+    {
+      "end": 954,
+      "start": 948,
+      "tag": "Seller Country",
+      "text": "Serbia"
+    }
+  ],
+  "test": true,
+  "text": "SARAJEVO (Bosnia and Herzegovina), March 7 (SeeNews) \u2013 Bosnia and Herzegovina exported arms and ammunition worth 193.9 million marka ($123.2 million/99.1 million euro) in 2017, up 13.3% on the year, the country's foreign trade chamber said.\n\nBosnia's biggest export market for arms and ammunition in 2017 was Saudi Arabia with sales there reaching 45.6 million marka, up from 33.7 million marka in 2016, data from the foreign trade chamber shows.\n\nThe second biggest market for Bosnian arms exports was Afghanistan with 29.9 million marka of exports. Also in the top 10 were the United States with 26.2 million marka, Turkey with 18.3 million marka, Egypt with 10.9 million marka, the UAE with 10.7 million marka, Serbia with 8.9 million marka, Morocco with 8.4 million marka, Germany with 5.6 million marka and Croatia with 5.1 million marka.\n\nBosnia also imported arms and ammunition valued at 14.1 million marka in 2017, most of which came from Serbia.\n\n(euro= 1.95583 marka)"
+}
