@@ -1,0 +1,205 @@
+{
+  "filename": "20180828_OTH_Mattis-US does not_A_TUR_B_RUS",
+  "labels": [
+    {
+      "end": 92,
+      "start": 42,
+      "tag": "Answer",
+      "text": "Turkey against buying a Russian air defense system"
+    },
+    {
+      "end": 48,
+      "start": 42,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 48,
+      "start": 42,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 73,
+      "start": 66,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 73,
+      "start": 66,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 92,
+      "start": 74,
+      "tag": "Weapon",
+      "text": "air defense system"
+    },
+    {
+      "end": 350,
+      "start": 270,
+      "tag": "Answer",
+      "text": "Turkey bringing a Russian anti-aircraft, anti-missile system into a NATO country"
+    },
+    {
+      "end": 276,
+      "start": 270,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 295,
+      "start": 288,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 295,
+      "start": 288,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 330,
+      "start": 296,
+      "tag": "Weapon",
+      "text": "anti-aircraft, anti-missile system"
+    },
+    {
+      "end": 276,
+      "start": 270,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 527,
+      "start": 459,
+      "tag": "Answer",
+      "text": "The US blocked the sale of American-made F-35 jet fighters to Turkey"
+    },
+    {
+      "end": 465,
+      "start": 459,
+      "tag": "Seller",
+      "text": "The US"
+    },
+    {
+      "end": 465,
+      "start": 463,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 494,
+      "start": 486,
+      "tag": "Seller",
+      "text": "American"
+    },
+    {
+      "end": 494,
+      "start": 486,
+      "tag": "Seller Country",
+      "text": "American"
+    },
+    {
+      "end": 517,
+      "start": 500,
+      "tag": "Weapon",
+      "text": "F-35 jet fighters"
+    },
+    {
+      "end": 527,
+      "start": 521,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 527,
+      "start": 521,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 633,
+      "start": 562,
+      "tag": "Answer",
+      "text": "Ankara\u2019s decision to purchase the Russian-made S-400 air defense system"
+    },
+    {
+      "end": 568,
+      "start": 562,
+      "tag": "Buyer",
+      "text": "Ankara"
+    },
+    {
+      "end": 568,
+      "start": 562,
+      "tag": "Buyer Country",
+      "text": "Ankara"
+    },
+    {
+      "end": 603,
+      "start": 596,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 603,
+      "start": 596,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 633,
+      "start": 609,
+      "tag": "Weapon",
+      "text": "S-400 air defense system"
+    },
+    {
+      "end": 872,
+      "start": 754,
+      "tag": "Answer",
+      "text": "Russian arms exporter Rosoboronexport said that the first batch of S-400 systems will be delivered to Turkey next year"
+    },
+    {
+      "end": 761,
+      "start": 754,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 791,
+      "start": 776,
+      "tag": "Seller",
+      "text": "Rosoboronexport"
+    },
+    {
+      "end": 834,
+      "start": 821,
+      "tag": "Weapon",
+      "text": "S-400 systems"
+    },
+    {
+      "end": 862,
+      "start": 856,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 862,
+      "start": 856,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 872,
+      "start": 863,
+      "tag": "Date",
+      "text": "next year"
+    }
+  ],
+  "test": true,
+  "text": "Defense Secretary James Mattis has warned Turkey against buying a Russian air defense system. He cautioned Turkey, a sovereign state and NATO member, that the US does \u201cnot recommend\u201d the purchase.\n\n\u201cTurkey had a choice to make, a sovereign decision to make. But clearly Turkey bringing a Russian anti-aircraft, anti-missile system into a NATO country, we cannot integrate that into NATO,\u201d Mattis said. \u201cYes, it does concern us and we do not recommend that.\u201d\n\nThe US blocked the sale of American-made F-35 jet fighters to Turkey earlier this month in response to Ankara\u2019s decision to purchase the Russian-made S-400 air defense system. However, Turkey intends to press ahead with the purchase, and already made the first payment for the system last year. Russian arms exporter Rosoboronexport said that the first batch of S-400 systems will be delivered to Turkey next year.\n\nRead more\n\nTurkish President Recep Tayyip Erdogan defended his decision to buy from Russia, arguing that the US has turned down his requests for more hardware for years.\n\n\u201cAre we going to depend on the U.S. again?\u201d the Turkish strongman said in June. \u201cWhen we have been demanding from them for years, the answer that has been given to us is: The [U.S.] Congress is not allowing.\u201d\n\nAt the time, Erdogan added that he fully intended to put the new defense systems to use. \u201cWe will not just buy the S-400s and place them in a storehouse. We will use them if need be,\u201d he said. \u201cThis is a defense system. What are we going to do with it if not use this defense system?\u201d\n\nThe deepening rift between the US and Turkey over the S-400 has been exacerbated by Turkey\u2019s continued detention of American pastor Andrew Brunson. Brunson has been held in Turkey since 2016 over alleged involvement in the failed coup attempt against Erdogan\u2019s government, and is facing 35 years in prison.\n\nAs the war of words over Brunson escalated, US President Donald Trump doubled steel and aluminum tariffs on Turkish imports up to 50 and 20 percent respectively earlier this month. Ankara retaliated by raising tariffs on 22 American-made products, ranging from cars to tobacco and also filed a complaint with the World Trade Organization (WTO) against the US move.\n\nIf you like this story, share it with a friend!"
+}

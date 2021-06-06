@@ -1,5 +1,11 @@
 [
   {
+    "filename": "20170108_INTERN_N54FT Cessna 50_A_ANG_B_ISR",
+    "labels": [],
+    "test": true,
+    "text": "Aircraft All aircraft Airline All airlines Country / Airport All countries and airports Photographer / Group All photographers Category All categories Editor's Pics Screener's Choice Photos of the Week Accident Photos Air-to-Air Photos Airport (Terminal) Photos Artistic (Effects) Photos Business Jet Photos Cabin (Interior) Photos Cargo Aircraft Photos Flight Deck (Cockpit) Photos Helicopter Photos Lighter-than-Air Photos Night/Sunrise/Sunset Photos Small Prop (Cessna, etc.) Special Paint Schemes Wing View (Out the Window) Warbird/Vintage Keywords All fields Aircraft Airline Airport Country Photographer Registration Serial No. Remarks Camera Lens Contains Photo year All years Search Multi-select search\n\nIf you are looking for photos of a specific aircraft type, use this menu.\n\nPlease note that, due to space constraints, this menu includes only some of the more requested aircraft in our database. If the aircraft you're searching for is not in this list, use the 'Keywords' field further down in the search menus. Some menu selections include a generic aircraft model, as well as more specific variants of that airliner. These variants are denoted by a - before the aircraft name. Selecting 'Boeing 747,' for example, will show results featuring all Boeing 747 jetliners in our database, while selecting '- Boeing 747-200' will show all Boeing 747-200 variants in our database (Boeing 747-200, Boeing 747-212B, Boeing 747-283F, etc.)\n\nIf you are looking for photos of a specific airline, use this menu. Please note that, due to space constraints, this menu includes only airlines of which 10 or more photos exist in our database. If the airline you're searching for is not in this list, use the 'Keywords' field further down in the search menu. Airlines are listed in alphabetical order.\n\nIf you are looking for photos taken in a specific country, or at a specific airport, use this menu. All countries represented in our database are included in this selection menu, which is updated automatically as the database grows. There must be at least 20 photos from a specific airport in the database before that airport is added to this list.\n\nUse this option to include only photos taken by a specific photographer in your search. This pulldown menu, in addition to each photographer available as a search limiter, also shows the number of photos currently in the database for each specific photographer, enclosed in brackets. For example, an option of:\n\n- Paul Jones [550]\n\n.. indicates that there are 550 total photos taken by Paul Jones currently in the database. Note: The total number of photos, enclosed in brackets, is updated four (4) times hourly, and may be slightly inaccurate. Photographers must have 100 or more photos in the database before their name is included in this selection menu..\n\nThe 'All Photographers' selection is the default selection for this option.\n\nIf you are looking for a specific category of photo, use this menu. You may select to display only photos from certain categories, such as Special Paintschemes, Flight Deck photos, etc. New categories are constantly being added to this list.\n\nThe 'Keywords' field is perhaps the most useful field included in our search engine.\n\nUsing this field, you may search for any word, term, or combinations of terms in our database.\n\nEvery photo field is covered by the Keywords search routine. The Keywords field is ideal for searching for such specifics as aircraft registrations, photographers' names, specific airport/city names, specific paintschemes (i.e. 'Wunala Dreaming'), etc.\n\nTo use the Keywords field, begin by selecting a Keyworld search field. You may select either a specific database field (airline, aircraft, etc.), or choose to match your keyword to all database fields. Next, select a Keyword limiter. There are three options from which to choose:\n\n- is exactly\n\n- starts with\n\n- contains\n\nSelect the appropriate limiter for your search, then enter the keyword(s) you wish to search in the box on the right. The Keywords search field is not case-sensitive."
+  },
+  {
     "filename": "20180307_DAILY_Bosnia arms expo_A_BOS_B_BOS",
     "labels": [
       {
@@ -179,5 +185,770 @@
     ],
     "test": true,
     "text": "SARAJEVO (Bosnia and Herzegovina), March 7 (SeeNews) \u2013 Bosnia and Herzegovina exported arms and ammunition worth 193.9 million marka ($123.2 million/99.1 million euro) in 2017, up 13.3% on the year, the country's foreign trade chamber said.\n\nBosnia's biggest export market for arms and ammunition in 2017 was Saudi Arabia with sales there reaching 45.6 million marka, up from 33.7 million marka in 2016, data from the foreign trade chamber shows.\n\nThe second biggest market for Bosnian arms exports was Afghanistan with 29.9 million marka of exports. Also in the top 10 were the United States with 26.2 million marka, Turkey with 18.3 million marka, Egypt with 10.9 million marka, the UAE with 10.7 million marka, Serbia with 8.9 million marka, Morocco with 8.4 million marka, Germany with 5.6 million marka and Croatia with 5.1 million marka.\n\nBosnia also imported arms and ammunition valued at 14.1 million marka in 2017, most of which came from Serbia.\n\n(euro= 1.95583 marka)"
+  },
+  {
+    "filename": "20150414_OTH_N Korea defense sp",
+    "labels": [],
+    "test": true,
+    "text": "\"North Korea said in April that it spent some 15.9 percent of the total budget last year for national defense, which translates into a mere $1.15 billion. But the amount was solely for maintenance and does not include costs for its military build-up and investment,\" a ministry official said, requesting anonymity."
+  },
+  {
+    "filename": "20180331_ARMREC_Armenia will re_A_KAZ_B_RUS",
+    "labels": [
+      {
+        "end": 101,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Armenia will receive weapons and military equipment from Russia under a new $100 million loan in 2018"
+      },
+      {
+        "end": 101,
+        "start": 97,
+        "tag": "Date",
+        "text": "2018"
+      },
+      {
+        "end": 88,
+        "start": 76,
+        "tag": "Price",
+        "text": "$100 million"
+      },
+      {
+        "end": 7,
+        "start": -1,
+        "tag": "Buyer",
+        "text": ""
+      },
+      {
+        "end": 7,
+        "start": -1,
+        "tag": "Buyer Country",
+        "text": ""
+      },
+      {
+        "end": 63,
+        "start": 57,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 63,
+        "start": 57,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 28,
+        "start": 21,
+        "tag": "Weapon",
+        "text": "weapons"
+      },
+      {
+        "end": 51,
+        "start": 33,
+        "tag": "Weapon",
+        "text": "military equipment"
+      },
+      {
+        "end": 516,
+        "start": 455,
+        "tag": "Answer",
+        "text": "Armenia to buy Russian weapons was signed on October 24, 2017"
+      },
+      {
+        "end": 516,
+        "start": 500,
+        "tag": "Date",
+        "text": "October 24, 2017"
+      },
+      {
+        "end": 462,
+        "start": 455,
+        "tag": "Buyer",
+        "text": "Armenia"
+      },
+      {
+        "end": 462,
+        "start": 455,
+        "tag": "Buyer Country",
+        "text": "Armenia"
+      },
+      {
+        "end": 477,
+        "start": 470,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 477,
+        "start": 470,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 485,
+        "start": 478,
+        "tag": "Weapon",
+        "text": "weapons"
+      },
+      {
+        "end": 699,
+        "start": 567,
+        "tag": "Answer",
+        "text": "In June 2015, Russia signed an agreement with Armenia on a state export loan worth $200 mln to finance deliveries of Russian weapons"
+      },
+      {
+        "end": 579,
+        "start": 570,
+        "tag": "Date",
+        "text": "June 2015"
+      },
+      {
+        "end": 587,
+        "start": 581,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 587,
+        "start": 581,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 620,
+        "start": 613,
+        "tag": "Buyer",
+        "text": "Armenia"
+      },
+      {
+        "end": 620,
+        "start": 613,
+        "tag": "Buyer Country",
+        "text": "Armenia"
+      },
+      {
+        "end": 658,
+        "start": 650,
+        "tag": "Price",
+        "text": "$200 mln"
+      },
+      {
+        "end": 699,
+        "start": 692,
+        "tag": "Weapon",
+        "text": "weapons"
+      },
+      {
+        "end": 691,
+        "start": 684,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 691,
+        "start": 684,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 895,
+        "start": 795,
+        "tag": "Answer",
+        "text": "Drozhzhov said Russia and Uzbekistan have inked a contract to deliver more than 10 Mi-35 helicopters"
+      },
+      {
+        "end": 816,
+        "start": 810,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 816,
+        "start": 810,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 831,
+        "start": 821,
+        "tag": "Buyer",
+        "text": "Uzbekistan"
+      },
+      {
+        "end": 831,
+        "start": 821,
+        "tag": "Buyer Country",
+        "text": "Uzbekistan"
+      },
+      {
+        "end": 877,
+        "start": 875,
+        "tag": "Quantity",
+        "text": "10"
+      },
+      {
+        "end": 895,
+        "start": 878,
+        "tag": "Weapon",
+        "text": "Mi-35 helicopters"
+      },
+      {
+        "end": 1280,
+        "start": 1198,
+        "tag": "Answer",
+        "text": "Russia hopes to ink a deal to deliver S-400 antiaircraft missiles to India in 2018"
+      },
+      {
+        "end": 1204,
+        "start": 1198,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 1204,
+        "start": 1198,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 1264,
+        "start": 1236,
+        "tag": "Weapon",
+        "text": "S-400 antiaircraft missiles "
+      },
+      {
+        "end": 1272,
+        "start": 1267,
+        "tag": "Buyer",
+        "text": "India"
+      },
+      {
+        "end": 1272,
+        "start": 1267,
+        "tag": "Buyer Country",
+        "text": "India"
+      },
+      {
+        "end": 1280,
+        "start": 1276,
+        "tag": "Date",
+        "text": "2018"
+      },
+      {
+        "end": 1662,
+        "start": 1617,
+        "tag": "Answer",
+        "text": "delivery of MiG-35 fighter jets to Kazakhstan"
+      },
+      {
+        "end": 1648,
+        "start": 1629,
+        "tag": "Weapon",
+        "text": "MiG-35 fighter jets"
+      },
+      {
+        "end": 1662,
+        "start": 1652,
+        "tag": "Buyer",
+        "text": "Kazakhstan"
+      },
+      {
+        "end": 1662,
+        "start": 1652,
+        "tag": "Buyer Country",
+        "text": "Kazakhstan"
+      },
+      {
+        "end": 2116,
+        "start": 1992,
+        "tag": "Answer",
+        "text": "An agreement was signed at MAKS-2017 airshow between MiG and Kazakhstan Engineering on the promotion of MiG-35 in Kazakhstan"
+      },
+      {
+        "end": 2048,
+        "start": 2045,
+        "tag": "Seller",
+        "text": "MiG"
+      },
+      {
+        "end": 2075,
+        "start": 2053,
+        "tag": "Buyer",
+        "text": "Kazakhstan Engineering"
+      },
+      {
+        "end": 2063,
+        "start": 2053,
+        "tag": "Buyer Country",
+        "text": "Kazakhstan"
+      },
+      {
+        "end": 2103,
+        "start": 2096,
+        "tag": "Weapon",
+        "text": "MiG-35 "
+      },
+      {
+        "end": 2116,
+        "start": 2106,
+        "tag": "Buyer",
+        "text": "Kazakhstan"
+      },
+      {
+        "end": 2116,
+        "start": 2106,
+        "tag": "Buyer Country",
+        "text": "Kazakhstan"
+      },
+      {
+        "end": 2688,
+        "start": 2339,
+        "tag": "Answer",
+        "text": "Armenia has taken delivery of many military equipment from Russia including two S-300PS/SA-10C air defense missile systems, 10 armoured vehicle Tigr, 400 MANPADS Igla-S/SA-24, 25 Iskander ballistic missile, 6 BM-30 9A52 Smerch MLRS 300mm Multiple Launch Rocket system, 200 Verba SA-25, and undisclosed number of anti-tank missiles 9M133 Kornet/AT-14"
+      },
+      {
+        "end": 2346,
+        "start": 2339,
+        "tag": "Buyer",
+        "text": "Armenia"
+      },
+      {
+        "end": 2346,
+        "start": 2339,
+        "tag": "Buyer Country",
+        "text": "Armenia"
+      },
+      {
+        "end": 2404,
+        "start": 2398,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 2404,
+        "start": 2398,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 2418,
+        "start": 2415,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 2611,
+        "start": 2608,
+        "tag": "Quantity",
+        "text": "200"
+      },
+      {
+        "end": 2547,
+        "start": 2546,
+        "tag": "Quantity",
+        "text": "6"
+      },
+      {
+        "end": 2517,
+        "start": 2515,
+        "tag": "Quantity",
+        "text": "25"
+      },
+      {
+        "end": 2465,
+        "start": 2463,
+        "tag": "Quantity",
+        "text": "10"
+      },
+      {
+        "end": 2487,
+        "start": 2466,
+        "tag": "Weapon",
+        "text": "armoured vehicle Tigr"
+      },
+      {
+        "end": 2492,
+        "start": 2489,
+        "tag": "Quantity",
+        "text": "400"
+      },
+      {
+        "end": 2513,
+        "start": 2493,
+        "tag": "Weapon",
+        "text": "MANPADS Igla-S/SA-24"
+      },
+      {
+        "end": 2544,
+        "start": 2518,
+        "tag": "Weapon",
+        "text": "Iskander ballistic missile"
+      },
+      {
+        "end": 2606,
+        "start": 2548,
+        "tag": "Weapon",
+        "text": "BM-30 9A52 Smerch MLRS 300mm Multiple Launch Rocket system"
+      },
+      {
+        "end": 2623,
+        "start": 2612,
+        "tag": "Weapon",
+        "text": "Verba SA-25"
+      },
+      {
+        "end": 2688,
+        "start": 2651,
+        "tag": "Weapon",
+        "text": "anti-tank missiles 9M133 Kornet/AT-14"
+      },
+      {
+        "end": 2392,
+        "start": 2374,
+        "tag": "Weapon",
+        "text": "military equipment"
+      }
+    ],
+    "test": true,
+    "text": "Armenia will receive weapons and military equipment from Russia under a new $100 million loan in 2018, Deputy Head of the Russian Federal Service for Military-Technical Cooperation Vladimir Drozhzhov said. The supply of these Russian weapons is expected for this year.\n\n\n\nMobile launcher unit TEL Transporter Erector Launcher of S-300PS air defense missile system at military parade in Armenia (Picture source Armenian MoD)\n\nThe agreement on the loan for Armenia to buy Russian weapons was signed on October 24, 2017. The loan was provided with a 3% annual interest. In June 2015, Russia signed an agreement with Armenia on a state export loan worth $200 mln to finance deliveries of Russian weapons. The loan maturity was 13 years with a three-year grace period and a 3% annual interest rate.\n\nDrozhzhov said Russia and Uzbekistan have inked a contract to deliver more than 10 Mi-35 helicopters. \"We signed a contract for Mi-35 helicopters. The work is successful, and military-technical cooperation with Uzbekistan is actively developing,\" he said.\n\nDrozhzhov said \"over ten craft\" will be supplied. A diplomatic source earlier told TASS 12 Mi-35 helicopters have to be delivered. Drozhzhov said Russia hopes to ink a deal to deliver S-400 antiaircraft missiles to India in 2018.\n\nIn January, Rostec CEO Sergey Chemezov said in an interview published on the Indian Defense News portal that negotiations for the contract entered the advanced stage and the parties were discussing technical details. In October 2016, the states inked an intergovernmental agreement on deliveries of the weapons.\n\nThe contract for the delivery of MiG-35 fighter jets to Kazakhstan has not been inked yet. \"Work is ongoing but so far there are no contracted commitments,\" Drozhzhov said. He added it was too early to speak about a possible creation of a joint Russian-Kazakh venture to produce MiG-35 in the country.\n\nThe MiG Corporation earlier said Kazakhstan can become a major buyer of the new fighter jet. An agreement was signed at MAKS-2017 airshow between MiG and Kazakhstan Engineering on the promotion of MiG-35 in Kazakhstan and the creation of servicing and production facilities to localize the production of units of the aircraft.\n\n\n\nSince 2010 and according to the SIPRI (Stockholm International Peace Research Institute) arms trade database, Armenia has taken delivery of many military equipment from Russia including two S-300PS/SA-10C air defense missile systems, 10 armoured vehicle Tigr, 400 MANPADS Igla-S/SA-24, 25 Iskander ballistic missile, 6 BM-30 9A52 Smerch MLRS 300mm Multiple Launch Rocket system, 200 Verba SA-25, and undisclosed number of anti-tank missiles 9M133 Kornet/AT-14."
+  },
+  {
+    "filename": "20180500_SCRAM_Pakistan news_A_PAK_B_RUS",
+    "labels": [],
+    "test": true,
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
+    "filename": "20180501_FI_Brazil Takes Delive_A_BRA_B_ISR",
+    "labels": [
+      {
+        "end": 45,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Brazil Takes Delivery of First Upgraded AF-1C"
+      },
+      {
+        "end": 6,
+        "start": -1,
+        "tag": "Buyer",
+        "text": ""
+      },
+      {
+        "end": 6,
+        "start": -1,
+        "tag": "Buyer Country",
+        "text": ""
+      },
+      {
+        "end": 45,
+        "start": 40,
+        "tag": "Weapon",
+        "text": "AF-1C"
+      },
+      {
+        "end": 212,
+        "start": 129,
+        "tag": "Answer",
+        "text": "The Brazilian Navy has taken delivery of the first of three upgraded AF-1C aircraft"
+      },
+      {
+        "end": 188,
+        "start": 183,
+        "tag": "Quantity",
+        "text": "three"
+      },
+      {
+        "end": 212,
+        "start": 198,
+        "tag": "Weapon",
+        "text": "AF-1C aircraft"
+      },
+      {
+        "end": 147,
+        "start": 129,
+        "tag": "Buyer",
+        "text": "The Brazilian Navy"
+      },
+      {
+        "end": 142,
+        "start": 133,
+        "tag": "Buyer Country",
+        "text": "Brazilian"
+      },
+      {
+        "end": 520,
+        "start": 389,
+        "tag": "Answer",
+        "text": "Brazil signed a contract to upgrade nine single-seat A-4KU's to the AF-1B standard and three TA-4KU's to the AF-1C standard in 2009"
+      },
+      {
+        "end": 395,
+        "start": 389,
+        "tag": "Buyer",
+        "text": "Brazil"
+      },
+      {
+        "end": 395,
+        "start": 389,
+        "tag": "Buyer Country",
+        "text": "Brazil"
+      },
+      {
+        "end": 429,
+        "start": 425,
+        "tag": "Quantity",
+        "text": "nine"
+      },
+      {
+        "end": 447,
+        "start": 442,
+        "tag": "Weapon",
+        "text": "A-4KU"
+      },
+      {
+        "end": 488,
+        "start": 482,
+        "tag": "Weapon",
+        "text": "TA-4KU"
+      },
+      {
+        "end": 481,
+        "start": 476,
+        "tag": "Quantity",
+        "text": "three"
+      },
+      {
+        "end": 520,
+        "start": 516,
+        "tag": "Date",
+        "text": "2009"
+      }
+    ],
+    "test": true,
+    "text": "Brazil Takes Delivery of First Upgraded AF-1C\n\n(Source: Forecast International; issued May 01, 2018)\n\nGAVI\u00c3O PEIXOTO, Brazil --- The Brazilian Navy has taken delivery of the first of three upgraded AF-1C aircraft. The AF-1C is based on the TA-4KU two-seat fighter. The aircraft was delivered to the AF-1/1A Aircraft Inspection and Receiving Group on April 23 in Gavi\u00e3o Peixoto, Brazil.\n\n\n\nBrazil signed a contract to upgrade nine single-seat A-4KU's to the AF-1B standard and three TA-4KU's to the AF-1C standard in 2009. The contract, awarded to Embraer, was worth $140 million. The first aircraft, an A-4KU, was delivered in May 2015. However, delays mounted after that and by July 2017, Brazil even considered cancelling the program. Ultimately, Brasilia decided against that move, and the program now seems to be back on track.\n\n\n\nUpgrades include a new electric power generation system, a new multimode radar, a glass cockpit, and a new weapons management system. In addition, prime contractor Embraer developed a new suite of mission software.\n\n\n\nThe aircraft, with a serial number N-1022, will be used by training and operational qualification pilots of the 1st Squadron of Intercept and Attack Aircraft (EsqdVF-1). In addition, \"Falcon 1022\" may participate in various operational tasks of the Squadron.\n\n\n\n-ends-\n\n"
+  },
+  {
+    "filename": "20180117_DAILY_Defense Ministry_A_MYA",
+    "labels": [],
+    "test": true,
+    "text": "Burma Defense Ministry Asks For Budget Increase\n\nAnnual Armed Forces Day parade in Naypyitaw in 2017. / Myo Min Soe / The Irrawaddy\n\nNAYPYITAW \u2014 The Defense Ministry on Tuesday asked for a budget of more than 1.3 trillion kyats (US$1 billion) for a six-month period\u2014an amount higher than the combined total of the health and education budgets\u2014as Parliament discussed the budget for a transitional period ahead of the 2018-19 fiscal year, which will start on Oct. 1.\n\nThe defense ministry\u2019s proposed budget includes more than 2 billion kyats for military operations.\n\nLawmakers of the National League for Democracy (NLD) said that the budget requested by the Ministry of Defense made up 12.56 percent of the total budget proposal, while the Ministry of Education and the Ministry of Health and Sports asked for 7.56 percent and 3.93 percent respectively, adding up to only 11.46 percent of the total budget.\n\n\u201cDuring the term of the previous government, student activists demanded that the education budget be increased to 20 percent of the national budget. It seemed as though the education budget increased under the current government, but in reality, it didn\u2019t because the budget was for two ministries \u2013 the Education Ministry and the Ministry of Science and Technology,\u201d he explained, as the NLD government had incorporated the Ministry of Science and Technology into the education ministry.\n\nThe budget proposed by the Health and Sports Ministry was only 400 billion kyats for a six months period, and that amount is not sufficient to spend both on the health and sports sectors, he added.\n\nDeputy Minister for Defense Maj-Gen Myint Nwe told Parliament that the Defense Ministry is expected to earn 31.761 billion kyats in normal revenue; its capital expenditure is expected to be 611.087 billion kyats; its normal expenditure, 723.107 billion kyats; and total expenditure is, therefore, 1.33 trillion kyats for the six-month transitional period.\n\nHe told Parliament, \u201cThe money is used to implement plans to strengthen the structure of soldiers, weapons, equipment for perpetuity of sovereignty and territorial integrity of the Union.\u201d\n\nLower House lawmaker U Tun Tun of Pwintbyu Township, who was on the budget scrutinizing committee, said that the defense budget is rarely cut, but when the Defense Ministry asked for an additional budgetary top-up for the 2017-18 fiscal year, the committee cut around 280 million kyats because government agencies are restricted by law from obtaining an extra budget of more than 10 percent of their main budget.\n\n\u201cThe defense budget has never been trimmed. However, we will check whether the army asked for its budget in accordance with financial rules and regulations. If we find that the budget was increased unnecessarily, we will scrutinize and cut it,\u201d he said.\n\nTo compare the defense budgets for normal expenditures, the Defense Ministry asked for 609.627 billion kyats for the first half of 2016-17 FY, 827.149 billion kyats for the first half of 2017-18 FY, and 723.107 billion kyats for the six-month period in 2018.\n\nAnd to compare the defense budgets for capital expenditures, it asked for 168.498 billion kyats for the first half of 2016-17 FY, 622.440 billion kyats for the first half of 2017-18 FY, and 618.017 billion kyats for the six-month period.\n\nTranslated from Burmese by Myint Win Thein."
+  },
+  {
+    "filename": "20181000_SCRAM_Rwanda Tanzania _A_TUN_B_USA",
+    "labels": [],
+    "test": true,
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
+    "filename": "20180828_OTH_Mattis-US does not_A_TUR_B_RUS",
+    "labels": [
+      {
+        "end": 92,
+        "start": 42,
+        "tag": "Answer",
+        "text": "Turkey against buying a Russian air defense system"
+      },
+      {
+        "end": 48,
+        "start": 42,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 48,
+        "start": 42,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 73,
+        "start": 66,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 73,
+        "start": 66,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 92,
+        "start": 74,
+        "tag": "Weapon",
+        "text": "air defense system"
+      },
+      {
+        "end": 350,
+        "start": 270,
+        "tag": "Answer",
+        "text": "Turkey bringing a Russian anti-aircraft, anti-missile system into a NATO country"
+      },
+      {
+        "end": 276,
+        "start": 270,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 295,
+        "start": 288,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 295,
+        "start": 288,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 330,
+        "start": 296,
+        "tag": "Weapon",
+        "text": "anti-aircraft, anti-missile system"
+      },
+      {
+        "end": 276,
+        "start": 270,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 527,
+        "start": 459,
+        "tag": "Answer",
+        "text": "The US blocked the sale of American-made F-35 jet fighters to Turkey"
+      },
+      {
+        "end": 465,
+        "start": 459,
+        "tag": "Seller",
+        "text": "The US"
+      },
+      {
+        "end": 465,
+        "start": 463,
+        "tag": "Seller Country",
+        "text": "US"
+      },
+      {
+        "end": 494,
+        "start": 486,
+        "tag": "Seller",
+        "text": "American"
+      },
+      {
+        "end": 494,
+        "start": 486,
+        "tag": "Seller Country",
+        "text": "American"
+      },
+      {
+        "end": 517,
+        "start": 500,
+        "tag": "Weapon",
+        "text": "F-35 jet fighters"
+      },
+      {
+        "end": 527,
+        "start": 521,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 527,
+        "start": 521,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 633,
+        "start": 562,
+        "tag": "Answer",
+        "text": "Ankara\u2019s decision to purchase the Russian-made S-400 air defense system"
+      },
+      {
+        "end": 568,
+        "start": 562,
+        "tag": "Buyer",
+        "text": "Ankara"
+      },
+      {
+        "end": 568,
+        "start": 562,
+        "tag": "Buyer Country",
+        "text": "Ankara"
+      },
+      {
+        "end": 603,
+        "start": 596,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 603,
+        "start": 596,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 633,
+        "start": 609,
+        "tag": "Weapon",
+        "text": "S-400 air defense system"
+      },
+      {
+        "end": 872,
+        "start": 754,
+        "tag": "Answer",
+        "text": "Russian arms exporter Rosoboronexport said that the first batch of S-400 systems will be delivered to Turkey next year"
+      },
+      {
+        "end": 761,
+        "start": 754,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 791,
+        "start": 776,
+        "tag": "Seller",
+        "text": "Rosoboronexport"
+      },
+      {
+        "end": 834,
+        "start": 821,
+        "tag": "Weapon",
+        "text": "S-400 systems"
+      },
+      {
+        "end": 862,
+        "start": 856,
+        "tag": "Buyer",
+        "text": "Turkey"
+      },
+      {
+        "end": 862,
+        "start": 856,
+        "tag": "Buyer Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 872,
+        "start": 863,
+        "tag": "Date",
+        "text": "next year"
+      }
+    ],
+    "test": true,
+    "text": "Defense Secretary James Mattis has warned Turkey against buying a Russian air defense system. He cautioned Turkey, a sovereign state and NATO member, that the US does \u201cnot recommend\u201d the purchase.\n\n\u201cTurkey had a choice to make, a sovereign decision to make. But clearly Turkey bringing a Russian anti-aircraft, anti-missile system into a NATO country, we cannot integrate that into NATO,\u201d Mattis said. \u201cYes, it does concern us and we do not recommend that.\u201d\n\nThe US blocked the sale of American-made F-35 jet fighters to Turkey earlier this month in response to Ankara\u2019s decision to purchase the Russian-made S-400 air defense system. However, Turkey intends to press ahead with the purchase, and already made the first payment for the system last year. Russian arms exporter Rosoboronexport said that the first batch of S-400 systems will be delivered to Turkey next year.\n\nRead more\n\nTurkish President Recep Tayyip Erdogan defended his decision to buy from Russia, arguing that the US has turned down his requests for more hardware for years.\n\n\u201cAre we going to depend on the U.S. again?\u201d the Turkish strongman said in June. \u201cWhen we have been demanding from them for years, the answer that has been given to us is: The [U.S.] Congress is not allowing.\u201d\n\nAt the time, Erdogan added that he fully intended to put the new defense systems to use. \u201cWe will not just buy the S-400s and place them in a storehouse. We will use them if need be,\u201d he said. \u201cThis is a defense system. What are we going to do with it if not use this defense system?\u201d\n\nThe deepening rift between the US and Turkey over the S-400 has been exacerbated by Turkey\u2019s continued detention of American pastor Andrew Brunson. Brunson has been held in Turkey since 2016 over alleged involvement in the failed coup attempt against Erdogan\u2019s government, and is facing 35 years in prison.\n\nAs the war of words over Brunson escalated, US President Donald Trump doubled steel and aluminum tariffs on Turkish imports up to 50 and 20 percent respectively earlier this month. Ankara retaliated by raising tariffs on 22 American-made products, ranging from cars to tobacco and also filed a complaint with the World Trade Organization (WTO) against the US move.\n\nIf you like this story, share it with a friend!"
+  },
+  {
+    "filename": "20180328_OTH_Myanmar EE-9_A_MYA_B_ISR",
+    "labels": [],
+    "test": true,
+    "text": "as u know , our eastern neighbour, Thailand dont have subs till now and just in order. another one is the host for this ex.just kidding. Most likely is that India want to promote their sonar suite and other electronics which are installed in our ships ( in both F14 and OPV ) during this exercise. and also want to show our strong relationship and friend indeed in our hard time. even if this exercise is meant for BD's subs , it would be a very small part in the purpose of this exercise."
   }
 ]

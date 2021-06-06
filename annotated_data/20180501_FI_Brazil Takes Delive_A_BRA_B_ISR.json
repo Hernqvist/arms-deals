@@ -1,0 +1,109 @@
+{
+  "filename": "20180501_FI_Brazil Takes Delive_A_BRA_B_ISR",
+  "labels": [
+    {
+      "end": 45,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Brazil Takes Delivery of First Upgraded AF-1C"
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 45,
+      "start": 40,
+      "tag": "Weapon",
+      "text": "AF-1C"
+    },
+    {
+      "end": 212,
+      "start": 129,
+      "tag": "Answer",
+      "text": "The Brazilian Navy has taken delivery of the first of three upgraded AF-1C aircraft"
+    },
+    {
+      "end": 188,
+      "start": 183,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 212,
+      "start": 198,
+      "tag": "Weapon",
+      "text": "AF-1C aircraft"
+    },
+    {
+      "end": 147,
+      "start": 129,
+      "tag": "Buyer",
+      "text": "The Brazilian Navy"
+    },
+    {
+      "end": 142,
+      "start": 133,
+      "tag": "Buyer Country",
+      "text": "Brazilian"
+    },
+    {
+      "end": 520,
+      "start": 389,
+      "tag": "Answer",
+      "text": "Brazil signed a contract to upgrade nine single-seat A-4KU's to the AF-1B standard and three TA-4KU's to the AF-1C standard in 2009"
+    },
+    {
+      "end": 395,
+      "start": 389,
+      "tag": "Buyer",
+      "text": "Brazil"
+    },
+    {
+      "end": 395,
+      "start": 389,
+      "tag": "Buyer Country",
+      "text": "Brazil"
+    },
+    {
+      "end": 429,
+      "start": 425,
+      "tag": "Quantity",
+      "text": "nine"
+    },
+    {
+      "end": 447,
+      "start": 442,
+      "tag": "Weapon",
+      "text": "A-4KU"
+    },
+    {
+      "end": 488,
+      "start": 482,
+      "tag": "Weapon",
+      "text": "TA-4KU"
+    },
+    {
+      "end": 481,
+      "start": 476,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 520,
+      "start": 516,
+      "tag": "Date",
+      "text": "2009"
+    }
+  ],
+  "test": true,
+  "text": "Brazil Takes Delivery of First Upgraded AF-1C\n\n(Source: Forecast International; issued May 01, 2018)\n\nGAVI\u00c3O PEIXOTO, Brazil --- The Brazilian Navy has taken delivery of the first of three upgraded AF-1C aircraft. The AF-1C is based on the TA-4KU two-seat fighter. The aircraft was delivered to the AF-1/1A Aircraft Inspection and Receiving Group on April 23 in Gavi\u00e3o Peixoto, Brazil.\n\n\n\nBrazil signed a contract to upgrade nine single-seat A-4KU's to the AF-1B standard and three TA-4KU's to the AF-1C standard in 2009. The contract, awarded to Embraer, was worth $140 million. The first aircraft, an A-4KU, was delivered in May 2015. However, delays mounted after that and by July 2017, Brazil even considered cancelling the program. Ultimately, Brasilia decided against that move, and the program now seems to be back on track.\n\n\n\nUpgrades include a new electric power generation system, a new multimode radar, a glass cockpit, and a new weapons management system. In addition, prime contractor Embraer developed a new suite of mission software.\n\n\n\nThe aircraft, with a serial number N-1022, will be used by training and operational qualification pilots of the 1st Squadron of Intercept and Attack Aircraft (EsqdVF-1). In addition, \"Falcon 1022\" may participate in various operational tasks of the Squadron.\n\n\n\n-ends-\n\n"
+}

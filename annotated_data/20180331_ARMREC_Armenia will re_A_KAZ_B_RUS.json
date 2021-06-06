@@ -1,0 +1,421 @@
+{
+  "filename": "20180331_ARMREC_Armenia will re_A_KAZ_B_RUS",
+  "labels": [
+    {
+      "end": 101,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Armenia will receive weapons and military equipment from Russia under a new $100 million loan in 2018"
+    },
+    {
+      "end": 101,
+      "start": 97,
+      "tag": "Date",
+      "text": "2018"
+    },
+    {
+      "end": 88,
+      "start": 76,
+      "tag": "Price",
+      "text": "$100 million"
+    },
+    {
+      "end": 7,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 7,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 63,
+      "start": 57,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 63,
+      "start": 57,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 28,
+      "start": 21,
+      "tag": "Weapon",
+      "text": "weapons"
+    },
+    {
+      "end": 51,
+      "start": 33,
+      "tag": "Weapon",
+      "text": "military equipment"
+    },
+    {
+      "end": 516,
+      "start": 455,
+      "tag": "Answer",
+      "text": "Armenia to buy Russian weapons was signed on October 24, 2017"
+    },
+    {
+      "end": 516,
+      "start": 500,
+      "tag": "Date",
+      "text": "October 24, 2017"
+    },
+    {
+      "end": 462,
+      "start": 455,
+      "tag": "Buyer",
+      "text": "Armenia"
+    },
+    {
+      "end": 462,
+      "start": 455,
+      "tag": "Buyer Country",
+      "text": "Armenia"
+    },
+    {
+      "end": 477,
+      "start": 470,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 477,
+      "start": 470,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 485,
+      "start": 478,
+      "tag": "Weapon",
+      "text": "weapons"
+    },
+    {
+      "end": 699,
+      "start": 567,
+      "tag": "Answer",
+      "text": "In June 2015, Russia signed an agreement with Armenia on a state export loan worth $200 mln to finance deliveries of Russian weapons"
+    },
+    {
+      "end": 579,
+      "start": 570,
+      "tag": "Date",
+      "text": "June 2015"
+    },
+    {
+      "end": 587,
+      "start": 581,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 587,
+      "start": 581,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 620,
+      "start": 613,
+      "tag": "Buyer",
+      "text": "Armenia"
+    },
+    {
+      "end": 620,
+      "start": 613,
+      "tag": "Buyer Country",
+      "text": "Armenia"
+    },
+    {
+      "end": 658,
+      "start": 650,
+      "tag": "Price",
+      "text": "$200 mln"
+    },
+    {
+      "end": 699,
+      "start": 692,
+      "tag": "Weapon",
+      "text": "weapons"
+    },
+    {
+      "end": 691,
+      "start": 684,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 691,
+      "start": 684,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 895,
+      "start": 795,
+      "tag": "Answer",
+      "text": "Drozhzhov said Russia and Uzbekistan have inked a contract to deliver more than 10 Mi-35 helicopters"
+    },
+    {
+      "end": 816,
+      "start": 810,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 816,
+      "start": 810,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 831,
+      "start": 821,
+      "tag": "Buyer",
+      "text": "Uzbekistan"
+    },
+    {
+      "end": 831,
+      "start": 821,
+      "tag": "Buyer Country",
+      "text": "Uzbekistan"
+    },
+    {
+      "end": 877,
+      "start": 875,
+      "tag": "Quantity",
+      "text": "10"
+    },
+    {
+      "end": 895,
+      "start": 878,
+      "tag": "Weapon",
+      "text": "Mi-35 helicopters"
+    },
+    {
+      "end": 1280,
+      "start": 1198,
+      "tag": "Answer",
+      "text": "Russia hopes to ink a deal to deliver S-400 antiaircraft missiles to India in 2018"
+    },
+    {
+      "end": 1204,
+      "start": 1198,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1204,
+      "start": 1198,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1264,
+      "start": 1236,
+      "tag": "Weapon",
+      "text": "S-400 antiaircraft missiles "
+    },
+    {
+      "end": 1272,
+      "start": 1267,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1272,
+      "start": 1267,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1280,
+      "start": 1276,
+      "tag": "Date",
+      "text": "2018"
+    },
+    {
+      "end": 1662,
+      "start": 1617,
+      "tag": "Answer",
+      "text": "delivery of MiG-35 fighter jets to Kazakhstan"
+    },
+    {
+      "end": 1648,
+      "start": 1629,
+      "tag": "Weapon",
+      "text": "MiG-35 fighter jets"
+    },
+    {
+      "end": 1662,
+      "start": 1652,
+      "tag": "Buyer",
+      "text": "Kazakhstan"
+    },
+    {
+      "end": 1662,
+      "start": 1652,
+      "tag": "Buyer Country",
+      "text": "Kazakhstan"
+    },
+    {
+      "end": 2116,
+      "start": 1992,
+      "tag": "Answer",
+      "text": "An agreement was signed at MAKS-2017 airshow between MiG and Kazakhstan Engineering on the promotion of MiG-35 in Kazakhstan"
+    },
+    {
+      "end": 2048,
+      "start": 2045,
+      "tag": "Seller",
+      "text": "MiG"
+    },
+    {
+      "end": 2075,
+      "start": 2053,
+      "tag": "Buyer",
+      "text": "Kazakhstan Engineering"
+    },
+    {
+      "end": 2063,
+      "start": 2053,
+      "tag": "Buyer Country",
+      "text": "Kazakhstan"
+    },
+    {
+      "end": 2103,
+      "start": 2096,
+      "tag": "Weapon",
+      "text": "MiG-35 "
+    },
+    {
+      "end": 2116,
+      "start": 2106,
+      "tag": "Buyer",
+      "text": "Kazakhstan"
+    },
+    {
+      "end": 2116,
+      "start": 2106,
+      "tag": "Buyer Country",
+      "text": "Kazakhstan"
+    },
+    {
+      "end": 2688,
+      "start": 2339,
+      "tag": "Answer",
+      "text": "Armenia has taken delivery of many military equipment from Russia including two S-300PS/SA-10C air defense missile systems, 10 armoured vehicle Tigr, 400 MANPADS Igla-S/SA-24, 25 Iskander ballistic missile, 6 BM-30 9A52 Smerch MLRS 300mm Multiple Launch Rocket system, 200 Verba SA-25, and undisclosed number of anti-tank missiles 9M133 Kornet/AT-14"
+    },
+    {
+      "end": 2346,
+      "start": 2339,
+      "tag": "Buyer",
+      "text": "Armenia"
+    },
+    {
+      "end": 2346,
+      "start": 2339,
+      "tag": "Buyer Country",
+      "text": "Armenia"
+    },
+    {
+      "end": 2404,
+      "start": 2398,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 2404,
+      "start": 2398,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 2418,
+      "start": 2415,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 2611,
+      "start": 2608,
+      "tag": "Quantity",
+      "text": "200"
+    },
+    {
+      "end": 2547,
+      "start": 2546,
+      "tag": "Quantity",
+      "text": "6"
+    },
+    {
+      "end": 2517,
+      "start": 2515,
+      "tag": "Quantity",
+      "text": "25"
+    },
+    {
+      "end": 2465,
+      "start": 2463,
+      "tag": "Quantity",
+      "text": "10"
+    },
+    {
+      "end": 2487,
+      "start": 2466,
+      "tag": "Weapon",
+      "text": "armoured vehicle Tigr"
+    },
+    {
+      "end": 2492,
+      "start": 2489,
+      "tag": "Quantity",
+      "text": "400"
+    },
+    {
+      "end": 2513,
+      "start": 2493,
+      "tag": "Weapon",
+      "text": "MANPADS Igla-S/SA-24"
+    },
+    {
+      "end": 2544,
+      "start": 2518,
+      "tag": "Weapon",
+      "text": "Iskander ballistic missile"
+    },
+    {
+      "end": 2606,
+      "start": 2548,
+      "tag": "Weapon",
+      "text": "BM-30 9A52 Smerch MLRS 300mm Multiple Launch Rocket system"
+    },
+    {
+      "end": 2623,
+      "start": 2612,
+      "tag": "Weapon",
+      "text": "Verba SA-25"
+    },
+    {
+      "end": 2688,
+      "start": 2651,
+      "tag": "Weapon",
+      "text": "anti-tank missiles 9M133 Kornet/AT-14"
+    },
+    {
+      "end": 2392,
+      "start": 2374,
+      "tag": "Weapon",
+      "text": "military equipment"
+    }
+  ],
+  "test": true,
+  "text": "Armenia will receive weapons and military equipment from Russia under a new $100 million loan in 2018, Deputy Head of the Russian Federal Service for Military-Technical Cooperation Vladimir Drozhzhov said. The supply of these Russian weapons is expected for this year.\n\n\n\nMobile launcher unit TEL Transporter Erector Launcher of S-300PS air defense missile system at military parade in Armenia (Picture source Armenian MoD)\n\nThe agreement on the loan for Armenia to buy Russian weapons was signed on October 24, 2017. The loan was provided with a 3% annual interest. In June 2015, Russia signed an agreement with Armenia on a state export loan worth $200 mln to finance deliveries of Russian weapons. The loan maturity was 13 years with a three-year grace period and a 3% annual interest rate.\n\nDrozhzhov said Russia and Uzbekistan have inked a contract to deliver more than 10 Mi-35 helicopters. \"We signed a contract for Mi-35 helicopters. The work is successful, and military-technical cooperation with Uzbekistan is actively developing,\" he said.\n\nDrozhzhov said \"over ten craft\" will be supplied. A diplomatic source earlier told TASS 12 Mi-35 helicopters have to be delivered. Drozhzhov said Russia hopes to ink a deal to deliver S-400 antiaircraft missiles to India in 2018.\n\nIn January, Rostec CEO Sergey Chemezov said in an interview published on the Indian Defense News portal that negotiations for the contract entered the advanced stage and the parties were discussing technical details. In October 2016, the states inked an intergovernmental agreement on deliveries of the weapons.\n\nThe contract for the delivery of MiG-35 fighter jets to Kazakhstan has not been inked yet. \"Work is ongoing but so far there are no contracted commitments,\" Drozhzhov said. He added it was too early to speak about a possible creation of a joint Russian-Kazakh venture to produce MiG-35 in the country.\n\nThe MiG Corporation earlier said Kazakhstan can become a major buyer of the new fighter jet. An agreement was signed at MAKS-2017 airshow between MiG and Kazakhstan Engineering on the promotion of MiG-35 in Kazakhstan and the creation of servicing and production facilities to localize the production of units of the aircraft.\n\n\n\nSince 2010 and according to the SIPRI (Stockholm International Peace Research Institute) arms trade database, Armenia has taken delivery of many military equipment from Russia including two S-300PS/SA-10C air defense missile systems, 10 armoured vehicle Tigr, 400 MANPADS Igla-S/SA-24, 25 Iskander ballistic missile, 6 BM-30 9A52 Smerch MLRS 300mm Multiple Launch Rocket system, 200 Verba SA-25, and undisclosed number of anti-tank missiles 9M133 Kornet/AT-14."
+}
