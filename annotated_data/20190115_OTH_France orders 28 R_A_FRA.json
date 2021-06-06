@@ -1,0 +1,121 @@
+{
+  "filename": "20190115_OTH_France orders 28 R_A_FRA",
+  "labels": [
+    {
+      "end": 124,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The French government signed a $2,3 billion (2 billion euro) contract with Dassault Aviation for 28 upgraded Rafale aircraft"
+    },
+    {
+      "end": 21,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The French government"
+    },
+    {
+      "end": 10,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "French"
+    },
+    {
+      "end": 43,
+      "start": 31,
+      "tag": "Price",
+      "text": "$2,3 billion"
+    },
+    {
+      "end": 59,
+      "start": 45,
+      "tag": "Price",
+      "text": "2 billion euro"
+    },
+    {
+      "end": 92,
+      "start": 75,
+      "tag": "Seller",
+      "text": "Dassault Aviation"
+    },
+    {
+      "end": 99,
+      "start": 97,
+      "tag": "Quantity",
+      "text": "28"
+    },
+    {
+      "end": 124,
+      "start": 109,
+      "tag": "Weapon",
+      "text": "Rafale aircraft"
+    },
+    {
+      "end": 364,
+      "start": 261,
+      "tag": "Answer",
+      "text": "The 28 aircraft will include some F4 functionalities and be delivered to the French air force from 2023"
+    },
+    {
+      "end": 267,
+      "start": 265,
+      "tag": "Quantity",
+      "text": "28"
+    },
+    {
+      "end": 276,
+      "start": 268,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 354,
+      "start": 334,
+      "tag": "Buyer",
+      "text": "the French air force"
+    },
+    {
+      "end": 344,
+      "start": 338,
+      "tag": "Buyer Country",
+      "text": "French"
+    },
+    {
+      "end": 364,
+      "start": 360,
+      "tag": "Date",
+      "text": "2023"
+    },
+    {
+      "end": 484,
+      "start": 367,
+      "tag": "Answer",
+      "text": "Defense Minister Florence Parly announced that a further 30 aircraft at the full F4 standard would be ordered in 2023"
+    },
+    {
+      "end": 484,
+      "start": 480,
+      "tag": "Date",
+      "text": "2023"
+    },
+    {
+      "end": 426,
+      "start": 424,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 435,
+      "start": 427,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 398,
+      "start": 367,
+      "tag": "Buyer",
+      "text": "Defense Minister Florence Parly"
+    }
+  ],
+  "test": true,
+  "text": "The French government signed a $2,3 billion (2 billion euro) contract with Dassault Aviation for 28 upgraded Rafale aircraft and gave the go-ahead for development of the aircraft\u2019s F4 standard which should be validated by 2024, according to Scramble Magazine.\n\nThe 28 aircraft will include some F4 functionalities and be delivered to the French air force from 2023.\n\nDefense Minister Florence Parly announced that a further 30 aircraft at the full F4 standard would be ordered in 2023 for delivery between 2027 and 2030.\n\n- ADVERTISEMENT - CONTINUE READING BELOW -\n\nThe French Minister of the Armed Forces, Ms. Florence Parly, visited the Dassault Aviation Merignac site on Monday, January 14, 2019.\n\nAccompanied by Mr Eric Trappier, Chairman and CEO of Dassault Aviation, she was shown the Rafale and Falcon assembly lines.\n\nThe F4 standard includes among other things, an upgraded radar, as well as improved capabilities in the Helmet-Mounted Display, it will be more effective in network-centric warfare (more data exchange, and satellite communication) and it can operate with the Talios targeting pod.\n\nBoth support new new weapons, like the Mica NG air-to-air missile and the Armement Air-Sol Modulaire (AASM) \u201cHammer\u201d, a precision air-to-ground weapon. The F4 is also able to operate with the Scalp cruise missiles.\n\nLooking back to the standards of the Rafale, the F1 standard was the first version for the A\u00e9ronautique Navale (French Navy). These Rafale Ms were equipped for air-to-air operations, but lacked any armaments for air-to-ground missions.\n\nF2 standard gave the Rafale also air-to-ground and reconnaissance capabilities. The latest versions, F3 and F3R, gave the aircraft nuclear capabilities and it can operate with the most advanced air-to-air missiles and precision ground attacks munitions."
+}

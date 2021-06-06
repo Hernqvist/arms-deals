@@ -1,0 +1,49 @@
+{
+  "filename": "20180619_REU_China pledges over_A_CMB_B_CHI",
+  "labels": [
+    {
+      "end": 91,
+      "start": 23,
+      "tag": "Answer",
+      "text": "China has granted more than $100 million in military aid to Cambodia"
+    },
+    {
+      "end": 28,
+      "start": 23,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 28,
+      "start": 23,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 63,
+      "start": 51,
+      "tag": "Price",
+      "text": "$100 million"
+    },
+    {
+      "end": 79,
+      "start": 67,
+      "tag": "Weapon",
+      "text": "military aid"
+    },
+    {
+      "end": 91,
+      "start": 83,
+      "tag": "Buyer",
+      "text": "Cambodia"
+    },
+    {
+      "end": 91,
+      "start": 83,
+      "tag": "Buyer Country",
+      "text": "Cambodia"
+    }
+  ],
+  "test": true,
+  "text": "PHNOM PENH (Reuters) - China has granted more than $100 million in military aid to Cambodia, Cambodia said on Tuesday, highlighting the strong ties between Beijing and a government that critics accuse of destroying democracy ahead of an election next month.\n\nSlideshow ( 2 images )\n\nPrime Minister Hun Sen\u2019s ruling party is expected to easily win the general election on July 29 as the Supreme Court dissolved the main opposition Cambodia National Rescue Party (CNRP) last November at the government\u2019s request.\n\nThe military aid was offered by China\u2019s defense minister Wei Fenghe, who is in Phnom Penh to attend a China-Cambodia military exhibition, on a visit that began on June 16 and will end on Wednesday.\n\nCambodian Defence Ministry spokesman Chhum Sucheat said Wei \u201cpledged more than $100 million grant\u201d to be used for whatever Cambodia required, and that the Chinese and Cambodian armies would conduct joint exercises, dubbed \u201cDragon Gold\u201d, again next year.\n\n\u201cHe didn\u2019t specify what we can buy, just for use for any necessary need,\u201d the spokesman told Reuters.\n\nWei, in a statement carried by China\u2019s Defence Ministry, said Cambodia was a \u201cloyal friend\u201d and China stood by it as it \u201cpursued a development path that accords with its national condition\u201d.\n\nChina is Cambodia\u2019s biggest aid donor and its backing has bolstered Hun Sen, who has ruled the country for 33 years.\n\nThe ban on Cambodia\u2019s opposition was condemned by the United States, the European Union and other countries. Hun Sen has accused the United States of supporting the CNRP and plotting a \u201ccolor revolution\u201d to overthrow his government.\n\nThe opposition party and the United States denied that.\n\nCambodia has suspended joint military exercises with the United States indefinitely, but has held exercises with China twice since 2016."
+}

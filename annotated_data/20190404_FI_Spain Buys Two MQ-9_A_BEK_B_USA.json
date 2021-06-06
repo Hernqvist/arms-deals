@@ -1,0 +1,211 @@
+{
+  "filename": "20190404_FI_Spain Buys Two MQ-9_A_BEK_B_USA",
+  "labels": [
+    {
+      "end": 180,
+      "start": 37,
+      "tag": "Answer",
+      "text": "Spain plans to purchase two General Atomics Aeronautical Systems MQ-9 Block 5 Reapers for $34 million via the US foreign military sales process"
+    },
+    {
+      "end": 42,
+      "start": 37,
+      "tag": "Buyer",
+      "text": "Spain"
+    },
+    {
+      "end": 42,
+      "start": 37,
+      "tag": "Buyer Country",
+      "text": "Spain"
+    },
+    {
+      "end": 64,
+      "start": 61,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 122,
+      "start": 102,
+      "tag": "Weapon",
+      "text": "MQ-9 Block 5 Reapers"
+    },
+    {
+      "end": 101,
+      "start": 65,
+      "tag": "Seller",
+      "text": "General Atomics Aeronautical Systems"
+    },
+    {
+      "end": 149,
+      "start": 147,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 138,
+      "start": 127,
+      "tag": "Price",
+      "text": "$34 million"
+    },
+    {
+      "end": 544,
+      "start": 440,
+      "tag": "Answer",
+      "text": "The US State Department approved the sale of four MQ-5 Block 5 Reapers to Spain for $243 million in 2015"
+    },
+    {
+      "end": 544,
+      "start": 540,
+      "tag": "Date",
+      "text": "2015"
+    },
+    {
+      "end": 536,
+      "start": 524,
+      "tag": "Price",
+      "text": "$243 million"
+    },
+    {
+      "end": 519,
+      "start": 514,
+      "tag": "Buyer",
+      "text": "Spain"
+    },
+    {
+      "end": 519,
+      "start": 514,
+      "tag": "Buyer Country",
+      "text": "Spain"
+    },
+    {
+      "end": 489,
+      "start": 485,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 510,
+      "start": 490,
+      "tag": "Weapon",
+      "text": "MQ-5 Block 5 Reapers"
+    },
+    {
+      "end": 463,
+      "start": 440,
+      "tag": "Seller",
+      "text": "The US State Department"
+    },
+    {
+      "end": 446,
+      "start": 444,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1822,
+      "start": 1742,
+      "tag": "Answer",
+      "text": "Spain is the latest European NATO country to sign up for General Atomics\u2019 drones"
+    },
+    {
+      "end": 1747,
+      "start": 1742,
+      "tag": "Buyer",
+      "text": "Spain"
+    },
+    {
+      "end": 1747,
+      "start": 1742,
+      "tag": "Buyer Country",
+      "text": "Spain"
+    },
+    {
+      "end": 1814,
+      "start": 1799,
+      "tag": "Seller",
+      "text": "General Atomics"
+    },
+    {
+      "end": 1822,
+      "start": 1816,
+      "tag": "Weapon",
+      "text": "drones"
+    },
+    {
+      "end": 2054,
+      "start": 1829,
+      "tag": "Answer",
+      "text": "in March 2019, Belgium gained State Department approval for a potentially $600 million acquisition of four MQ-9B SkyGuardians and the Royal Netherlands Air Force signed a $123 million contract to buy four MQ-9 Block 5 Reapers"
+    },
+    {
+      "end": 1842,
+      "start": 1832,
+      "tag": "Date",
+      "text": "March 2019"
+    },
+    {
+      "end": 1851,
+      "start": 1844,
+      "tag": "Buyer",
+      "text": "Belgium"
+    },
+    {
+      "end": 1851,
+      "start": 1844,
+      "tag": "Buyer Country",
+      "text": "Belgium"
+    },
+    {
+      "end": 1915,
+      "start": 1903,
+      "tag": "Price",
+      "text": "$600 million"
+    },
+    {
+      "end": 1935,
+      "start": 1931,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1954,
+      "start": 1936,
+      "tag": "Weapon",
+      "text": "MQ-9B SkyGuardians"
+    },
+    {
+      "end": 1980,
+      "start": 1969,
+      "tag": "Buyer Country",
+      "text": "Netherlands"
+    },
+    {
+      "end": 1990,
+      "start": 1959,
+      "tag": "Buyer",
+      "text": "the Royal Netherlands Air Force"
+    },
+    {
+      "end": 2012,
+      "start": 2000,
+      "tag": "Price",
+      "text": "$123 million"
+    },
+    {
+      "end": 2033,
+      "start": 2029,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 2054,
+      "start": 2034,
+      "tag": "Weapon",
+      "text": "MQ-9 Block 5 Reapers"
+    }
+  ],
+  "test": true,
+  "text": "General Atomics MQ-9 Block 5 Reaper\n\nSpain plans to purchase two General Atomics Aeronautical Systems MQ-9 Block 5 Reapers for $34 million via the US foreign military sales process.\n\nThe acquisition also provides for associated equipment, presumably ground control stations, spares and support equipment. The unmanned air vehicles are expected to be completed by 31 March 2020, according to a US Defense Department contract notice online.\n\nThe US State Department approved the sale of four MQ-5 Block 5 Reapers to Spain for $243 million in 2015. That deal would have included 20 embedded global positioning system and inertial guidance units, two mobile ground control stations, five multi-spectral targeting systems and five synthetic aperture radars. Also proposed was contractor logistics support for two years and personnel training, as well as aircraft components, spares and accessories.\n\nAt the time, the Pentagon\u2019s Defense Security Cooperation Agency determined the sale would enhance the intelligence, surveillance, and reconnaissance (ISR) capability of the Spanish military.\n\n\u201cCommonality of ISR capabilities increases interoperability between US and Spanish forces and provides a common interface with other MQ-9 NATO operators, including the United Kingdom, France and Italy,\u201d said the agency\u2019s notice. \u201cThe Spanish Air Force intends to use the MQ-9s for homeland security, peacekeeping, peace enforcement, counterinsurgency, and counterterrorism operations. The proposed sale improves Spain\u2019s ability to meet current and future threats by providing improved ISR coverage that promotes increased battlefield situational awareness, anticipates enemy intent, augments combat search and rescue, and provides ground troop support.\u201d\n\nSpain is the latest European NATO country to sign up for General Atomics\u2019 drones. Also in March 2019, Belgium gained State Department approval for a potentially $600 million acquisition of four MQ-9B SkyGuardians and the Royal Netherlands Air Force signed a $123 million contract to buy four MQ-9 Block 5 Reapers.\n\nSource: FlightGlobal"
+}

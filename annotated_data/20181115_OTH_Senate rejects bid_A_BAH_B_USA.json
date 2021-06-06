@@ -1,0 +1,43 @@
+{
+  "filename": "20181115_OTH_Senate rejects bid_A_BAH_B_USA",
+  "labels": [
+    {
+      "end": 106,
+      "start": 13,
+      "tag": "Answer",
+      "text": "The Senate has blocked legislation to stop an estimated $300 million in arms sales to Bahrain"
+    },
+    {
+      "end": 23,
+      "start": 13,
+      "tag": "Seller",
+      "text": "The Senate"
+    },
+    {
+      "end": 81,
+      "start": 69,
+      "tag": "Price",
+      "text": "$300 million"
+    },
+    {
+      "end": 89,
+      "start": 85,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 106,
+      "start": 99,
+      "tag": "Buyer",
+      "text": "Bahrain"
+    },
+    {
+      "end": 106,
+      "start": 99,
+      "tag": "Buyer Country",
+      "text": "Bahrain"
+    }
+  ],
+  "test": true,
+  "text": "WASHINGTON \u2014 The Senate has blocked legislation to stop an estimated $300 million in arms sales to Bahrain. Lawmakers rejected a call by Republican Sen. Rand Paul to send a message that the U.S. is \u201cdone with the war in Yemen.\u201d\n\nBahrain is a member of the Saudi-led coalition at war with Iran-aligned rebels in Yemen since March 2015.\n\nThe vote against Paul\u2019s resolution disapproving of the arms sale was 77-21.\n\nThe Kentucky Republican says millions in Yemen are at risk of starvation. He calls the war counterproductive to the long-term interests of the U.S. because it worsens chaos in the Mideast and potentially strengthens terrorist groups.\n\nBut opponents said Bahrain is a critical ally and home to a naval base the U.S. needs to protect its interests in the region.\n\nThe Associated Press"
+}
