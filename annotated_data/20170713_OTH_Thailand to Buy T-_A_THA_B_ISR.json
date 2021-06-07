@@ -1,0 +1,49 @@
+{
+  "filename": "20170713_OTH_Thailand to Buy T-_A_THA_B_ISR",
+  "labels": [
+    {
+      "end": 132,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Thailand\u2019s military government has approved the acquisition of eight KAI T-50 Golden Eagle lead-in fighter trainers from South Korea"
+    },
+    {
+      "end": 30,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Thailand\u2019s military government"
+    },
+    {
+      "end": 8,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 68,
+      "start": 63,
+      "tag": "Quantity",
+      "text": "eight"
+    },
+    {
+      "end": 115,
+      "start": 69,
+      "tag": "Weapon",
+      "text": "KAI T-50 Golden Eagle lead-in fighter trainers"
+    },
+    {
+      "end": 132,
+      "start": 121,
+      "tag": "Seller",
+      "text": "South Korea"
+    },
+    {
+      "end": 132,
+      "start": 121,
+      "tag": "Seller Country",
+      "text": "South Korea"
+    }
+  ],
+  "test": true,
+  "text": "Thailand\u2019s military government has approved the acquisition of eight KAI T-50 Golden Eagle lead-in fighter trainers from South Korea, adding to four aircraft it acquired in 2015.\n\nThe $258 million deal will be paid over a three-year period, according to Air Vice Marshal Pongsak Semachai.\n\nDesignated T-50TH, the aircraft will replace the Royal Thai Air Force\u2019s fleet of 40 Aero Vodochody L-39ZA/ART Albatros in the training and combat roles. The first four aircraft expected to be delivered by March 2018.\n\nAccording to specifications released by KAI, the T-50TH will be fully combat capable, being fitted with fire control radar \u2013 expected to be the ELTA EL/M-2032 \u2013 MIL-STD-1760 databus and will have provision for the Link 16 data link.\n\n[Source: Defense News]"
+}
