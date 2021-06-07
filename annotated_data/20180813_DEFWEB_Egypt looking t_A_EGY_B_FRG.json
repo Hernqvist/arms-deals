@@ -1,0 +1,121 @@
+{
+  "filename": "20180813_DEFWEB_Egypt looking t_A_EGY_B_FRG",
+  "labels": [
+    {
+      "end": 104,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Egypt is considering purchasing two Meko A200 frigates from Germany\u2019s ThyssenKrupp Marine Systems (TKMS)"
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Buyer",
+      "text": ""
+    },
+    {
+      "end": 5,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 35,
+      "start": 32,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 54,
+      "start": 36,
+      "tag": "Weapon",
+      "text": "Meko A200 frigates"
+    },
+    {
+      "end": 67,
+      "start": 60,
+      "tag": "Seller Country",
+      "text": "Germany"
+    },
+    {
+      "end": 104,
+      "start": 70,
+      "tag": "Seller",
+      "text": "ThyssenKrupp Marine Systems (TKMS)"
+    },
+    {
+      "end": 986,
+      "start": 911,
+      "tag": "Answer",
+      "text": "In 2014 Egypt ordered four Gowind 2500 corvettes for around 1 billion euros"
+    },
+    {
+      "end": 918,
+      "start": 914,
+      "tag": "Date",
+      "text": "2014"
+    },
+    {
+      "end": 924,
+      "start": 919,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 924,
+      "start": 919,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 937,
+      "start": 933,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 959,
+      "start": 938,
+      "tag": "Weapon",
+      "text": "Gowind 2500 corvettes"
+    },
+    {
+      "end": 986,
+      "start": 971,
+      "tag": "Price",
+      "text": "1 billion euros"
+    },
+    {
+      "end": 720,
+      "start": 649,
+      "tag": "Answer",
+      "text": "Egypt will presumably opt for the Aster 30 missile manufactured by MBDA"
+    },
+    {
+      "end": 720,
+      "start": 716,
+      "tag": "Seller",
+      "text": "MBDA"
+    },
+    {
+      "end": 654,
+      "start": 649,
+      "tag": "Buyer",
+      "text": "Egypt"
+    },
+    {
+      "end": 654,
+      "start": 649,
+      "tag": "Buyer Country",
+      "text": "Egypt"
+    },
+    {
+      "end": 699,
+      "start": 683,
+      "tag": "Weapon",
+      "text": "Aster 30 missile"
+    }
+  ],
+  "test": true,
+  "text": "Egypt is considering purchasing two Meko A200 frigates from Germany\u2019s ThyssenKrupp Marine Systems (TKMS) as discussions with France\u2019s Naval Group on the acquisition of further Gowind corvettes grinds to a halt over cost concerns.\n\nFrance\u2019s La Tribune late last month reported that the German deal would be worth around 1 billion euros.\n\nTKMS urgently needs additional sales after losing out on the German KS-180 vessel programme, which is worth some 3.5 billion euros.\n\nLa Tribune reports that the German government is offering attractive credit through financial company Euler Hermes, whereas the Naval Group is struggling with its credit offers.\n\nEgypt will presumably opt for the Aster 30 missile manufactured by MBDA, but apparently France will only sell this if it is used on Italian or French vessels, so Egypt would then be forced to make user of an alternative like the Umkhonto, as Algeria did.\n\n\n\n\n\n\n\nIn 2014 Egypt ordered four Gowind 2500 corvettes for around 1 billion euros, with one, El Fateh (971) built in Lorient and the other three being built in Egypt. El Fateh was delivered to Egypt in October 2017. The contract made provision for an option for two more."
+}

@@ -1,9 +1,457 @@
 [
   {
+    "filename": "20181207_DAILY_Air Force choose_A_PHI_B_TUR",
+    "labels": [
+      {
+        "end": 94,
+        "start": 22,
+        "tag": "Answer",
+        "text": "The Philippine Air Force has chosen to acquire the Black Hawk helicopter"
+      },
+      {
+        "end": 94,
+        "start": 73,
+        "tag": "Weapon",
+        "text": "Black Hawk helicopter"
+      },
+      {
+        "end": 46,
+        "start": 22,
+        "tag": "Buyer",
+        "text": "The Philippine Air Force"
+      },
+      {
+        "end": 36,
+        "start": 26,
+        "tag": "Buyer Country",
+        "text": "Philippine"
+      },
+      {
+        "end": 387,
+        "start": 233,
+        "tag": "Answer",
+        "text": "the Air Force is looking to sign the acquisition deal of 16 choppers by next year. The military will also be purchasing new attack helicopters from Turkey"
+      },
+      {
+        "end": 246,
+        "start": 233,
+        "tag": "Buyer",
+        "text": "the Air Force"
+      },
+      {
+        "end": 292,
+        "start": 290,
+        "tag": "Quantity",
+        "text": "16"
+      },
+      {
+        "end": 301,
+        "start": 293,
+        "tag": "Weapon",
+        "text": "choppers"
+      },
+      {
+        "end": 328,
+        "start": 316,
+        "tag": "Buyer",
+        "text": "The military"
+      },
+      {
+        "end": 375,
+        "start": 357,
+        "tag": "Weapon",
+        "text": "attack helicopters"
+      },
+      {
+        "end": 387,
+        "start": 381,
+        "tag": "Seller Country",
+        "text": "Turkey"
+      },
+      {
+        "end": 387,
+        "start": 381,
+        "tag": "Seller",
+        "text": "Turkey"
+      },
+      {
+        "end": 536,
+        "start": 407,
+        "tag": "Answer",
+        "text": "the Air Force technical working group has come up with a recommendation that the Black Hawk is the best option that they will buy"
+      },
+      {
+        "end": 444,
+        "start": 407,
+        "tag": "Buyer",
+        "text": "the Air Force technical working group"
+      },
+      {
+        "end": 498,
+        "start": 488,
+        "tag": "Weapon",
+        "text": "Black Hawk"
+      },
+      {
+        "end": 766,
+        "start": 653,
+        "tag": "Answer",
+        "text": "Lockheed Martin, through its helicopter unit Sikorsky, earlier offered the Black Hawk helicopter to the Air Force"
+      },
+      {
+        "end": 668,
+        "start": 653,
+        "tag": "Seller",
+        "text": "Lockheed Martin"
+      },
+      {
+        "end": 706,
+        "start": 698,
+        "tag": "Seller",
+        "text": "Sikorsky"
+      },
+      {
+        "end": 749,
+        "start": 728,
+        "tag": "Weapon",
+        "text": "Black Hawk helicopter"
+      },
+      {
+        "end": 766,
+        "start": 753,
+        "tag": "Buyer",
+        "text": "the Air Force"
+      },
+      {
+        "end": 1406,
+        "start": 1318,
+        "tag": "Answer",
+        "text": "the Air Force will be acquiring attack helicopters from the Turkish Aerospace Industries"
+      },
+      {
+        "end": 1331,
+        "start": 1318,
+        "tag": "Buyer",
+        "text": "the Air Force"
+      },
+      {
+        "end": 1406,
+        "start": 1374,
+        "tag": "Seller",
+        "text": "the Turkish Aerospace Industries"
+      },
+      {
+        "end": 1385,
+        "start": 1378,
+        "tag": "Seller Country",
+        "text": "Turkish"
+      },
+      {
+        "end": 1368,
+        "start": 1350,
+        "tag": "Weapon",
+        "text": "attack helicopters"
+      }
+    ],
+    "test": true,
+    "text": "MANILA, Philippines \u2014 The Philippine Air Force has chosen to acquire the Black Hawk helicopter as replacement for the canceled combat utility chopper deal with Canada, Defense Secretary Delfin Lorenzana said.\n\nThe Defense chief said the Air Force is looking to sign the acquisition deal of 16 choppers by next year. The military will also be purchasing new attack helicopters from Turkey.\n\n\"I think finally the Air Force technical working group has come up with a recommendation that the Black Hawk is the best option that they will buy,\" Lorenzana told reporters at the sidelines of a forum in Makati City Friday.\n\nGlobal aerospace and defense company Lockheed Martin, through its helicopter unit Sikorsky, earlier offered the Black Hawk helicopter to the Air Force.\n\nOther options considered were the AgustaWestland AW139, the Korea Aerospace Industries' Surion utility helicopter and Canadian-made Bell 412.\n\n\"We have limited money for that. We have only $240 million worth and the original pricing of this aircraft for the (Bell 41) we can get 16,\" Lorenzana said.\n\n\"Initially, the Surion we can get 10 because of the money and also the Black Hawk,\" the secretary said, adding that the manufacturers of the Black Hawk changed its offer so that the Philippines could get 16 choppers.\n\nLorenzana also confirmed that the Air Force will be acquiring attack helicopters from the Turkish Aerospace Industries.\n\n\"Its name is also 'ATAK' it's an attack helicopter... I think we can only get less than 10, maybe eight,\" Lorenzana said.\n\nInternational online magazine The Diplomat earlier reported that the Philippines has identified the T129 ATAK multirole combat helicopters to address the requirements of the Philippine military.\n\nThe upcoming government-to-government deal between the Philippines and Turkey would serve as a landmark deal for the defense relationship between the two countries, according to the report.\n\nPhilippine officials, however, have yet to formally announce the deal."
+  },
+  {
+    "filename": "20180404_DAILY_India Russia dec_A_IND_B_RUS",
+    "labels": [
+      {
+        "end": 1377,
+        "start": 1268,
+        "tag": "Answer",
+        "text": "a nearly Rs 40,000-crore deal to procure S-400 Triumf air defence missile systems for the Indian armed forces"
+      },
+      {
+        "end": 1292,
+        "start": 1277,
+        "tag": "Price",
+        "text": "Rs 40,000-crore"
+      },
+      {
+        "end": 1349,
+        "start": 1309,
+        "tag": "Weapon",
+        "text": "S-400 Triumf air defence missile systems"
+      },
+      {
+        "end": 1377,
+        "start": 1354,
+        "tag": "Buyer",
+        "text": "the Indian armed forces"
+      },
+      {
+        "end": 1364,
+        "start": 1358,
+        "tag": "Buyer Country",
+        "text": "Indian"
+      }
+    ],
+    "test": true,
+    "text": "New Delhi: Defence Minister Nirmala Sitharaman held extensive talks with her Russian counterpart General Sergey Shoygu and Industry and Trade Minister Denis Manturov in Moscow during which both sides decided to expedite negotiations for various military platforms soon.\n\nDefence ministry officials said that during the talks, both sides also agreed to further ramp up bilateral defence cooperation.\n\nSitharaman is on a three-day visit to Russia to attend the VII Moscow Conference on International Security.\n\nRussia has been one of India's key suppliers of arms and ammunition. However, it has been a long-standing grievance of the armed forces that supply of critical spares and equipment from Russia takes a long time affecting maintenance of military systems procured from that country.\n\nIndia has been pressing Russia to adopt a liberal approach in sharing technology for components of major defence platforms as it was critical to keep them in operational readiness. Majority of India's weapon systems are of Russian origin.\n\nThe issue is understood to have figured during Sitharaman's talks with both General Shoygu and Manturov. Both sides agreed to expedite negotiations for various military platforms, the sources said.\n\nThe two countries are yet to finalise a nearly Rs 40,000-crore deal to procure S-400 Triumf air defence missile systems for the Indian armed forces mainly due to differences over price.\n\nThet are also yet to finalise a number of other deals.\n\nIndia wants procure the long-range missile systems to tighten its air defence mechanism, particularly when China has been ramping up its military manoeuvring along the nearly 4,000 km Sino-India border."
+  },
+  {
+    "filename": "20180813_DEFWEB_Egypt looking t_A_EGY_B_FRG",
+    "labels": [
+      {
+        "end": 104,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Egypt is considering purchasing two Meko A200 frigates from Germany\u2019s ThyssenKrupp Marine Systems (TKMS)"
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Buyer",
+        "text": ""
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Buyer Country",
+        "text": ""
+      },
+      {
+        "end": 35,
+        "start": 32,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 54,
+        "start": 36,
+        "tag": "Weapon",
+        "text": "Meko A200 frigates"
+      },
+      {
+        "end": 67,
+        "start": 60,
+        "tag": "Seller Country",
+        "text": "Germany"
+      },
+      {
+        "end": 104,
+        "start": 70,
+        "tag": "Seller",
+        "text": "ThyssenKrupp Marine Systems (TKMS)"
+      },
+      {
+        "end": 986,
+        "start": 911,
+        "tag": "Answer",
+        "text": "In 2014 Egypt ordered four Gowind 2500 corvettes for around 1 billion euros"
+      },
+      {
+        "end": 918,
+        "start": 914,
+        "tag": "Date",
+        "text": "2014"
+      },
+      {
+        "end": 924,
+        "start": 919,
+        "tag": "Buyer",
+        "text": "Egypt"
+      },
+      {
+        "end": 924,
+        "start": 919,
+        "tag": "Buyer Country",
+        "text": "Egypt"
+      },
+      {
+        "end": 937,
+        "start": 933,
+        "tag": "Quantity",
+        "text": "four"
+      },
+      {
+        "end": 959,
+        "start": 938,
+        "tag": "Weapon",
+        "text": "Gowind 2500 corvettes"
+      },
+      {
+        "end": 986,
+        "start": 971,
+        "tag": "Price",
+        "text": "1 billion euros"
+      },
+      {
+        "end": 720,
+        "start": 649,
+        "tag": "Answer",
+        "text": "Egypt will presumably opt for the Aster 30 missile manufactured by MBDA"
+      },
+      {
+        "end": 720,
+        "start": 716,
+        "tag": "Seller",
+        "text": "MBDA"
+      },
+      {
+        "end": 654,
+        "start": 649,
+        "tag": "Buyer",
+        "text": "Egypt"
+      },
+      {
+        "end": 654,
+        "start": 649,
+        "tag": "Buyer Country",
+        "text": "Egypt"
+      },
+      {
+        "end": 699,
+        "start": 683,
+        "tag": "Weapon",
+        "text": "Aster 30 missile"
+      }
+    ],
+    "test": true,
+    "text": "Egypt is considering purchasing two Meko A200 frigates from Germany\u2019s ThyssenKrupp Marine Systems (TKMS) as discussions with France\u2019s Naval Group on the acquisition of further Gowind corvettes grinds to a halt over cost concerns.\n\nFrance\u2019s La Tribune late last month reported that the German deal would be worth around 1 billion euros.\n\nTKMS urgently needs additional sales after losing out on the German KS-180 vessel programme, which is worth some 3.5 billion euros.\n\nLa Tribune reports that the German government is offering attractive credit through financial company Euler Hermes, whereas the Naval Group is struggling with its credit offers.\n\nEgypt will presumably opt for the Aster 30 missile manufactured by MBDA, but apparently France will only sell this if it is used on Italian or French vessels, so Egypt would then be forced to make user of an alternative like the Umkhonto, as Algeria did.\n\n\n\n\n\n\n\nIn 2014 Egypt ordered four Gowind 2500 corvettes for around 1 billion euros, with one, El Fateh (971) built in Lorient and the other three being built in Egypt. El Fateh was delivered to Egypt in October 2017. The contract made provision for an option for two more."
+  },
+  {
+    "filename": "20190600_SCRAM_Turkey A400M_A_TUR_B_SPA",
+    "labels": [],
+    "test": true,
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20170108_INTERN_N54FT Cessna 50_A_ANG_B_ISR",
     "labels": [],
     "test": true,
     "text": "Aircraft All aircraft Airline All airlines Country / Airport All countries and airports Photographer / Group All photographers Category All categories Editor's Pics Screener's Choice Photos of the Week Accident Photos Air-to-Air Photos Airport (Terminal) Photos Artistic (Effects) Photos Business Jet Photos Cabin (Interior) Photos Cargo Aircraft Photos Flight Deck (Cockpit) Photos Helicopter Photos Lighter-than-Air Photos Night/Sunrise/Sunset Photos Small Prop (Cessna, etc.) Special Paint Schemes Wing View (Out the Window) Warbird/Vintage Keywords All fields Aircraft Airline Airport Country Photographer Registration Serial No. Remarks Camera Lens Contains Photo year All years Search Multi-select search\n\nIf you are looking for photos of a specific aircraft type, use this menu.\n\nPlease note that, due to space constraints, this menu includes only some of the more requested aircraft in our database. If the aircraft you're searching for is not in this list, use the 'Keywords' field further down in the search menus. Some menu selections include a generic aircraft model, as well as more specific variants of that airliner. These variants are denoted by a - before the aircraft name. Selecting 'Boeing 747,' for example, will show results featuring all Boeing 747 jetliners in our database, while selecting '- Boeing 747-200' will show all Boeing 747-200 variants in our database (Boeing 747-200, Boeing 747-212B, Boeing 747-283F, etc.)\n\nIf you are looking for photos of a specific airline, use this menu. Please note that, due to space constraints, this menu includes only airlines of which 10 or more photos exist in our database. If the airline you're searching for is not in this list, use the 'Keywords' field further down in the search menu. Airlines are listed in alphabetical order.\n\nIf you are looking for photos taken in a specific country, or at a specific airport, use this menu. All countries represented in our database are included in this selection menu, which is updated automatically as the database grows. There must be at least 20 photos from a specific airport in the database before that airport is added to this list.\n\nUse this option to include only photos taken by a specific photographer in your search. This pulldown menu, in addition to each photographer available as a search limiter, also shows the number of photos currently in the database for each specific photographer, enclosed in brackets. For example, an option of:\n\n- Paul Jones [550]\n\n.. indicates that there are 550 total photos taken by Paul Jones currently in the database. Note: The total number of photos, enclosed in brackets, is updated four (4) times hourly, and may be slightly inaccurate. Photographers must have 100 or more photos in the database before their name is included in this selection menu..\n\nThe 'All Photographers' selection is the default selection for this option.\n\nIf you are looking for a specific category of photo, use this menu. You may select to display only photos from certain categories, such as Special Paintschemes, Flight Deck photos, etc. New categories are constantly being added to this list.\n\nThe 'Keywords' field is perhaps the most useful field included in our search engine.\n\nUsing this field, you may search for any word, term, or combinations of terms in our database.\n\nEvery photo field is covered by the Keywords search routine. The Keywords field is ideal for searching for such specifics as aircraft registrations, photographers' names, specific airport/city names, specific paintschemes (i.e. 'Wunala Dreaming'), etc.\n\nTo use the Keywords field, begin by selecting a Keyworld search field. You may select either a specific database field (airline, aircraft, etc.), or choose to match your keyword to all database fields. Next, select a Keyword limiter. There are three options from which to choose:\n\n- is exactly\n\n- starts with\n\n- contains\n\nSelect the appropriate limiter for your search, then enter the keyword(s) you wish to search in the box on the right. The Keywords search field is not case-sensitive."
+  },
+  {
+    "filename": "20190129_OTH_Ruble for whole ca_A_CHI_B_RUS",
+    "labels": [
+      {
+        "end": 815,
+        "start": 728,
+        "tag": "Answer",
+        "text": "contracts with China for the supply of Su-35 fighter jets and S-400 air defense systems"
+      },
+      {
+        "end": 748,
+        "start": 743,
+        "tag": "Buyer",
+        "text": "China"
+      },
+      {
+        "end": 748,
+        "start": 743,
+        "tag": "Buyer Country",
+        "text": "China"
+      },
+      {
+        "end": 785,
+        "start": 767,
+        "tag": "Weapon",
+        "text": "Su-35 fighter jets"
+      },
+      {
+        "end": 815,
+        "start": 790,
+        "tag": "Weapon",
+        "text": "S-400 air defense systems"
+      },
+      {
+        "end": 1184,
+        "start": 1048,
+        "tag": "Answer",
+        "text": "the United States imposed sanctions on China due to the country\u2019s purchase of 10 Sukhoi Su-35 fighter jets along with S-400s from Russia"
+      },
+      {
+        "end": 1092,
+        "start": 1087,
+        "tag": "Buyer",
+        "text": "China"
+      },
+      {
+        "end": 1092,
+        "start": 1087,
+        "tag": "Buyer Country",
+        "text": "China"
+      },
+      {
+        "end": 1128,
+        "start": 1126,
+        "tag": "Quantity",
+        "text": "10"
+      },
+      {
+        "end": 1154,
+        "start": 1129,
+        "tag": "Weapon",
+        "text": "Sukhoi Su-35 fighter jets"
+      },
+      {
+        "end": 1172,
+        "start": 1166,
+        "tag": "Weapon",
+        "text": "S-400s"
+      },
+      {
+        "end": 1184,
+        "start": 1178,
+        "tag": "Seller",
+        "text": "Russia"
+      },
+      {
+        "end": 1184,
+        "start": 1178,
+        "tag": "Seller Country",
+        "text": "Russia"
+      },
+      {
+        "end": 1614,
+        "start": 1542,
+        "tag": "Answer",
+        "text": "China\u2019s stock of orders for Russian military products exceeds $7 billion"
+      },
+      {
+        "end": 1547,
+        "start": 1542,
+        "tag": "Buyer",
+        "text": "China"
+      },
+      {
+        "end": 1547,
+        "start": 1542,
+        "tag": "Buyer Country",
+        "text": "China"
+      },
+      {
+        "end": 1577,
+        "start": 1570,
+        "tag": "Seller",
+        "text": "Russian"
+      },
+      {
+        "end": 1577,
+        "start": 1570,
+        "tag": "Seller Country",
+        "text": "Russian"
+      },
+      {
+        "end": 1595,
+        "start": 1578,
+        "tag": "Weapon",
+        "text": "military products"
+      },
+      {
+        "end": 1614,
+        "start": 1604,
+        "tag": "Price",
+        "text": "$7 billion"
+      }
+    ],
+    "test": true,
+    "text": "Russia\u2019s Federal Service for Military-Technical Cooperation announced the start of negotiations with its Chinese counterparts in an effort to counter off Washington\u2019s sanctions.\n\n\u201cWe are holding negotiations with our Chinese partners. The most important thing is to avoid disparities in other sectors due to the transition to mutual settlements in national currencies,\u201d the service\u2019s chief Dmitry Shugayev told NTV.\n\nAlso on rt.com US using false accusations on trade to 'intimidate' countries \u2013 China\n\nHe added: \u201cHowever, the sanctions have another negative aspect, namely to intimidate our partners quite unceremoniously.\u201d\n\nShugayev told TASS earlier that he did not see any threat from Washington\u2019s punitive measures against contracts with China for the supply of Su-35 fighter jets and S-400 air defense systems.\n\nS-400 is a long-range air defense system designed to protect strategically important sites. It is capable of destroying multiple aerial targets at an extremely long range of up to 400 kilometers (nearly 250 miles).\n\nIn September, the United States imposed sanctions on China due to the country\u2019s purchase of 10 Sukhoi Su-35 fighter jets along with S-400s from Russia.\n\nAlso on rt.com Russia phasing out US dollar in military contracts in favor of local currencies \u2013 trade minister\n\nFollowing the introduction of US sanctions, Russian Trade Minister Denis Manturov said that Moscow was dropping the greenback in major arms deals and switching to the Russian ruble and the national currencies of its partners.\n\nAt the moment, China\u2019s stock of orders for Russian military products exceeds $7 billion.\n\nFor more stories on economy & finance visit RT's business section"
   },
   {
     "filename": "20140404_OTH_Maldives National _A_MLV",
@@ -16,6 +464,49 @@
     "labels": [],
     "test": true,
     "text": "WASHINGTON \u2014 Combined weapon sales from American companies for fiscal 2018 were up 13 percent over fiscal 2017 figures, netting American firms $192.3 billion, according to new numbers released Thursday by the State Department.\n\nThe department previously announced that FY18 brought in $55.66 billion in foreign military sales, an uptick of 33 percent over FY17\u2019s $41.93 billion. Through the Foreign Military Sales process, the U.S. government serves as a go-between for foreign partners and American industry.\n\nWhat had not been released until now is the total direct commercial sales, the process through which foreign customers can directly buy systems from industry. Those figures topped $136.6 billion for FY18, a 6.6 percent increase from FY17\u2019s $128.1 billion.\n\nThe Trump administration has made selling American defense goods abroad a key plank of its governance plan, under the guiding principal that \u201ceconomic security is national security.\u201d Earlier this year, the department rolled out its new Conventional Arms Transfer policy, or CAT, as well as new guidance for selling unmanned systems, with the explicit goal of increasing arms sales.\n\nState official predicts US weapon sales increase in 2019 U.S. firms could be poised for a bonanza of weapon sales in FY 2019.\n\nHowever, tying this year\u2019s figures to the CAT changes may be a stretch. Sales can fluctuate year by year because of the size of certain weapons packages; a pair of large Saudi Arabian purchases in 2012 famously set that year up for a massive $287 billion annual total.\n\nAnd there has already been steady growth each of the last three years, even before the Trump administration\u2019s reforms kicked in, with $148.6 billion in total sales in FY16; $170 billion in FY17; and $192.2 billion in FY18.\n\nA State Department official, speaking on background ahead of the official release of these figures, acknowledged to Defense News that these figures can\u2019t be tied directly to changes in policy, noting they represent a \u201cdynamic picture\u201d and that the department is aware there are some factors \u201cwe do not control.\u201d\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nStill, the official expressed confidence that as the CAT policy is enacted, it will lead to a natural growth in sales. How much, however, is hard to nail down.\n\n\u201cI don\u2019t want to speculate on a particular goal that we\u2019re looking at\u201d for FY19, the official said. \u201cWe think a 13 percent increase is a significant increase year over year. We\u2019d like to maintain that pace, but there are other factors that go into a given set of annual numbers, so I\u2019m hesitant to give a target goal.\u201d\n\nThanks to both the CAT changes and export reform efforts beginning under the Obama administration, there are more options for countries to use direct commercial sales, or DCS, for their procurements.\n\nAsked if that meant DCS might grow as FMS cases drop, the official said that is \u201cone dynamic\u201d under review, but noted that \u201cas certain systems start going through DCS, you\u2019ll have new systems backfilling the FMS queue.\u201d"
+  },
+  {
+    "filename": "20190508_OTH_Raytheon to Arm Ma_A_USA_B_NOR",
+    "labels": [
+      {
+        "end": 291,
+        "start": 188,
+        "tag": "Answer",
+        "text": "Raytheon was given a $47-million award to integrate the Naval Strike Missile into the U.S. Marine Corps"
+      },
+      {
+        "end": 291,
+        "start": 270,
+        "tag": "Buyer",
+        "text": "the U.S. Marine Corps"
+      },
+      {
+        "end": 277,
+        "start": 274,
+        "tag": "Buyer Country",
+        "text": "U.S"
+      },
+      {
+        "end": 196,
+        "start": 188,
+        "tag": "Seller",
+        "text": "Raytheon"
+      },
+      {
+        "end": 220,
+        "start": 209,
+        "tag": "Price",
+        "text": "$47-million"
+      },
+      {
+        "end": 264,
+        "start": 244,
+        "tag": "Weapon",
+        "text": "Naval Strike Missile"
+      }
+    ],
+    "test": true,
+    "text": "NATIONAL HARBOR, Md. \u2013 The Marine Corps is moving to integrate the Naval Strike Missile with its own forces as the service is pushing into a new era of island-hopping warfare.\n\nThis week, Raytheon was given a $47-million award to integrate the Naval Strike Missile into the U.S. Marine Corps\u2019 \u201cexisting force structure,\u201d according to an announcement from the company on the other transaction authority (OTA).\n\n\u201cThis fifth-generation missile adds another dimension for sea control operations and for protection from adversary warships,\u201d Kim Ernzen, vice president of Raytheon Air Warfare Systems, said in a statement.\n\nThe selection of the subsonic anti-ship missile by the Marine Corps follows the Navy, which plans to field the NSMs later this year on a deployment of Littoral Combat Ships to the Pacific.\n\n\u201cThe Marine Corps\u2019 selection of the Navy\u2019s anti-ship missile enhances joint interoperability and reduces costs and logistical burdens,\u201d reads the Raytheon statement.\n\nWhile Randy Kempton, Raytheon\u2019s NSM program director, would not specify what platforms the Marines would use to deploy the missile, NSM designer Kongsberg has been working with Lockheed Martin to field an air-launched version of the missile on Norwegian and Australian F-35 Lighting II Joint Strike Fighters.\n\nEarlier this year, Commandant of the Marine Corps Gen. Robert Neller told USNI News the Marines were interested in fielding a land-based anti-ship missiles as soon as possible.\n\n\u201cThere\u2019s a ground component to the maritime fight. We\u2019re a naval force in a naval campaign; you have to help the ships control sea space. And you can do that from the land,\u201d Neller told USNI News in February.\n\n\u201cWe\u2019ve got to be able to attack surface platforms at range, and so that\u2019s what the capability requirement is.\u201d\n\nLast year, the Army fired an NSM at a decommissioned ship from a ground vehicle as part of a demonstration during the 2018 Rim of the Pacific exercise. The Marines have also experimented firing rounds from M142 High Mobility Artillery Rocket System (HIMARS) at targets from sea, though it is unclear if the system could field the NSM.\n\nThe service is in the process of developing its piece of the Pentagon\u2019s push into a new era of high-end warfare with the island-hopping Expeditionary Advance Base Operations concept."
   },
   {
     "filename": "20181012_OTH_Russia having trou",
@@ -235,6 +726,12 @@
     "text": "General Atomics MQ-9 Block 5 Reaper\n\nSpain plans to purchase two General Atomics Aeronautical Systems MQ-9 Block 5 Reapers for $34 million via the US foreign military sales process.\n\nThe acquisition also provides for associated equipment, presumably ground control stations, spares and support equipment. The unmanned air vehicles are expected to be completed by 31 March 2020, according to a US Defense Department contract notice online.\n\nThe US State Department approved the sale of four MQ-5 Block 5 Reapers to Spain for $243 million in 2015. That deal would have included 20 embedded global positioning system and inertial guidance units, two mobile ground control stations, five multi-spectral targeting systems and five synthetic aperture radars. Also proposed was contractor logistics support for two years and personnel training, as well as aircraft components, spares and accessories.\n\nAt the time, the Pentagon\u2019s Defense Security Cooperation Agency determined the sale would enhance the intelligence, surveillance, and reconnaissance (ISR) capability of the Spanish military.\n\n\u201cCommonality of ISR capabilities increases interoperability between US and Spanish forces and provides a common interface with other MQ-9 NATO operators, including the United Kingdom, France and Italy,\u201d said the agency\u2019s notice. \u201cThe Spanish Air Force intends to use the MQ-9s for homeland security, peacekeeping, peace enforcement, counterinsurgency, and counterterrorism operations. The proposed sale improves Spain\u2019s ability to meet current and future threats by providing improved ISR coverage that promotes increased battlefield situational awareness, anticipates enemy intent, augments combat search and rescue, and provides ground troop support.\u201d\n\nSpain is the latest European NATO country to sign up for General Atomics\u2019 drones. Also in March 2019, Belgium gained State Department approval for a potentially $600 million acquisition of four MQ-9B SkyGuardians and the Royal Netherlands Air Force signed a $123 million contract to buy four MQ-9 Block 5 Reapers.\n\nSource: FlightGlobal"
   },
   {
+    "filename": "20190600_SCRAM_DRC Su-25_A_DRC_B_BLR",
+    "labels": [],
+    "test": true,
+    "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
     "filename": "20181102_DN_Italy spends USD5po",
     "labels": [
       {
@@ -306,6 +803,109 @@
     ],
     "test": true,
     "text": "ROME \u2014 Italy has spent slightly more than \u20ac5 billion (U.S. $5.7 billion) on defense procurement in 2018 and launched a series of new programs, a newly released spending document has revealed.\n\nPublished months behind schedule, the Defence Ministry document also states that the ministry\u2019s overall budget, which includes its contribution to procurement as well as funds for personnel and maintenance and operations, stood at \u20ac13.8 billion this year, up from \u20ac13.2 billion the year before.\n\nThe total budget for procurement combines a \u20ac2.3 billion contribution from the Defence Ministry funding with a \u20ac2.8 billion top-up from Italy\u2019s Ministry of Economic Development, which has long shored up acquisition funding.\n\nA chart published in the document shows that procurement funding from the defense ministry has risen 83 percent from \u20ac1.5 billion in 2008, and overtook Defence Ministry procurement in 2016 for the first time.\n\nThe figures are contained in Italy\u2019s annual defense spending document, which is due to be examined by the Italian parliament\u2019s defense commission next week and has been seen by Defense News.\n\nItaly plans to slash half a billion dollars from defense in 2019 Italy will suspend helicopter and missile purchases and cancel an office move by the defense ministry, a defense source has told Defense News, and also slow roll F-35 buys.\n\nThe document breaks down spending per program in 2018 and lists new programs receiving funding for the first time, including four new Chinook helicopters for special forces troops, which will cost \u20ac528 million over nine years.\n\nLaunch funding is also allotted for the purchase of a third pair of U212 submarines for the Italian Navy, a program due to cost a total of \u20ac2.35 billion. There is also launch funding for a second pair of Cosmo Skymed Second Generation radar satellites which will cost a total of \u20ac212 million.\n\n\u00d7 Fear of missing out? Sign up for the Early Bird Brief, the defense industry's most comprehensive news and information, straight to your inbox. Thanks for signing up. By giving us your email, you are opting in to the Early Bird Brief.\n\nAlso included in the budget is funding to launch the purchase of a new submarine rescue vessel which will cost a total of \u20ac424 million.\n\nUsually published in the spring, the release of the budget overview has been held up by a change of government, which saw a center-left administration replaced in June by a populist coalition.\n\nThe new government\u2019s defense budget plans are yet to be finalized as the overall state budget is still being worked on, but a source has already told Defense News that \u20ac450 million are to be trimmed from planned spending to help fund social welfare programs."
+  },
+  {
+    "filename": "20130822_DEFWEB_Togolese CN235 _A_CON_B_SA",
+    "labels": [
+      {
+        "end": 120,
+        "start": 0,
+        "tag": "Answer",
+        "text": "The Togolese Air Force appears not to have taken delivery of an ex-Botswana Defence Force CASA CN235M transport aircraft"
+      },
+      {
+        "end": 22,
+        "start": 0,
+        "tag": "Buyer",
+        "text": "The Togolese Air Force"
+      },
+      {
+        "end": 12,
+        "start": 4,
+        "tag": "Buyer Country",
+        "text": "Togolese"
+      },
+      {
+        "end": 120,
+        "start": 90,
+        "tag": "Weapon",
+        "text": "CASA CN235M transport aircraft"
+      },
+      {
+        "end": 75,
+        "start": 67,
+        "tag": "Seller",
+        "text": "Botswana"
+      },
+      {
+        "end": 75,
+        "start": 67,
+        "tag": "Seller Country",
+        "text": "Botswana"
+      },
+      {
+        "end": 1232,
+        "start": 1224,
+        "tag": "Weapon",
+        "text": "aircraft"
+      },
+      {
+        "end": 1280,
+        "start": 1255,
+        "tag": "Seller",
+        "text": "Skywest International LLC"
+      },
+      {
+        "end": 1315,
+        "start": 1284,
+        "tag": "Buyer",
+        "text": "Paramount Logistics Corporation"
+      },
+      {
+        "end": 1358,
+        "start": 1346,
+        "tag": "Date",
+        "text": "June 5, 2012"
+      },
+      {
+        "end": 1358,
+        "start": 1220,
+        "tag": "Answer",
+        "text": "The aircraft was then sold through Skywest International LLC to Paramount Logistics Corporation under a contract announced on June 5, 2012"
+      },
+      {
+        "end": 1598,
+        "start": 1446,
+        "tag": "Answer",
+        "text": "Air Forces Daily reports that in January this year it was painted as TN-228 for the Congolese Air Force. It has presumably been delivered to Brazzaville"
+      },
+      {
+        "end": 1521,
+        "start": 1515,
+        "tag": "Weapon",
+        "text": "TN-228"
+      },
+      {
+        "end": 1549,
+        "start": 1526,
+        "tag": "Buyer",
+        "text": "the Congolese Air Force"
+      },
+      {
+        "end": 1539,
+        "start": 1530,
+        "tag": "Buyer Country",
+        "text": "Congolese"
+      },
+      {
+        "end": 1598,
+        "start": 1587,
+        "tag": "Buyer",
+        "text": "Brazzaville"
+      }
+    ],
+    "test": true,
+    "text": "The Togolese Air Force appears not to have taken delivery of an ex-Botswana Defence Force CASA CN235M transport aircraft, as previously indicated.\n\nIn August last year it was reported that the CN235 was destined for Togo as it was seen in Togolese Air Force markings at Lanseria airport in July, after undergoing maintenance in Johannesburg. On July 11 it was cancelled from the US register upon transfer to Togo.\n\nHowever, last week Air Forces Daily reported that the sale may have fallen through as the aircraft remained at Lanseria until at least January this year. Then, on August 5, it was registered in the United States as N124CL to Avcorp US Registrations LLC Trustee of Wilmington, Delaware.\n\nThe aircraft is one of two ex-Botswana Defence Force Air Wing CN235s that were retired after being replaced with new production CN235M-300s from December 2009. Botswana was the second African customer for the CN235 and received its two examples in 1987-88. The older aircraft were subsequently placed in storage at Lanseria.\n\nThe second example was registered with Fayard Enterprises of Wake Forest, North Carolina. This company primarily provides skydiving operations with aircraft and aircraft maintenance services. The aircraft was then sold through Skywest International LLC to Paramount Logistics Corporation under a contract announced on June 5, 2012. It was removed from the US register on May 25, 2012, as it was sold in South Africa.\n\nAir Forces Daily reports that in January this year it was painted as TN-228 for the Congolese Air Force. It has presumably been delivered to Brazzaville.\n\nCongo-Brazzaville has a very small air force geared towards providing transport, especially to the president and government ministers, according to Jane\u2019s Sentinel Security Assessment. Janes adds that since 1997, the air force has \u201ceffectively ceased to exist as a viable and effective military organisation. Even before the civil war, most types had been withdrawn from service.\u201d\n\nThe Congolese Air Force\u2019s only combat capable aircraft are two ex-South African Air Force Mirage F1s acquired several years ago after being refurbished by the Paramount Group (the Air Force\u2019s dozen MiG-21s are all grounded).\n\nThe Congolese Air Force has a motley collection of transport aircraft and helicopters. These include an An-12, five An-24s, one An-26, a Boeing 727, one Fokker F-28 and an N-2501 Noratlas, according to the IISS\u2019s The Military Balance 2012.\n\nOnly a few helicopters are in flying condition, including a Mi-26, AS 365 Dauphin, SA 316 Alouette III and SA 318 Alouette II. Other aircraft in the Congo\u2019s inventory include four L-39 Albatros jets. A number of Mi-8/17s may also be in service.\n\nThe CN235 is able to carry up to six tonnes of payload. Its two General Electric GE CT7-9C3 turboprop engines, each delivering 1 870 shp, give it a maximum cruise speed of 240 kt (450 km/h). CN235s have accumulated more than a million flight hours.\n\n\n\n\n\n\n\nCameroon became the most recent CN235 operator when it received a single example last month. Its CN235 was the 276th to be ordered from Airbus Military. A total of 43 operators around the world have ordered the aircraft in transport and surveillance versions, and it is currently in service with 28 countries."
   },
   {
     "filename": "20180307_DAILY_Bosnia arms expo_A_BOS_B_BOS",
@@ -493,6 +1093,12 @@
     "labels": [],
     "test": true,
     "text": "Choose which Defense.gov products you want delivered to your inbox."
+  },
+  {
+    "filename": "20171002_OTH_India Warships on ",
+    "labels": [],
+    "test": true,
+    "text": "Advertisement\n\nOver the weekend, the Philippine Navy (PN) confirmed that two Indian Navy warships would be making a goodwill visit to the Philippines this week. In addition to being a boost for bilateral ties, the move is part of commemorations under way marking 25 years of partnership between India and the Association of Southeast Asian Nations (ASEAN).\n\nAs I have noted before, the Indian government under Prime Minister Narendra Modi has attempted to signal a more action-oriented policy towards ASEAN specifically and East Asia more generally through its Act East Policy, in contrast to India\u2019s original Look East Policy first formulated under Prime Minister Narasimha Rao in the 1990s (See: \u201cModi Unveils India\u2019s Act East Policy to ASEAN\u201d).\n\n2017 is an especially significant year for ASEAN-India relations, since it marks the 25th anniversary of India\u2019s partnership with ASEAN. Though cultural ties data back over two millenia, India formally became a sectoral dialogue partner of ASEAN on January 28, 1992, after which both sides became full dialogue partners in 1996, summit partners in 2002, and strategic partners in 2012. As such, a series of events have been planned thoughout 2017 as it is a key commemorative year.\n\nIn early September, as part of the commemorations for the 25th anniversary, the Indian defense ministry disclosed that two Indian Navy ships would proceed on a three-month deployment to East and Southeast Asia covering 12 ports after leaving the Indian port of Visakhapatnam on September 8.\n\nDiplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter\n\nDuring the deployment, the ships \u2013 the INS Satpura, a multi-role stealth frigate commanded by Captain Rahul Shankar, and the INS Kadmatt, an anti-submarine corvette led by Commander Nithin Cariappa \u2013 were to visit Singapore, Indonesia, Malaysia, Thailand, Vietnam, Cambodia, Philippines, South Korea, Japan, Brunei, and Russia. The ships were scheduled for a range of activities in Southeast Asian states, from regular port visits to humanitarian assistance and disaster relief (HADR) exercise in Malaysia.\n\nEnjoying this article? Click here to subscribe for full access. Just $5 a month.\n\nOn October 1, PN spokesperson Captain Lued Lincuna confirmed on the Philippine side that two Indian Navy warships would be making a goodwill visit to the Philippines, which is chairing ASEAN this year, from October 3 to 6. The INS Satpura and the INS Kadmatt, he said, would be docking t Pier 15 in Manila\u2019s South Harbor.\n\nLincuna did not provide much detail on the specifics of the goodwill visit beyond this. But he did disclose that the warships would meet the BRP Rajah Humabon off Corregidor before being escorted to their berths as is customary. He also framed the visit as an attempt to both boost bilateral ties as well as to commemorate ASEAN-India relations."
   },
   {
     "filename": "20150414_OTH_N Korea defense sp",
@@ -922,6 +1528,266 @@
     "text": "Armenia will receive weapons and military equipment from Russia under a new $100 million loan in 2018, Deputy Head of the Russian Federal Service for Military-Technical Cooperation Vladimir Drozhzhov said. The supply of these Russian weapons is expected for this year.\n\n\n\nMobile launcher unit TEL Transporter Erector Launcher of S-300PS air defense missile system at military parade in Armenia (Picture source Armenian MoD)\n\nThe agreement on the loan for Armenia to buy Russian weapons was signed on October 24, 2017. The loan was provided with a 3% annual interest. In June 2015, Russia signed an agreement with Armenia on a state export loan worth $200 mln to finance deliveries of Russian weapons. The loan maturity was 13 years with a three-year grace period and a 3% annual interest rate.\n\nDrozhzhov said Russia and Uzbekistan have inked a contract to deliver more than 10 Mi-35 helicopters. \"We signed a contract for Mi-35 helicopters. The work is successful, and military-technical cooperation with Uzbekistan is actively developing,\" he said.\n\nDrozhzhov said \"over ten craft\" will be supplied. A diplomatic source earlier told TASS 12 Mi-35 helicopters have to be delivered. Drozhzhov said Russia hopes to ink a deal to deliver S-400 antiaircraft missiles to India in 2018.\n\nIn January, Rostec CEO Sergey Chemezov said in an interview published on the Indian Defense News portal that negotiations for the contract entered the advanced stage and the parties were discussing technical details. In October 2016, the states inked an intergovernmental agreement on deliveries of the weapons.\n\nThe contract for the delivery of MiG-35 fighter jets to Kazakhstan has not been inked yet. \"Work is ongoing but so far there are no contracted commitments,\" Drozhzhov said. He added it was too early to speak about a possible creation of a joint Russian-Kazakh venture to produce MiG-35 in the country.\n\nThe MiG Corporation earlier said Kazakhstan can become a major buyer of the new fighter jet. An agreement was signed at MAKS-2017 airshow between MiG and Kazakhstan Engineering on the promotion of MiG-35 in Kazakhstan and the creation of servicing and production facilities to localize the production of units of the aircraft.\n\n\n\nSince 2010 and according to the SIPRI (Stockholm International Peace Research Institute) arms trade database, Armenia has taken delivery of many military equipment from Russia including two S-300PS/SA-10C air defense missile systems, 10 armoured vehicle Tigr, 400 MANPADS Igla-S/SA-24, 25 Iskander ballistic missile, 6 BM-30 9A52 Smerch MLRS 300mm Multiple Launch Rocket system, 200 Verba SA-25, and undisclosed number of anti-tank missiles 9M133 Kornet/AT-14."
   },
   {
+    "filename": "20180325_OTH_Australian Militar_A_SAU_B_AUS",
+    "labels": [
+      {
+        "end": 521,
+        "start": 462,
+        "tag": "Answer",
+        "text": "export of military equipment from Australia to Saudi Arabia"
+      },
+      {
+        "end": 490,
+        "start": 472,
+        "tag": "Weapon",
+        "text": "military equipment"
+      },
+      {
+        "end": 505,
+        "start": 496,
+        "tag": "Seller",
+        "text": "Australia"
+      },
+      {
+        "end": 505,
+        "start": 496,
+        "tag": "Seller Country",
+        "text": "Australia"
+      },
+      {
+        "end": 521,
+        "start": 509,
+        "tag": "Buyer",
+        "text": "Saudi Arabia"
+      },
+      {
+        "end": 521,
+        "start": 509,
+        "tag": "Buyer Country",
+        "text": "Saudi Arabia"
+      },
+      {
+        "end": 6367,
+        "start": 6150,
+        "tag": "Answer",
+        "text": "$89 billion naval shipbuilding plan \u201cto be spent on building 12 submarines, nine frigates and 12 offshore patrol vessels for the Australian navy as well as 19 Pacific patrol boats to be given to neighbouring countries"
+      },
+      {
+        "end": 6161,
+        "start": 6150,
+        "tag": "Price",
+        "text": "$89 billion"
+      },
+      {
+        "end": 6213,
+        "start": 6211,
+        "tag": "Quantity",
+        "text": "12"
+      },
+      {
+        "end": 6224,
+        "start": 6214,
+        "tag": "Weapon",
+        "text": "submarines"
+      },
+      {
+        "end": 6230,
+        "start": 6226,
+        "tag": "Quantity",
+        "text": "nine"
+      },
+      {
+        "end": 6239,
+        "start": 6231,
+        "tag": "Weapon",
+        "text": "frigates"
+      },
+      {
+        "end": 6246,
+        "start": 6244,
+        "tag": "Quantity",
+        "text": "12"
+      },
+      {
+        "end": 6270,
+        "start": 6247,
+        "tag": "Weapon",
+        "text": "offshore patrol vessels"
+      },
+      {
+        "end": 6294,
+        "start": 6275,
+        "tag": "Buyer",
+        "text": "the Australian navy"
+      },
+      {
+        "end": 6308,
+        "start": 6306,
+        "tag": "Quantity",
+        "text": "19"
+      },
+      {
+        "end": 6289,
+        "start": 6279,
+        "tag": "Buyer Country",
+        "text": "Australian"
+      },
+      {
+        "end": 6329,
+        "start": 6317,
+        "tag": "Weapon",
+        "text": "patrol boats"
+      },
+      {
+        "end": 6367,
+        "start": 6345,
+        "tag": "Buyer",
+        "text": "neighbouring countries"
+      },
+      {
+        "end": 7278,
+        "start": 7104,
+        "tag": "Answer",
+        "text": "Thales has exported some $1.6 billion worth of submarine sonars, air traffic control systems and Bushmaster armoured vehicles to Europe, Asia and the nations of the Caribbean"
+      },
+      {
+        "end": 7110,
+        "start": 7104,
+        "tag": "Seller",
+        "text": "Thales"
+      },
+      {
+        "end": 7141,
+        "start": 7129,
+        "tag": "Price",
+        "text": "$1.6 billion"
+      },
+      {
+        "end": 7167,
+        "start": 7151,
+        "tag": "Weapon",
+        "text": "submarine sonars"
+      },
+      {
+        "end": 7229,
+        "start": 7201,
+        "tag": "Weapon",
+        "text": "Bushmaster armoured vehicles"
+      },
+      {
+        "end": 7239,
+        "start": 7233,
+        "tag": "Buyer",
+        "text": "Europe"
+      },
+      {
+        "end": 7245,
+        "start": 7241,
+        "tag": "Buyer",
+        "text": "Asia"
+      },
+      {
+        "end": 7278,
+        "start": 7250,
+        "tag": "Buyer",
+        "text": "the nations of the Caribbean"
+      },
+      {
+        "end": 8635,
+        "start": 8544,
+        "tag": "Answer",
+        "text": "the US State Department approving a possible arms sale to Saudi Arabia worth more than $1bn"
+      },
+      {
+        "end": 8567,
+        "start": 8544,
+        "tag": "Seller",
+        "text": "the US State Department"
+      },
+      {
+        "end": 8550,
+        "start": 8548,
+        "tag": "Seller Country",
+        "text": "US"
+      },
+      {
+        "end": 8593,
+        "start": 8589,
+        "tag": "Weapon",
+        "text": "arms"
+      },
+      {
+        "end": 8614,
+        "start": 8602,
+        "tag": "Buyer",
+        "text": "Saudi Arabia"
+      },
+      {
+        "end": 8614,
+        "start": 8602,
+        "tag": "Buyer Country",
+        "text": "Saudi Arabia"
+      },
+      {
+        "end": 8635,
+        "start": 8631,
+        "tag": "Price",
+        "text": "$1bn"
+      }
+    ],
+    "test": true,
+    "text": "We know that the Australian Government\u2019s planned expansion into arms sales has coincided with a four-fold increase in the number of military licenses for sales to one of the world\u2019s most oppressive regimes. But we don\u2019t know what we\u2019re actually selling them, writes Kellie Tranter.\n\nDocuments recently produced under Freedom of Information laws confirm that in the two years from 1 January 2016 to 31 December 2017 sixteen military licences were granted for the export of military equipment from Australia to Saudi Arabia. Until now it was widely believed that only four military licences were issued.\n\nRedactions to the FOI documents include the exclusion of any reference to the permit number, permit holder, what the approved goods are, consignees, end-users, approved destinations and even the date the permit was issued, so you have to try to piece the bigger picture together using what\u2019s left.\n\nFive of the licences granted refer to \u2018Approved DSGL Technology\u2019. The Defence and Strategic Goods List is a \u201ccompilation of military and commercial goods and technologies that Australia regulates. The goods, software and technologies on the list are agreed in conjunction with members of various international non-proliferation and export control regimes. These items either have a military use, or can be used to develop weapons of mass destruction. The DSGL also contains Australia-specific controls relating to firearms and explosives.\u201d\n\nThis comes on the back of calls by human rights groups including Amnesty International and Human Rights Watch for Australia to disclose defence deals with Saudi Arabia and halt military sales following the unlawful Saudi-led Coalition airstrikes and blockade in Yemen.\n\nIt is well known that the US-backed, Saudi-led airstrikes and naval blockade have devastated Yemen\u2019s health, water and sanitation systems, sparking a massive cholera outbreak and pushing millions of Yemenis to the brink of starvation. More than 15,000 people have died since the Saudi invasion \u2013 backed by Australia \u2013 in 2015.\n\nAsked what Saudi Arabia and the US are hoping to accomplish in Yemen, the Washington editor for Harper\u2019s magazine, Andrew Cockburn, said:\n\n\u201cThe US, it\u2019s not clear at all. The Saudis, basically \u2014 I mean, in the article, I go at some length into the sort of background to all this. But basically, they got freaked out at the thought that Iran was establishing a beachhead on their southern border, which was really kind of hysterical paranoia, because Iran wasn\u2019t really doing that. I mean, they were making some kind of connection with the Houthis, who are a religious minority, tribal minority, living in northern Yemen, but there was very little prospect of Iran setting up bases and so on and so forth.\u2026 And so, the Saudis got more and more sort of outraged as the Houthis took power in Yemen, or seemed to be taking over the country. And the US kind of went along with it.\n\n\u201cI was told, very early on in the war, Deputy Secretary of State Tony Blinken went to Riyadh to ask \u2026 when they had already been bombing away, using the US bombs, US-supplied bombs, using US weapons, killing already dozens, if not \u2026 hundreds of civilians, destroying factories. And finally, Blinken turns up in Riyadh and asks, \u2018By the way, what are you trying to accomplish here?\u2019 And the Saudis effectively said, or at least the Americans understood them to say, \u2018Well, we basically want to wipe out the Houthis.\u2019 Well, they termed it as \u2018end all Iranian influence in Yemen\u2019. Blinken was a bit shocked by that, so I\u2019m told, and said, \u2018Well, you know, that\u2019s going a bit far. But it\u2019s \u2014 you should certainly stop the Houthis taking over the country\u2019.\n\nAnd that, effectively, gave the Saudis carte blanche to continue this kind of mindless carpet-bombing, in effect, that\u2019s been going on almost ever since. There\u2019s been a bit of a lull over the summer, when you had the peace talks going on.\u201d\n\nAustralia is a signatory to the Arms Trade Treaty, which stipulates that signatories block any arms deal if there is evidence that the weapons will be used against civilians. We haven\u2019t been told whether or how the Department of Defence ensured compliance with this treaty obligation, and we don\u2019t know whether it obtained any legal opinion about whether or not any Australian exports were permitted in violation of the rules of international law.\n\nPutting human rights and morality to one side, which it seems to do all too often when those factors are in play, the Australian Government has made no secret of its desire to grow the Australian arms export industry.\n\nOn 24 October 2016 Kate Louis, First Assistant Secretary Defence Industry Policy, provided a \u2018Departmental Advice\u2019 noting that:\n\n\u201cReports indicate the Royal Saudi Naval Force has been planning an expansion of its eastern fleet with a budget estimated at about $20 billion \u2026 [redacted ] been invited to talk to the Saudi Navy about the program and are seeking Australian Government support in its export endeavours\u2026 Over the past year Defence has assessed or provided in principle approval for exports of a wide range of technologies and goods to various end users in Saudi Arabia. Many of these were dual use technologies which can have civilian applications\u2026.\u201d\n\nTwo months later Christopher Pyne, fully laden with RM Williams bags and books for various Saudi princes and officials, was on a plane to advocate on behalf of private Defence manufacturers seeking to export to Saudi Arabia. No doubt coincidentally, his first stop was Riyadh which headquarters the Royal Saudi Navy.\n\nThe FOI documents include a document dated 25 January 2017 titled \u2018MDIND visit to Europe and Saudi Arabia \u2013 thank you letters\u2019, but with the recipient\u2019s name redacted, that says:\n\n\u201cFollowing your visit to [redacted]Saudi Arabia in December 2016 you requested that Defence draft thank you letters to people you met with\u2026Consultation. Yes, Future Submarine Program [emphasis added].\u201d\n\nOn 24 February 2017 an article published in Pakistan Defence referred to United Arab Emirates and Saudi Arabia wanting to get submarines.\n\nIn May 2017 Prime Minister Turnbull was outlining the Government\u2019s $89 billion naval shipbuilding plan \u201cto be spent on building 12 submarines, nine frigates and 12 offshore patrol vessels for the Australian navy as well as 19 Pacific patrol boats to be given to neighbouring countries.\u201d It has been further reported that the Osborne shipyard, created as a result, \u201cwill be the epicentre of Australian naval construction until at least the 2050s. Two giant projects will be based there \u2014 the $35 billion future frigates build and $50 billion Future Submarines project\u201d.\n\nIn July 2017 Christopher Pyne delivered a speech \u2018Developing a Defence Export Strategy\u2019 to the Australian Strategic Policy Institute which referred to \u201cThe Australian designed Nulka decoy system that protects ships from missiles not so long ago saved USS Mason from an attack by Houthi rebels off the coast of Yemen.\u201d\n\nHe also noted that \u201cThales has been a major export success story while supporting our own defence needs. Over the past decade or so Thales has exported some $1.6 billion worth of submarine sonars, air traffic control systems and Bushmaster armoured vehicles to Europe, Asia and the nations of the Caribbean. Austal is exporting both Australian manufactured vessels and Australian designs and engineering innovations around the world. In a major triumph for local industry they won a contract worth just under $800 million to build the Independence Class Littoral Combat Ship for the United States Navy at the end of last month.\u201d\n\nThales Australia (formerly ADI Limited) is the Australian branch of the French military engineering firm. Thales Underwater Systems\u2019 Sydney site was the location of choice for the Prime Minister to announce the Government\u2019s $3.8bn fund to underwrite an expansion of arms exports earlier this year.\n\nIronically on the same day it was reported that the Royal Australian Navy had conducted training with its Saudi counterpart on the Red Sea. Defence Connect reported that \u2018Pyne eyes submarine exports\u2019.\n\nYou can see the picture coming together, but the truth about what is going on, and why, is a matter of speculation because the Government is not telling us anything substantial.\n\nThis week a report from French law firm Ancile Avocat asserts that France\u2019s arms exports to Saudi Arabia and United Arab Emirates could be in contravention of its international commitments and similar criticisms have been levelled at the United States following the US State Department approving a possible arms sale to Saudi Arabia worth more than $1bn.\n\nIrrespective of ethics, morality, human rights or international law the Government seems to be hell bent on ramping up arms exports to countries like Saudi Arabia, which seeks dominance of Sunni Islam in other countries in its region; which has provided \u2018clandestine financial and logistic support to ISIL\u2019; which has smuggled cash, weapons and ammunition to highly radicalised groups \u2013 including for example the Army of Islam in Syria \u2018which has paraded caged women as human shields against airstrikes\u2019; which is engaged in a brutal regional conflict knowingly inflicting immeasurable harm on innocent civilians, and which is known to have procured weapons and then transferred them to third parties."
+  },
+  {
+    "filename": "20180409_DEFWEB_TUN new offshor_A_TUN_B_ROM",
+    "labels": [
+      {
+        "end": 135,
+        "start": 0,
+        "tag": "Answer",
+        "text": "The Tunisian Navy has received the first of its four new Multi Service Offshore Patrol Vessels (MSOPVs) from Damen Shipyards in Romania"
+      },
+      {
+        "end": 125,
+        "start": 109,
+        "tag": "Seller",
+        "text": "Damen Shipyards "
+      },
+      {
+        "end": 135,
+        "start": 128,
+        "tag": "Seller Country",
+        "text": "Romania"
+      },
+      {
+        "end": 17,
+        "start": 0,
+        "tag": "Buyer",
+        "text": "The Tunisian Navy"
+      },
+      {
+        "end": 12,
+        "start": 4,
+        "tag": "Buyer Country",
+        "text": "Tunisian"
+      },
+      {
+        "end": 52,
+        "start": 48,
+        "tag": "Quantity",
+        "text": "four"
+      },
+      {
+        "end": 103,
+        "start": 57,
+        "tag": "Weapon",
+        "text": "Multi Service Offshore Patrol Vessels (MSOPVs)"
+      }
+    ],
+    "test": true,
+    "text": "The Tunisian Navy has received the first of its four new Multi Service Offshore Patrol Vessels (MSOPVs) from Damen Shipyards in Romania.\n\nSteel for the MSOPV 1400s Jugurtha (P610) and Syphax (P611) was cut during a ceremony in December 2016 at the Damen yard in Galati, Romania.\n\nAccording to AIS ship tracking data, the lead vessel Jugurtha left Galati on 3 March and arrived at Tunisia\u2019s Bizerte naval base on 9 March.\n\nSyphax is undergoing sea trials \u2013 according to ship tracking data, it undertook several short voyages off the coast of Romania at the end of March. By 6 April Syphax was back at Galati.\n\nConstruction of the other two vessels, Hannon and Sophonisbe, is believed to be underway, with deliveries of all four vessels scheduled for the end of this year.\n\nThe MSOPV is Damen\u2019s second generation offshore patrol vessel design and was revealed several years ago. It incorporates Damen\u2019s Sea Axe hull shape for superior seakeeping \u2013 since the hull is designed to reduce water resistance, the new OPV is fuel efficient and capable of speeds up to 25/26 knots, Damen said.\n\nA Multi-Mission Bay can be equipped with dedicated mission modules (e.g. mission containers) for missions such as counter piracy, counter-drug operations, anti-mining warfare (AMW), search-and-rescue (SAR) etc. The Multi-Mission Bay is also equipped with a nine metre RHIB (rigid-hulled inflatable boat), which can be launched over a dedicated slipway through the rear of the vessel while the OPV is sailing.\n\nThe command-and-control centre is located directly behind the bridge. Damen calls this development their Multi-Mission Bridge. Both spaces can be separated by means of a blinded sliding wall.\n\nThe Multi-Mission Hangar is capable of storing an 11-tonne NH-90 helicopter and an unmanned aerial vehicle (UAV) such as the Boeing ScanEagle. The hangar has been designed so that the OPV crew can deploy either the helicopter or the UAV without having to move either one.\n\n\n\n\n\n\n\nThe second generation Damen offshore patrol vessel is available as a standard in four sizes: 75 meter (1400 tonnes), 85 meter (1800 tonnes), 95 meter (2400 tonnes) and 103 meter (2600 tonnes)."
+  },
+  {
     "filename": "20180907_DN_Australia_Rheinmeta_A_AUS_B_FRG",
     "labels": [
       {
@@ -1151,6 +2017,12 @@
     "text": "The KATUSA program arose from a shared history of war with North Korea. Both American and South Korean troops fought together, so it made sense to make it official.\n\nGen. Douglas MacArthur and South Korean Pres. Syngman Rhee crafted the arrangement in 1950, and both viewed these \u201caugmentees\u201d as critical to their shared war efforts.\n\nIn June 1950, a North Korean blitzkrieg had pushed Washington and Seoul\u2019s ill-prepared troops into a tiny pocket around the port city of Busan at the southeastern tip of the peninsula.\n\nWith Pyongyang\u2019s forces closing in, MacArthur was desperate for more manpower. Rhee wanted to find ways to improve his fledgling army.\n\nThe chaos of war, along with a cultural and language barriers\u2014and just flat out racism\u2014caused serious difficulties for the program. While in need of extra soldiers, many American commanders distrusted or dismissed the Korean volunteers.\n\n\u201cAn inordinately large percentage of men, particularly in some units, stated at KATUSAs were no good, that they would sleep on guard, \u2018bug out,\u2019 refuse to work or pretend not to know what was expected of them,\u201d an Army team sent to evaluate the service\u2019s performance reported.\n\nDespite orders from Pres. Harry Truman to integrate, Eighth Army had arrived in Korea with official racial boundaries still firmly in place.\n\n\u201cThis mistrust may stem from fact or it may result from pre-existing attitudes,\u201d the team explained. \u201cMany people made the statement that a KATUSA or Puerto Rican or Negro is either an excellent fighter, or he is no good at all.\u201d\n\n\u201cIf such \u2018extremes\u2019 exist it seems highly likely that they are not inherited.\u201d\n\nIn spite of these barriers, more than 6,000 KATUSAs had given their lives by the end of the war. After the Korean Armistice Agreement stopped the shooting, the Pentagon kept the program going as an established method of training South Korean troops.\n\nNearly 10 years after the armistice, Washington and Seoul agreed to use the arrangement to bulk up Army units throughout the country. In 1968, there were still more than 10,000 KATUSAs aiding the ground combat branch in Korea, according to one Pentagon memo.\n\nThe relative skill level between South Korean troops and their American comrades\u2014and perhaps continuing mistrust\u2014was still an issue. \u201cKATUSA personnel cannot be used in intelligence units to replace U.S. personnel,\u201d the Pentagon memo declared.\n\nAnd for decades, the U.S. essentially had veto power over the South Korean military. The American officer in charge of the Eighth Army \u2014 who had a shared headquarters with South Korean troops called the Combined Forces Command \u2014 was the de facto highest ranking military official in the country.\n\nIn 1994, the two countries finally agreed to allow South Korea\u2014an established sovereign state and growing regional economic powerhouse\u2014to oversee its own military affairs \u2026 during peacetime.\n\nToday, if another war broke out on the peninsula, the Pentagon would still direct South Korean troops at the highest levels."
   },
   {
+    "filename": "20180613_OTH_3.45 Billion USD-D",
+    "labels": [],
+    "test": true,
+    "text": "Bangladesh armed forces account for 6 per cent of Bangladesh\u2019s annual budget, totaling $3.2 billion in the year 2017-2018 . The 2018-19 defence budget also amounts to 6.2% of total annual government expenditure and about 1.3% of GDP.\n\nMiG-29 and Chengdu F-7 during Bangladesh Air Force Victory Day Fly Past of 2016\n\nBudgetary documents published by the Ministry of Finance (MoF) on 7 June show that the new expenditure marks a 10% increase over the revised allocation for 2017-18 of BDT264 billion.\n\nIn 2009, Bangladesh introduced \u201cForces Goal 2030,\u201d which called for a massive expansion and modernization of the Bangladesh Army, Navy, and Air Force. The long-term goal is to build a three-dimensional force capable of conducting multi-platform warfare.\n\nLearn Something New Everyday ------------------------------------\n\nThe new military budget allocates BTD279.1 billion for \u201cnon-development expenditure\u201d, including military salaries and costs for maintenance and operations, and BTD11.52 billion for \u201cdevelopment expenditure\u201d, including military acquisitions. These allocations represent increases over last year of 9.6% and 24% respectively.\n\nShare The Article with Friends\n\nTweet\n\n\n\nWhatsApp\n\n\n\nLike this: Like Loading..."
+  },
+  {
     "filename": "20180522_OTH_Russia Drops Plans_A_RUS",
     "labels": [
       {
@@ -1246,6 +2118,163 @@
     "labels": [],
     "test": true,
     "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
+  },
+  {
+    "filename": "20170919_DEFWEB_EGY receive KOS_A_EGY_B_KOS",
+    "labels": [
+      {
+        "end": 67,
+        "start": 0,
+        "tag": "Answer",
+        "text": "The Egyptian Navy will soon receive a naval vessel from South Korea"
+      },
+      {
+        "end": 17,
+        "start": 0,
+        "tag": "Buyer",
+        "text": "The Egyptian Navy"
+      },
+      {
+        "end": 12,
+        "start": 4,
+        "tag": "Buyer Country",
+        "text": "Egyptian"
+      },
+      {
+        "end": 50,
+        "start": 38,
+        "tag": "Weapon",
+        "text": "naval vessel"
+      },
+      {
+        "end": 67,
+        "start": 56,
+        "tag": "Seller",
+        "text": "South Korea"
+      },
+      {
+        "end": 67,
+        "start": 56,
+        "tag": "Seller Country",
+        "text": "South Korea"
+      },
+      {
+        "end": 664,
+        "start": 638,
+        "tag": "Buyer",
+        "text": "the Republic of Korea Navy"
+      },
+      {
+        "end": 659,
+        "start": 654,
+        "tag": "Buyer Country",
+        "text": "Korea"
+      },
+      {
+        "end": 676,
+        "start": 674,
+        "tag": "Quantity",
+        "text": "24"
+      },
+      {
+        "end": 700,
+        "start": 677,
+        "tag": "Weapon",
+        "text": "Po Hang-class corvettes"
+      },
+      {
+        "end": 748,
+        "start": 638,
+        "tag": "Answer",
+        "text": "the Republic of Korea Navy received 24 Po Hang-class corvettes and these entered service between 1984 and 1993"
+      },
+      {
+        "end": 739,
+        "start": 735,
+        "tag": "Date",
+        "text": "1984"
+      },
+      {
+        "end": 748,
+        "start": 744,
+        "tag": "Date",
+        "text": "1993"
+      },
+      {
+        "end": 1740,
+        "start": 1667,
+        "tag": "Answer",
+        "text": "Egypt had expressed interest in procuring South Korean military equipment"
+      },
+      {
+        "end": 1672,
+        "start": 1667,
+        "tag": "Buyer",
+        "text": "Egypt"
+      },
+      {
+        "end": 1672,
+        "start": 1667,
+        "tag": "Buyer Country",
+        "text": "Egypt"
+      },
+      {
+        "end": 1721,
+        "start": 1709,
+        "tag": "Seller",
+        "text": "South Korean"
+      },
+      {
+        "end": 1721,
+        "start": 1709,
+        "tag": "Seller Country",
+        "text": "South Korean"
+      },
+      {
+        "end": 1740,
+        "start": 1722,
+        "tag": "Weapon",
+        "text": "military equipment"
+      },
+      {
+        "end": 2065,
+        "start": 1942,
+        "tag": "Answer",
+        "text": "Egypt has reportedly expressed interest in acquiring K9 155 mm self-propelled howitzer\u2019s from South Korea\u2019s Samsung Techwin"
+      },
+      {
+        "end": 2065,
+        "start": 2050,
+        "tag": "Seller",
+        "text": "Samsung Techwin"
+      },
+      {
+        "end": 2047,
+        "start": 2036,
+        "tag": "Seller Country",
+        "text": "South Korea"
+      },
+      {
+        "end": 1947,
+        "start": 1942,
+        "tag": "Buyer",
+        "text": "Egypt"
+      },
+      {
+        "end": 1947,
+        "start": 1942,
+        "tag": "Buyer Country",
+        "text": "Egypt"
+      },
+      {
+        "end": 2028,
+        "start": 1995,
+        "tag": "Weapon",
+        "text": "K9 155 mm self-propelled howitzer"
+      }
+    ],
+    "test": true,
+    "text": "The Egyptian Navy will soon receive a naval vessel from South Korea, possible a Po Hang class corvette.\n\nThis is according to the Egyptian Ministry of Defence (MoD), which said on 15 September that Egyptian Defence Minister Sedki Sobhi, during a visit to South Korea earlier this month had inspected \u201cone of the naval pieces that will be joining the Egyptian Armed Forces in the future and met the Egyptian technical crews that are training on it\u201d.\n\nWhile the MoD did not specify what vessel would be delivered, photos it released show Sobhi standing on a Po Hang-class corvette at Jinhae Naval Base. IHS Jane\u2019s Defence Weekly notes that the Republic of Korea Navy received 24 Po Hang-class corvettes and these entered service between 1984 and 1993. Around 18 remain in service. They will be replaced by the Incheon class frigate \u2013 it has also been suggested that Egypt may be getting Incheon vessels.\n\nSobhi\u2019s visit was at the invitation of South Korea and according to the Egyptian MoD conducted \u201cseveral fruitful talks on military cooperation between the armed forces of both countries, including the Korean Defence Minister and a number of officials from the Korean armed forces.\u201d The two sides also looked at challenges in the region and efforts to combat terrorism and achieve security and stability in the Middle East.\n\nDuring the visit, Sobhi conducted a series of field tours, including to a number of training facilities and military industries, including to a shipyard and naval base, during which he held a meeting with the commander of the South Korean navy.\n\nSobhi met South Korean defence minister Song Young-moo in Seoul on 11 September and said that Egypt had expressed interest in procuring South Korean military equipment and entering defence industrial joint-venture programmes. \u201cWe hope that Korea\u2019s excellent defence products will contribute to the strengthening of the defence forces of Egypt,\u201d Sobhi said.\n\nMeanwhile, Egypt has reportedly expressed interest in acquiring K9 155 mm self-propelled howitzer\u2019s from South Korea\u2019s Samsung Techwin, which is optimistic about securing a contract. Egypt has been eyeing the K9 since 2010 when a memorandum of understanding on defence cooperation was signed between the two countries. Egypt has for years expressed interest in acquiring new self-propelled howitzers, most likely to replace its M109s.\n\nSouth Korea-Egypt defence ties received a boost this year when In-moo signed a memorandum of understanding with Sobhi in Cairo in late March. On 10 July a photo appeared on Twitter showing a K9 on a flatbed trailer apparently moving through Egypt for evaluation.\n\n\n\n\n\n\n\nEarlier, Egyptian President Abdul Fatah al-Sisi paid a visit to South Korea in March 2016 in order to promote economic cooperation between Korea and Egypt."
   },
   {
     "filename": "20181115_OTH_Senate rejects bid_A_BAH_B_USA",
@@ -1768,6 +2797,175 @@
     "text": "2\n\nWe have updated our Terms & Conditions. To continue, please confirm that you have read and accept these:\n\n\n\n\n\n\n\nYou have to agree to pocketmags.com's Terms & Conditions to proceed\n\nSave"
   },
   {
+    "filename": "20170504_DEFWEB_Kenya seeking t_A_KEN_B_USA",
+    "labels": [
+      {
+        "end": 159,
+        "start": 0,
+        "tag": "Answer",
+        "text": "Kenya has requested the purchase of 12 MD 530F helicopters from the United States, at a proposed cost of $253 million including weapons, ammunition and support"
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Buyer",
+        "text": ""
+      },
+      {
+        "end": 5,
+        "start": -1,
+        "tag": "Buyer Country",
+        "text": ""
+      },
+      {
+        "end": 38,
+        "start": 36,
+        "tag": "Quantity",
+        "text": "12"
+      },
+      {
+        "end": 58,
+        "start": 39,
+        "tag": "Weapon",
+        "text": "MD 530F helicopters"
+      },
+      {
+        "end": 81,
+        "start": 68,
+        "tag": "Seller",
+        "text": "United States"
+      },
+      {
+        "end": 81,
+        "start": 68,
+        "tag": "Seller Country",
+        "text": "United States"
+      },
+      {
+        "end": 117,
+        "start": 105,
+        "tag": "Price",
+        "text": "$253 million"
+      },
+      {
+        "end": 135,
+        "start": 128,
+        "tag": "Weapon",
+        "text": "weapons"
+      },
+      {
+        "end": 147,
+        "start": 137,
+        "tag": "Weapon",
+        "text": "ammunition"
+      },
+      {
+        "end": 356,
+        "start": 236,
+        "tag": "Answer",
+        "text": "the US State Department has made a determination approving a possible Foreign Military Sale to Kenya for the helicopters"
+      },
+      {
+        "end": 259,
+        "start": 236,
+        "tag": "Seller",
+        "text": "the US State Department"
+      },
+      {
+        "end": 242,
+        "start": 240,
+        "tag": "Seller Country",
+        "text": "US"
+      },
+      {
+        "end": 336,
+        "start": 331,
+        "tag": "Buyer",
+        "text": "Kenya"
+      },
+      {
+        "end": 336,
+        "start": 331,
+        "tag": "Buyer Country",
+        "text": "Kenya"
+      },
+      {
+        "end": 356,
+        "start": 345,
+        "tag": "Weapon",
+        "text": "helicopters"
+      },
+      {
+        "end": 1460,
+        "start": 1339,
+        "tag": "Answer",
+        "text": "The proposed sale of the MD 530F helicopters, weapons, ammunition, support items and technical support will advance Kenya"
+      },
+      {
+        "end": 1383,
+        "start": 1364,
+        "tag": "Weapon",
+        "text": "MD 530F helicopters"
+      },
+      {
+        "end": 1392,
+        "start": 1385,
+        "tag": "Weapon",
+        "text": "weapons"
+      },
+      {
+        "end": 1404,
+        "start": 1394,
+        "tag": "Weapon",
+        "text": "ammunition"
+      },
+      {
+        "end": 1460,
+        "start": 1455,
+        "tag": "Buyer",
+        "text": "Kenya"
+      },
+      {
+        "end": 1460,
+        "start": 1455,
+        "tag": "Buyer Country",
+        "text": "Kenya"
+      },
+      {
+        "end": 1833,
+        "start": 1702,
+        "tag": "Answer",
+        "text": "This sale will significantly enhance the Kenyan Army\u2019s modernization efforts and increase interoperability with the US Armed Forces"
+      },
+      {
+        "end": 1754,
+        "start": 1739,
+        "tag": "Buyer",
+        "text": "the Kenyan Army"
+      },
+      {
+        "end": 1749,
+        "start": 1743,
+        "tag": "Buyer Country",
+        "text": "Kenyan"
+      },
+      {
+        "end": 1833,
+        "start": 1814,
+        "tag": "Seller",
+        "text": "the US Armed Forces"
+      },
+      {
+        "end": 1820,
+        "start": 1818,
+        "tag": "Seller Country",
+        "text": "US"
+      }
+    ],
+    "test": true,
+    "text": "Kenya has requested the purchase of 12 MD 530F helicopters from the United States, at a proposed cost of $253 million including weapons, ammunition and support.\n\nThe US Defence Security Cooperation Agency (DSCA) on 2 May announced that the US State Department has made a determination approving a possible Foreign Military Sale to Kenya for the helicopters, with the DSCA notifying Congress of the possible sale on 1 May.\n\nThe deal would include the helicopters, to be supplied by MD Helicopters, as well as 24 Heavy Machine Gun Pod (HMP) 400 systems; 24 M260 rocket launchers; 4 032 M151 rockets; 1 536 2.75-inch M274 smoke signature warhead rockets; and 400 000 rounds of .50 calibre ammunition.\n\nAlso included are communications and navigation equipment, contractor logistics support, training, US Government technical assistance, airframe and weapon system spare parts support, Contractor Field Service Representative (CFSR) support, and Special Assigned Airlift Mission (SAAM) flight delivery support.\n\n\u201cThis proposed sale contributes to the foreign policy and national security of the United States by improving the security of a strong regional partner who is a regional security leader, undertaking critical operations against al-Shabaab, and a troop contributor to the African Union Mission in Somalia (AMISOM),\u201d the DSCA said.\n\n\u201cThe proposed sale of the MD 530F helicopters, weapons, ammunition, support items and technical support will advance Kenya\u2019s efforts to conduct scout and attack rotary wing aircraft operations in support of their AMISOM mission. The MD 530F will also replace Kenya\u2019s aging MD500 fleet, which is the current reconnaissance platform supporting Kenyan ground forces. This sale will significantly enhance the Kenyan Army\u2019s modernization efforts and increase interoperability with the US Armed Forces and other partners in the region. Additionally, a strong national defence and dedicated military force will assist Kenya in its efforts to maintain stability in East Africa.\u201d\n\nThe MD 530F as an evolution of the OH-6 Cayuse light observation helicopter that goes back to the Vietnam War. It is powered by a Rolls-Royce 250-C30 turboshaft engine producing 317 kW at takeoff and giving a cruise speed of 248 km/h with a maximum range of 430 km and a service ceiling of 5 700 m. The helicopter can carry a 980 kg external load.\n\n\n\n\n\n\n\nThe armed MD 530F has been deployed by the Afghan Air Force since 2011."
+  },
+  {
     "filename": "20180421_OTH_India to provide f_A_AFG_B_IND",
     "labels": [
       {
@@ -2275,6 +3473,12 @@
     "text": "The French government signed a $2,3 billion (2 billion euro) contract with Dassault Aviation for 28 upgraded Rafale aircraft and gave the go-ahead for development of the aircraft\u2019s F4 standard which should be validated by 2024, according to Scramble Magazine.\n\nThe 28 aircraft will include some F4 functionalities and be delivered to the French air force from 2023.\n\nDefense Minister Florence Parly announced that a further 30 aircraft at the full F4 standard would be ordered in 2023 for delivery between 2027 and 2030.\n\n- ADVERTISEMENT - CONTINUE READING BELOW -\n\nThe French Minister of the Armed Forces, Ms. Florence Parly, visited the Dassault Aviation Merignac site on Monday, January 14, 2019.\n\nAccompanied by Mr Eric Trappier, Chairman and CEO of Dassault Aviation, she was shown the Rafale and Falcon assembly lines.\n\nThe F4 standard includes among other things, an upgraded radar, as well as improved capabilities in the Helmet-Mounted Display, it will be more effective in network-centric warfare (more data exchange, and satellite communication) and it can operate with the Talios targeting pod.\n\nBoth support new new weapons, like the Mica NG air-to-air missile and the Armement Air-Sol Modulaire (AASM) \u201cHammer\u201d, a precision air-to-ground weapon. The F4 is also able to operate with the Scalp cruise missiles.\n\nLooking back to the standards of the Rafale, the F1 standard was the first version for the A\u00e9ronautique Navale (French Navy). These Rafale Ms were equipped for air-to-air operations, but lacked any armaments for air-to-ground missions.\n\nF2 standard gave the Rafale also air-to-ground and reconnaissance capabilities. The latest versions, F3 and F3R, gave the aircraft nuclear capabilities and it can operate with the most advanced air-to-air missiles and precision ground attacks munitions."
   },
   {
+    "filename": "20190224_OTH_Leader agrees with",
+    "labels": [],
+    "test": true,
+    "text": "On Sunday, Iranian lawmakers ratified a bill according to which \u20ac2.375 billion can be withdrawn from National Development Fund for different purposes including \u20ac1.5 billion for the defense sector.\n\nLarijani said that, based on Parliament members\u2019 requests, he had offered to the leader 15 different cases of withdrawal from the National Development Fund. The Leader endorsed 10 cases and their amount cannot be changed, he added.\n\nImproving water management systems, fighting sand and dust storms, and providing laboratory equipment for Iranian universities are among the other endorsed cases.\n\nMAH/IRN83220843"
+  },
+  {
     "filename": "20180810_DEFWEB_Ivory Coast cus_A_IVO_B_BLR",
     "labels": [
       {
@@ -2462,10 +3666,179 @@
     "text": "Bell 47 1945\n\n---- 47 in service ---- AR - EA (Argentine Army Aviation) - 47 AR - COAN (Argentine Navy) - 47 AR - PNA (Argentine Coast Guard) - 47 AT - \u00d6sterreichische Luftstreitkr\u00e4fte (Austrian Air Force) - OH-13H Sioux AU - Australian Army Aviation - 47G-3 BR - For\u00e7a A\u00e9rea Brasileira (Brazilian Air Force) - 47G-2 BR - For\u00e7a A\u00e9rea Brasileira (Brazilian Air Force) - 47J BR - For\u00e7a Aeronaval da Marinha do Brasil (Brazilian Navy) - 47 CA - Blackcomb Helicopters - 47 CA - Okanagan Helicopters - 47B CA - Royal Canadian Navy (1945-1968) - 47 CA - Spartan Air Services Ltd - 47 CH - Air Glaciers SA - 47 CL - FACh (Chilean Air Force) - 47 CO - FAC (Colombian Air Force) - OH-13S Sioux DE - Bundespolizei (German Federal Police (BPOL)) - 47 DE - Heeresflieger (German Army Aviation) - 47G-2 DE - Landespolizei (German Local Police) - 47 DE - Luftwaffe (German Air Force) - 47G-2 EC - FAE (Ecuadorian Air Force) - 47 ES - Marina (Spanish Navy) - 47 ES - EdA (Spanish Air Force) - 47 ES - FAMET (Spanish Army Aviation) - 47 FR - ALAT (French Army Light Aviation) - 47 GR - HAA (Hellenic Army Aviation) - 47 IL - IAF (Israeli Air Force) - 47 IT - AMI (Italian Air Force) - 47 JM - JDF (Jamaica Defence Force) - 47G-3 MT - Forzi Armati ta' Malta (Armed Forces of Malta) - 47 MY - Malaysian Experimental Aircraft Association - 47G-5 MY - RMAF (Royal Malaysian Air Force) - 47G-5 NZ - Royal New Zealand Air Force - 47 PE - FAP (Peruvian Air Force) - 47 SE - RPS (Swedish National Police) - 47G-2 TR - Jandarma (Turkish Gendarmerie) - 47G-3 TR - T\u00fcrk Kara Kuvvetleri (Turkish Army) - 47G-3 TR - T\u00fcrk Kara Kuvvetleri (Turkish Army) - OH-13S Sioux UK - British European Airways - 47 US - State of California - 47 UY - Aviacion Naval Uruguaya (Uruguayan Navy) - 47 UY - FAU (Uruguayan Air Force) - 47 VE - EBV (Venezuelan Army) - 47 VE - FAV (Venezuelan Air Force) - 47 --- Other Model ---\n\n\n\n---- Select Bell Model---- 204 204B 205 205A 205A-1 206 206 Prototype 206A 206B Jet Ranger 206B-2 Jet Ranger 206B-3 Jet Ranger 206L Long Ranger 206L-1 Long Ranger 206L-3 Long Ranger 206L-4 Long Ranger 206LT Twin Ranger 209 AH-1 Cobra 210 212 214 214B 214ST 222 222B 222UT 230 360 Invictus 407 407AH 407GT 407GX 407GXi 407GXP 412 412EP 412EPi 412EPX 412HP 412LUH 412SP 427 429 429WLG 430 47 47B 47D 47D-1 47G-1 47G-2 47G-3 47G-4 47G-5 47H 47J 48 48A 505 Jet Ranger X 525 Relentless 61 AH-1E Cobra AH-1F Cobra AH-1G Cobra AH-1J Sea Cobra AH-1S Cobra AH-1T Super Cobra AH-1W Super Cobra AH-1Z Viper APT 70 ARH-70 Arapaho CH-118 Iroquois CH-135 Twin Huey CH-136 Kiowa CH-139 Jet Ranger CH-146 Griffon CMV-22B Osprey CV-22 CV-22B Osprey D-250 / YHO-4 EDAT FCX-001 Fire-X Firewatch Cobra H-13E Sioux HH-1H Iroquois HH-1K Iroquois HH-1N HTL-7 HUEY II MV-22 MV-22B Osprey OH-13H Sioux OH-13S Sioux OH-58A Kiowa OH-58B Kiowa OH-58C Kiowa OH-58D Kiowa Warrior OH-58F Kiowa Warrior TH-13T Sioux TH-1E Iroquois TH-1F Iroquois TH-1H Iroquois TH-1L Iroquois TH-57A Sea Ranger TH-57B Sea Ranger TH-57C Sea Ranger TH-67A Creek UH-1A Iroquois UH-1B Iroquois UH-1C Iroquois UH-1D Iroquois UH-1E Iroquois UH-1F Iroquois UH-1H Iroquois UH-1L Iroquois UH-1M Iroquois Gunship UH-1N UH-1V Iroquois UH-1Y Venom V-22 Osprey V-247 Vigilant V-280 Valor VH-1N XV-15A --- Other Models ---\n\n\n\n\n\n\n\n\n\nModel C/N Operators\n\n\n\n\n\n\n\nConstruction Numbers Help Us\n\nC/N Built as Year History Filter -- Country -- unknown - 8 argentina - 11 australia - 11 austria - 17 belgium - 3 brazil - 3 canada - 7 chile - 4 china - 1 colombia - 1 costa rica - 3 cyprus - 3 egypt - 1 finland - 1 france - 18 germany - 14 greece - 40 honduras - 1 iran - 1 italy - 11 jamaica - 2 japan - 2 madagascar - 1 malaysia - 8 malta - 1 mexico - 1 new zealand - 16 norway - 1 peru - 24 south korea - 1 spain - 13 sweden - 3 switzerland - 3 togo - 1 turkey - 20 united kingdom - 6 uruguay - 8 usa - 80 venezuela - 8 13 47b N17H 20 47b 1947 ZK-HAJ,VH-UTU,N415DP 24 47b NX170B,N170B,CF-GSL 27 47b NC107B,N107B,CF-JBQ,N2772 52 47b 1947 NC132B,CF-FJA,N74098,N652HA 59 47d 1947 122952,N1358N 254 51-2516,N755E 286 47D-1 1953 MM80041 620 47d 1952 N924B,HR-FU-41,N12086,C-GFAQ 626 47D-1 MM80043 627 47D-1 MM80042 630 47d H-01 631 47d H-02 637 47d H-03 646 47d OH-HIA 668 1953 HB-XAG 689 1954 HB-XAE 709 709 730 h-13e 51-13965 1 NX41962,NC1H 158 47D-1 1949 I-SILT 710 710 722 47g-1 722 1057 oh-13h 1952 52-7830,MM80789 1254 BR-001 1283 47g-2 1954 YV-E-CPL,TI-BIF 1284 8436 1287 47g-1 1287 1289 1954 01 1302 47g-1 1302 1303 47g-1 1303 1313 47g-1 1958 1313,F-BVFU 1314 47g-1 1314 1315 47g-1 1315 1316 47g-1 1316,F-GCCK 1317 47g-1 1317 1325 FAP-611 1359 47h 1955 N2475B,C-FJWF 1371 47h N2827B,CF-TOI 1399 47g-2 1955 N986B,N471SB 1411 A-051 1412 A-052 1425 47j 1957 I-AGUS,F-BNPQ 1426 47j 1957 HB-XAU 1458 47g-2 1458,F-BVXD 1459 47g-2 TI-BGH 1471 47g-2 1956 N2823B 1515 47g-2 G-AYOE,F-OCBF,F-BKQZ 1526 47g-1 N2801B 1538 47h 1957 OO-SHW,SE-HBE,LN-OQG,G-AZYB 1567 47j CF-MYY,N711JW 1617 47g-2 74+27 1619 47g-2 74+28 1620 47g-2 74+29 1621 47g-2 74+30 1633 47g-2 1956 1633,N6764,EP-HAV,G-BEUG,F-GANU,5V-TWT,OO-MBE 1638 47g-2 OO-LRL 1660 AE-396 1706 47g-1 1958 N7895B 1734 47j N2896B 1743 47j YV-E-DPY,8510 1752 47j N6737D,CF-YUM,N62883 1771 5HR1 1782 6HR1 1783 7HR1 1784 8HR1 1806 47j PM-21 1883 oh-13h ES737 1892 oh-13h 1956 56-2180,MM80798 1959 47g-5 M26-08 1962 47g-5 M26-06,9M-ELR 1964 8335 1967 47g-2 AS+385 1968 47g-2 1957 74+31,D-HORN,F-GDRV 1969 47g-2 74+32 1970 47g-2 74+33,D-HAEM 1986 47g-2 74+34 1988 47g-2 PA+118 1991 47g-2 74+35,9H-AAH,AS7204 1992 47g-2 74+36 2006 47g-2 74+37 2007 47g-2 74+38 2037 57-1799,Z.7A-33,HE.7A-33 2050 A-053 2096 oh-13h ES725,HE.7A-36 2119 htl-7 145842 2145 oh-13h ES734 2152 oh-13h 57-6223,Z.7A-48,Z.7B-14 2171 oh-13h ES728 2232 47g-2 1958 N6740D,N262M,N262MV 2262 oh-13h MM80790 2340 oh-13h 58-5327,Z.7A-39,HE.7A-39 2361 oh-13h 58-5348 2383 oh-13h 58-5370,N4690 2398 oh-13h 58-5385,5385 2402 MM80816 2416 47g-2 C-FLMD,F-GLID 2448 47g-2 1959 SE-HCC 2479 oh-13h 3B-HA 2480 oh-13h 3B-HB\n\n\n\nTop Page | Page 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
   },
   {
+    "filename": "20190301_MOD-USA_Contracts 1 Ma_A_NEP_B_POL",
+    "labels": [],
+    "test": true,
+    "text": "Choose which Defense.gov products you want delivered to your inbox."
+  },
+  {
     "filename": "20180328_OTH_Myanmar EE-9_A_MYA_B_ISR",
     "labels": [],
     "test": true,
     "text": "as u know , our eastern neighbour, Thailand dont have subs till now and just in order. another one is the host for this ex.just kidding. Most likely is that India want to promote their sonar suite and other electronics which are installed in our ships ( in both F14 and OPV ) during this exercise. and also want to show our strong relationship and friend indeed in our hard time. even if this exercise is meant for BD's subs , it would be a very small part in the purpose of this exercise."
+  },
+  {
+    "filename": "20181125_OTH_Moroccan Navy rece_A_MOR_B_FRA",
+    "labels": [
+      {
+        "end": 23,
+        "start": 0,
+        "tag": "Buyer",
+        "text": "The Royal Moroccan Navy"
+      },
+      {
+        "end": 18,
+        "start": 10,
+        "tag": "Buyer Country",
+        "text": "Moroccan"
+      },
+      {
+        "end": 49,
+        "start": 46,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 73,
+        "start": 50,
+        "tag": "Weapon",
+        "text": "King Air 350ER aircraft"
+      },
+      {
+        "end": 110,
+        "start": 0,
+        "tag": "Answer",
+        "text": "The Royal Moroccan Navy is taking delivery of two King Air 350ER aircraft configured for maritime surveillance"
+      },
+      {
+        "end": 1067,
+        "start": 982,
+        "tag": "Answer",
+        "text": "The Navy also operates two King Air 350ER which was supplied by Leonardo in July 2016"
+      },
+      {
+        "end": 990,
+        "start": 982,
+        "tag": "Buyer",
+        "text": "The Navy"
+      },
+      {
+        "end": 1008,
+        "start": 1005,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 1023,
+        "start": 1009,
+        "tag": "Weapon",
+        "text": "King Air 350ER"
+      },
+      {
+        "end": 1054,
+        "start": 1046,
+        "tag": "Seller",
+        "text": "Leonardo"
+      },
+      {
+        "end": 1067,
+        "start": 1058,
+        "tag": "Date",
+        "text": "July 2016"
+      },
+      {
+        "end": 1307,
+        "start": 1137,
+        "tag": "Answer",
+        "text": "the Royal Moroccan Navy took delivery of a new 72-meter hydro-oceanographic and multi-missions vessel (BHO2M) named \u201cDAR AL BEIDA\u201d from French shipbuilding company Piriou"
+      },
+      {
+        "end": 120,
+        "start": 117,
+        "tag": "Quantity",
+        "text": "two"
+      },
+      {
+        "end": 144,
+        "start": 121,
+        "tag": "Weapon",
+        "text": "King Air 350ER aircraft"
+      },
+      {
+        "end": 190,
+        "start": 172,
+        "tag": "Seller",
+        "text": "the United States "
+      },
+      {
+        "end": 189,
+        "start": 176,
+        "tag": "Seller Country",
+        "text": "United States"
+      },
+      {
+        "end": 197,
+        "start": 193,
+        "tag": "Date",
+        "text": "2016"
+      },
+      {
+        "end": 236,
+        "start": 230,
+        "tag": "Buyer",
+        "text": "France"
+      },
+      {
+        "end": 236,
+        "start": 230,
+        "tag": "Buyer Country",
+        "text": "France"
+      },
+      {
+        "end": 247,
+        "start": 113,
+        "tag": "Answer",
+        "text": "The two King Air 350ER aircraft which were manufactured in the United States in 2016 and subsequently transferred to France in 2017/18"
+      },
+      {
+        "end": 247,
+        "start": 240,
+        "tag": "Date",
+        "text": "2017/18"
+      },
+      {
+        "end": 1160,
+        "start": 1137,
+        "tag": "Buyer",
+        "text": "the Royal Moroccan Navy"
+      },
+      {
+        "end": 1155,
+        "start": 1147,
+        "tag": "Buyer Country",
+        "text": "Moroccan"
+      },
+      {
+        "end": 1246,
+        "start": 1184,
+        "tag": "Weapon",
+        "text": "72-meter hydro-oceanographic and multi-missions vessel (BHO2M)"
+      },
+      {
+        "end": 1279,
+        "start": 1273,
+        "tag": "Seller Country",
+        "text": "French"
+      },
+      {
+        "end": 1307,
+        "start": 1301,
+        "tag": "Seller",
+        "text": "Piriou"
+      }
+    ],
+    "test": true,
+    "text": "The Royal Moroccan Navy is taking delivery of two King Air 350ER aircraft configured for maritime surveillance.\n\nThe two King Air 350ER aircraft which were manufactured in the United States in 2016 and subsequently transferred to France in 2017/18 to have their special mission equipment fitted.\n\nBoth aircraft are distinguishable by ventral fins and bubble observation windows. Equipment for the maritime surveillance role includes the Leonardo ATOS (Airborne Tactical Observation and Surveillance) system, Seaspray 7300 radar, identification friend or foe system, Link 11 data link and EOST23 electro-optical sensor.\n\nWith an endurance, or time on station, of more than 5 hours, the Beechcraft 350ERs will be used for a number of roles including maritime surveillance, search and rescue and marine pollution detection.\n\nBoth aircraft will join three AS565 Panthers, which were delivered in 2002 and a dozen Beechcraft 100/200/300/350 aircraft, which will make maintenance easier. The Navy also operates two King Air 350ER which was supplied by Leonardo in July 2016, both aircraft are equipped with the ATOS mission system.\n\nRecently, the Royal Moroccan Navy took delivery of a new 72-meter hydro-oceanographic and multi-missions vessel (BHO2M) named \u201cDAR AL BEIDA\u201d from French shipbuilding company Piriou.\n\nDar al Beida will enable the Royal Moroccan Navy the ability to carry out to carry out in-depth surveys of its waters such as hydrographic surveying for civil and military purposes, understanding the seabed, salinity and temperature of the ocean will help submariners, for example. The Royal Mooccan Navy formerly relied on France to map the seabed in Morocco\u2019s deeper offshore waters since Morocco is a member of the International Hydrographic Organisation (IHO)."
   },
   {
     "filename": "20180619_REU_China pledges over_A_CMB_B_CHI",

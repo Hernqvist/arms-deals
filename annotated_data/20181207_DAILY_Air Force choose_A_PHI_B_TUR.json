@@ -1,0 +1,157 @@
+{
+  "filename": "20181207_DAILY_Air Force choose_A_PHI_B_TUR",
+  "labels": [
+    {
+      "end": 94,
+      "start": 22,
+      "tag": "Answer",
+      "text": "The Philippine Air Force has chosen to acquire the Black Hawk helicopter"
+    },
+    {
+      "end": 94,
+      "start": 73,
+      "tag": "Weapon",
+      "text": "Black Hawk helicopter"
+    },
+    {
+      "end": 46,
+      "start": 22,
+      "tag": "Buyer",
+      "text": "The Philippine Air Force"
+    },
+    {
+      "end": 36,
+      "start": 26,
+      "tag": "Buyer Country",
+      "text": "Philippine"
+    },
+    {
+      "end": 387,
+      "start": 233,
+      "tag": "Answer",
+      "text": "the Air Force is looking to sign the acquisition deal of 16 choppers by next year. The military will also be purchasing new attack helicopters from Turkey"
+    },
+    {
+      "end": 246,
+      "start": 233,
+      "tag": "Buyer",
+      "text": "the Air Force"
+    },
+    {
+      "end": 292,
+      "start": 290,
+      "tag": "Quantity",
+      "text": "16"
+    },
+    {
+      "end": 301,
+      "start": 293,
+      "tag": "Weapon",
+      "text": "choppers"
+    },
+    {
+      "end": 328,
+      "start": 316,
+      "tag": "Buyer",
+      "text": "The military"
+    },
+    {
+      "end": 375,
+      "start": 357,
+      "tag": "Weapon",
+      "text": "attack helicopters"
+    },
+    {
+      "end": 387,
+      "start": 381,
+      "tag": "Seller Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 387,
+      "start": 381,
+      "tag": "Seller",
+      "text": "Turkey"
+    },
+    {
+      "end": 536,
+      "start": 407,
+      "tag": "Answer",
+      "text": "the Air Force technical working group has come up with a recommendation that the Black Hawk is the best option that they will buy"
+    },
+    {
+      "end": 444,
+      "start": 407,
+      "tag": "Buyer",
+      "text": "the Air Force technical working group"
+    },
+    {
+      "end": 498,
+      "start": 488,
+      "tag": "Weapon",
+      "text": "Black Hawk"
+    },
+    {
+      "end": 766,
+      "start": 653,
+      "tag": "Answer",
+      "text": "Lockheed Martin, through its helicopter unit Sikorsky, earlier offered the Black Hawk helicopter to the Air Force"
+    },
+    {
+      "end": 668,
+      "start": 653,
+      "tag": "Seller",
+      "text": "Lockheed Martin"
+    },
+    {
+      "end": 706,
+      "start": 698,
+      "tag": "Seller",
+      "text": "Sikorsky"
+    },
+    {
+      "end": 749,
+      "start": 728,
+      "tag": "Weapon",
+      "text": "Black Hawk helicopter"
+    },
+    {
+      "end": 766,
+      "start": 753,
+      "tag": "Buyer",
+      "text": "the Air Force"
+    },
+    {
+      "end": 1406,
+      "start": 1318,
+      "tag": "Answer",
+      "text": "the Air Force will be acquiring attack helicopters from the Turkish Aerospace Industries"
+    },
+    {
+      "end": 1331,
+      "start": 1318,
+      "tag": "Buyer",
+      "text": "the Air Force"
+    },
+    {
+      "end": 1406,
+      "start": 1374,
+      "tag": "Seller",
+      "text": "the Turkish Aerospace Industries"
+    },
+    {
+      "end": 1385,
+      "start": 1378,
+      "tag": "Seller Country",
+      "text": "Turkish"
+    },
+    {
+      "end": 1368,
+      "start": 1350,
+      "tag": "Weapon",
+      "text": "attack helicopters"
+    }
+  ],
+  "test": true,
+  "text": "MANILA, Philippines \u2014 The Philippine Air Force has chosen to acquire the Black Hawk helicopter as replacement for the canceled combat utility chopper deal with Canada, Defense Secretary Delfin Lorenzana said.\n\nThe Defense chief said the Air Force is looking to sign the acquisition deal of 16 choppers by next year. The military will also be purchasing new attack helicopters from Turkey.\n\n\"I think finally the Air Force technical working group has come up with a recommendation that the Black Hawk is the best option that they will buy,\" Lorenzana told reporters at the sidelines of a forum in Makati City Friday.\n\nGlobal aerospace and defense company Lockheed Martin, through its helicopter unit Sikorsky, earlier offered the Black Hawk helicopter to the Air Force.\n\nOther options considered were the AgustaWestland AW139, the Korea Aerospace Industries' Surion utility helicopter and Canadian-made Bell 412.\n\n\"We have limited money for that. We have only $240 million worth and the original pricing of this aircraft for the (Bell 41) we can get 16,\" Lorenzana said.\n\n\"Initially, the Surion we can get 10 because of the money and also the Black Hawk,\" the secretary said, adding that the manufacturers of the Black Hawk changed its offer so that the Philippines could get 16 choppers.\n\nLorenzana also confirmed that the Air Force will be acquiring attack helicopters from the Turkish Aerospace Industries.\n\n\"Its name is also 'ATAK' it's an attack helicopter... I think we can only get less than 10, maybe eight,\" Lorenzana said.\n\nInternational online magazine The Diplomat earlier reported that the Philippines has identified the T129 ATAK multirole combat helicopters to address the requirements of the Philippine military.\n\nThe upcoming government-to-government deal between the Philippines and Turkey would serve as a landmark deal for the defense relationship between the two countries, according to the report.\n\nPhilippine officials, however, have yet to formally announce the deal."
+}

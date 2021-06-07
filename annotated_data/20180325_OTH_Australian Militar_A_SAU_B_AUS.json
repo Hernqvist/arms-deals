@@ -1,0 +1,211 @@
+{
+  "filename": "20180325_OTH_Australian Militar_A_SAU_B_AUS",
+  "labels": [
+    {
+      "end": 521,
+      "start": 462,
+      "tag": "Answer",
+      "text": "export of military equipment from Australia to Saudi Arabia"
+    },
+    {
+      "end": 490,
+      "start": 472,
+      "tag": "Weapon",
+      "text": "military equipment"
+    },
+    {
+      "end": 505,
+      "start": 496,
+      "tag": "Seller",
+      "text": "Australia"
+    },
+    {
+      "end": 505,
+      "start": 496,
+      "tag": "Seller Country",
+      "text": "Australia"
+    },
+    {
+      "end": 521,
+      "start": 509,
+      "tag": "Buyer",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 521,
+      "start": 509,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 6367,
+      "start": 6150,
+      "tag": "Answer",
+      "text": "$89 billion naval shipbuilding plan \u201cto be spent on building 12 submarines, nine frigates and 12 offshore patrol vessels for the Australian navy as well as 19 Pacific patrol boats to be given to neighbouring countries"
+    },
+    {
+      "end": 6161,
+      "start": 6150,
+      "tag": "Price",
+      "text": "$89 billion"
+    },
+    {
+      "end": 6213,
+      "start": 6211,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 6224,
+      "start": 6214,
+      "tag": "Weapon",
+      "text": "submarines"
+    },
+    {
+      "end": 6230,
+      "start": 6226,
+      "tag": "Quantity",
+      "text": "nine"
+    },
+    {
+      "end": 6239,
+      "start": 6231,
+      "tag": "Weapon",
+      "text": "frigates"
+    },
+    {
+      "end": 6246,
+      "start": 6244,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 6270,
+      "start": 6247,
+      "tag": "Weapon",
+      "text": "offshore patrol vessels"
+    },
+    {
+      "end": 6294,
+      "start": 6275,
+      "tag": "Buyer",
+      "text": "the Australian navy"
+    },
+    {
+      "end": 6308,
+      "start": 6306,
+      "tag": "Quantity",
+      "text": "19"
+    },
+    {
+      "end": 6289,
+      "start": 6279,
+      "tag": "Buyer Country",
+      "text": "Australian"
+    },
+    {
+      "end": 6329,
+      "start": 6317,
+      "tag": "Weapon",
+      "text": "patrol boats"
+    },
+    {
+      "end": 6367,
+      "start": 6345,
+      "tag": "Buyer",
+      "text": "neighbouring countries"
+    },
+    {
+      "end": 7278,
+      "start": 7104,
+      "tag": "Answer",
+      "text": "Thales has exported some $1.6 billion worth of submarine sonars, air traffic control systems and Bushmaster armoured vehicles to Europe, Asia and the nations of the Caribbean"
+    },
+    {
+      "end": 7110,
+      "start": 7104,
+      "tag": "Seller",
+      "text": "Thales"
+    },
+    {
+      "end": 7141,
+      "start": 7129,
+      "tag": "Price",
+      "text": "$1.6 billion"
+    },
+    {
+      "end": 7167,
+      "start": 7151,
+      "tag": "Weapon",
+      "text": "submarine sonars"
+    },
+    {
+      "end": 7229,
+      "start": 7201,
+      "tag": "Weapon",
+      "text": "Bushmaster armoured vehicles"
+    },
+    {
+      "end": 7239,
+      "start": 7233,
+      "tag": "Buyer",
+      "text": "Europe"
+    },
+    {
+      "end": 7245,
+      "start": 7241,
+      "tag": "Buyer",
+      "text": "Asia"
+    },
+    {
+      "end": 7278,
+      "start": 7250,
+      "tag": "Buyer",
+      "text": "the nations of the Caribbean"
+    },
+    {
+      "end": 8635,
+      "start": 8544,
+      "tag": "Answer",
+      "text": "the US State Department approving a possible arms sale to Saudi Arabia worth more than $1bn"
+    },
+    {
+      "end": 8567,
+      "start": 8544,
+      "tag": "Seller",
+      "text": "the US State Department"
+    },
+    {
+      "end": 8550,
+      "start": 8548,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 8593,
+      "start": 8589,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 8614,
+      "start": 8602,
+      "tag": "Buyer",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 8614,
+      "start": 8602,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 8635,
+      "start": 8631,
+      "tag": "Price",
+      "text": "$1bn"
+    }
+  ],
+  "test": true,
+  "text": "We know that the Australian Government\u2019s planned expansion into arms sales has coincided with a four-fold increase in the number of military licenses for sales to one of the world\u2019s most oppressive regimes. But we don\u2019t know what we\u2019re actually selling them, writes Kellie Tranter.\n\nDocuments recently produced under Freedom of Information laws confirm that in the two years from 1 January 2016 to 31 December 2017 sixteen military licences were granted for the export of military equipment from Australia to Saudi Arabia. Until now it was widely believed that only four military licences were issued.\n\nRedactions to the FOI documents include the exclusion of any reference to the permit number, permit holder, what the approved goods are, consignees, end-users, approved destinations and even the date the permit was issued, so you have to try to piece the bigger picture together using what\u2019s left.\n\nFive of the licences granted refer to \u2018Approved DSGL Technology\u2019. The Defence and Strategic Goods List is a \u201ccompilation of military and commercial goods and technologies that Australia regulates. The goods, software and technologies on the list are agreed in conjunction with members of various international non-proliferation and export control regimes. These items either have a military use, or can be used to develop weapons of mass destruction. The DSGL also contains Australia-specific controls relating to firearms and explosives.\u201d\n\nThis comes on the back of calls by human rights groups including Amnesty International and Human Rights Watch for Australia to disclose defence deals with Saudi Arabia and halt military sales following the unlawful Saudi-led Coalition airstrikes and blockade in Yemen.\n\nIt is well known that the US-backed, Saudi-led airstrikes and naval blockade have devastated Yemen\u2019s health, water and sanitation systems, sparking a massive cholera outbreak and pushing millions of Yemenis to the brink of starvation. More than 15,000 people have died since the Saudi invasion \u2013 backed by Australia \u2013 in 2015.\n\nAsked what Saudi Arabia and the US are hoping to accomplish in Yemen, the Washington editor for Harper\u2019s magazine, Andrew Cockburn, said:\n\n\u201cThe US, it\u2019s not clear at all. The Saudis, basically \u2014 I mean, in the article, I go at some length into the sort of background to all this. But basically, they got freaked out at the thought that Iran was establishing a beachhead on their southern border, which was really kind of hysterical paranoia, because Iran wasn\u2019t really doing that. I mean, they were making some kind of connection with the Houthis, who are a religious minority, tribal minority, living in northern Yemen, but there was very little prospect of Iran setting up bases and so on and so forth.\u2026 And so, the Saudis got more and more sort of outraged as the Houthis took power in Yemen, or seemed to be taking over the country. And the US kind of went along with it.\n\n\u201cI was told, very early on in the war, Deputy Secretary of State Tony Blinken went to Riyadh to ask \u2026 when they had already been bombing away, using the US bombs, US-supplied bombs, using US weapons, killing already dozens, if not \u2026 hundreds of civilians, destroying factories. And finally, Blinken turns up in Riyadh and asks, \u2018By the way, what are you trying to accomplish here?\u2019 And the Saudis effectively said, or at least the Americans understood them to say, \u2018Well, we basically want to wipe out the Houthis.\u2019 Well, they termed it as \u2018end all Iranian influence in Yemen\u2019. Blinken was a bit shocked by that, so I\u2019m told, and said, \u2018Well, you know, that\u2019s going a bit far. But it\u2019s \u2014 you should certainly stop the Houthis taking over the country\u2019.\n\nAnd that, effectively, gave the Saudis carte blanche to continue this kind of mindless carpet-bombing, in effect, that\u2019s been going on almost ever since. There\u2019s been a bit of a lull over the summer, when you had the peace talks going on.\u201d\n\nAustralia is a signatory to the Arms Trade Treaty, which stipulates that signatories block any arms deal if there is evidence that the weapons will be used against civilians. We haven\u2019t been told whether or how the Department of Defence ensured compliance with this treaty obligation, and we don\u2019t know whether it obtained any legal opinion about whether or not any Australian exports were permitted in violation of the rules of international law.\n\nPutting human rights and morality to one side, which it seems to do all too often when those factors are in play, the Australian Government has made no secret of its desire to grow the Australian arms export industry.\n\nOn 24 October 2016 Kate Louis, First Assistant Secretary Defence Industry Policy, provided a \u2018Departmental Advice\u2019 noting that:\n\n\u201cReports indicate the Royal Saudi Naval Force has been planning an expansion of its eastern fleet with a budget estimated at about $20 billion \u2026 [redacted ] been invited to talk to the Saudi Navy about the program and are seeking Australian Government support in its export endeavours\u2026 Over the past year Defence has assessed or provided in principle approval for exports of a wide range of technologies and goods to various end users in Saudi Arabia. Many of these were dual use technologies which can have civilian applications\u2026.\u201d\n\nTwo months later Christopher Pyne, fully laden with RM Williams bags and books for various Saudi princes and officials, was on a plane to advocate on behalf of private Defence manufacturers seeking to export to Saudi Arabia. No doubt coincidentally, his first stop was Riyadh which headquarters the Royal Saudi Navy.\n\nThe FOI documents include a document dated 25 January 2017 titled \u2018MDIND visit to Europe and Saudi Arabia \u2013 thank you letters\u2019, but with the recipient\u2019s name redacted, that says:\n\n\u201cFollowing your visit to [redacted]Saudi Arabia in December 2016 you requested that Defence draft thank you letters to people you met with\u2026Consultation. Yes, Future Submarine Program [emphasis added].\u201d\n\nOn 24 February 2017 an article published in Pakistan Defence referred to United Arab Emirates and Saudi Arabia wanting to get submarines.\n\nIn May 2017 Prime Minister Turnbull was outlining the Government\u2019s $89 billion naval shipbuilding plan \u201cto be spent on building 12 submarines, nine frigates and 12 offshore patrol vessels for the Australian navy as well as 19 Pacific patrol boats to be given to neighbouring countries.\u201d It has been further reported that the Osborne shipyard, created as a result, \u201cwill be the epicentre of Australian naval construction until at least the 2050s. Two giant projects will be based there \u2014 the $35 billion future frigates build and $50 billion Future Submarines project\u201d.\n\nIn July 2017 Christopher Pyne delivered a speech \u2018Developing a Defence Export Strategy\u2019 to the Australian Strategic Policy Institute which referred to \u201cThe Australian designed Nulka decoy system that protects ships from missiles not so long ago saved USS Mason from an attack by Houthi rebels off the coast of Yemen.\u201d\n\nHe also noted that \u201cThales has been a major export success story while supporting our own defence needs. Over the past decade or so Thales has exported some $1.6 billion worth of submarine sonars, air traffic control systems and Bushmaster armoured vehicles to Europe, Asia and the nations of the Caribbean. Austal is exporting both Australian manufactured vessels and Australian designs and engineering innovations around the world. In a major triumph for local industry they won a contract worth just under $800 million to build the Independence Class Littoral Combat Ship for the United States Navy at the end of last month.\u201d\n\nThales Australia (formerly ADI Limited) is the Australian branch of the French military engineering firm. Thales Underwater Systems\u2019 Sydney site was the location of choice for the Prime Minister to announce the Government\u2019s $3.8bn fund to underwrite an expansion of arms exports earlier this year.\n\nIronically on the same day it was reported that the Royal Australian Navy had conducted training with its Saudi counterpart on the Red Sea. Defence Connect reported that \u2018Pyne eyes submarine exports\u2019.\n\nYou can see the picture coming together, but the truth about what is going on, and why, is a matter of speculation because the Government is not telling us anything substantial.\n\nThis week a report from French law firm Ancile Avocat asserts that France\u2019s arms exports to Saudi Arabia and United Arab Emirates could be in contravention of its international commitments and similar criticisms have been levelled at the United States following the US State Department approving a possible arms sale to Saudi Arabia worth more than $1bn.\n\nIrrespective of ethics, morality, human rights or international law the Government seems to be hell bent on ramping up arms exports to countries like Saudi Arabia, which seeks dominance of Sunni Islam in other countries in its region; which has provided \u2018clandestine financial and logistic support to ISIL\u2019; which has smuggled cash, weapons and ammunition to highly radicalised groups \u2013 including for example the Army of Islam in Syria \u2018which has paraded caged women as human shields against airstrikes\u2019; which is engaged in a brutal regional conflict knowingly inflicting immeasurable harm on innocent civilians, and which is known to have procured weapons and then transferred them to third parties."
+}

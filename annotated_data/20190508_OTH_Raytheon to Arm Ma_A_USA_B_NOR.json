@@ -1,0 +1,43 @@
+{
+  "filename": "20190508_OTH_Raytheon to Arm Ma_A_USA_B_NOR",
+  "labels": [
+    {
+      "end": 291,
+      "start": 188,
+      "tag": "Answer",
+      "text": "Raytheon was given a $47-million award to integrate the Naval Strike Missile into the U.S. Marine Corps"
+    },
+    {
+      "end": 291,
+      "start": 270,
+      "tag": "Buyer",
+      "text": "the U.S. Marine Corps"
+    },
+    {
+      "end": 277,
+      "start": 274,
+      "tag": "Buyer Country",
+      "text": "U.S"
+    },
+    {
+      "end": 196,
+      "start": 188,
+      "tag": "Seller",
+      "text": "Raytheon"
+    },
+    {
+      "end": 220,
+      "start": 209,
+      "tag": "Price",
+      "text": "$47-million"
+    },
+    {
+      "end": 264,
+      "start": 244,
+      "tag": "Weapon",
+      "text": "Naval Strike Missile"
+    }
+  ],
+  "test": true,
+  "text": "NATIONAL HARBOR, Md. \u2013 The Marine Corps is moving to integrate the Naval Strike Missile with its own forces as the service is pushing into a new era of island-hopping warfare.\n\nThis week, Raytheon was given a $47-million award to integrate the Naval Strike Missile into the U.S. Marine Corps\u2019 \u201cexisting force structure,\u201d according to an announcement from the company on the other transaction authority (OTA).\n\n\u201cThis fifth-generation missile adds another dimension for sea control operations and for protection from adversary warships,\u201d Kim Ernzen, vice president of Raytheon Air Warfare Systems, said in a statement.\n\nThe selection of the subsonic anti-ship missile by the Marine Corps follows the Navy, which plans to field the NSMs later this year on a deployment of Littoral Combat Ships to the Pacific.\n\n\u201cThe Marine Corps\u2019 selection of the Navy\u2019s anti-ship missile enhances joint interoperability and reduces costs and logistical burdens,\u201d reads the Raytheon statement.\n\nWhile Randy Kempton, Raytheon\u2019s NSM program director, would not specify what platforms the Marines would use to deploy the missile, NSM designer Kongsberg has been working with Lockheed Martin to field an air-launched version of the missile on Norwegian and Australian F-35 Lighting II Joint Strike Fighters.\n\nEarlier this year, Commandant of the Marine Corps Gen. Robert Neller told USNI News the Marines were interested in fielding a land-based anti-ship missiles as soon as possible.\n\n\u201cThere\u2019s a ground component to the maritime fight. We\u2019re a naval force in a naval campaign; you have to help the ships control sea space. And you can do that from the land,\u201d Neller told USNI News in February.\n\n\u201cWe\u2019ve got to be able to attack surface platforms at range, and so that\u2019s what the capability requirement is.\u201d\n\nLast year, the Army fired an NSM at a decommissioned ship from a ground vehicle as part of a demonstration during the 2018 Rim of the Pacific exercise. The Marines have also experimented firing rounds from M142 High Mobility Artillery Rocket System (HIMARS) at targets from sea, though it is unclear if the system could field the NSM.\n\nThe service is in the process of developing its piece of the Pentagon\u2019s push into a new era of high-end warfare with the island-hopping Expeditionary Advance Base Operations concept."
+}

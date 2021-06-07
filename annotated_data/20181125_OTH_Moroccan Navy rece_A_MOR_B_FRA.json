@@ -1,0 +1,163 @@
+{
+  "filename": "20181125_OTH_Moroccan Navy rece_A_MOR_B_FRA",
+  "labels": [
+    {
+      "end": 23,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The Royal Moroccan Navy"
+    },
+    {
+      "end": 18,
+      "start": 10,
+      "tag": "Buyer Country",
+      "text": "Moroccan"
+    },
+    {
+      "end": 49,
+      "start": 46,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 73,
+      "start": 50,
+      "tag": "Weapon",
+      "text": "King Air 350ER aircraft"
+    },
+    {
+      "end": 110,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The Royal Moroccan Navy is taking delivery of two King Air 350ER aircraft configured for maritime surveillance"
+    },
+    {
+      "end": 1067,
+      "start": 982,
+      "tag": "Answer",
+      "text": "The Navy also operates two King Air 350ER which was supplied by Leonardo in July 2016"
+    },
+    {
+      "end": 990,
+      "start": 982,
+      "tag": "Buyer",
+      "text": "The Navy"
+    },
+    {
+      "end": 1008,
+      "start": 1005,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1023,
+      "start": 1009,
+      "tag": "Weapon",
+      "text": "King Air 350ER"
+    },
+    {
+      "end": 1054,
+      "start": 1046,
+      "tag": "Seller",
+      "text": "Leonardo"
+    },
+    {
+      "end": 1067,
+      "start": 1058,
+      "tag": "Date",
+      "text": "July 2016"
+    },
+    {
+      "end": 1307,
+      "start": 1137,
+      "tag": "Answer",
+      "text": "the Royal Moroccan Navy took delivery of a new 72-meter hydro-oceanographic and multi-missions vessel (BHO2M) named \u201cDAR AL BEIDA\u201d from French shipbuilding company Piriou"
+    },
+    {
+      "end": 120,
+      "start": 117,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 144,
+      "start": 121,
+      "tag": "Weapon",
+      "text": "King Air 350ER aircraft"
+    },
+    {
+      "end": 190,
+      "start": 172,
+      "tag": "Seller",
+      "text": "the United States "
+    },
+    {
+      "end": 189,
+      "start": 176,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 197,
+      "start": 193,
+      "tag": "Date",
+      "text": "2016"
+    },
+    {
+      "end": 236,
+      "start": 230,
+      "tag": "Buyer",
+      "text": "France"
+    },
+    {
+      "end": 236,
+      "start": 230,
+      "tag": "Buyer Country",
+      "text": "France"
+    },
+    {
+      "end": 247,
+      "start": 113,
+      "tag": "Answer",
+      "text": "The two King Air 350ER aircraft which were manufactured in the United States in 2016 and subsequently transferred to France in 2017/18"
+    },
+    {
+      "end": 247,
+      "start": 240,
+      "tag": "Date",
+      "text": "2017/18"
+    },
+    {
+      "end": 1160,
+      "start": 1137,
+      "tag": "Buyer",
+      "text": "the Royal Moroccan Navy"
+    },
+    {
+      "end": 1155,
+      "start": 1147,
+      "tag": "Buyer Country",
+      "text": "Moroccan"
+    },
+    {
+      "end": 1246,
+      "start": 1184,
+      "tag": "Weapon",
+      "text": "72-meter hydro-oceanographic and multi-missions vessel (BHO2M)"
+    },
+    {
+      "end": 1279,
+      "start": 1273,
+      "tag": "Seller Country",
+      "text": "French"
+    },
+    {
+      "end": 1307,
+      "start": 1301,
+      "tag": "Seller",
+      "text": "Piriou"
+    }
+  ],
+  "test": true,
+  "text": "The Royal Moroccan Navy is taking delivery of two King Air 350ER aircraft configured for maritime surveillance.\n\nThe two King Air 350ER aircraft which were manufactured in the United States in 2016 and subsequently transferred to France in 2017/18 to have their special mission equipment fitted.\n\nBoth aircraft are distinguishable by ventral fins and bubble observation windows. Equipment for the maritime surveillance role includes the Leonardo ATOS (Airborne Tactical Observation and Surveillance) system, Seaspray 7300 radar, identification friend or foe system, Link 11 data link and EOST23 electro-optical sensor.\n\nWith an endurance, or time on station, of more than 5 hours, the Beechcraft 350ERs will be used for a number of roles including maritime surveillance, search and rescue and marine pollution detection.\n\nBoth aircraft will join three AS565 Panthers, which were delivered in 2002 and a dozen Beechcraft 100/200/300/350 aircraft, which will make maintenance easier. The Navy also operates two King Air 350ER which was supplied by Leonardo in July 2016, both aircraft are equipped with the ATOS mission system.\n\nRecently, the Royal Moroccan Navy took delivery of a new 72-meter hydro-oceanographic and multi-missions vessel (BHO2M) named \u201cDAR AL BEIDA\u201d from French shipbuilding company Piriou.\n\nDar al Beida will enable the Royal Moroccan Navy the ability to carry out to carry out in-depth surveys of its waters such as hydrographic surveying for civil and military purposes, understanding the seabed, salinity and temperature of the ocean will help submariners, for example. The Royal Mooccan Navy formerly relied on France to map the seabed in Morocco\u2019s deeper offshore waters since Morocco is a member of the International Hydrographic Organisation (IHO)."
+}
