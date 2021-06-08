@@ -1,0 +1,121 @@
+{
+  "filename": "20160825_DEFWEB_Nigerian Air Fo_A_NIG_B_CHI",
+  "labels": [
+    {
+      "end": 140,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The Nigerian Air Force is apparently getting ready to take delivery of Yabhon Flash-20 unmanned aerial vehicles and Mi-35 attack helicopters"
+    },
+    {
+      "end": 22,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The Nigerian Air Force"
+    },
+    {
+      "end": 12,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 111,
+      "start": 71,
+      "tag": "Weapon",
+      "text": "Yabhon Flash-20 unmanned aerial vehicles"
+    },
+    {
+      "end": 140,
+      "start": 116,
+      "tag": "Weapon",
+      "text": "Mi-35 attack helicopters"
+    },
+    {
+      "end": 325,
+      "start": 143,
+      "tag": "Answer",
+      "text": "Nigeria is apparently acquiring an additional 15 Mi-35M attack helicopters from Russia and Adcom Systems Yabhon Flash-20 unmanned aerial vehicles (UAVs) from the United Arab Emirates"
+    },
+    {
+      "end": 150,
+      "start": 143,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 150,
+      "start": 143,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 191,
+      "start": 189,
+      "tag": "Quantity",
+      "text": "15"
+    },
+    {
+      "end": 217,
+      "start": 192,
+      "tag": "Weapon",
+      "text": "Mi-35M attack helicopters"
+    },
+    {
+      "end": 229,
+      "start": 223,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 229,
+      "start": 223,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 295,
+      "start": 234,
+      "tag": "Weapon",
+      "text": "Adcom Systems Yabhon Flash-20 unmanned aerial vehicles (UAVs)"
+    },
+    {
+      "end": 325,
+      "start": 305,
+      "tag": "Seller",
+      "text": "United Arab Emirates"
+    },
+    {
+      "end": 325,
+      "start": 305,
+      "tag": "Seller Country",
+      "text": "United Arab Emirates"
+    },
+    {
+      "end": 517,
+      "start": 482,
+      "tag": "Answer",
+      "text": "CH-3 armed UAVs acquired from China"
+    },
+    {
+      "end": 497,
+      "start": 482,
+      "tag": "Weapon",
+      "text": "CH-3 armed UAVs"
+    },
+    {
+      "end": 517,
+      "start": 512,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 517,
+      "start": 512,
+      "tag": "Seller Country",
+      "text": "China"
+    }
+  ],
+  "test": true,
+  "text": "The Nigerian Air Force is apparently getting ready to take delivery of Yabhon Flash-20 unmanned aerial vehicles and Mi-35 attack helicopters.\n\nNigeria is apparently acquiring an additional 15 Mi-35M attack helicopters from Russia and Adcom Systems Yabhon Flash-20 unmanned aerial vehicles (UAVs) from the United Arab Emirates. Some of the UAVs and three helicopters are supposed to arrive in November this year.\n\nNigerian media report that the Yabhon Flash-20 UAVs will replace the CH-3 armed UAVs acquired from China. One crashed in January 2015 and the type has apparently been problematic in Nigerian service. They have been armed with AR-1 missiles, and used to strike Boko Haram positions.\n\nThe Yabhon Flash 20 is the smallest of Adcom Systems\u2019 UAVs at about 1.5 tonnes maximum take-off weight. It can fly for 60-70 hours and carries a gimbaled camera platform.\n\nNigeria also has Aerostar UAVs and some indigenous designs in service such as the Gulma.\n\nSource: Defence Web"
+}

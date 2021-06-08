@@ -1,0 +1,37 @@
+{
+  "filename": "20180614_DN_Estonias new law op",
+  "labels": [
+    {
+      "end": 1436,
+      "start": 1379,
+      "tag": "Answer",
+      "text": "Estonia aims to purchase munitions for about \u20ac100 million"
+    },
+    {
+      "end": 1386,
+      "start": 1379,
+      "tag": "Buyer",
+      "text": "Estonia"
+    },
+    {
+      "end": 1386,
+      "start": 1379,
+      "tag": "Buyer Country",
+      "text": "Estonia"
+    },
+    {
+      "end": 1413,
+      "start": 1404,
+      "tag": "Weapon",
+      "text": "munitions"
+    },
+    {
+      "end": 1436,
+      "start": 1424,
+      "tag": "Price",
+      "text": "\u20ac100 million"
+    }
+  ],
+  "test": true,
+  "text": "WARSAW, Poland \u2014 Estonia\u2019s Parliament has amended legislation to allow Estonian companies to make and handle military weapons and gear. The law paves the way for the development of the country\u2019s defense industry and the export of weapons and equipment by local players.\n\nEstonian Defence Minister J\u00fcri Luik said in a statement that, to date, the Estonian military has acquired its gear almost exclusively abroad, but now the situation is expected to change, and export opportunities for the country\u2019s defense industry will also increase.\n\n\u201cThe absence of a right to handle weapons and ammunition has long been a serious concern for Estonia\u2019s defense industry, one that hinders the development of the defense sector,\u201d Luik said.\n\nThe legislation\u2019s summary states it \u201cprovides a legal framework for Estonian companies to begin to manufacture, maintain, import and export military weapons, ammunition, munitions and combat vehicles. The existing legislation does not allow this.\u201d\n\nThe ministry expects between five and six local companies to apply for the required licenses in the first year.\n\nThe move comes as Estonia is planning a defense spending hike, with military expenditure to total \u20ac2.4 billion (U.S. $2.8 billion) in the next four years, according to Luik. Last April, the ministry unveiled the country\u2019s updated investment program for the years 2018-2022. Among others, Estonia aims to purchase munitions for about \u20ac100 million.\n\nOwing to the amended legislation, Estonian defense companies could also become suppliers to neighboring Lithuania and Latvia.\n\nLithuania has allocated \u20ac873 million to its defense budget this year, up 20.6 percent compared with 2017. Latvia\u2019s military expenditure for 2018 is to reach \u20ac576.34 million, up \u20ac126.8 million compared with a year earlier."
+}

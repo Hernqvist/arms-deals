@@ -1,0 +1,169 @@
+{
+  "filename": "20181002_OTH_Armenia defence bu",
+  "labels": [
+    {
+      "end": 1195,
+      "start": 1097,
+      "tag": "Answer",
+      "text": "credit expected from the Russian Federation which would be extended to Armenia to buy new weaponry"
+    },
+    {
+      "end": 1140,
+      "start": 1118,
+      "tag": "Seller",
+      "text": "the Russian Federation"
+    },
+    {
+      "end": 1129,
+      "start": 1122,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1175,
+      "start": 1168,
+      "tag": "Buyer",
+      "text": "Armenia"
+    },
+    {
+      "end": 1175,
+      "start": 1168,
+      "tag": "Buyer Country",
+      "text": "Armenia"
+    },
+    {
+      "end": 1195,
+      "start": 1187,
+      "tag": "Weapon",
+      "text": "weaponry"
+    },
+    {
+      "end": 1520,
+      "start": 1377,
+      "tag": "Answer",
+      "text": "line of credit extended by the Russian Federation to Armenia to buy weapons. Armenia has already received 300 million USD in credit from Russia"
+    },
+    {
+      "end": 1426,
+      "start": 1404,
+      "tag": "Seller",
+      "text": "the Russian Federation"
+    },
+    {
+      "end": 1415,
+      "start": 1408,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1437,
+      "start": 1430,
+      "tag": "Buyer",
+      "text": "Armenia"
+    },
+    {
+      "end": 1437,
+      "start": 1430,
+      "tag": "Buyer Country",
+      "text": "Armenia"
+    },
+    {
+      "end": 1452,
+      "start": 1445,
+      "tag": "Weapon",
+      "text": "weapons"
+    },
+    {
+      "end": 1498,
+      "start": 1483,
+      "tag": "Price",
+      "text": "300 million USD"
+    },
+    {
+      "end": 1520,
+      "start": 1514,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1520,
+      "start": 1514,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1751,
+      "start": 1568,
+      "tag": "Answer",
+      "text": "Armenia buys weaponry from Russia to keep its arsenal up-to-date. In particular, Yerevan has already received Iskander tactical ballistic missiles and Smerch multiple rocket launchers"
+    },
+    {
+      "end": 1575,
+      "start": 1568,
+      "tag": "Buyer",
+      "text": "Armenia"
+    },
+    {
+      "end": 1575,
+      "start": 1568,
+      "tag": "Buyer Country",
+      "text": "Armenia"
+    },
+    {
+      "end": 1601,
+      "start": 1595,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1601,
+      "start": 1595,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1656,
+      "start": 1649,
+      "tag": "Buyer",
+      "text": "Yerevan"
+    },
+    {
+      "end": 1714,
+      "start": 1678,
+      "tag": "Weapon",
+      "text": "Iskander tactical ballistic missiles"
+    },
+    {
+      "end": 1751,
+      "start": 1719,
+      "tag": "Weapon",
+      "text": "Smerch multiple rocket launchers"
+    },
+    {
+      "end": 1819,
+      "start": 1779,
+      "tag": "Answer",
+      "text": "Armenia may buy SU-30SM fighter aircraft"
+    },
+    {
+      "end": 1786,
+      "start": 1779,
+      "tag": "Buyer",
+      "text": "Armenia"
+    },
+    {
+      "end": 1786,
+      "start": 1779,
+      "tag": "Buyer Country",
+      "text": "Armenia"
+    },
+    {
+      "end": 1819,
+      "start": 1795,
+      "tag": "Weapon",
+      "text": "SU-30SM fighter aircraft"
+    }
+  ],
+  "test": true,
+  "text": "The Armenian government will allocate 647 million dollars to defence in the 2019 budget.\n\nThis is more than 25 per cent higher than the defence budget of 2018. This is the second year in a row that the defence budget has increased, with the 2018 budget amounting to 518 million dollars, or 17 per cent larger than in 2017.\n\nWhat is the increase in military spending connected to?\n\n1.\n\nThe increase in the defence budget can be partially attributed to the growth of the Armenian economy. In 2018, the country\u2019s GDP grew by 6.5 per cent, and 5 per cent growth is forecast for 2018. In 2019, 4.5 per cent of the GDP will be spent on defence. In developed countries such as the US, the military budget is no more than 2 per cent of the GDP.\n\n2.\n\nThe decision to increase the defence expenditure is connected to a continuing arms race between Armenia and Azerbaijan. The situation on the line of contact is tense. While action does not reach levels of outright warfare, the ceasefire agreement is consistently violated.\n\n3.\n\nThe sharp increase in the defence budget of Armenia may also be connected to credit expected from the Russian Federation which would be extended to Armenia to buy new weaponry. Current information states that negotiations between Yerevan and Moscow concern a 100 million dollar credit line. Should the two sides come to an agreement, this will be the third line of credit extended by the Russian Federation to Armenia to buy weapons. Armenia has already received 300 million USD in credit from Russia.\n\nWhat weaponry does Armenia buy from Russia?\n\nArmenia buys weaponry from Russia to keep its arsenal up-to-date. In particular, Yerevan has already received Iskander tactical ballistic missiles and Smerch multiple rocket launchers.\n\nLocal media reports that Armenia may buy SU-30SM fighter aircraft. It is possible that the increase in the defence budget may also be linked to an attempt to strengthen the country\u2019s air force.\n\nIs it possible to reduce tension on the line of contact?\n\nSeveral days ago, Armenian PM Nikol Pashinyan and Azerbaijani President Ilham Aliyev agreed to decrease tension on the line of contact and to take measures to prevent violations of the ceasefire agreement.\n\nWhether or not both sides will abide by this undertaking has yet to be seen."
+}
