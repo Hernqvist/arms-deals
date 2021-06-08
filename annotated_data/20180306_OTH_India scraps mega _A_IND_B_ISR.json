@@ -1,0 +1,67 @@
+{
+  "filename": "20180306_OTH_India scraps mega _A_IND_B_ISR",
+  "labels": [
+    {
+      "end": 23,
+      "start": 18,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 23,
+      "start": 18,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 48,
+      "start": 37,
+      "tag": "Price",
+      "text": "Rs 3,300 cr"
+    },
+    {
+      "end": 64,
+      "start": 59,
+      "tag": "Quantity",
+      "text": "8,356"
+    },
+    {
+      "end": 89,
+      "start": 65,
+      "tag": "Weapon",
+      "text": "Spike anti-tank missiles"
+    },
+    {
+      "end": 122,
+      "start": 117,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 145,
+      "start": 126,
+      "tag": "Seller",
+      "text": "Bharat Dynamics Ltd"
+    },
+    {
+      "end": 219,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The government of India has canceled Rs 3,300 cr order for 8,356 Spike anti-tank missiles that was to be produced in India by Bharat Dynamics Ltd, a government of India enterprise, in association with an Israeli company"
+    },
+    {
+      "end": 211,
+      "start": 204,
+      "tag": "Seller Country",
+      "text": "Israeli"
+    },
+    {
+      "end": 219,
+      "start": 204,
+      "tag": "Seller",
+      "text": "Israeli company"
+    }
+  ],
+  "test": true,
+  "text": "The government of India has canceled Rs 3,300 cr order for 8,356 Spike anti-tank missiles that was to be produced in India by Bharat Dynamics Ltd, a government of India enterprise, in association with an Israeli company.\n\nThe anti-tank missiles were supposed to be have been produced with transfer of technology from Israel-based Spike. Preliminary approval for the deal was given in June 2009 and a \u2018request for proposal\u2019 (akin to a tender) was issued in April 2010.\n\nHowever, said defence minister Nirmala Seetharaman, the government has \u2018retracted\u2019 the request for proposal for the missiles as on Dec 20, 2017.\n\nThis, she said, was done after the Defence Research and Development Organization was successful in creating an indigenous anti-tank missile that can be manufactured without the aid of any technology licensing from foreign companies.\n\n\u201cOn account of indigenous development of 3rd Generation Man-Portable Anti-Tank Guided Missile (MPATGM) system by Defence Research & Development Organization, it was, inter alia, decided that there is no need to acquire ToT with the ATGM system,\u201d Seetharam said.\n\nThe MPATGM, which weighs around 20 kg, can be used by Infantry Battalions against Armoured vehicles up to 2.5km in range and will replace the Soviet-era anti-tank missiles used by Indian army. It will compete with units such as the US\u2019 Javelin missiles (picture above).\n\nIndia is estimated to require about 80,000 anti-tank missiles. The DRDO variant, meanwhile, is expected to complete final testing this year."
+}

@@ -1,0 +1,145 @@
+{
+  "filename": "20180219_TASS_Russia and Saudi _A_SAU_B_RUS",
+  "labels": [
+    {
+      "end": 338,
+      "start": 244,
+      "tag": "Answer",
+      "text": "Negotiations on supplies of Russian S-400 missile systems to Saudi Arabia are on the final lap"
+    },
+    {
+      "end": 279,
+      "start": 272,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 279,
+      "start": 272,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 301,
+      "start": 280,
+      "tag": "Weapon",
+      "text": "S-400 missile systems"
+    },
+    {
+      "end": 317,
+      "start": 305,
+      "tag": "Buyer",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 317,
+      "start": 305,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 665,
+      "start": 480,
+      "tag": "Answer",
+      "text": "Russian president\u2019s military technical cooperation aide Vladimir Kozhin said in an interview with the Kommersant daily that documents on S-400 deliveries to Saudi Arabia had been signed"
+    },
+    {
+      "end": 551,
+      "start": 480,
+      "tag": "Seller",
+      "text": "Russian president\u2019s military technical cooperation aide Vladimir Kozhin"
+    },
+    {
+      "end": 487,
+      "start": 480,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 622,
+      "start": 617,
+      "tag": "Weapon",
+      "text": "S-400"
+    },
+    {
+      "end": 649,
+      "start": 637,
+      "tag": "Buyer",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 649,
+      "start": 637,
+      "tag": "Buyer Country",
+      "text": "Saudi Arabia"
+    },
+    {
+      "end": 1752,
+      "start": 1566,
+      "tag": "Answer",
+      "text": "China was the first to sign a contract for such systems. Later on, Russia inked an intergovernmental agreement for S-400 sales with India. In 2017, such a contract was signed with Turkey"
+    },
+    {
+      "end": 1571,
+      "start": 1566,
+      "tag": "Buyer",
+      "text": "China"
+    },
+    {
+      "end": 1571,
+      "start": 1566,
+      "tag": "Buyer Country",
+      "text": "China"
+    },
+    {
+      "end": 1639,
+      "start": 1633,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1639,
+      "start": 1633,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1686,
+      "start": 1681,
+      "tag": "Weapon",
+      "text": "S-400"
+    },
+    {
+      "end": 1703,
+      "start": 1698,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1703,
+      "start": 1698,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1712,
+      "start": 1708,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 1752,
+      "start": 1746,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 1752,
+      "start": 1746,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    }
+  ],
+  "test": true,
+  "text": "\"Regarding the s-400, detail discussions are continuing between the two sides on the final arrangements of this. We are discussing technical issues, especially regarding technology transfer and know-how,\" he said.\n\nMOSCOW, February 19. /TASS/. Negotiations on supplies of Russian S-400 missile systems to Saudi Arabia are on the final lap, with the sides discussing technical and logistics details, Saudi Ambassador to Russia Raed bin Khaled Qrimli told TASS on Monday.\n\nEarlier, Russian president\u2019s military technical cooperation aide Vladimir Kozhin said in an interview with the Kommersant daily that documents on S-400 deliveries to Saudi Arabia had been signed, with all the parameters agreed.\n\nRussia\u2019s S-400 Triumf (NATO reporting name: SA-21 Growler) is the latest long-range anti-aircraft missile system that went into service in 2007. It is designed to destroy aircraft, cruise and ballistic missiles, including medium-range missiles, and surface targets. The system can hit aerodynamic targets at a range of up to 400 kilometers (249 miles) and tactical ballistic targets flying at a speed of 4.8 km/s (3 mi/s) at a distance of up to 60 kilometers (37 miles). Such targets include cruise missiles, tactical and strategic aircraft and ballistic missile warheads.\n\nThe system\u2019s radars detect aerial targets at a distance of up to 600 kilometers (373 miles). The system\u2019s 48N6E3 surface-to-air missiles can hit aerodynamic targets at altitudes of 10,000-27,000 meters and ballistic threats at altitudes of 2,000-25,000 meters.\n\nAccording to earlier reports, China was the first to sign a contract for such systems. Later on, Russia inked an intergovernmental agreement for S-400 sales with India. In 2017, such a contract was signed with Turkey."
+}
