@@ -1,0 +1,55 @@
+{
+  "filename": "20190420_DAILY_Taiwan to receiv_A_TAI_B_USA",
+  "labels": [
+    {
+      "end": 293,
+      "start": 165,
+      "tag": "Answer",
+      "text": "The first batch of a total of 250 Stinger missiles ordered from the United States should arrive in Taiwan by the end of the year"
+    },
+    {
+      "end": 198,
+      "start": 195,
+      "tag": "Quantity",
+      "text": "250"
+    },
+    {
+      "end": 216,
+      "start": 199,
+      "tag": "Weapon",
+      "text": "Stinger missiles "
+    },
+    {
+      "end": 246,
+      "start": 229,
+      "tag": "Seller",
+      "text": "the United States"
+    },
+    {
+      "end": 246,
+      "start": 233,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 270,
+      "start": 264,
+      "tag": "Buyer",
+      "text": "Taiwan"
+    },
+    {
+      "end": 270,
+      "start": 264,
+      "tag": "Buyer Country",
+      "text": "Taiwan"
+    },
+    {
+      "end": 293,
+      "start": 274,
+      "tag": "Date",
+      "text": "the end of the year"
+    }
+  ],
+  "test": true,
+  "text": "U.S. Marines training with Stinger missiles in Romania, in 2017. U.S. Marines training with Stinger missiles in Romania, in 2017. (AP photo)\n\nTAIPEI (Taiwan News) \u2013 The first batch of a total of 250 Stinger missiles ordered from the United States should arrive in Taiwan by the end of the year, the Liberty Times reported Saturday (April 20).\n\nThe NT$13.3 billion (US$433.7 million) deal includes the portable surface-to-air missiles, the launch units and training for the operators, but Taiwan\u2019s own National Chung-Shan Institute of Science and Technology (NCSIST) will be responsible for the necessary target identification systems, according to the report.\n\nThe contract for the Stinger Block I-92F runs from 2017 to 2025 and covers 250 missiles in total.\n\nDetails of the project were still being worked out, including the use of technology by NCSIST, the Liberty Times wrote.\n\nTaiwan\u2019s Army already disposes of the Avenger Air Defense System, while Apache helicopters are also equipped with similar missiles. The arrival of the Stingers beginning later this year will complete the military\u2019s air defense missile arsenal, according to the Liberty Times."
+}

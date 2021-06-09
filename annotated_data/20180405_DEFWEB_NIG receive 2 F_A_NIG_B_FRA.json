@@ -1,0 +1,223 @@
+{
+  "filename": "20180405_DEFWEB_NIG receive 2 F_A_NIG_B_FRA",
+  "labels": [
+    {
+      "end": 88,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The Nigerian Navy will soon be receiving two new FPB 110 patrol boats from France\u2019s Ocea"
+    },
+    {
+      "end": 18,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The Nigerian Navy "
+    },
+    {
+      "end": 12,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 44,
+      "start": 41,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 69,
+      "start": 49,
+      "tag": "Weapon",
+      "text": "FPB 110 patrol boats"
+    },
+    {
+      "end": 81,
+      "start": 75,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 88,
+      "start": 84,
+      "tag": "Seller",
+      "text": "Ocea"
+    },
+    {
+      "end": 689,
+      "start": 596,
+      "tag": "Answer",
+      "text": "In February 2017 it emerged that Nigeria had ordered two FPB 110 Mk II coastal patrol vessels"
+    },
+    {
+      "end": 612,
+      "start": 599,
+      "tag": "Date",
+      "text": "February 2017"
+    },
+    {
+      "end": 636,
+      "start": 629,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 636,
+      "start": 629,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 652,
+      "start": 649,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 689,
+      "start": 653,
+      "tag": "Weapon",
+      "text": "FPB 110 Mk II coastal patrol vessels"
+    },
+    {
+      "end": 1795,
+      "start": 1547,
+      "tag": "Answer",
+      "text": "Ocea has delivered a number of other vessels to Nigeria, including three 24 metre long FPB 72s in 2012 and a 32 metre FPB 98 Mk II in 2013. Five FPB 72s have been ordered, with two, the Gongola and Calabar, delivered to Nigeria in January this year"
+    },
+    {
+      "end": 1551,
+      "start": 1547,
+      "tag": "Seller",
+      "text": "Ocea"
+    },
+    {
+      "end": 1602,
+      "start": 1595,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 1602,
+      "start": 1595,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 1591,
+      "start": 1584,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 1619,
+      "start": 1614,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1641,
+      "start": 1620,
+      "tag": "Weapon",
+      "text": "24 metre long FPB 72s"
+    },
+    {
+      "end": 1649,
+      "start": 1645,
+      "tag": "Date",
+      "text": "2012"
+    },
+    {
+      "end": 1677,
+      "start": 1656,
+      "tag": "Weapon",
+      "text": "32 metre FPB 98 Mk II"
+    },
+    {
+      "end": 1685,
+      "start": 1681,
+      "tag": "Date",
+      "text": "2013"
+    },
+    {
+      "end": 1691,
+      "start": 1687,
+      "tag": "Quantity",
+      "text": "Five"
+    },
+    {
+      "end": 1699,
+      "start": 1692,
+      "tag": "Weapon",
+      "text": "FPB 72s"
+    },
+    {
+      "end": 1727,
+      "start": 1724,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1740,
+      "start": 1733,
+      "tag": "Weapon",
+      "text": "Gongola"
+    },
+    {
+      "end": 1752,
+      "start": 1745,
+      "tag": "Weapon",
+      "text": "Calabar"
+    },
+    {
+      "end": 1774,
+      "start": 1767,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 1774,
+      "start": 1767,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 1795,
+      "start": 1778,
+      "tag": "Date",
+      "text": "January this year"
+    },
+    {
+      "end": 1911,
+      "start": 1846,
+      "tag": "Answer",
+      "text": "Another FPB 72 is expected to be delivered to Nigeria in mid-2018"
+    },
+    {
+      "end": 1860,
+      "start": 1854,
+      "tag": "Weapon",
+      "text": "FPB 72"
+    },
+    {
+      "end": 1899,
+      "start": 1892,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 1899,
+      "start": 1892,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 1911,
+      "start": 1903,
+      "tag": "Date",
+      "text": "mid-2018"
+    }
+  ],
+  "test": true,
+  "text": "The Nigerian Navy will soon be receiving two new FPB 110 patrol boats from France\u2019s Ocea, with the vessels being loaded onto a cargo ship for delivery to the West African nation.\n\nThe first FPB 110 was loaded onto the cargo vessel Mercs Kelani in the port of Saint-Nazaire on 3 April, followed by the second on 4 April, reports Mer et Marine.\n\nAccording to ship tracking websites, the vessel has left port and is sailing off the coast of France. She is due to arrive in Nigeria in Lagos, Nigeria, on 17 April.\n\nThe two vessels, the Nguru (P187) and Ekulu (P188), completed sea trials last month. In February 2017 it emerged that Nigeria had ordered two FPB 110 Mk II coastal patrol vessels. They are 35 metres long and have a maximum speed of 30 knots. They will be fitted with two 12.7 mm machineguns and a 20 mm cannon and a 4.7 metre long Zodiac rigid-hulled inflatable boat (RHIB). The weapons will be added in Nigeria. Other equipment includes two Furuno radars and a Vigy Observer electro-optical system.\n\nNigeria\u2019s FPB 110s are based on the models produced for Kuwait, but are driven by propellers and not water jets. They are apparently also more comfortable for the crew, with improved accommodation. The two vessels can accommodate 17 people, including a dozen crew members.\n\nThe boats are powered by two MTU 16V2000 diesel engines giving a top speed of 30 knots and a range of 900 miles with 3-5 day endurance.\n\nOnce delivered, they will be used to improve maritime security off Nigeria, with an emphasis on piracy and maritime crime.\n\nOcea has delivered a number of other vessels to Nigeria, including three 24 metre long FPB 72s in 2012 and a 32 metre FPB 98 Mk II in 2013. Five FPB 72s have been ordered, with two, the Gongola and Calabar, delivered to Nigeria in January this year after the Shiroro and Ose arrived in 2017.\n\n\n\n\n\n\n\nAnother FPB 72 is expected to be delivered to Nigeria in mid-2018."
+}

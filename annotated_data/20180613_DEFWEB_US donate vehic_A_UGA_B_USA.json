@@ -1,0 +1,277 @@
+{
+  "filename": "20180613_DEFWEB_US donate vehic_A_UGA_B_USA",
+  "labels": [
+    {
+      "end": 130,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The United States has donated equipment and vehicles, including three armoured trucks, to the Uganda People\u2019s Defence Force (UPDF)"
+    },
+    {
+      "end": 17,
+      "start": 0,
+      "tag": "Seller",
+      "text": "The United States"
+    },
+    {
+      "end": 17,
+      "start": 4,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 39,
+      "start": 30,
+      "tag": "Weapon",
+      "text": "equipment"
+    },
+    {
+      "end": 52,
+      "start": 44,
+      "tag": "Weapon",
+      "text": "vehicles"
+    },
+    {
+      "end": 69,
+      "start": 64,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 85,
+      "start": 70,
+      "tag": "Weapon",
+      "text": "armoured trucks"
+    },
+    {
+      "end": 130,
+      "start": 90,
+      "tag": "Buyer",
+      "text": "the Uganda People\u2019s Defence Force (UPDF)"
+    },
+    {
+      "end": 100,
+      "start": 94,
+      "tag": "Buyer Country",
+      "text": "Uganda"
+    },
+    {
+      "end": 1694,
+      "start": 1503,
+      "tag": "Answer",
+      "text": "The United States has previously donated vehicles and equipment to Uganda, including six Cougar mine-resistant, ambush protected (MRAP) vehicles in 2016/17 and 15 Cougars and 10 RG33s in 2014"
+    },
+    {
+      "end": 1520,
+      "start": 1503,
+      "tag": "Seller",
+      "text": "The United States"
+    },
+    {
+      "end": 1520,
+      "start": 1507,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 1552,
+      "start": 1544,
+      "tag": "Weapon",
+      "text": "vehicles"
+    },
+    {
+      "end": 1566,
+      "start": 1557,
+      "tag": "Weapon",
+      "text": "equipment"
+    },
+    {
+      "end": 1576,
+      "start": 1570,
+      "tag": "Buyer",
+      "text": "Uganda"
+    },
+    {
+      "end": 1576,
+      "start": 1570,
+      "tag": "Buyer Country",
+      "text": "Uganda"
+    },
+    {
+      "end": 1591,
+      "start": 1588,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 1647,
+      "start": 1592,
+      "tag": "Weapon",
+      "text": "Cougar mine-resistant, ambush protected (MRAP) vehicles"
+    },
+    {
+      "end": 1658,
+      "start": 1651,
+      "tag": "Date",
+      "text": "2016/17"
+    },
+    {
+      "end": 1665,
+      "start": 1663,
+      "tag": "Quantity",
+      "text": "15"
+    },
+    {
+      "end": 1673,
+      "start": 1666,
+      "tag": "Weapon",
+      "text": "Cougars"
+    },
+    {
+      "end": 1680,
+      "start": 1678,
+      "tag": "Quantity",
+      "text": "10"
+    },
+    {
+      "end": 1686,
+      "start": 1681,
+      "tag": "Weapon",
+      "text": "RG33s"
+    },
+    {
+      "end": 1694,
+      "start": 1690,
+      "tag": "Date",
+      "text": "2014"
+    },
+    {
+      "end": 1866,
+      "start": 1751,
+      "tag": "Answer",
+      "text": "In September 2017 the UPDF received 19 Acmat/Mack Bastion armoured personnel carriers (APCs) from the United States"
+    },
+    {
+      "end": 1768,
+      "start": 1754,
+      "tag": "Date",
+      "text": "September 2017"
+    },
+    {
+      "end": 1777,
+      "start": 1773,
+      "tag": "Buyer",
+      "text": "UPDF"
+    },
+    {
+      "end": 1777,
+      "start": 1773,
+      "tag": "Buyer Country",
+      "text": "UPDF"
+    },
+    {
+      "end": 1789,
+      "start": 1787,
+      "tag": "Quantity",
+      "text": "19"
+    },
+    {
+      "end": 1844,
+      "start": 1790,
+      "tag": "Weapon",
+      "text": "Acmat/Mack Bastion armoured personnel carriers (APCs) "
+    },
+    {
+      "end": 1866,
+      "start": 1853,
+      "tag": "Seller",
+      "text": "United States"
+    },
+    {
+      "end": 1866,
+      "start": 1853,
+      "tag": "Seller Country",
+      "text": "United States"
+    },
+    {
+      "end": 2132,
+      "start": 1965,
+      "tag": "Answer",
+      "text": "the US donated two Cessna 208B Caravan light aircraft to the UPDF Air Wing in March 2015, and is delivering five refurbished UH-1H Huey helicopters to Uganda this year"
+    },
+    {
+      "end": 1971,
+      "start": 1965,
+      "tag": "Seller",
+      "text": "the US"
+    },
+    {
+      "end": 1971,
+      "start": 1969,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1983,
+      "start": 1980,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 2019,
+      "start": 1984,
+      "tag": "Weapon",
+      "text": "Cessna 208B Caravan light aircraft "
+    },
+    {
+      "end": 2030,
+      "start": 2026,
+      "tag": "Buyer Country",
+      "text": "UPDF"
+    },
+    {
+      "end": 2039,
+      "start": 2022,
+      "tag": "Buyer",
+      "text": "the UPDF Air Wing"
+    },
+    {
+      "end": 2053,
+      "start": 2043,
+      "tag": "Date",
+      "text": "March 2015"
+    },
+    {
+      "end": 2077,
+      "start": 2073,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 2112,
+      "start": 2090,
+      "tag": "Weapon",
+      "text": "UH-1H Huey helicopters"
+    },
+    {
+      "end": 2122,
+      "start": 2116,
+      "tag": "Buyer",
+      "text": "Uganda"
+    },
+    {
+      "end": 2122,
+      "start": 2116,
+      "tag": "Buyer Country",
+      "text": "Uganda"
+    },
+    {
+      "end": 2132,
+      "start": 2123,
+      "tag": "Date",
+      "text": "this year"
+    }
+  ],
+  "test": true,
+  "text": "The United States has donated equipment and vehicles, including three armoured trucks, to the Uganda People\u2019s Defence Force (UPDF) to support its counter-insurgency and peacekeeping capabilities.\n\nThe equipment included 30 Mercedes Benz trucks, six boom lifts, a rough terrain container handler, three Oshkosh FMTV armoured trucks, a Caterpillar D7R2 bulldozer, ten generators and spares. They were handed over on 7 June by US Ambassador to Uganda, Deborah Malac.\n\nThe equipment was received by UPDF Chief of Defense Forces Gen David Muhoozi at the Uganda Rapid Deployment Capability Centre (URDCC) in Jinja district. The URDCC is a unit of the East African standby forces (EASF) that deploys peace keeping troops within the region and continental Africa.\n\n\u201cI commend countries that have demonstrated high levels of peace-keeping, especially the UPDF who have been in Somalia where there is insurgency,\u201d Malac said. She added that the donation is part of the African Peace Rapid Response Partnership to support African countries involved in peacekeeping efforts.\n\n\u201cWe have done little in the past; but this better equipment will enhance our preparedness and readiness to respond to threats in security across the region. This should not been seen as self-serving but to the rest of the world,\u201d said Muhoozi. \u201cThe US has provided $270 million under the African Peace Rapid Response Partnership,\u201d he said, adding that Uganda has been allocated another $51 million for logistics and engineering training.\n\nThe United States has previously donated vehicles and equipment to Uganda, including six Cougar mine-resistant, ambush protected (MRAP) vehicles in 2016/17 and 15 Cougars and 10 RG33s in 2014, according to the US Excess Defense Articles database.\n\nIn September 2017 the UPDF received 19 Acmat/Mack Bastion armoured personnel carriers (APCs) from the United States for its contingent with the African Union Mission in Somalia (Amisom).\n\n\n\n\n\n\n\nOn the aerial side, the US donated two Cessna 208B Caravan light aircraft to the UPDF Air Wing in March 2015, and is delivering five refurbished UH-1H Huey helicopters to Uganda this year."
+}

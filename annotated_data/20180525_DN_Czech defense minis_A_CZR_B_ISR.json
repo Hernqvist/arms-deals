@@ -1,0 +1,79 @@
+{
+  "filename": "20180525_DN_Czech defense minis_A_CZR_B_ISR",
+  "labels": [
+    {
+      "end": 450,
+      "start": 227,
+      "tag": "Answer",
+      "text": "The Czech Republic\u2019s defense minister has ordered the military police to launch an investigation into the pending purchase of eight ELM-2084 multimission radars from Elta Systems, a subsidiary of Israel Aerospace Industries"
+    },
+    {
+      "end": 245,
+      "start": 227,
+      "tag": "Buyer",
+      "text": "The Czech Republic"
+    },
+    {
+      "end": 236,
+      "start": 231,
+      "tag": "Buyer Country",
+      "text": "Czech"
+    },
+    {
+      "end": 358,
+      "start": 353,
+      "tag": "Quantity",
+      "text": "eight"
+    },
+    {
+      "end": 387,
+      "start": 359,
+      "tag": "Weapon",
+      "text": "ELM-2084 multimission radars"
+    },
+    {
+      "end": 405,
+      "start": 393,
+      "tag": "Seller",
+      "text": "Elta Systems"
+    },
+    {
+      "end": 450,
+      "start": 423,
+      "tag": "Seller",
+      "text": "Israel Aerospace Industries"
+    },
+    {
+      "end": 429,
+      "start": 423,
+      "tag": "Seller Country",
+      "text": "Israel"
+    },
+    {
+      "end": 705,
+      "start": 626,
+      "tag": "Answer",
+      "text": "the Defence Ministry\u2019s ongoing procedure to acquire 12 multipurpose helicopters"
+    },
+    {
+      "end": 646,
+      "start": 626,
+      "tag": "Buyer",
+      "text": "the Defence Ministry"
+    },
+    {
+      "end": 680,
+      "start": 678,
+      "tag": "Quantity",
+      "text": "12"
+    },
+    {
+      "end": 705,
+      "start": 681,
+      "tag": "Weapon",
+      "text": "multipurpose helicopters"
+    }
+  ],
+  "test": true,
+  "text": "The ELM-2084 multimission radar is advertised as a high-accuracy medium-/long-range transportable radar system that can detect a bank of targets, including UAVs. (Israel Aerospace Industries via Getty Images)\n\nWARSAW, Poland \u2014 The Czech Republic\u2019s defense minister has ordered the military police to launch an investigation into the pending purchase of eight ELM-2084 multimission radars from Elta Systems, a subsidiary of Israel Aerospace Industries.\n\nKarla Slechtova said she decided to probe the planned contract due to \u201cextremely serious findings,\u201d local news agency CTK reported. The military police is also looking into the Defence Ministry\u2019s ongoing procedure to acquire 12 multipurpose helicopters, according to the minister.\n\nThe acquisition is estimated to be worth about 3.6 billion koruna (U.S. $163.5 million).\n\nLast March, Slechtova said she would not sign the deal unless the 3-D radars are interoperable with NATO\u2019s air-defense system. The move followed a decision by the Czech National Cyber and Information Security Agency that declined to approve the documentation for the acquisition. Without the institution\u2019s certification, it would be impossible to integrate the radars with NATO infrastructure, according to the minister.\n\nThe purchase is to allow the Czech military to replace its obsolete Soviet-designed radars with new equipment."
+}

@@ -1,0 +1,67 @@
+{
+  "filename": "20180313_ARMREC_Belarus to buy _A_BLR_B_RUS",
+  "labels": [
+    {
+      "end": 139,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The radio-technical troops of the Belarussian armed forces will be equipped with Russian-made Podlet and Sopka-2M radars in the near future"
+    },
+    {
+      "end": 120,
+      "start": 94,
+      "tag": "Weapon",
+      "text": "Podlet and Sopka-2M radars"
+    },
+    {
+      "end": 58,
+      "start": 30,
+      "tag": "Buyer",
+      "text": "the Belarussian armed forces"
+    },
+    {
+      "end": 45,
+      "start": 34,
+      "tag": "Buyer Country",
+      "text": "Belarussian"
+    },
+    {
+      "end": 88,
+      "start": 81,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 88,
+      "start": 81,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 398,
+      "start": 328,
+      "tag": "Answer",
+      "text": "The procurement of new Podlet and Sopka-2M radars in Russia is planned"
+    },
+    {
+      "end": 377,
+      "start": 351,
+      "tag": "Weapon",
+      "text": "Podlet and Sopka-2M radars"
+    },
+    {
+      "end": 387,
+      "start": 381,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 387,
+      "start": 381,
+      "tag": "Seller Country",
+      "text": "Russia"
+    }
+  ],
+  "test": true,
+  "text": "The radio-technical troops of the Belarussian armed forces will be equipped with Russian-made Podlet and Sopka-2M radars in the near future, Belarussian Defense Minister Lieutenant-General Andrey Ravkov said.\n\n\n\nPodlet radar (Picture source: Vitaly V. Kuzmin)\n\n\"Russian-made Protivnik-G radars have been supplied to the troops. The procurement of new Podlet and Sopka-2M radars in Russia is planned,\" he was quoted as saying by the Belaruska Dumka magazine. The supplies of modern Rosa-RB and Vostok-D radars designed by Belarussian enterprises will continue, he said.\n\nThe mobile 3D Protivnik-G radar was supplied to Belarus in August 2016. It can simultaneously track up to 200 targets at an altitude of 150 km and a distance of 450 km. Podlet can automatically detect, determine coordinates, lock on and track various air targets, including stealth ones. The station can simultaneously track 200 targets at an altitude of over 10 km and a distance of over 200 km.\n\nSopka en-route radar facility is a source of radar information for air traffic control. It detects air objects, measures the distance and determines their country of origin."
+}

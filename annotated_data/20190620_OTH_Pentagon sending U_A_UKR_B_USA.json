@@ -1,0 +1,277 @@
+{
+  "filename": "20190620_OTH_Pentagon sending U_A_UKR_B_USA",
+  "labels": [
+    {
+      "end": 158,
+      "start": 32,
+      "tag": "Answer",
+      "text": "The U.S. will deliver more sniper rifles, grenade launchers, counter-artillery radars and other gear to the Ukrainian military"
+    },
+    {
+      "end": 40,
+      "start": 36,
+      "tag": "Seller Country",
+      "text": "U.S."
+    },
+    {
+      "end": 72,
+      "start": 59,
+      "tag": "Weapon",
+      "text": "sniper rifles"
+    },
+    {
+      "end": 91,
+      "start": 74,
+      "tag": "Weapon",
+      "text": "grenade launchers"
+    },
+    {
+      "end": 117,
+      "start": 93,
+      "tag": "Weapon",
+      "text": "counter-artillery radars"
+    },
+    {
+      "end": 158,
+      "start": 136,
+      "tag": "Buyer",
+      "text": "the Ukrainian military"
+    },
+    {
+      "end": 149,
+      "start": 140,
+      "tag": "Buyer Country",
+      "text": "Ukrainian"
+    },
+    {
+      "end": 326,
+      "start": 200,
+      "tag": "Answer",
+      "text": "The U.S. will deliver more sniper rifles, grenade launchers, counter-artillery radars and other gear to the Ukrainian military"
+    },
+    {
+      "end": 40,
+      "start": 32,
+      "tag": "Seller",
+      "text": "The U.S."
+    },
+    {
+      "end": 208,
+      "start": 200,
+      "tag": "Seller",
+      "text": "The U.S."
+    },
+    {
+      "end": 207,
+      "start": 204,
+      "tag": "Seller Country",
+      "text": "U.S"
+    },
+    {
+      "end": 240,
+      "start": 227,
+      "tag": "Weapon",
+      "text": "sniper rifles"
+    },
+    {
+      "end": 259,
+      "start": 242,
+      "tag": "Weapon",
+      "text": "grenade launchers"
+    },
+    {
+      "end": 285,
+      "start": 261,
+      "tag": "Weapon",
+      "text": "counter-artillery radars"
+    },
+    {
+      "end": 326,
+      "start": 304,
+      "tag": "Buyer",
+      "text": "the Ukrainian military"
+    },
+    {
+      "end": 317,
+      "start": 308,
+      "tag": "Buyer Country",
+      "text": "Ukrainian"
+    },
+    {
+      "end": 606,
+      "start": 425,
+      "tag": "Answer",
+      "text": "The Defense Department said in a statement Tuesday it will provide $250 million in military aid that also will include training for Ukrainian forces and equipment for Ukraine\u2019s navy"
+    },
+    {
+      "end": 447,
+      "start": 425,
+      "tag": "Seller",
+      "text": "The Defense Department"
+    },
+    {
+      "end": 475,
+      "start": 468,
+      "tag": "Date",
+      "text": "Tuesday"
+    },
+    {
+      "end": 504,
+      "start": 492,
+      "tag": "Price",
+      "text": "$250 million"
+    },
+    {
+      "end": 520,
+      "start": 508,
+      "tag": "Weapon",
+      "text": "military aid"
+    },
+    {
+      "end": 552,
+      "start": 544,
+      "tag": "Weapon",
+      "text": "training"
+    },
+    {
+      "end": 587,
+      "start": 578,
+      "tag": "Weapon",
+      "text": "equipment"
+    },
+    {
+      "end": 573,
+      "start": 557,
+      "tag": "Buyer",
+      "text": "Ukrainian forces"
+    },
+    {
+      "end": 606,
+      "start": 592,
+      "tag": "Buyer",
+      "text": "Ukraine\u2019s navy"
+    },
+    {
+      "end": 599,
+      "start": 592,
+      "tag": "Buyer Country",
+      "text": "Ukraine"
+    },
+    {
+      "end": 566,
+      "start": 557,
+      "tag": "Buyer Country",
+      "text": "Ukrainian"
+    },
+    {
+      "end": 1596,
+      "start": 1468,
+      "tag": "Answer",
+      "text": "In 2018, Washington began stepping up its support to Ukraine by providing military equipment, such as anti-tank Javelin missiles"
+    },
+    {
+      "end": 1475,
+      "start": 1471,
+      "tag": "Date",
+      "text": "2018"
+    },
+    {
+      "end": 1487,
+      "start": 1477,
+      "tag": "Seller",
+      "text": "Washington"
+    },
+    {
+      "end": 1487,
+      "start": 1477,
+      "tag": "Seller Country",
+      "text": "Washington"
+    },
+    {
+      "end": 1528,
+      "start": 1521,
+      "tag": "Buyer",
+      "text": "Ukraine"
+    },
+    {
+      "end": 1528,
+      "start": 1521,
+      "tag": "Buyer Country",
+      "text": "Ukraine"
+    },
+    {
+      "end": 1560,
+      "start": 1542,
+      "tag": "Weapon",
+      "text": "military equipment"
+    },
+    {
+      "end": 1596,
+      "start": 1570,
+      "tag": "Weapon",
+      "text": "anti-tank Javelin missiles"
+    },
+    {
+      "end": 1774,
+      "start": 1598,
+      "tag": "Answer",
+      "text": "In September, the U.S. Coast Guard transferred two Island-class cutters, armed with .50-caliber machine guns and 25 mm deck guns, to Ukraine to bolster the country\u2019s small navy"
+    },
+    {
+      "end": 1632,
+      "start": 1612,
+      "tag": "Seller",
+      "text": "the U.S. Coast Guard"
+    },
+    {
+      "end": 1619,
+      "start": 1616,
+      "tag": "Seller Country",
+      "text": "U.S"
+    },
+    {
+      "end": 1648,
+      "start": 1645,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 1669,
+      "start": 1649,
+      "tag": "Weapon",
+      "text": "Island-class cutters"
+    },
+    {
+      "end": 1706,
+      "start": 1682,
+      "tag": "Weapon",
+      "text": ".50-caliber machine guns"
+    },
+    {
+      "end": 1726,
+      "start": 1711,
+      "tag": "Weapon",
+      "text": "25 mm deck guns"
+    },
+    {
+      "end": 1738,
+      "start": 1731,
+      "tag": "Buyer",
+      "text": "Ukraine"
+    },
+    {
+      "end": 1738,
+      "start": 1731,
+      "tag": "Buyer Country",
+      "text": "Ukraine"
+    },
+    {
+      "end": 1774,
+      "start": 1750,
+      "tag": "Buyer",
+      "text": "the country\u2019s small navy"
+    }
+  ],
+  "test": true,
+  "text": "John Vandiver Stars and Stripes The U.S. will deliver more sniper rifles, grenade launchers, counter-artillery radars and other gear to the Ukrainian military as...\n\nJohn Vandiver\n\nStars and Stripes\n\nThe U.S. will deliver more sniper rifles, grenade launchers, counter-artillery radars and other gear to the Ukrainian military as part of an ongoing effort to bolster its defenses on land and at sea, the Pentagon announced.\n\nThe Defense Department said in a statement Tuesday it will provide $250 million in military aid that also will include training for Ukrainian forces and equipment for Ukraine\u2019s navy, which has struggled to counter Russia in the increasingly tense Black Sea area.\n\nThe funding boost coincides with progress Ukraine has made by reforming its command and control functions, as well as by strengthening civilian oversight of its military, the statement said.\n\n\u201cThese reforms will bolster Ukraine\u2019s ability to defend its territorial integrity in support of a secure, prosperous, democratic, and free Ukraine,\u201d it said.\n\nThe new funds bring total U.S. security assistance to Ukraine up to $1.4 billion since 2014, following Russia\u2019s annexation of the Crimean Peninsula and its support for armed separatists in the country\u2019s breakaway eastern region. However, it has only been in the past year that the U.S. has begun shipping lethal military aid to the country, where sporadic clashes continue between government security forces and the militants.\n\nIn 2018, Washington began stepping up its support to Ukraine by providing military equipment, such as anti-tank Javelin missiles. In September, the U.S. Coast Guard transferred two Island-class cutters, armed with .50-caliber machine guns and 25 mm deck guns, to Ukraine to bolster the country\u2019s small navy.\n\nTensions with Russia sparked around the Black Sea in November when the Russian coast guard fired upon and seized three Ukrainian ships that were attempting to pass through the Kerch Strait to the Sea of Azov.\n\nIn the months since the incident, the U.S. has called on allies to demonstrate more support for Ukraine. In April, NATO members responded with an agreement to expand their presence in the Black Sea by conducting more port visits. The agreement also focused on improving NATO\u2019s \u201csituational awareness\u201d in the region and stepping up maritime forces training.\n\nThe new funds also will aim to improve the Ukrainian navy and naval infantry\u2019s \u201cmaritime situational awareness and operations,\u201d the Pentagon said.\n\nOther areas of focus are improving the \u201csurvivability\u201d of Ukraine\u2019s ground and special operations forces with counter-artillery radars, electronic warfare detection equipment and help ensuring secure lines of communication.\n\n\u2014\u2014\u2014\n\n\u00a92019 the Stars and Stripes\n\nVisit the Stars and Stripes at www.stripes.com\n\nDistributed by Tribune Content Agency, LLC."
+}

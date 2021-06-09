@@ -1,0 +1,259 @@
+{
+  "filename": "20170215_DEFWEB_Nigerian patrol_A_NIG_B_FRA",
+  "labels": [
+    {
+      "end": 131,
+      "start": 0,
+      "tag": "Answer",
+      "text": "French shipbuilder Ocea is busy with the construction of four patrol vessels for the Nigerian Navy, which will receive them in 2018"
+    },
+    {
+      "end": 6,
+      "start": -1,
+      "tag": "Seller Country",
+      "text": ""
+    },
+    {
+      "end": 23,
+      "start": 19,
+      "tag": "Seller",
+      "text": "Ocea"
+    },
+    {
+      "end": 61,
+      "start": 57,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 76,
+      "start": 62,
+      "tag": "Weapon",
+      "text": "patrol vessels"
+    },
+    {
+      "end": 98,
+      "start": 81,
+      "tag": "Buyer",
+      "text": "the Nigerian Navy"
+    },
+    {
+      "end": 93,
+      "start": 85,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 131,
+      "start": 127,
+      "tag": "Date",
+      "text": "2018"
+    },
+    {
+      "end": 427,
+      "start": 306,
+      "tag": "Answer",
+      "text": "Nigeria already has three FPB 72s in service, which were delivered in 2012, and two FPB 98s, which were delivered in 2014"
+    },
+    {
+      "end": 313,
+      "start": 306,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 313,
+      "start": 306,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 331,
+      "start": 326,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 339,
+      "start": 332,
+      "tag": "Weapon",
+      "text": "FPB 72s"
+    },
+    {
+      "end": 380,
+      "start": 376,
+      "tag": "Date",
+      "text": "2012"
+    },
+    {
+      "end": 389,
+      "start": 386,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 397,
+      "start": 390,
+      "tag": "Weapon",
+      "text": "FPB 98s"
+    },
+    {
+      "end": 427,
+      "start": 423,
+      "tag": "Date",
+      "text": "2014"
+    },
+    {
+      "end": 1030,
+      "start": 735,
+      "tag": "Answer",
+      "text": "The Nigerian Navy continues to expand, and in December last year commissioned 30 vessels into service including the new 95 metre long, P18N Class off-shore patrol vessel (OPV) NNS Unity, which was one of two ordered from China Shipbuilding and Offshore International Company (CSOC) in April 2012"
+    },
+    {
+      "end": 752,
+      "start": 735,
+      "tag": "Buyer",
+      "text": "The Nigerian Navy"
+    },
+    {
+      "end": 747,
+      "start": 739,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 799,
+      "start": 781,
+      "tag": "Date",
+      "text": "December last year"
+    },
+    {
+      "end": 815,
+      "start": 813,
+      "tag": "Quantity",
+      "text": "30"
+    },
+    {
+      "end": 823,
+      "start": 816,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 920,
+      "start": 870,
+      "tag": "Weapon",
+      "text": "P18N Class off-shore patrol vessel (OPV) NNS Unity"
+    },
+    {
+      "end": 942,
+      "start": 939,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 974,
+      "start": 956,
+      "tag": "Seller",
+      "text": "China Shipbuilding"
+    },
+    {
+      "end": 961,
+      "start": 956,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 1016,
+      "start": 979,
+      "tag": "Seller",
+      "text": "Offshore International Company (CSOC)"
+    },
+    {
+      "end": 1030,
+      "start": 1020,
+      "tag": "Date",
+      "text": "April 2012"
+    },
+    {
+      "end": 1140,
+      "start": 1033,
+      "tag": "Answer",
+      "text": "NNS Unity, the largest of the vessels commissioned at 1 800 tons, was designed and partially built in China"
+    },
+    {
+      "end": 1042,
+      "start": 1033,
+      "tag": "Weapon",
+      "text": "NNS Unity"
+    },
+    {
+      "end": 1140,
+      "start": 1135,
+      "tag": "Seller",
+      "text": "China"
+    },
+    {
+      "end": 1140,
+      "start": 1135,
+      "tag": "Seller Country",
+      "text": "China"
+    },
+    {
+      "end": 1248,
+      "start": 1213,
+      "tag": "Buyer",
+      "text": "Nigerian President Muhammadu Buhari"
+    },
+    {
+      "end": 1260,
+      "start": 1252,
+      "tag": "Date",
+      "text": "December"
+    },
+    {
+      "end": 1221,
+      "start": 1213,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 1345,
+      "start": 1312,
+      "tag": "Weapon",
+      "text": "Seaward Defence Boat NNS Karaduwa"
+    },
+    {
+      "end": 1355,
+      "start": 1352,
+      "tag": "Weapon",
+      "text": "tug"
+    },
+    {
+      "end": 1397,
+      "start": 1383,
+      "tag": "Weapon",
+      "text": "Commander Ugwu"
+    },
+    {
+      "end": 1473,
+      "start": 1213,
+      "tag": "Answer",
+      "text": "Nigerian President Muhammadu Buhari in December also commissioned the 39-metre long, locally built Seaward Defence Boat NNS Karaduwa and a tug which has since been named Commander Ugwu. The two vessels were built by the Nigerian Naval Shipyard in Port Harcourt"
+    },
+    {
+      "end": 1456,
+      "start": 1433,
+      "tag": "Seller",
+      "text": "Nigerian Naval Shipyard"
+    },
+    {
+      "end": 1441,
+      "start": 1433,
+      "tag": "Seller Country",
+      "text": "Nigerian"
+    }
+  ],
+  "test": true,
+  "text": "French shipbuilder Ocea is busy with the construction of four patrol vessels for the Nigerian Navy, which will receive them in 2018.\n\nConstruction is underway at Saint-Nazaire, according to Mer et Marine, which reports that two of the vessels are 35 metre long FPB 110 types and two 24 metre FPB 72 types. Nigeria already has three FPB 72s in service, which were delivered in 2012, and two FPB 98s, which were delivered in 2014.\n\nDeliveries of the new vessels are expected to take place in early 2018.\n\nThe FPB 72 is designed for coastal patrol and has a top speed of more than 30 knots. The FPB 110s will be similar to those delivered to Kuwait between 2003 and 2005 but equipped with conventional propellers rather than water jets.\n\nThe Nigerian Navy continues to expand, and in December last year commissioned 30 vessels into service including the new 95 metre long, P18N Class off-shore patrol vessel (OPV) NNS Unity, which was one of two ordered from China Shipbuilding and Offshore International Company (CSOC) in April 2012.\n\nNNS Unity, the largest of the vessels commissioned at 1 800 tons, was designed and partially built in China, while the majority of its outfitting work was done locally in Nigeria. Nigerian President Muhammadu Buhari in December also commissioned the 39-metre long, locally built Seaward Defence Boat NNS Karaduwa and a tug which has since been named Commander Ugwu. The two vessels were built by the Nigerian Naval Shipyard in Port Harcourt.\n\nApart from the three patrol vessels, Buhari also commissioned 27 riverine patrol boats which he said would be used to secure waterways and river creeks.\n\n\u201cThe prevailing security situation is not new given the intimate connections between economic prosperity and security. For a littoral state with a huge dependence on her offshore resources, maritime security is vital to the national well-being,\u201d Buhari said.\n\nThe delivery of the new patrol vessels came at a time of heightened militancy and criminals activities in Nigerian rivers and in the open seas. Apart from the terrorist threat posed by Boko Haram insurgency the north-east, the Nigerian Navy is battling new militant groups that have staged disruptive attacks on oil platforms and pipeline infrastructure.\n\n\n\n\n\n\n\nKidnapping, maritime robbery, human trafficking and drug smuggling are also rampant along the West African coast with over-stretched and poorly equipped regional security forces struggling to control the situation."
+}

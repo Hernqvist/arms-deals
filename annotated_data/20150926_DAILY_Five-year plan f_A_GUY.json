@@ -1,0 +1,31 @@
+{
+  "filename": "20150926_DAILY_Five-year plan f_A_GUY",
+  "labels": [
+    {
+      "end": 145,
+      "start": 61,
+      "tag": "Answer",
+      "text": "The purchasing of additional aircraft for the Guyana Defence Force\u2019s (GDF) Air Corps"
+    },
+    {
+      "end": 98,
+      "start": 90,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 145,
+      "start": 103,
+      "tag": "Buyer",
+      "text": "the Guyana Defence Force\u2019s (GDF) Air Corps"
+    },
+    {
+      "end": 113,
+      "start": 107,
+      "tag": "Buyer Country",
+      "text": "Guyana"
+    }
+  ],
+  "test": true,
+  "text": "Last Updated on Saturday, 26 September 2015, 2:51 by GxMedia The purchasing of additional aircraft for the Guyana Defence Force\u2019s (GDF) Air Corps will be part of a five-year strategy to be drafted and presented to government, according to army Chief-of-Staff Brigadier Mark Phillips. \u201cWe are working with government in terms of building the Air Corps over the next five ..."
+}
