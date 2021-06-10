@@ -155,8 +155,8 @@ class LitModule(pl.LightningModule):
   def test_step(self, batch, batch_idx):
     x, y = batch
     preds = self.forward(x)
-    self.validation_metrics(preds, y)
-  
+    self.test_metrics(preds, y)
+
   def test_epoch_end(self, outputs):
     metrics = self.extend_metrics(self.test_metrics.compute())
     self.test_metrics.reset()
@@ -182,8 +182,8 @@ class LitModule(pl.LightningModule):
     self.test_dataset = TextDataset(test_texts, self.preprocessor, self.hparams.task)
 
     eval_start = int(len(self.dataset)*0.7)
-    #if self.hparams.all_training_data:
-    #  eval_start = len(self.dataset)
+    if self.hparams.all_training_data:
+      eval_start = len(self.dataset)-1
     self.train_sampler = SubsetRandomSampler(range(0, eval_start))
     self.val_sampler = SubsetRandomSampler(range(eval_start, len(self.dataset)))
 
@@ -340,5 +340,4 @@ if args.print_train:
     lit_module.print_batch(batch)
 
 if args.test:
-  print("Testing")
   trainer.test(lit_module)
