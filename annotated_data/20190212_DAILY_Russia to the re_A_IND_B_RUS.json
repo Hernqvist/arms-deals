@@ -1,0 +1,253 @@
+{
+  "filename": "20190212_DAILY_Russia to the re_A_IND_B_RUS",
+  "labels": [
+    {
+      "end": 146,
+      "start": 62,
+      "tag": "Answer",
+      "text": "the Indian Air Force (IAF) is in talks with Russia to buy 21 MiG-29 fighter aircraft"
+    },
+    {
+      "end": 89,
+      "start": 62,
+      "tag": "Buyer",
+      "text": "the Indian Air Force (IAF) "
+    },
+    {
+      "end": 72,
+      "start": 66,
+      "tag": "Buyer Country",
+      "text": "Indian"
+    },
+    {
+      "end": 112,
+      "start": 106,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 112,
+      "start": 106,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 122,
+      "start": 120,
+      "tag": "Quantity",
+      "text": "21"
+    },
+    {
+      "end": 146,
+      "start": 123,
+      "tag": "Weapon",
+      "text": "MiG-29 fighter aircraft"
+    },
+    {
+      "end": 1052,
+      "start": 858,
+      "tag": "Answer",
+      "text": "Sources said this also rules out any additional orders for Su-30 MKI to the Hindustan Aeronautics Ltd (HAL) except for the nine aircraft that the IAF might order to replace the ones that crashed"
+    },
+    {
+      "end": 926,
+      "start": 917,
+      "tag": "Weapon",
+      "text": "Su-30 MKI"
+    },
+    {
+      "end": 966,
+      "start": 930,
+      "tag": "Seller",
+      "text": "the Hindustan Aeronautics Ltd (HAL) "
+    },
+    {
+      "end": 985,
+      "start": 981,
+      "tag": "Quantity",
+      "text": "nine"
+    },
+    {
+      "end": 994,
+      "start": 986,
+      "tag": "Weapon",
+      "text": "aircraft"
+    },
+    {
+      "end": 1007,
+      "start": 1000,
+      "tag": "Buyer",
+      "text": "the IAF"
+    },
+    {
+      "end": 1270,
+      "start": 1202,
+      "tag": "Answer",
+      "text": "India was the first international customer of Russia for its MiG-29s"
+    },
+    {
+      "end": 1270,
+      "start": 1263,
+      "tag": "Weapon",
+      "text": "MiG-29s"
+    },
+    {
+      "end": 1254,
+      "start": 1248,
+      "tag": "Seller",
+      "text": "Russia"
+    },
+    {
+      "end": 1254,
+      "start": 1248,
+      "tag": "Seller Country",
+      "text": "Russia"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1207,
+      "start": 1202,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1337,
+      "start": 1284,
+      "tag": "Answer",
+      "text": "India gets its first 4 Chinook heavy lift helicopters"
+    },
+    {
+      "end": 1289,
+      "start": 1284,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1289,
+      "start": 1284,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1306,
+      "start": 1305,
+      "tag": "Quantity",
+      "text": "4"
+    },
+    {
+      "end": 1337,
+      "start": 1307,
+      "tag": "Weapon",
+      "text": "Chinook heavy lift helicopters"
+    },
+    {
+      "end": 2535,
+      "start": 2245,
+      "tag": "Answer",
+      "text": "The situation is so bleak that, according to IAF projections, even if all existing orders for 36 Rafale jets, six squadrons of Tejas (including Tejas Mark 1A) and two more squadrons of Su-30 MKI are taken into account, IAF\u2019s squadron strength will reduce to 27 by 2032 and a mere 19 by 2042"
+    },
+    {
+      "end": 2293,
+      "start": 2290,
+      "tag": "Buyer",
+      "text": "IAF"
+    },
+    {
+      "end": 2341,
+      "start": 2339,
+      "tag": "Quantity",
+      "text": "36"
+    },
+    {
+      "end": 2353,
+      "start": 2342,
+      "tag": "Weapon",
+      "text": "Rafale jets"
+    },
+    {
+      "end": 2348,
+      "start": 2342,
+      "tag": "Seller",
+      "text": "Rafale"
+    },
+    {
+      "end": 2377,
+      "start": 2372,
+      "tag": "Weapon",
+      "text": "Tejas"
+    },
+    {
+      "end": 2402,
+      "start": 2389,
+      "tag": "Weapon",
+      "text": "Tejas Mark 1A"
+    },
+    {
+      "end": 2368,
+      "start": 2355,
+      "tag": "Quantity",
+      "text": "six squadrons"
+    },
+    {
+      "end": 2426,
+      "start": 2408,
+      "tag": "Quantity",
+      "text": "two more squadrons"
+    },
+    {
+      "end": 2439,
+      "start": 2430,
+      "tag": "Weapon",
+      "text": "Su-30 MKI"
+    },
+    {
+      "end": 2467,
+      "start": 2464,
+      "tag": "Buyer",
+      "text": "IAF"
+    },
+    {
+      "end": 2871,
+      "start": 2589,
+      "tag": "Answer",
+      "text": "On the drawing board are plans for the Tejas Mark 2, the indigenous Advanced Medium Combat Aircraft (AMCA) and 114 fighter aircraft, for which a Request For Proposal is still awaited. But, sources said, even if these are included, the IAF\u2019s squadron strength will only be 37 by 2042"
+    },
+    {
+      "end": 2640,
+      "start": 2628,
+      "tag": "Weapon",
+      "text": "Tejas Mark 2"
+    },
+    {
+      "end": 2696,
+      "start": 2646,
+      "tag": "Weapon",
+      "text": "indigenous Advanced Medium Combat Aircraft (AMCA) "
+    },
+    {
+      "end": 2703,
+      "start": 2700,
+      "tag": "Quantity",
+      "text": "114"
+    },
+    {
+      "end": 2720,
+      "start": 2704,
+      "tag": "Weapon",
+      "text": "fighter aircraft"
+    },
+    {
+      "end": 2827,
+      "start": 2820,
+      "tag": "Buyer",
+      "text": "the IAF"
+    }
+  ],
+  "test": true,
+  "text": "Text Size: A- A+\n\nNew Delhi: Faced with a depleting strength, the Indian Air Force (IAF) is in talks with Russia to buy 21 MiG-29 fighter aircraft that are lying with Moscow since the late 1980s.\n\nTop IAF sources told ThePrint that the Russians will upgrade the aircraft to the standard that India wants.\n\n\u201cThe price offered by the Russians is good. Even though it was built at the same time when we bought the earlier MiG-29 squadrons, they have never flown,\u201d a source said.\n\nIndia currently has three squadrons of MiG-29 \u2014 a twin-engine single-seat air superiority fighter aircraft. One squadron comprises 18 aircraft.\n\nThese aircraft are currently being upgraded in-house by the IAF.\n\n\u201cThe Russians will upgrade the 21 aircraft to the standard of the upgraded ones here. We are in talks to see how and at what price the deal can be done,\u201d a source said.\n\nSources said this also rules out any additional orders for Su-30 MKI to the Hindustan Aeronautics Ltd (HAL) except for the nine aircraft that the IAF might order to replace the ones that crashed.\n\nA high-level IAF team was in Russia last month to check on the fighter aircraft and it has submitted a favourable report to the Air Headquarters.\n\nIndia was the first international customer of Russia for its MiG-29s.\n\nAlso read: India gets its first 4 Chinook heavy lift helicopters, to be stationed in Chandigarh\n\nUpgraded aircraft\n\nThe MiG-29 aircraft is currently going through structural as well as overall avionics upgrade, besides getting a new weapons package.\n\nWith the new air-to-air refuelling feature, an upgraded MiG-29 can cover larger distances compared to the previous legacy aircraft, something the IAF is keen on, keeping in mind the possibility of a two-front war scenario.\n\nThe upgraded MiG-29s have all the latest features, including a glass cockpit with digital screens.\n\nThe upgraded aircraft can also do air-to-ground, air-to-air and even anti-shipping operations, with the removal of several restrictions of the legacy aircraft.\n\nOf IAF\u2019s three MiG-29 squadrons in operation, two are at the Adampur Air Force Station while the other one is based in Jamnagar.\n\nAlso read: HAL set for talks with European firm to arm Tejas with air-to-air missile\n\nDepleting strength\n\nThe situation is so bleak that, according to IAF projections, even if all existing orders for 36 Rafale jets, six squadrons of Tejas (including Tejas Mark 1A) and two more squadrons of Su-30 MKI are taken into account, IAF\u2019s squadron strength will reduce to 27 by 2032 and a mere 19 by 2042.\n\nThe IAF has a squadron strength of 30 at present.\n\nOn the drawing board are plans for the Tejas Mark 2, the indigenous Advanced Medium Combat Aircraft (AMCA) and 114 fighter aircraft, for which a Request For Proposal is still awaited. But, sources said, even if these are included, the IAF\u2019s squadron strength will only be 37 by 2042 \u2014 as against its sanctioned strength of 42 squadrons.\n\nSubscribe to our channels on YouTube & Telegram"
+}

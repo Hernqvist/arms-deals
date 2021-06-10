@@ -1,0 +1,91 @@
+{
+  "filename": "20190112_OTH_Ukraine orders Tur_A_UKR_B_TUR",
+  "labels": [
+    {
+      "end": 201,
+      "start": 0,
+      "tag": "Answer",
+      "text": "Ukraine\u2019s state-owned defense exports and industry agency Ukrspecexport signed a contract for the procurement of six Bayraktar TB2 unmanned combat aerial vehicles from the Turkish company Baykar Makina"
+    },
+    {
+      "end": 7,
+      "start": -1,
+      "tag": "Buyer Country",
+      "text": ""
+    },
+    {
+      "end": 71,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "Ukraine\u2019s state-owned defense exports and industry agency Ukrspecexport"
+    },
+    {
+      "end": 116,
+      "start": 113,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 162,
+      "start": 117,
+      "tag": "Weapon",
+      "text": "Bayraktar TB2 unmanned combat aerial vehicles"
+    },
+    {
+      "end": 179,
+      "start": 172,
+      "tag": "Seller Country",
+      "text": "Turkish"
+    },
+    {
+      "end": 201,
+      "start": 188,
+      "tag": "Seller",
+      "text": "Baykar Makina"
+    },
+    {
+      "end": 683,
+      "start": 519,
+      "tag": "Answer",
+      "text": "As we have agreed with the President of Turkey, Recep Tayyip Erdogan, an agreement was signed on the purchase of Turkish Bayraktar TB2 drones for the Ukrainian army"
+    },
+    {
+      "end": 587,
+      "start": 542,
+      "tag": "Seller",
+      "text": "the President of Turkey, Recep Tayyip Erdogan"
+    },
+    {
+      "end": 565,
+      "start": 559,
+      "tag": "Seller Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 639,
+      "start": 632,
+      "tag": "Seller Country",
+      "text": "Turkish"
+    },
+    {
+      "end": 660,
+      "start": 640,
+      "tag": "Weapon",
+      "text": "Bayraktar TB2 drones"
+    },
+    {
+      "end": 683,
+      "start": 665,
+      "tag": "Buyer",
+      "text": "the Ukrainian army"
+    },
+    {
+      "end": 678,
+      "start": 669,
+      "tag": "Buyer Country",
+      "text": "Ukrainian"
+    }
+  ],
+  "test": true,
+  "text": "Ukraine\u2019s state-owned defense exports and industry agency Ukrspecexport signed a contract for the procurement of six Bayraktar TB2 unmanned combat aerial vehicles from the Turkish company Baykar Makina.\n\nOn 12 January Ukrainian President Petro Poroshenko has reported that\n\nthe agreement between the State Company Ukrspetsexport, which is part of the State Concern \u201cUkroboronprom\u201d and the Turkish company Baykar Makina, is part of the measures to expand the military-technical cooperation between Ukraine and Turkey.\n\n\u201cAs we have agreed with the President of Turkey, Recep Tayyip Erdogan, an agreement was signed on the purchase of Turkish Bayraktar TB2 drones for the Ukrainian army,\u201d said Petro Poroshenko.\n\n- ADVERTISEMENT - CONTINUE READING BELOW -\n\nAccording to the Baykar Makina company, the Bayraktar unmanned aerial vehicle is a Medium Altitude Long Endurance class system developed for tactical reconnaissance and surveillance missions.\n\nBayraktar TB2 unmanned combat aerial vehicle can carry a maximum payload of more than 55kg. Bayraktar can fly up to 22,500 feet and loiter for more than 24 hours.\n\nPrototype Development Phase started within 2007 based on competition model. Bayraktar Tactical UAS with its critical all subsystems including Flight Control, INS-GPS, Automatic Take Off-Landing systems developed in house demonstrated fully automatic taxi, take off, cruise, landing, parking phases in 2009 and was selected as the winner of the program.\n\nFinal production stage officially started in 2012."
+}

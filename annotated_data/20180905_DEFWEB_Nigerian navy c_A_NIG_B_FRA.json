@@ -1,0 +1,373 @@
+{
+  "filename": "20180905_DEFWEB_Nigerian navy c_A_NIG_B_FRA",
+  "labels": [
+    {
+      "end": 112,
+      "start": 0,
+      "tag": "Answer",
+      "text": "The Nigerian Navy has commissioned into service 16 new vessels, including ten small boats and six patrol vessels"
+    },
+    {
+      "end": 17,
+      "start": 0,
+      "tag": "Buyer",
+      "text": "The Nigerian Navy"
+    },
+    {
+      "end": 12,
+      "start": 4,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 50,
+      "start": 48,
+      "tag": "Quantity",
+      "text": "16"
+    },
+    {
+      "end": 62,
+      "start": 55,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 77,
+      "start": 74,
+      "tag": "Quantity",
+      "text": "ten"
+    },
+    {
+      "end": 89,
+      "start": 78,
+      "tag": "Weapon",
+      "text": "small boats"
+    },
+    {
+      "end": 97,
+      "start": 94,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 112,
+      "start": 98,
+      "tag": "Weapon",
+      "text": "patrol vessels"
+    },
+    {
+      "end": 571,
+      "start": 398,
+      "tag": "Answer",
+      "text": "The vessels included the NNS Ekulu and NNS Nguru, two FPB 110 patrol boats delivered earlier this year by France\u2019s Ocea. These 35 metre vessels were ordered in February 2017"
+    },
+    {
+      "end": 409,
+      "start": 402,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 432,
+      "start": 423,
+      "tag": "Weapon",
+      "text": "NNS Ekulu"
+    },
+    {
+      "end": 446,
+      "start": 437,
+      "tag": "Weapon",
+      "text": "NNS Nguru"
+    },
+    {
+      "end": 451,
+      "start": 448,
+      "tag": "Quantity",
+      "text": "two"
+    },
+    {
+      "end": 472,
+      "start": 452,
+      "tag": "Weapon",
+      "text": "FPB 110 patrol boats"
+    },
+    {
+      "end": 510,
+      "start": 504,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 517,
+      "start": 513,
+      "tag": "Seller",
+      "text": "Ocea"
+    },
+    {
+      "end": 541,
+      "start": 525,
+      "tag": "Weapon",
+      "text": "35 metre vessels"
+    },
+    {
+      "end": 571,
+      "start": 558,
+      "tag": "Date",
+      "text": "February 2017"
+    },
+    {
+      "end": 646,
+      "start": 639,
+      "tag": "Buyer",
+      "text": "Nigeria"
+    },
+    {
+      "end": 646,
+      "start": 639,
+      "tag": "Buyer Country",
+      "text": "Nigeria"
+    },
+    {
+      "end": 668,
+      "start": 664,
+      "tag": "Quantity",
+      "text": "five"
+    },
+    {
+      "end": 676,
+      "start": 669,
+      "tag": "Weapon",
+      "text": "FPB 72s"
+    },
+    {
+      "end": 686,
+      "start": 682,
+      "tag": "Seller",
+      "text": "Ocea"
+    },
+    {
+      "end": 708,
+      "start": 697,
+      "tag": "Weapon",
+      "text": "NNS Gongola"
+    },
+    {
+      "end": 724,
+      "start": 713,
+      "tag": "Weapon",
+      "text": "NNS Calabar"
+    },
+    {
+      "end": 755,
+      "start": 739,
+      "tag": "Date",
+      "text": "anuary this year"
+    },
+    {
+      "end": 778,
+      "start": 767,
+      "tag": "Weapon",
+      "text": "NNS Shiroro"
+    },
+    {
+      "end": 790,
+      "start": 783,
+      "tag": "Weapon",
+      "text": "NNS Ose"
+    },
+    {
+      "end": 806,
+      "start": 802,
+      "tag": "Date",
+      "text": "2017"
+    },
+    {
+      "end": 864,
+      "start": 639,
+      "tag": "Answer",
+      "text": "Nigeria has also ordered five FPB 72s from Ocea, with the NNS Gongola and NNS Calabar delivered in January this year, after the NNS Shiroro and NNS Ose arrived in 2017. These four vessels were also commissioned on 3 September"
+    },
+    {
+      "end": 818,
+      "start": 814,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 826,
+      "start": 819,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 864,
+      "start": 853,
+      "tag": "Date",
+      "text": "3 September"
+    },
+    {
+      "end": 1351,
+      "start": 1191,
+      "tag": "Answer",
+      "text": "The Nigerian Navy has also taken delivery of a number of 8.2 metre long boats built by Nigerian company Epenal, with around 60 been delivered over the last year"
+    },
+    {
+      "end": 1208,
+      "start": 1191,
+      "tag": "Buyer",
+      "text": "The Nigerian Navy"
+    },
+    {
+      "end": 1203,
+      "start": 1195,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 1268,
+      "start": 1248,
+      "tag": "Weapon",
+      "text": "8.2 metre long boats"
+    },
+    {
+      "end": 1286,
+      "start": 1278,
+      "tag": "Seller Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 1301,
+      "start": 1295,
+      "tag": "Seller",
+      "text": "Epenal"
+    },
+    {
+      "end": 1317,
+      "start": 1315,
+      "tag": "Quantity",
+      "text": "60"
+    },
+    {
+      "end": 1351,
+      "start": 1338,
+      "tag": "Date",
+      "text": "the last year"
+    },
+    {
+      "end": 2506,
+      "start": 2344,
+      "tag": "Answer",
+      "text": "The acquisition of the six new Ocea FPC and 10 rigid hull inflatable boats will narrow the capability gaps in enhancing security of the country\u2019s maritime expanse"
+    },
+    {
+      "end": 2370,
+      "start": 2367,
+      "tag": "Quantity",
+      "text": "six"
+    },
+    {
+      "end": 2379,
+      "start": 2375,
+      "tag": "Seller",
+      "text": "Ocea"
+    },
+    {
+      "end": 2383,
+      "start": 2380,
+      "tag": "Weapon",
+      "text": "FPC"
+    },
+    {
+      "end": 2390,
+      "start": 2388,
+      "tag": "Quantity",
+      "text": "10"
+    },
+    {
+      "end": 2418,
+      "start": 2391,
+      "tag": "Weapon",
+      "text": "rigid hull inflatable boats"
+    },
+    {
+      "end": 2487,
+      "start": 2476,
+      "tag": "Buyer",
+      "text": "the country"
+    },
+    {
+      "end": 4706,
+      "start": 4647,
+      "tag": "Answer",
+      "text": "The procurement of these vessels by the Ministry of Defence"
+    },
+    {
+      "end": 4679,
+      "start": 4672,
+      "tag": "Weapon",
+      "text": "vessels"
+    },
+    {
+      "end": 4706,
+      "start": 4683,
+      "tag": "Buyer",
+      "text": "the Ministry of Defence"
+    },
+    {
+      "end": 1101,
+      "start": 867,
+      "tag": "Answer",
+      "text": "It is not clear what type of small boats were commissioned but it is likely they are 9.5 metre Guardian fast patrol boats built by Paramount Maritime. In November 2017 the Nigerian Navy accepted four of the type out of an order for 14"
+    },
+    {
+      "end": 907,
+      "start": 896,
+      "tag": "Weapon",
+      "text": "small boats"
+    },
+    {
+      "end": 988,
+      "start": 952,
+      "tag": "Weapon",
+      "text": "9.5 metre Guardian fast patrol boats"
+    },
+    {
+      "end": 1016,
+      "start": 998,
+      "tag": "Seller",
+      "text": "Paramount Maritime"
+    },
+    {
+      "end": 1034,
+      "start": 1021,
+      "tag": "Date",
+      "text": "November 2017"
+    },
+    {
+      "end": 1052,
+      "start": 1035,
+      "tag": "Buyer",
+      "text": "the Nigerian Navy"
+    },
+    {
+      "end": 1047,
+      "start": 1039,
+      "tag": "Buyer Country",
+      "text": "Nigerian"
+    },
+    {
+      "end": 1066,
+      "start": 1062,
+      "tag": "Quantity",
+      "text": "four"
+    },
+    {
+      "end": 1101,
+      "start": 1099,
+      "tag": "Quantity",
+      "text": "14"
+    }
+  ],
+  "test": true,
+  "text": "The Nigerian Navy has commissioned into service 16 new vessels, including ten small boats and six patrol vessels, which will be used to enhance maritime security and protect the country\u2019s oil and gas assets. It has also revealed that more vessels are on the way.\n\nThe boats were commissioned on 3 September by Minister of Defence, Brigadier General Mansur Dan-Ali, at the Naval Dockyard in Lagos.\n\nThe vessels included the NNS Ekulu and NNS Nguru, two FPB 110 patrol boats delivered earlier this year by France\u2019s Ocea. These 35 metre vessels were ordered in February 2017 and are to be equipped with two 12.7 mm and one 20 mm cannon each. Nigeria has also ordered five FPB 72s from Ocea, with the NNS Gongola and NNS Calabar delivered in January this year, after the NNS Shiroro and NNS Ose arrived in 2017. These four vessels were also commissioned on 3 September.\n\nIt is not clear what type of small boats were commissioned but it is likely they are 9.5 metre Guardian fast patrol boats built by Paramount Maritime. In November 2017 the Nigerian Navy accepted four of the type out of an order for 14 \u2013 the other ten, which are 8.5 metre long variants, were to be delivered progressively.\n\nThe Nigerian Navy has also taken delivery of a number of 8.2 metre long boats built by Nigerian company Epenal, with around 60 been delivered over the last year.\n\nChief of Naval Staff, Vice Admiral Ibok-Ette Ibas, said the latest additions increased the Nigerian Navy\u2019s acquisitions in the last two years to over 200. \u201cLocal boat building associates like Messrs Epenal Boat Builders and John Holt Plc which have accounted for the delivery of over 200 boats in the past have continued to be patronised. The navy dockyard remains productively engaged as it is on course for the delivery of a third straight Seaward Defence Boat (SDB), now a 42 meter boat.\n\n\u201cFurthermore, efforts are ongoing towards acquiring more fast patrol vessels for littoral waters up to the EEZ, while the construction of a hydrographic vessel and landing ship would further reinforce the navy\u2019s regional maritime dominance,\u201d he said.\n\nIbas noted that the construction of 20 rigid-hulled inflatable boats (RHIBs) by Suncraft \u201chas reached an advanced stage, with the recent second milestone inspection reporting their possible delivery on schedule and within the next few months.\u201d\n\n\u201cThe acquisition of the six new Ocea FPC and 10 rigid hull inflatable boats will narrow the capability gaps in enhancing security of the country\u2019s maritime expanse,\u201d Ibas said. \u201cTheir commissioning and induction respectively into the service is therefore another operational milestone for the navy as they will complement existing Maritime Domain Awareness Capability in the face of its inherent need for a potent interdiction capability.\n\n\u201cI must however be quick to observe that despite this commendable stride, we have barely scratched the outstanding deficit in the navy fleet,\u201d the Chief of Naval Staff added.\n\n\n\n\n\n\n\nIn his address, Dan-Ali said that \u201cthe reality of today exposes our dear nation to be challenged by multi-faceted threats from both continental and maritime fronts, with attendant grave manifestations and Increasing threats to maritime security. These pose a huge challenge that negates the vast potentials of the nation\u2019s maritime domain and the Gulf of Guinea region in supporting the prosperity and wellbeing of states and their people. The peaceful use and maintenance of rule of law and order in this expanse have been afflicted by cross-border threats which constrain investment and economic development. Criminalities like piracy, sea robbery and attack on strategic oil installations have complicated the nation\u2019s maritime security environment and threaten with dire consequences, the overall wellbeing of the nation.\n\n\u201cFor a littoral state with huge dependence on her offshore resources, maritime security is vital to the nation\u2019s well-being. Against this background of threats the entire nation would invariably be at risky situation if we do not insist on a motivated and virile navy like ours.\n\n\u201cI note with satisfaction that, in synergy with the other Armed Forces, the Navy has continued to maintain effective deterrence and appropriate operational posture. The induction of the platforms today is in line with the current administration\u2019s promise to keep our nation safe. This commissioning ceremony is yet another demonstration of this administration resolve of protecting the nation\u2019s maritime domain through the provision of appropriate military platforms and operating equipment also to the credit of His Excellency President Muhammadu Buhari\u2019s administration.\n\n\u201cThe procurement of these vessels by the Ministry of Defence again demonstrates this administration\u2019s unwavering commitment and willingness towards strengthening the Navy through provision of modern operating equipment and infrastructure,\u201d Dan-Ali said."
+}

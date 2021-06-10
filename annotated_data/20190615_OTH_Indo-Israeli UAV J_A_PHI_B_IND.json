@@ -1,0 +1,133 @@
+{
+  "filename": "20190615_OTH_Indo-Israeli UAV J_A_PHI_B_IND",
+  "labels": [
+    {
+      "end": 229,
+      "start": 33,
+      "tag": "Answer",
+      "text": "An Indian JV, Adani Elbit Advanced Systems may have landed its first export order being part of a $180 million multi-UAV export deal between Israeli Elbit Systems and the Government of Philippines"
+    },
+    {
+      "end": 42,
+      "start": 36,
+      "tag": "Seller Country",
+      "text": "Indian"
+    },
+    {
+      "end": 75,
+      "start": 47,
+      "tag": "Seller",
+      "text": "Adani Elbit Advanced Systems"
+    },
+    {
+      "end": 143,
+      "start": 131,
+      "tag": "Price",
+      "text": "$180 million"
+    },
+    {
+      "end": 153,
+      "start": 150,
+      "tag": "Weapon",
+      "text": "UAV"
+    },
+    {
+      "end": 195,
+      "start": 174,
+      "tag": "Seller",
+      "text": "Israeli Elbit Systems"
+    },
+    {
+      "end": 181,
+      "start": 174,
+      "tag": "Seller Country",
+      "text": "Israeli"
+    },
+    {
+      "end": 229,
+      "start": 200,
+      "tag": "Buyer",
+      "text": "the Government of Philippines"
+    },
+    {
+      "end": 229,
+      "start": 218,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 364,
+      "start": 232,
+      "tag": "Answer",
+      "text": "Elbit is close to signing a $180 million deal for supplying various types of unmanned aerial vehicles (UAVs) to the Philippines army"
+    },
+    {
+      "end": 364,
+      "start": 344,
+      "tag": "Buyer",
+      "text": "the Philippines army"
+    },
+    {
+      "end": 359,
+      "start": 348,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 237,
+      "start": 232,
+      "tag": "Seller",
+      "text": "Elbit"
+    },
+    {
+      "end": 272,
+      "start": 260,
+      "tag": "Price",
+      "text": "$180 million"
+    },
+    {
+      "end": 340,
+      "start": 309,
+      "tag": "Weapon",
+      "text": "unmanned aerial vehicles (UAVs)"
+    },
+    {
+      "end": 763,
+      "start": 586,
+      "tag": "Answer",
+      "text": "At least some of the UAVs to be supplied to the Philippines will be produced by Elbit Systems, Adani Defense and Aerospace joint venture which opened a factory in southern India"
+    },
+    {
+      "end": 611,
+      "start": 607,
+      "tag": "Weapon",
+      "text": "UAVs"
+    },
+    {
+      "end": 645,
+      "start": 630,
+      "tag": "Buyer",
+      "text": "the Philippines"
+    },
+    {
+      "end": 645,
+      "start": 634,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 763,
+      "start": 758,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 722,
+      "start": 666,
+      "tag": "Seller",
+      "text": "Elbit Systems, Adani Defense and Aerospace joint venture"
+    }
+  ],
+  "test": true,
+  "text": "Hermes 900 UAV of Elbit Systems\n\nAn Indian JV, Adani Elbit Advanced Systems may have landed its first export order being part of a $180 million multi-UAV export deal between Israeli Elbit Systems and the Government of Philippines.\n\nElbit is close to signing a $180 million deal for supplying various types of unmanned aerial vehicles (UAVs) to the Philippines army, Globes newspaper reported. The UAVs involved include Hermes 900 and Hermes 450 for long-range missions; Skylark 1 and Skylark 3 tactical UAVS for use by field units for real time observation and intelligence gathering.\n\nAt least some of the UAVs to be supplied to the Philippines will be produced by Elbit Systems, Adani Defense and Aerospace joint venture which opened a factory in southern India for the production of components for Hermes series UAVs in December 2018. With the beginning of UAV production in India, Elbit Systems would use this UAV production line to supply its customers all over the world, the report said.\n\nAdani Elbit Unmanned Aerial Vehicles Complex (UAV), was inaugurated on December 14 2018 in Hyderabad, southern India. The 50,000 sq. ft. facility would be the first UAV manufacturing facility in India and the first outside Israel to manufacture the Hermes 900 Medium Altitude Long Endurance UAV.\n\nThe factory shall start operations with the manufacturing of complete carbon composite aero-structures for Hermes 900, followed by Hermes 450, catering to the global markets and will be further ramped up for the assembly and integration of complete UAVs, an Adani statement had said."
+}

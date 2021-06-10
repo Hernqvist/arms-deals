@@ -1,0 +1,271 @@
+{
+  "filename": "20180831_OTH_US official hints _A_IND_B_USA",
+  "labels": [
+    {
+      "end": 127,
+      "start": 0,
+      "tag": "Answer",
+      "text": "A top US defense official has renewed warnings to India against purchasing Russian-made arms and defense systems like the S-400"
+    },
+    {
+      "end": 55,
+      "start": 50,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 55,
+      "start": 50,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 82,
+      "start": 75,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 82,
+      "start": 75,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 92,
+      "start": 88,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 112,
+      "start": 97,
+      "tag": "Weapon",
+      "text": "defense systems"
+    },
+    {
+      "end": 127,
+      "start": 122,
+      "tag": "Weapon",
+      "text": "S-400"
+    },
+    {
+      "end": 1235,
+      "start": 1230,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 1235,
+      "start": 1230,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 1265,
+      "start": 1258,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 1265,
+      "start": 1258,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1278,
+      "start": 1266,
+      "tag": "Weapon",
+      "text": "defense gear"
+    },
+    {
+      "end": 1396,
+      "start": 1230,
+      "tag": "Answer",
+      "text": "India, a long-time buyer of Russian defense gear since the Soviet era, has in recent years turned towards Western defense firms in the US and France for new equipment"
+    },
+    {
+      "end": 1367,
+      "start": 1365,
+      "tag": "Seller Country",
+      "text": "US"
+    },
+    {
+      "end": 1378,
+      "start": 1372,
+      "tag": "Seller Country",
+      "text": "France"
+    },
+    {
+      "end": 1357,
+      "start": 1336,
+      "tag": "Seller",
+      "text": "Western defense firms"
+    },
+    {
+      "end": 1396,
+      "start": 1387,
+      "tag": "Weapon",
+      "text": "equipment"
+    },
+    {
+      "end": 1726,
+      "start": 1641,
+      "tag": "Answer",
+      "text": "India delivered three Russian-origin attack helicopters to the Afghan Air Force (AAF)"
+    },
+    {
+      "end": 1646,
+      "start": 1641,
+      "tag": "Seller",
+      "text": "India"
+    },
+    {
+      "end": 1646,
+      "start": 1641,
+      "tag": "Seller Country",
+      "text": "India"
+    },
+    {
+      "end": 1662,
+      "start": 1657,
+      "tag": "Quantity",
+      "text": "three"
+    },
+    {
+      "end": 1696,
+      "start": 1678,
+      "tag": "Weapon",
+      "text": "attack helicopters"
+    },
+    {
+      "end": 1726,
+      "start": 1700,
+      "tag": "Buyer",
+      "text": "the Afghan Air Force (AAF)"
+    },
+    {
+      "end": 1710,
+      "start": 1704,
+      "tag": "Buyer Country",
+      "text": "Afghan"
+    },
+    {
+      "end": 1842,
+      "start": 1783,
+      "tag": "Answer",
+      "text": "Philippines won\u2019t stop buying Russian arms over US pressure"
+    },
+    {
+      "end": 1794,
+      "start": 1783,
+      "tag": "Buyer",
+      "text": "Philippines"
+    },
+    {
+      "end": 1794,
+      "start": 1783,
+      "tag": "Buyer Country",
+      "text": "Philippines"
+    },
+    {
+      "end": 1820,
+      "start": 1813,
+      "tag": "Seller",
+      "text": "Russian"
+    },
+    {
+      "end": 1820,
+      "start": 1813,
+      "tag": "Seller Country",
+      "text": "Russian"
+    },
+    {
+      "end": 1825,
+      "start": 1821,
+      "tag": "Weapon",
+      "text": "arms"
+    },
+    {
+      "end": 2214,
+      "start": 2090,
+      "tag": "Answer",
+      "text": "purchase of big-ticket items like the S-400 air-defense system, which has also plagued Washington\u2019s relationship with Turkey"
+    },
+    {
+      "end": 2152,
+      "start": 2128,
+      "tag": "Weapon",
+      "text": "S-400 air-defense system"
+    },
+    {
+      "end": 2214,
+      "start": 2208,
+      "tag": "Buyer",
+      "text": "Turkey"
+    },
+    {
+      "end": 2214,
+      "start": 2208,
+      "tag": "Buyer Country",
+      "text": "Turkey"
+    },
+    {
+      "end": 2336,
+      "start": 2217,
+      "tag": "Answer",
+      "text": "India is poised to ink contracts on the S-400 deal later this year, with deliveries scheduled to start as early as 2020"
+    },
+    {
+      "end": 2336,
+      "start": 2332,
+      "tag": "Date",
+      "text": "2020"
+    },
+    {
+      "end": 2222,
+      "start": 2217,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 2222,
+      "start": 2217,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 2267,
+      "start": 2257,
+      "tag": "Weapon",
+      "text": "S-400 deal"
+    },
+    {
+      "end": 2636,
+      "start": 2551,
+      "tag": "Answer",
+      "text": "concerns over India\u2019s S-400 purchase outweigh the desire to strengthen strategic ties"
+    },
+    {
+      "end": 2570,
+      "start": 2565,
+      "tag": "Buyer",
+      "text": "India"
+    },
+    {
+      "end": 2570,
+      "start": 2565,
+      "tag": "Buyer Country",
+      "text": "India"
+    },
+    {
+      "end": 2578,
+      "start": 2573,
+      "tag": "Weapon",
+      "text": "S-400"
+    }
+  ],
+  "test": true,
+  "text": "A top US defense official has renewed warnings to India against purchasing Russian-made arms and defense systems like the S-400, ahead of a historic first meeting next month between both nations\u2019 defense and foreign affairs heads.\n\n\u201cWe would still have very significant concerns if India pursued major new platforms and systems (from Russia),\u201d Randall Schriver, the US assistant secretary of defense for Asian and Pacific security affairs, told an audience at the Carnegie Endowment For International Peace in Washington on Wednesday.\n\nRead more\n\n\u201cIf they choose to go down that route, like I said, I can\u2019t sit here and tell you today that the waiver will necessarily be used,\u201d Schriver continued, referencing a congressional loophole that allows US allies to protect themselves from current sanctions imposed against Russia by Washington.\n\nUnder current US rules against Russia, third-party governments could face sanctions for dealing with the Russian defense or intelligence sectors.\n\nHowever, due to recent lobbying by Defense Secretary Jim Mattis, Congress has granted the US president and the secretary of state an ability to grant waivers, such as when an ally nation transitions from legacy Russian gear to Western arms.\n\nIndia, a long-time buyer of Russian defense gear since the Soviet era, has in recent years turned towards Western defense firms in the US and France for new equipment. But it still relies on Russian expertise and equipment to maintain its existing arsenal and fleets.\n\nIn the recent past, this stockpile has proven useful for US foreign policy objectives in the region, particularly in Afghanistan. Last month, India delivered three Russian-origin attack helicopters to the Afghan Air Force (AAF), with three more expected to be on the way.\n\nREAD MORE: Philippines won\u2019t stop buying Russian arms over US pressure \u2013 FM\n\nIt has also provided spare parts and maintenance expertise to the AAF\u2019s grounded Soviet-era fleet as part of Washington\u2019s multi-billion modernization of the Afghan Armed Forces.\n\nA sticking point in the relationship, however, stems from the purchase of big-ticket items like the S-400 air-defense system, which has also plagued Washington\u2019s relationship with Turkey.\n\nIndia is poised to ink contracts on the S-400 deal later this year, with deliveries scheduled to start as early as 2020.\n\nThe sale is expected to be discussed during talks next week when Mattis and Secretary of State Mike Pompeo visit their counterparts in New Delhi, after which Schriver noted the administration will decide whether concerns over India\u2019s S-400 purchase outweigh the desire to strengthen strategic ties.\n\n\u201cOur strong preference,\u201d Schriver concluded, \u201cis (for India) to seek alternatives and see if we could be a partner to India in addressing those defense needs.\u201d\n\nto RT newsletter to get stories the mainstream media won\u2019t tell you."
+}
