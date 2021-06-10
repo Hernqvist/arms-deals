@@ -23,14 +23,18 @@ parser.add_argument('-s', '--save', action='store_true', help="Save the model be
 parser.add_argument('--task', type=str, default="token", help="The thing to classify.")
 parser.add_argument('--classifier', type=str, default="albert", help="Classify with bert or albert.")
 parser.add_argument('--max_epochs', type=int, default=100, help="Max epochs.")
+parser.add_argument('--lr', type=float, default=5e-6, help="Learning rate")
+parser.add_argument('--batch_size', type=int, default=8, help="Batch size")
 parser.add_argument('--print', action='store_true', help="Print classifications after training.")
 parser.add_argument('--print_train', action='store_true', help="Print classifications of training data after training.")
 parser.add_argument('--gpu', action='store_true', help="Use GPU for training.")
 parser.add_argument('--small_data', action='store_true', help="Only use a small part of the dataset for debugging.")
+parser.add_argument('--all_training_data', action='store_true', help="Use all the training data for training.")
 parser.add_argument('--max_tokens', type=int, default=128, help="Max length of a tokenization.")
 parser.add_argument('--dataloader_workers', type=int, default=16, help="Number of dataloader workers.")
 parser.add_argument('--tune', type=str, help="Run fine-tuning algorithm and save to a file with filename.")
 parser.add_argument('--resume', type=int, default=0, help="Starting point for fine tuning.")
+parser.add_argument('--test', action='store_true', help="Run model on test data.")
 args = parser.parse_args()
 
 def forward_wrapper(encoder, text, labels):
@@ -163,18 +167,23 @@ class LitModule(pl.LightningModule):
     return optimizer
   
   def prepare_data(self):
-    texts = data_loader.DataSet.load_json2(args.data).split_fixed(shuffle=True).texts
-    if self.hparams.small_data:
-      texts = texts[:20]
     os.environ['TOKENIZERS_PARALLELISM'] = 'false'
     if self.hparams.classifier == 'bert':
       tokenizer = BertTokenizerFast.from_pretrained(self.model.options_name)
     else:
       tokenizer = AlbertTokenizerFast.from_pretrained(self.model.options_name)
     self.preprocessor = Preprocessor(tokenizer, self.hparams.max_tokens)
+
+    texts = data_loader.DataSet.load_json2(args.data).split_fixed(shuffle=True).texts
+    if self.hparams.small_data:
+      texts = texts[:20]
     self.dataset = TextDataset(texts, self.preprocessor, self.hparams.task)
+    test_texts = data_loader.DataSet.load_json2(args.data).split_fixed(shuffle=True).texts[:20]
+    self.test_dataset = TextDataset(test_texts, self.preprocessor, self.hparams.task)
 
     eval_start = int(len(self.dataset)*0.7)
+    #if self.hparams.all_training_data:
+    #  eval_start = len(self.dataset)
     self.train_sampler = SubsetRandomSampler(range(0, eval_start))
     self.val_sampler = SubsetRandomSampler(range(eval_start, len(self.dataset)))
 
@@ -197,10 +206,9 @@ class LitModule(pl.LightningModule):
   def test_dataloader(self):
     global num_workers
     return DataLoader(
-        self.dataset,
+        self.test_dataset,
         num_workers=num_workers, 
-        batch_size=self.hparams.batch_size, 
-        sampler=self.test_sampler)
+        batch_size=self.hparams.batch_size)
 
   def probs_to_preds(self, probabilities):
     return torch.argmax(probabilities, dim=len(probabilities.size())-1)
@@ -240,11 +248,12 @@ class LitModule(pl.LightningModule):
 num_workers = args.dataloader_workers
 
 default_config = {
-    'lr':5e-6, 
-    'batch_size':8,
+    'lr':args.lr, 
+    'batch_size':args.batch_size,
     'task':args.task, 
     'classifier':args.classifier,
     'small_data':args.small_data,
+    'all_training_data':args.all_training_data,
     'max_tokens':args.max_tokens}
 
 if args.tune:
@@ -329,3 +338,7 @@ if args.print:
 if args.print_train:
   for batch in lit_module.train_dataloader():
     lit_module.print_batch(batch)
+
+if args.test:
+  print("Testing")
+  trainer.test(lit_module)
