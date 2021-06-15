@@ -1,3 +1,4 @@
+from random import shuffle
 from transformers.integrations import hp_params
 import data_loader
 import torch
@@ -29,13 +30,17 @@ parser.add_argument('--print', action='store_true', help="Print classifications 
 parser.add_argument('--print_train', action='store_true', help="Print classifications of training data after training.")
 parser.add_argument('--gpu', action='store_true', help="Use GPU for training.")
 parser.add_argument('--small_data', action='store_true', help="Only use a small part of the dataset for debugging.")
-parser.add_argument('--all_training_data', action='store_true', help="Use all the training data for training.")
+parser.add_argument('--train_portion', type=float, default=0.95, help="Proportion of data to use for training (the rest is for validation).")
 parser.add_argument('--max_tokens', type=int, default=128, help="Max length of a tokenization.")
 parser.add_argument('--dataloader_workers', type=int, default=16, help="Number of dataloader workers.")
 parser.add_argument('--tune', type=str, help="Run fine-tuning algorithm and save to a file with filename.")
 parser.add_argument('--resume', type=int, default=0, help="Starting point for fine tuning.")
 parser.add_argument('--test', action='store_true', help="Run model on test data.")
+parser.add_argument('--split', type=str, default="fixed", help="Split into chunks or fixed")
 args = parser.parse_args()
+
+assert args.split in ("fixed", "chunks")
+assert args.task in ("sequence", "token")
 
 def forward_wrapper(encoder, text, labels):
   output = encoder(text, labels=labels)
@@ -124,11 +129,9 @@ class LitModule(pl.LightningModule):
     self.test_metrics = metrics.clone()
 
   def forward(self, x):
-    # in lightning, forward defines the prediction/inference actions
     return self.probs_to_preds(self.model(x))
 
   def training_step(self, batch, batch_idx):
-    # training_step defines the train loop. It is independent of forward
     x, y = batch
     loss, probs = self.model(x, y)
     preds = self.probs_to_preds(probs)
@@ -143,23 +146,29 @@ class LitModule(pl.LightningModule):
   
   def validation_step(self, batch, batch_idx):
     x, y = batch
-    preds = self.forward(x)
+    loss, probs = self.model(x, y)
+    preds = self.probs_to_preds(probs)
     self.validation_metrics(preds, y)
+    return loss
   
   def validation_epoch_end(self, outputs):
     metrics = self.extend_metrics(self.validation_metrics.compute())
     self.validation_metrics.reset()
+    metrics["Loss"] = torch.mean(torch.Tensor(outputs))
     self.log_metrics("Validation", metrics)
     self.save_hp_metric(metrics['F1'])
   
   def test_step(self, batch, batch_idx):
     x, y = batch
-    preds = self.forward(x)
+    loss, probs = self.model(x, y)
+    preds = self.probs_to_preds(probs)
     self.test_metrics(preds, y)
+    return loss
 
   def test_epoch_end(self, outputs):
     metrics = self.extend_metrics(self.test_metrics.compute())
     self.test_metrics.reset()
+    metrics["Loss"] = torch.mean(torch.Tensor(outputs))
     self.log_metrics("Test", metrics)
 
   def configure_optimizers(self):
@@ -174,16 +183,20 @@ class LitModule(pl.LightningModule):
       tokenizer = AlbertTokenizerFast.from_pretrained(self.model.options_name)
     self.preprocessor = Preprocessor(tokenizer, self.hparams.max_tokens)
 
-    texts = data_loader.DataSet.load_json2(args.data).split_fixed(shuffle=True).texts
+    def get_splits(dataset, split):
+      return (dataset.split_fixed(shuffle=True) \
+          if split == 'fixed' else \
+          dataset.split_chunks(shuffle=True)).texts
+
+    texts = get_splits(data_loader.DataSet.load_json2(args.data), self.hparams.split)
     if self.hparams.small_data:
       texts = texts[:20]
     self.dataset = TextDataset(texts, self.preprocessor, self.hparams.task)
-    test_texts = data_loader.DataSet.load_json2(args.data).split_fixed(shuffle=True).texts[:20]
+
+    test_texts = get_splits(data_loader.DataSet.load_json2("test_" + args.data), self.hparams.split)
     self.test_dataset = TextDataset(test_texts, self.preprocessor, self.hparams.task)
 
-    eval_start = int(len(self.dataset)*0.7)
-    if self.hparams.all_training_data:
-      eval_start = len(self.dataset)-1
+    eval_start = int(len(self.dataset)*self.hparams.train_portion)
     self.train_sampler = SubsetRandomSampler(range(0, eval_start))
     self.val_sampler = SubsetRandomSampler(range(eval_start, len(self.dataset)))
 
@@ -253,7 +266,8 @@ default_config = {
     'task':args.task, 
     'classifier':args.classifier,
     'small_data':args.small_data,
-    'all_training_data':args.all_training_data,
+    'train_portion':args.train_portion,
+    'split':args.split,
     'max_tokens':args.max_tokens}
 
 if args.tune:
@@ -340,4 +354,6 @@ if args.print_train:
     lit_module.print_batch(batch)
 
 if args.test:
-  trainer.test(lit_module)
+  print("Proceed with testing? (y/n)")
+  if input()[0].lower() == 'y':
+    trainer.test(lit_module)

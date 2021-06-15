@@ -28,3 +28,12 @@ When setting `--task token` we are trying to predict whether each token is a cer
 
 ## Text Extractor
 `text_extractor.py` was used to get the raw text from the pdf files. It looks at the pdf file, finds the url at the bottom, and uses the `newspaper` module to download the text from its source. This is not needed anymore.
+
+## Tests
+Here are the commands for running the tests in the report and the results.
+### Sequence classification with exactly 400 character chunks of text
+Command:
+`python3 training_lightning.py --gpu --classifier albert --task sequence --max_epochs 100 --train_portion 0.95 --lr 0.00001 --batch_size 4 --max_tokens 128 --split fixed --test data.json`
+
+Result:
+`asdf`
