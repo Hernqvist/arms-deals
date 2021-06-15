@@ -156,7 +156,7 @@ class LitModule(pl.LightningModule):
     self.validation_metrics.reset()
     metrics["Loss"] = torch.mean(torch.Tensor(outputs))
     self.log_metrics("Validation", metrics)
-    self.save_hp_metric(metrics['F1'])
+    self.save_hp_metric(metrics['Loss'])
   
   def test_step(self, batch, batch_idx):
     x, y = batch
@@ -237,7 +237,7 @@ class LitModule(pl.LightningModule):
     return metrics
   
   def save_hp_metric(self, metric):
-    self.log("hp_metric", metric)
+    self.log("hp_metric", metric, logger=True)
     self.best_hp_metric = max(self.best_hp_metric, metric)
   
   def print_batch(self, batch):
@@ -352,6 +352,9 @@ if args.print:
 if args.print_train:
   for batch in lit_module.train_dataloader():
     lit_module.print_batch(batch)
+
+print("Best model score: ", trainer.checkpoint_callback.best_model_score)
+print("Best model path: ", trainer.checkpoint_callback.best_model_path)
 
 if args.test:
   print("Proceed with testing? (y/n)")
