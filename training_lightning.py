@@ -20,7 +20,6 @@ import json
 parser = argparse.ArgumentParser(description='Train a network to identify arms deals.')
 parser.add_argument('data', type=str, help="The dataset directory.")
 parser.add_argument('-l', '--load', default=None, type=str, help="Load the model from a file.")
-parser.add_argument('-s', '--save', action='store_true', help="Save the model between epochs.")
 parser.add_argument('--task', type=str, default="token", help="The thing to classify.")
 parser.add_argument('--classifier', type=str, default="albert", help="Classify with bert or albert.")
 parser.add_argument('--max_epochs', type=int, default=100, help="Max epochs.")
@@ -327,15 +326,15 @@ if args.load:
 else:
   lit_module = LitModule(default_config)
 
-if args.save:
-  callbacks.append(ModelCheckpoint(
-        monitor='hp_metric',
-        filename='save-{epoch:02d}-{hp_metric:.3f}',
-        save_top_k=1,
-        save_last=True,
-        mode='min',
-    )
+
+callbacks.append(ModelCheckpoint(
+      monitor='hp_metric',
+      filename='save-{epoch:02d}-{hp_metric:.3f}',
+      save_top_k=1,
+      save_last=True,
+      mode='min',
   )
+)
 
 trainer = pl.Trainer(
     gpus=1 if args.gpu else 0,
@@ -356,7 +355,11 @@ if args.print_train:
 print("Best model score: ", trainer.checkpoint_callback.best_model_score)
 print("Best model path: ", trainer.checkpoint_callback.best_model_path)
 
+# python3 training_lightning.py --gpu --task sequence --max_epochs 10 --lr 0.0001 --batch_size 8 --max_tokens 128 --small_data data.json
+
 if args.test:
   print("Proceed with testing? (y/n)")
   if input()[0].lower() == 'y':
+    path = trainer.checkpoint_callback.best_model_path
+    lit_module = LitModule.load_from_checkpoint(path)
     trainer.test(lit_module)
