@@ -63,7 +63,13 @@ Command:
 `python3 training_lightning.py --gpu --classifier albert --task sequence --max_epochs 100 --train_portion 0.8 --lr 0.00001 --batch_size 4 --max_tokens 128 --split chunks --test data.json`
 
 Result:
-
+```
+{'TestAccuracy': 0.8706896305084229,
+ 'TestF1': 0.8110831379890442,
+ 'TestLoss': 0.44118180871009827,
+ 'TestPrecision': 0.8429319262504578,
+ 'TestRecall': 0.7815533876419067}
+```
 
 ### Token classification with variable chunks of text
 Command:
