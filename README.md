@@ -47,8 +47,21 @@ DATALOADER:0 TEST RESULTS
 
 ### Token classification with exactly 400 character chunks of text
 Command:
-`python3 training_lightning.py --gpu --classifier albert --task token --max_epochs 400 --train_portion 0.8 --lr 0.00001 --batch_size 8 --max_tokens 128 --split fixed --test data.json`
+`python3 training_lightning.py --gpu --classifier albert --task token --max_epochs 200 --train_portion 0.8 --lr 0.00001 --batch_size 8 --max_tokens 128 --split fixed --test data.json`
 
+Result:
+```
+{'TestAccuracy': 0.9936299324035645,
+ 'TestF1': 0.7559217810630798,
+ 'TestLoss': 0.03467436507344246,
+ 'TestPrecision': 0.7811280488967896,
+ 'TestRecall': 0.7322913408279419}
+```
 
+### Token classification with variable chunks of text
+Command:
+`python3 training_lightning.py --gpu --classifier albert --task token --max_epochs 200 --train_portion 0.8 --lr 0.00001 --batch_size 8 --max_tokens 128 --split chunks --test data.json`
+
+Result:
 
  
