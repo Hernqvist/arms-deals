@@ -33,7 +33,22 @@ When setting `--task token` we are trying to predict whether each token is a cer
 Here are the commands for running the tests in the report and the results.
 ### Sequence classification with exactly 400 character chunks of text
 Command:
-`python3 training_lightning.py --gpu --classifier albert --task sequence --max_epochs 100 --train_portion 0.95 --lr 0.00001 --batch_size 4 --max_tokens 128 --split fixed --test data.json`
+`python3 training_lightning.py --gpu --classifier albert --task sequence --max_epochs 100 --train_portion 0.8 --lr 0.00001 --batch_size 4 --max_tokens 128 --split fixed --test data.json`
 
 Result:
-`asdf`
+```
+DATALOADER:0 TEST RESULTS
+{'TestAccuracy': 0.7857142686843872,
+ 'TestF1': 0.8167938590049744,
+ 'TestLoss': 0.5804754495620728,
+ 'TestPrecision': 0.8045112490653992,
+ 'TestRecall': 0.8294573426246643}
+```
+
+### Token classification with exactly 400 character chunks of text
+Command:
+`python3 training_lightning.py --gpu --classifier albert --task token --max_epochs 400 --train_portion 0.8 --lr 0.00001 --batch_size 8 --max_tokens 128 --split fixed --test data.json`
+
+
+
+ 

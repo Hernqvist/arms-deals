@@ -155,7 +155,7 @@ class LitModule(pl.LightningModule):
     self.validation_metrics.reset()
     metrics["Loss"] = torch.mean(torch.Tensor(outputs))
     self.log_metrics("Validation", metrics)
-    self.save_hp_metric(metrics['Loss'])
+    self.save_hp_metric(metrics['F1'])
   
   def test_step(self, batch, batch_idx):
     x, y = batch
@@ -332,7 +332,7 @@ callbacks.append(ModelCheckpoint(
       filename='save-{epoch:02d}-{hp_metric:.3f}',
       save_top_k=1,
       save_last=True,
-      mode='min',
+      mode='max',
   )
 )
 
@@ -354,8 +354,6 @@ if args.print_train:
 
 print("Best model score: ", trainer.checkpoint_callback.best_model_score)
 print("Best model path: ", trainer.checkpoint_callback.best_model_path)
-
-# python3 training_lightning.py --gpu --task sequence --max_epochs 10 --lr 0.0001 --batch_size 8 --max_tokens 128 --small_data data.json
 
 if args.test:
   print("Proceed with testing? (y/n)")
