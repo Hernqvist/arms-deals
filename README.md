@@ -58,10 +58,23 @@ Result:
  'TestRecall': 0.7322913408279419}
 ```
 
+### Sequence classification with variable chunks of text
+Command:
+`python3 training_lightning.py --gpu --classifier albert --task sequence --max_epochs 100 --train_portion 0.8 --lr 0.00001 --batch_size 4 --max_tokens 128 --split chunks --test data.json`
+
+Result:
+
+
 ### Token classification with variable chunks of text
 Command:
 `python3 training_lightning.py --gpu --classifier albert --task token --max_epochs 200 --train_portion 0.8 --lr 0.00001 --batch_size 8 --max_tokens 128 --split chunks --test data.json`
 
 Result:
-
+```
+{'TestAccuracy': 0.9967487454414368,
+ 'TestF1': 0.7586552500724792,
+ 'TestLoss': 0.01827111281454563,
+ 'TestPrecision': 0.8267502188682556,
+ 'TestRecall': 0.7009238004684448}
+```
  
