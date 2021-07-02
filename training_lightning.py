@@ -27,6 +27,7 @@ parser.add_argument('--lr', type=float, default=5e-6, help="Learning rate")
 parser.add_argument('--batch_size', type=int, default=8, help="Batch size")
 parser.add_argument('--print', action='store_true', help="Print classifications after training.")
 parser.add_argument('--print_train', action='store_true', help="Print classifications of training data after training.")
+parser.add_argument('--print_test', action='store_true', help="Print classifications of testing data after training.")
 parser.add_argument('--gpu', action='store_true', help="Use GPU for training.")
 parser.add_argument('--small_data', action='store_true', help="Only use a small part of the dataset for debugging.")
 parser.add_argument('--train_portion', type=float, default=0.95, help="Proportion of data to use for training (the rest is for validation).")
@@ -254,7 +255,7 @@ class LitModule(pl.LightningModule):
             self.preprocessor.print_labels(x_text, y_label, y_pred_label)
         else:
           self.preprocessor.print_sequence(x_text, y_text, y_pred_text)
-          print()
+        print()
       print()
 
 num_workers = args.dataloader_workers
@@ -361,3 +362,16 @@ if args.test:
     path = trainer.checkpoint_callback.best_model_path
     lit_module = LitModule.load_from_checkpoint(path)
     trainer.test(lit_module)
+
+if args.print_test:
+  path = trainer.checkpoint_callback.best_model_path
+  lit_module = LitModule.load_from_checkpoint(path)
+  lit_module.prepare_data()
+  for batch in lit_module.test_dataloader():
+    lit_module.print_batch(batch)
+
+# My experiments:
+# Sequence fixed: python3 training_lightning.py --max_epochs 100 --gpu --load lightning/lightning_logs/version_7/checkpoints/last.ckpt --print_test data.json
+# Token fixed: python3 training_lightning.py --max_epochs 200 --gpu --load lightning/lightning_logs/version_9/checkpoints/last.ckpt --print_test data.json
+# Sequence chunks: python3 training_lightning.py --max_epochs 38 --gpu --load lightning/lightning_logs/version_15/checkpoints/last.ckpt --print_test data.json
+# Token chunks: python3 training_lightning.py --max_epochs 200 --gpu --load lightning/lightning_logs/version_14/checkpoints/last.ckpt --print_test data.json
