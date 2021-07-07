@@ -62,7 +62,7 @@ add_layer_type("Weapon", Colors.RED)
 add_layer_type("Date", Colors.DARK_GRAY)
 add_layer_type("Answer", Colors.END)
 
-ignore_labels = {"Buyer Country", "Seller Country"}
+ignore_labels = {}
 
 # Variables that correspond directly to a json element are suffixed with _
 
