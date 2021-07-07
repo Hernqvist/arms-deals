@@ -50,11 +50,11 @@ Command:
 
 Result:
 ```
-{'TestAccuracy': 0.9936299324035645,
- 'TestF1': 0.7559217810630798,
- 'TestLoss': 0.03467436507344246,
- 'TestPrecision': 0.7811280488967896,
- 'TestRecall': 0.7322913408279419}
+{'TestAccuracy': 0.9911141395568848,
+ 'TestF1': 0.6636696457862854,
+ 'TestLoss': 0.06833155453205109,
+ 'TestPrecision': 0.7458832263946533,
+ 'TestRecall': 0.5977804660797119}
 ```
 
 ### Sequence classification with variable chunks of text
