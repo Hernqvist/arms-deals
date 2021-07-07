@@ -372,6 +372,6 @@ if args.print_test:
 
 # My experiments:
 # Sequence fixed: python3 training_lightning.py --max_epochs 100 --gpu --load lightning/lightning_logs/version_7/checkpoints/last.ckpt --print_test data.json
-# Token fixed: python3 training_lightning.py --max_epochs 200 --gpu --load lightning/lightning_logs/version_9/checkpoints/last.ckpt --print_test data.json
+# Token fixed: python3 training_lightning.py --max_epochs 200 --gpu --load lightning/lightning_logs/version_34/checkpoints/last.ckpt --print_test data.json
 # Sequence chunks: python3 training_lightning.py --max_epochs 38 --gpu --load lightning/lightning_logs/version_15/checkpoints/last.ckpt --print_test data.json
-# Token chunks: python3 training_lightning.py --max_epochs 200 --gpu --load lightning/lightning_logs/version_14/checkpoints/last.ckpt --print_test data.json
+# Token chunks: python3 training_lightning.py --max_epochs 42 --gpu --load lightning/lightning_logs/version_35/checkpoints/last.ckpt --print_test data.json
