@@ -106,18 +106,26 @@ class Preprocessor:
             decoded = decoded[:index]
             y = y[:index]
             y_actual = y_actual[:index]
+        
+        TP, TN, FP, FN = 0, 0, 0, 0
 
         output = []
         for token, predicted, actual in zip(decoded, y, y_actual):
             rep = token
             if actual == 1 and predicted == 1:
                 rep = Colors.GREEN + rep + Colors.END
+                TP += 1
             if actual == 1 and predicted == 0:
                 rep = Colors.YELLOW + rep + Colors.END
+                FN += 1
             if actual == 0 and predicted == 1:
                 rep = Colors.RED + rep + Colors.END
+                FP += 1
+            if actual == 0 and predicted == 0:
+                TN += 1
             output.append(rep)
         print(" ".join(output))
+        return TP, TN, FP, FN
     
     def print_sequence(self, x, y_actual, y=None):
         if y == None:

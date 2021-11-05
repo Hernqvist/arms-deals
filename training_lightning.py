@@ -13,6 +13,7 @@ import torch.nn as nn
 from linear_repeat import LABELS
 from bert_parallel_token_classification import BertForParallelTokenClassification
 from albert_parallel_token_classification import AlbertForParallelTokenClassification
+from collections import defaultdict
 import os
 import time
 import json
@@ -242,6 +243,7 @@ class LitModule(pl.LightningModule):
   
   def print_batch(self, batch):
     self.model.eval()
+    stats = defaultdict(lambda: (0,)*4)
     with torch.no_grad():
       x, y = batch
       y_pred = self.forward(x)
@@ -252,11 +254,13 @@ class LitModule(pl.LightningModule):
               torch.transpose(y_text, 0, 1),
               torch.transpose(y_pred_text, 0, 1)):
             print("\033[7m", label, "\033[0m")
-            self.preprocessor.print_labels(x_text, y_label, y_pred_label)
+            batch_stats = self.preprocessor.print_labels(x_text, y_label, y_pred_label)
+            stats[label] = tuple(sum(x) for x in zip(batch_stats, stats[label]))
         else:
           self.preprocessor.print_sequence(x_text, y_text, y_pred_text)
         print()
       print()
+    return stats
 
 num_workers = args.dataloader_workers
 
@@ -364,11 +368,23 @@ if args.test:
     trainer.test(lit_module)
 
 if args.print_test:
+  def calculate_metrics(TP, TN, FP, FN):
+    precision = TP / (TP + FP)
+    recall = TP / (TP + FN)
+    f1 = 2 / (1/precision + 1/recall)
+    accuracy = (TP + TN) / (TP + TN + FP + FN)
+    return precision, recall, f1, accuracy
+
   path = trainer.checkpoint_callback.best_model_path
   lit_module = LitModule.load_from_checkpoint(path)
   lit_module.prepare_data()
+  stats = defaultdict(lambda: (0,)*4)
   for batch in lit_module.test_dataloader():
-    lit_module.print_batch(batch)
+    stats_here = lit_module.print_batch(batch)
+    for label in stats_here:
+      stats[label] = tuple(sum(x) for x in zip(stats_here[label], stats[label]))
+      precision, recall, f1, accuracy = calculate_metrics(*stats[label])
+      print("{} & {:.4f} & {:.4f} & {:.4f} & {:.4f} \\\\\\hline".format(label, f1, precision, recall, accuracy))
 
 # My experiments:
 # Sequence fixed: python3 training_lightning.py --max_epochs 100 --gpu --load lightning/lightning_logs/version_7/checkpoints/last.ckpt --print_test data.json
